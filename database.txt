@@ -115,3 +115,4 @@ Wed Mar 29 15:10:39 CEST 2017 - /Stream/Legends_of_Tomorrow.html,s2e16 - Legends
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/NCIS_New_Orleans.html,s3e19 - NCIS: Ne Orleans
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/The_Flash-2.html,s3e18 - The Flash
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Chicago_Fire.html,s5e17 - Chicago Fire
+Wed Mar 29 15:10:39 CEST 2017 - /Stream/Switched_at_Birth.html,s5e8 - Switched a Birth
