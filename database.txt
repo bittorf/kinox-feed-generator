@@ -110,3 +110,4 @@ Wed Mar 29 15:10:39 CEST 2017 - /Stream/Trapped-Gefangen_in_Island.html,s2e2 - T
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Trial_and_Error-1.html,s1 - Trial an Error
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Workin_Moms.html,s1e12 - Workin' Moms
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/The_Detour.html,s2e7 - The Detour
+Wed Mar 29 15:10:39 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders.html,s2e4 - Criminal Minds Beyon Borders
