@@ -167,3 +167,4 @@ Thu Mar 30 00:13:49 CEST 2017 - /Stream/The_Four_Warriors-1.html - The Fou Warri
 Thu Mar 30 00:13:51 CEST 2017 - /Stream/The_Bigfoot_Tapes.html - The Bigfoo Tapes
 Thu Mar 30 00:13:52 CEST 2017 - /Stream/DArdennen.html - D'Ardennen"
 Thu Mar 30 00:13:53 CEST 2017 - /Stream/Dreizehn.html - Dreizehn"
+Thu Mar 30 00:13:54 CEST 2017 - /Stream/The_Double-2.html - The Double
