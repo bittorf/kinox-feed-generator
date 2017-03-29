@@ -210,3 +210,4 @@ Thu Mar 30 00:14:41 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e11 - Navy CIS L.A.
 Thu Mar 30 00:14:42 CEST 2017 - /Stream/Die_Dschungelhelden.html,s3 - Die Dschungelhelden
 Thu Mar 30 00:14:43 CEST 2017 - /Stream/Schnell_ermittelt.html,s5e3 - Schnell ermittelt
 Thu Mar 30 00:14:45 CEST 2017 - /Stream/Die_Simpsons.html,s27e14 - Die Simpsons
+Thu Mar 30 00:14:46 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e4 - Chicago Fire
