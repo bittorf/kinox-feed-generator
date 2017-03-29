@@ -95,3 +95,4 @@ Wed Mar 29 15:10:39 CEST 2017 - /Stream/The_Dead_2_India-1.html - The Dea 2 Indi
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Stuck_in_the_Middle-2.html,s1 - Stuck i th Middle
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Trapped-Gefangen_in_Island.html,s6 - Trapped  Gefange i Island
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Indian_Summers-1.html,s6 - Indian Summers
+Wed Mar 29 15:10:39 CEST 2017 - /Stream/Suits-1.html,s6 - Suits"
