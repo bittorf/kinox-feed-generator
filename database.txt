@@ -144,3 +144,4 @@ Thu Mar 30 00:13:21 CEST 2017 - /Stream/Dog_Eat_Dog-1.html - Dog Ea Dog
 Thu Mar 30 00:13:22 CEST 2017 - /Stream/Alone-7.html - Alone"
 Thu Mar 30 00:13:23 CEST 2017 - /Stream/TekWar_Excalibur-Schwert_der_Macht.html - TekWar: Excalibu  Schwer de Macht
 Thu Mar 30 00:13:24 CEST 2017 - /Stream/Timbuktu.html - Timbuktu"
+Thu Mar 30 00:13:26 CEST 2017 - /Stream/Allied_Vertraute_Fremde.html - Allied: Vertraut Fremde
