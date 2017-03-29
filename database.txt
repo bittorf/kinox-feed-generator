@@ -99,3 +99,4 @@ Wed Mar 29 15:10:39 CEST 2017 - /Stream/Suits-1.html,s6 - Suits"
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Trapped-Gefangen_in_Island.html,s1 - Trapped  Gefange i Island
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Lucha_Underground.html,s6 - Lucha Underground
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Trapped-Gefangen_in_Island.html,s3 - Trapped  Gefange i Island
+Wed Mar 29 15:10:39 CEST 2017 - /Stream/Signos_Under_the_Sign_of_Vengeance.html,s6 - Signos: Unde th Sig o Vengeance
