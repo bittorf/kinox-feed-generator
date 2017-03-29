@@ -129,3 +129,4 @@ Thu Mar 30 00:13:02 CEST 2017 - /Stream/The_Visitor-1.html - The Visitor
 Thu Mar 30 00:13:04 CEST 2017 - /Stream/TekWar_Kampf_um_die_verlorene_Vergangenheit.html - TekWar: Kamp u di verloren Vergangenheit
 Thu Mar 30 00:13:05 CEST 2017 - /Stream/The_Entity-1.html - The Entity
 Thu Mar 30 00:13:06 CEST 2017 - /Stream/The_Last_Mark-Die_letzte_Chance.html - The Las Mar  Di letzt Chance
+Thu Mar 30 00:13:07 CEST 2017 - /Stream/The_Curse_of_the_Komodo-1.html - The Curs o th Komodo
