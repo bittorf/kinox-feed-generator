@@ -104,3 +104,4 @@ Wed Mar 29 15:10:39 CEST 2017 - /Stream/The_Blacklist-1.html,s4e12 - The Blackli
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s1e8 - The Bi Ban Theory
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Legion-3.html,s6 - Legion"
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Crisis_in_Six_Scenes.html,s1 - Crisis i Si Scenes
+Wed Mar 29 15:10:39 CEST 2017 - /Stream/Picket_Fences-Tatort_Gartenzaun.html,s2e1 - Picket Fence  Tator Gartenzaun
