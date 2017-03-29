@@ -208,3 +208,4 @@ Thu Mar 30 00:14:39 CEST 2017 - /Stream/2_Broke_Girls-1.html,s6e9 - 2 Brok Girls
 Thu Mar 30 00:14:40 CEST 2017 - /Stream/Zoo-2.html,s2e13 - Zoo"
 Thu Mar 30 00:14:41 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e11 - Navy CIS L.A.
 Thu Mar 30 00:14:42 CEST 2017 - /Stream/Die_Dschungelhelden.html,s3 - Die Dschungelhelden
+Thu Mar 30 00:14:43 CEST 2017 - /Stream/Schnell_ermittelt.html,s5e3 - Schnell ermittelt
