@@ -102,3 +102,4 @@ Wed Mar 29 15:10:39 CEST 2017 - /Stream/Trapped-Gefangen_in_Island.html,s3 - Tra
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/Signos_Under_the_Sign_of_Vengeance.html,s6 - Signos: Unde th Sig o Vengeance
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/The_Blacklist-1.html,s4e12 - The Blacklist
 Wed Mar 29 15:10:39 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s1e8 - The Bi Ban Theory
+Wed Mar 29 15:10:39 CEST 2017 - /Stream/Legion-3.html,s6 - Legion"
