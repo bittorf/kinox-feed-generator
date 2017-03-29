@@ -49,10 +49,11 @@ PATTERN='<td class="Title img_preview" rel='
 							;;
 						esac
 
-						grep -s "$LINK" "$DB" || {
+						grep -sq " - $LINK - " "$DB" || {
 							echo "$( LC_ALL=C date ) - $LINK - $TITLE" >>"$DB"
 							git add "$DB"
 							git commit -m "new: $TITLE - see: $LINK"
+							git push
 						}
 
 						echo "Link: ${URL}${LINK}"
