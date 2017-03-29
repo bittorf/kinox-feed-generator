@@ -1,7 +1,8 @@
 #!/bin/sh
 
-ARG1="$1"		# e.g search specific entry
+ARG1="$1"		# e.g. 'Alient' -> search specific entry
 URL='http://kinox.to'
+DB='database.txt'
 I=0
 
 # TODO: search
@@ -9,7 +10,7 @@ I=0
 # <td class="Title"><a href="/Stream/Die_Geheimnisse_der_Spiderwicks.html" onclick="return false;">Die Geheimnisse der Spiderwicks</a> <span class="Year">2008</span></td>
 
 PATTERN='<td class="Title img_preview" rel='
-{ wget -qO - "$URL" || logger -s "ERROR:$? wget '$URL'"; printf '\n%s' "$PATTERN - EOF"; } | grep ^"$PATTERN" | while read -r LINE; do {
+{ wget -qO - "$URL" || logger -s "[ERROR:$?] wget '$URL'"; printf '\n%s' "$PATTERN - EOF"; } | grep ^"$PATTERN" | while read -r LINE; do {
 	LINK=
 	TITLE=
 	PARSE_TITLE=
@@ -37,8 +38,8 @@ PATTERN='<td class="Title img_preview" rel='
 						echo "$TITLE $LINK" | grep -qi "$ARG1" || PRINT=
 					}
 
-					[ -n "$PRINT" ] && {		# TODO: why starts TITLE with a space?
-						case "$LINK" in		# TODO: cut off last char of $TITLE
+					[ -n "$PRINT" ] && {
+						case "$LINK" in
 							*'.html,s'*)
 								SEASON="$( echo "$LINK" | cut -d',' -f2 )"
 								printf '%s' "# Serie: $TITLE ($SEASON) - "
@@ -47,6 +48,12 @@ PATTERN='<td class="Title img_preview" rel='
 								printf '%s' "# $TITLE - "
 							;;
 						esac
+
+						grep -s "$LINK" "$DB" || {
+							echo "$( LC_ALL=C date ) - $LINK - $TITLE" >>"$DB"
+							git add "$DB"
+							git commit -m "new: $TITLE - see: $LINK"
+						}
 
 						echo "Link: ${URL}${LINK}"
 					}
