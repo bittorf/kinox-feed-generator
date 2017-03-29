@@ -179,3 +179,4 @@ Thu Mar 30 00:14:04 CEST 2017 - /Stream/The_Quiet_Hour-1.html - The Quie Hour
 Thu Mar 30 00:14:06 CEST 2017 - /Stream/Fort_Apache_The_Bronx-1.html - Fort Apach (Th Bronx)
 Thu Mar 30 00:14:07 CEST 2017 - /Stream/Meine_griechischen_Ferien.html - Meine griechische Ferien
 Thu Mar 30 00:14:08 CEST 2017 - /Stream/Seoul_Station.html - Seoul Station
+Thu Mar 30 00:14:09 CEST 2017 - /Stream/Du_warst_unser_Kamerad.html - Du wars unse Kamerad
