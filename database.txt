@@ -204,3 +204,4 @@ Thu Mar 30 00:14:34 CEST 2017 - /Stream/The_Finest_Hours-1.html - The Fines Hour
 Thu Mar 30 00:14:35 CEST 2017 - /Stream/Tom_Daeumling_und_der_Zauberspiegel.html - Tom Däumlin un de Zauberspiegel
 Thu Mar 30 00:14:36 CEST 2017 - /Stream/The_Mechanic_2_Resurrection.html - The Mechani 2 Resurrection
 Thu Mar 30 00:14:37 CEST 2017 - /Stream/South_Park.html,s20e3 - South Park
+Thu Mar 30 00:14:39 CEST 2017 - /Stream/2_Broke_Girls-1.html,s6e9 - 2 Brok Girls
