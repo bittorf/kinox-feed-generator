@@ -54,7 +54,7 @@ PATTERN='<td class="Title img_preview" rel='
 						grep -sq " - $LINK - " "$DB" || {
 							echo "$( LC_ALL=C date ) - $LINK - $TITLE" >>"$DB"
 							git add "$DB"
-							git commit -m "new: $TITLE - see: $LINK"
+							git commit -m "new: $TITLE - see: ${URL}${LINK}"
 							git push
 						}
 
