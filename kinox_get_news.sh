@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# for autoadd new entries to git run: while :; do ./kinox_get_news.sh ;sleep 900; done
+
 ARG1="$1"		# e.g. 'Alient' -> search specific entry
 URL='http://kinox.to'
 DB='database.txt'
