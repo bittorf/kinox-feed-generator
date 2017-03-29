@@ -214,3 +214,4 @@ Thu Mar 30 00:14:46 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e4 - Chicago Fire
 Thu Mar 30 00:14:47 CEST 2017 - /Stream/The_Walking_Dead-1.html,s7e15 - The Walkin Dead
 Thu Mar 30 00:14:48 CEST 2017 - /Stream/New_Girl-1.html,s5e10 - New Girl
 Thu Mar 30 00:14:49 CEST 2017 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s13 - Grey's Anatom  Di junge Ärzte
+Thu Mar 30 00:14:51 CEST 2017 - /Stream/Major_Crimes-1.html,s5 - Major Crimes
