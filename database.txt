@@ -209,3 +209,4 @@ Thu Mar 30 00:14:40 CEST 2017 - /Stream/Zoo-2.html,s2e13 - Zoo"
 Thu Mar 30 00:14:41 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e11 - Navy CIS L.A.
 Thu Mar 30 00:14:42 CEST 2017 - /Stream/Die_Dschungelhelden.html,s3 - Die Dschungelhelden
 Thu Mar 30 00:14:43 CEST 2017 - /Stream/Schnell_ermittelt.html,s5e3 - Schnell ermittelt
+Thu Mar 30 00:14:45 CEST 2017 - /Stream/Die_Simpsons.html,s27e14 - Die Simpsons
