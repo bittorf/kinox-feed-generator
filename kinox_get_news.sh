@@ -1,12 +1,14 @@
 #!/bin/sh
 
-# for autoadd new entries to git run: while :; do ./kinox_get_news.sh ;sleep 900; done
+# for autoadd new entries to git run:
+# while :; do git pull; ./kinox_get_news.sh ;sleep $(( 6 * 3600 )); git push; done
 
 ARG1="$1"		# e.g. 'Alient' -> search specific entry
 URL='http://kinox.to'
 DB='database.txt'
 I=0
 
+# TODO: new entry? -> get movie description from link?
 # TODO: search
 # http://kinox.to/Search.html?q=Spiderwick
 # <td class="Title"><a href="/Stream/Die_Geheimnisse_der_Spiderwicks.html" onclick="return false;">Die Geheimnisse der Spiderwicks</a> <span class="Year">2008</span></td>
@@ -55,7 +57,6 @@ PATTERN='<td class="Title img_preview" rel='
 							echo "$( LC_ALL=C date ) - $LINK - $TITLE" >>"$DB"
 							git add "$DB"
 							git commit -m "new: $TITLE - see: ${URL}${LINK}"
-							git push
 						}
 
 						echo "Link: ${URL}${LINK}"
