@@ -220,3 +220,4 @@ Thu Mar 30 00:14:53 CEST 2017 - /Stream/Fortitude.html,s2e5 - Fortitude"
 Thu Mar 30 00:14:54 CEST 2017 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s7e6 - Shameless  Nich gan nüchtern
 Thu Mar 30 00:14:55 CEST 2017 - /Stream/Sabrina-total_verhext.html,s1e21 - Sabrina  tota verhext
 Thu Mar 30 00:14:57 CEST 2017 - /Stream/How_to_Get_Away_with_Murder-1.html,s3e4 - How t Ge Awa wit Murder
+Thu Mar 30 21:39:08 CEST 2017 - /Stream/The_Walking_Dead_german_subbed.html,s7e15 - The Walking Dead *german subbed*
