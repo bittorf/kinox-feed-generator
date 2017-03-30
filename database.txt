@@ -235,3 +235,4 @@ Thu Mar 30 21:39:09 CEST 2017 - /Stream/Designated_Survivor-1.html,s1e11 - Desig
 Thu Mar 30 21:39:09 CEST 2017 - /Stream/Supergirl-2.html,s2e1 - Supergirl
 Thu Mar 30 21:39:09 CEST 2017 - /Stream/The_100.html,s4e8 - The 100
 Thu Mar 30 21:39:09 CEST 2017 - /Stream/Arrow.html,s5e18 - Arrow
+Thu Mar 30 21:39:09 CEST 2017 - /Stream/Chicago_Med-1.html,s2e4 - Chicago Med
