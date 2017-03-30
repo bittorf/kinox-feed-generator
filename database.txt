@@ -224,3 +224,4 @@ Thu Mar 30 21:39:08 CEST 2017 - /Stream/The_Walking_Dead_german_subbed.html,s7e1
 Thu Mar 30 21:39:08 CEST 2017 - /Stream/Zoo-2.html,s2 - Zoo
 Thu Mar 30 21:39:08 CEST 2017 - /Stream/Legion-2.html,s1e8 - Legion
 Thu Mar 30 21:39:08 CEST 2017 - /Stream/Chicago_PD.html,s4e18 - Chicago PD
+Thu Mar 30 21:39:08 CEST 2017 - /Stream/Criminal_Minds_german_subbed.html,s12 - Criminal Minds *german subbed*
