@@ -231,3 +231,4 @@ Thu Mar 30 21:39:09 CEST 2017 - /Stream/24_Legacy-1.html,s1e8 - 24: Legacy
 Thu Mar 30 21:39:09 CEST 2017 - /Stream/Criminal_Minds.html,s12e18 - Criminal Minds
 Thu Mar 30 21:39:09 CEST 2017 - /Stream/Rizzoli-Isles-1.html,s7e6 - Rizzoli & Isles
 Thu Mar 30 21:39:09 CEST 2017 - /Stream/New_Girl.html,s6e21 - New Girl
+Thu Mar 30 21:39:09 CEST 2017 - /Stream/Designated_Survivor-1.html,s1e11 - Designated Survivor
