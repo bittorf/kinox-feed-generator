@@ -7,6 +7,7 @@ ARG1="$1"		# e.g. 'Alient' -> search specific entry
 URL='http://kinox.to'
 DB='database.txt'
 I=0
+NEW=0
 
 # TODO: new entry? -> get movie description from link?
 # TODO: search
@@ -18,10 +19,11 @@ PATTERN='<td class="Title img_preview" rel='
 	LINK=
 	TITLE=
 	PARSE_TITLE=
-	[ "$LINE" = "$PATTERN - EOF" ] && logger -s "[OK] examined $I titles"
+	[ "$LINE" = "$PATTERN - EOF" ] && logger -s "[OK] examined $I titles / $NEW are new"
 
-	# ... <a href="/Stream/Die_Schoene_und_das_Biest_2017.html" title="Die Schöne und das Biest 2017" class=
-	# ... <a href="/Stream/Masters_of_Horror_The_Black_Cat.html" title=""Masters of Horror" The Black Cat" class=
+	# ... <a href="/Stream/Die_Schoene_und_das_Biest_2017.html" title="Die Schöne und das Biest 2017" class= ...
+	# ... <a href="/Stream/Masters_of_Horror_The_Black_Cat.html" title=""Masters of Horror" The Black Cat" class= ...
+	# ... <a href="/Stream/Fortitude.html,s2e5" title="Fortitude" class= ...
 	for WORD in $LINE; do {
 		case "$WORD" in
 			'href="'*)
@@ -43,6 +45,8 @@ PATTERN='<td class="Title img_preview" rel='
 					}
 
 					[ -n "$PRINT" ] && {
+						case "$TITLE" in *'"') TITLE="${TITLE%?}" ;; esac	# remove last char
+
 						case "$LINK" in
 							*'.html,s'*)
 								SEASON="$( echo "$LINK" | cut -d',' -f2 )"
@@ -54,6 +58,7 @@ PATTERN='<td class="Title img_preview" rel='
 						esac
 
 						grep -sq " - $LINK - " "$DB" || {
+							NEW=$(( NEW + 1 ))
 							echo "$( LC_ALL=C date ) - $LINK - $TITLE" >>"$DB"
 							git add "$DB"
 							git commit -m "new: $TITLE - see: ${URL}${LINK}"
@@ -69,7 +74,7 @@ PATTERN='<td class="Title img_preview" rel='
 					TITLE="$( echo "$WORD" | cut -b8- )"
 				;;
 				*)
-					TITLE="${TITLE}${TITLE:+ }${WORD%?}"	# remove last character = '"'
+					TITLE="${TITLE}${TITLE:+ }${WORD}"
 				;;
 			esac
 		}
