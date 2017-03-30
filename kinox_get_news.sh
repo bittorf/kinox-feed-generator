@@ -1,13 +1,12 @@
 #!/bin/sh
 
-# for autoadd new entries to git run:
-# while :; do git pull; ./kinox_get_news.sh ;sleep $(( 6 * 3600 )); git push; done
-
-ARG1="$1"		# e.g. 'Alient' -> search specific entry
+ARG1="$1"		# e.g. '--cron' or 'Alient' -> search specific entry
 URL='http://kinox.to'
 DB='database.txt'
 I=0
 NEW=0
+
+[ "$ARG1" = '--cron' ] && while :; do git pull; ./$0 ; git push; date; sleep $(( 6 * 3600 )); done
 
 # TODO: new entry? -> get movie description from link?
 # TODO: search
