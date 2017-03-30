@@ -228,3 +228,4 @@ Thu Mar 30 21:39:08 CEST 2017 - /Stream/Criminal_Minds_german_subbed.html,s12 - 
 Thu Mar 30 21:39:08 CEST 2017 - /Stream/Shane-1.html,s1e39 - Shane
 Thu Mar 30 21:39:09 CEST 2017 - /Stream/Major_Crimes.html,s5e19 - Major Crimes
 Thu Mar 30 21:39:09 CEST 2017 - /Stream/24_Legacy-1.html,s1e8 - 24: Legacy
+Thu Mar 30 21:39:09 CEST 2017 - /Stream/Criminal_Minds.html,s12e18 - Criminal Minds
