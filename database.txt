@@ -296,3 +296,4 @@ Fri Mar 31 21:39:36 CEST 2017 - /Stream/The_Vampire_Diaries.html,s8e1 - The Vamp
 Fri Mar 31 21:39:36 CEST 2017 - /Stream/Reign.html,s4e7 - Reign
 Fri Mar 31 21:39:36 CEST 2017 - /Stream/Mario_Barth_deckt_auf.html,s1e23 - Mario Barth deckt auf!
 Fri Mar 31 21:39:37 CEST 2017 - /Stream/Mom.html,s4e17 - Mom
+Fri Mar 31 21:39:37 CEST 2017 - /Stream/Germanys_Next_Topmodel.html,s12 - Germany's Next Topmodel
