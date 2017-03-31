@@ -241,3 +241,4 @@ Thu Mar 30 21:39:09 CEST 2017 - /Stream/Stuck_in_the_Middle-2.html,s1e17 - Stuck
 Fri Mar 31 03:39:15 CEST 2017 - /Stream/Jackie_Die_First_Lady.html - Jackie: Die First Lady
 Fri Mar 31 03:39:16 CEST 2017 - /Stream/Armee_der_Finsternis.html - Armee der Finsternis
 Fri Mar 31 03:39:16 CEST 2017 - /Stream/The_Boss-1.html - The Boss
+Fri Mar 31 03:39:16 CEST 2017 - /Stream/The_Returned-3.html - The Returned
