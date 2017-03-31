@@ -290,3 +290,4 @@ Fri Mar 31 03:39:18 CEST 2017 - /Stream/Zauber_einer_Winternacht.html - Zauber e
 Fri Mar 31 21:39:36 CEST 2017 - /Stream/Kruel.html - Kruel
 Fri Mar 31 21:39:36 CEST 2017 - /Stream/Jarhead_2_Field_of_Fire_2014.html - Jarhead 2: Field of Fire (2014)
 Fri Mar 31 21:39:36 CEST 2017 - /Stream/Scorpion-1.html,s3e10 - Scorpion
+Fri Mar 31 21:39:36 CEST 2017 - /Stream/Supergirl-2.html,s2e2 - Supergirl
