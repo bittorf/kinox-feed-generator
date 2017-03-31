@@ -293,3 +293,4 @@ Fri Mar 31 21:39:36 CEST 2017 - /Stream/Scorpion-1.html,s3e10 - Scorpion
 Fri Mar 31 21:39:36 CEST 2017 - /Stream/Supergirl-2.html,s2e2 - Supergirl
 Fri Mar 31 21:39:36 CEST 2017 - /Stream/Ransom-2.html,s1e2 - Ransom
 Fri Mar 31 21:39:36 CEST 2017 - /Stream/The_Vampire_Diaries.html,s8e1 - The Vampire Diaries
+Fri Mar 31 21:39:36 CEST 2017 - /Stream/Reign.html,s4e7 - Reign
