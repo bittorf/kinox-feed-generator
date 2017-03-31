@@ -300,3 +300,4 @@ Fri Mar 31 21:39:37 CEST 2017 - /Stream/Germanys_Next_Topmodel.html,s12 - German
 Fri Mar 31 21:39:37 CEST 2017 - /Stream/Der_Lehrer.html,s5e13 - Der Lehrer
 Fri Mar 31 21:39:37 CEST 2017 - /Stream/The_Big_Bang_Theory-1.html,s10e19 - The Big Bang Theory
 Fri Mar 31 21:39:37 CEST 2017 - /Stream/The_Amazing_Race.html,s29e1 - The Amazing Race
+Fri Mar 31 21:39:37 CEST 2017 - /Stream/Supernatural-1.html,s12e16 - Supernatural
