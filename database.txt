@@ -342,3 +342,4 @@ Sat Apr  1 09:39:52 CEST 2017 - /Stream/Stan_Lees_Lucky_Man.html,s2e6 - Stan Lee
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/13_Reasons_Why.html,s1e1 - 13 Reasons Why
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Animals-1.html,s2e3 - Animals.
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Rosewood.html,s2e18 - Rosewood
+Sat Apr  1 09:39:52 CEST 2017 - /Stream/Last_Man_Standing-4.html,s6e22 - Last Man Standing
