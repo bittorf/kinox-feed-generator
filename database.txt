@@ -338,3 +338,4 @@ Sat Apr  1 09:39:52 CEST 2017 - /Stream/Scream_Queens-1.html,s1 - Scream Queens
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Zimmer_108.html,s1 - Zimmer 108
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Grimm.html,s6e13 - Grimm
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Lifjord-Der_Freispruch.html,s2e1 - Lifjord - Der Freispruch
+Sat Apr  1 09:39:52 CEST 2017 - /Stream/Stan_Lees_Lucky_Man.html,s2e6 - Stan Lee's Lucky Man
