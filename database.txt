@@ -344,3 +344,4 @@ Sat Apr  1 09:39:52 CEST 2017 - /Stream/Animals-1.html,s2e3 - Animals.
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Rosewood.html,s2e18 - Rosewood
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Last_Man_Standing-4.html,s6e22 - Last Man Standing
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Hawaii_Five-0-1.html,s7e20 - Hawaii Five-0
+Sat Apr  1 09:39:52 CEST 2017 - /Stream/Blue_Bloods.html,s7e18 - Blue Bloods
