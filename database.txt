@@ -336,3 +336,4 @@ Sat Apr  1 09:39:52 CEST 2017 - /Stream/Quantico-1.html,s2e3 - Quantico
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/The_Detour-1.html,s2e3 - The Detour
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Scream_Queens-1.html,s1 - Scream Queens
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Zimmer_108.html,s1 - Zimmer 108
+Sat Apr  1 09:39:52 CEST 2017 - /Stream/Grimm.html,s6e13 - Grimm
