@@ -347,3 +347,4 @@ Sat Apr  1 09:39:52 CEST 2017 - /Stream/Hawaii_Five-0-1.html,s7e20 - Hawaii Five
 Sat Apr  1 09:39:52 CEST 2017 - /Stream/Blue_Bloods.html,s7e18 - Blue Bloods
 Sun Apr  2 03:40:11 CEST 2017 - /Stream/Power_Rangers-1.html - Power Rangers
 Sun Apr  2 03:40:12 CEST 2017 - /Stream/Nocturnal_Animals.html - Nocturnal Animals
+Sun Apr  2 03:40:12 CEST 2017 - /Stream/Bad_Santa_2.html - Bad Santa 2
