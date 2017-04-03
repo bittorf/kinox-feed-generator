@@ -361,3 +361,4 @@ Mon Apr  3 09:40:39 CEST 2017 - /Stream/Grace_and_Frankie.html,s3 - Grace and Fr
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/Black_Sails-1.html,s4e1 - Black Sails
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/Tote_Maedchen_luegen_nicht.html,s1e1 - Tote Mädchen lügen nicht
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/Empire-2.html,s3 - Empire
+Mon Apr  3 09:40:40 CEST 2017 - /Stream/The_Royals.html,s3e2 - The Royals
