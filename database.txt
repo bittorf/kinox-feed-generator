@@ -370,3 +370,4 @@ Mon Apr  3 09:40:40 CEST 2017 - /Stream/Shades_of_Blue.html,s2e5 - Shades of Blu
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/Billions.html,s2e7 - Billions
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/Into_the_Badlands.html,s2e3 - Into the Badlands
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/The_Last_Man_on_Earth-2.html,s3e14 - The Last Man on Earth
+Mon Apr  3 09:40:40 CEST 2017 - /Stream/American_Crime.html,s3e4 - American Crime
