@@ -365,3 +365,4 @@ Mon Apr  3 09:40:40 CEST 2017 - /Stream/The_Royals.html,s3e2 - The Royals
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/Making_History.html,s1e5 - Making History
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/Crashing-2.html,s1e7 - Crashing
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/The_Good_Fight-1.html,s1e8 - The Good Fight
+Mon Apr  3 09:40:40 CEST 2017 - /Stream/The_Detour.html,s2 - The Detour
