@@ -378,3 +378,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/Once_Upon_a_Time.html,s6e15 - Once Upon 
 Mon Apr  3 09:40:41 CEST 2017 - /Stream/Homeland.html,s6e11 - Homeland
 Mon Apr  3 09:40:41 CEST 2017 - /Stream/Bobs_Burgers.html,s7e16 - Bob's Burgers
 Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Walking_Dead.html,s7e16 - The Walking Dead
+Mon Apr  3 09:40:41 CEST 2017 - /Stream/Victorious.html,s3e7 - Victorious
