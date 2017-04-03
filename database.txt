@@ -367,3 +367,4 @@ Mon Apr  3 09:40:40 CEST 2017 - /Stream/Crashing-2.html,s1e7 - Crashing
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/The_Good_Fight-1.html,s1e8 - The Good Fight
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/The_Detour.html,s2 - The Detour
 Mon Apr  3 09:40:40 CEST 2017 - /Stream/Shades_of_Blue.html,s2e5 - Shades of Blue
+Mon Apr  3 09:40:40 CEST 2017 - /Stream/Billions.html,s2e7 - Billions
