@@ -6,8 +6,8 @@ DB='database.txt'
 I=0
 NEW=0
 IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
-	echo "please install 'http://imdbpy.sourceforge.net/' and set e.g."
-	echo "export PATH=\"\$PATH:/home/bastian/software/imdbpy/bin"
+	echo "please install 'http://imdbpy.sourceforge.net/' and set"
+	echo "e.g. export PATH=\"\$PATH:/home/bastian/software/imdbpy/bin"
 	exit 1
 }
 
@@ -125,17 +125,17 @@ PATTERN='<td class="Title img_preview" rel='
 
 							IMDB_LINK="$( kinox_imdb_link_get "${URL}${LINK}" )"
 							IMDB_RATE="$( imdb_get_rating "$IMDB_LINK" )"
-							IMDB_RATE="$IMDB_RATE $IMDB_LINK"
+							IMDB_RATE="IMDB: $IMDB_RATE $IMDB_LINK"
 							DESCRIPTION="$( kinox_description_get "${URL}${LINK}" )"
-							[ "$DESCRIPTION" = 'Keine Beschreibung vorhanden' ] && DESCRIPTION='...'
+							[ "$DESCRIPTION" = 'Keine Beschreibung vorhanden' ] && DESCRIPTION=
 
 							git commit -m "
 ${URL}${LINK}
-IMDB: $IMDB_RATE
+$IMDB_RATE
 
 ${TITLE_PRE}${TITLE}${TITLE_POST}
 $( underliner "${TITLE_PRE}${TITLE}${TITLE_POST}" )
-$DESCRIPTION"
+${DESCRIPTION:-...}"
 						}
 
 						echo "Link: ${URL}${LINK}"
