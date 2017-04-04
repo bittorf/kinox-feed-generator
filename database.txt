@@ -391,3 +391,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491225279 - Mon Apr  3 15:14:39 CEST 2017 - /Stream/Las_Vegas.html,s4e7 - Las Vegas
 1491284507 - Tue Apr  4 07:41:47 CEST 2017 - /Stream/Legend_of_the_Krays_Teil_2_Der_Fall.html - Legend of the Krays: Teil 2: Der Fall
 1491284508 - Tue Apr  4 07:41:48 CEST 2017 - /Stream/The_Rise_of_the_Krays-1.html - The Rise of the Krays
+1491284508 - Tue Apr  4 07:41:48 CEST 2017 - /Stream/Black_Sails-1.html,s4 - Black Sails
