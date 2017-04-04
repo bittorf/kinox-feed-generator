@@ -44,7 +44,8 @@ underliner()
 # <td class="Title"><a href="/Stream/Die_Geheimnisse_der_Spiderwicks.html" onclick="return false;">Die Geheimnisse der Spiderwicks</a> <span class="Year">2008</span></td>
 
 PATTERN='<td class="Title img_preview" rel='
-{ wget -qO - "$URL" || logger -s "[ERROR:$?] wget '$URL'"; printf '\n%s' "$PATTERN - EOF"; } | grep ^"$PATTERN" | while read -r LINE; do {
+{ wget -qO - "$URL" || logger -s "[ERROR:$?] wget '$URL'"; printf '\n%s' "$PATTERN - EOF"; } |
+ grep ^"$PATTERN" | recode 'UTF8..ISO-8859-15' | while read -r LINE; do {
 	LINK=
 	TITLE=
 	PARSE_TITLE=
