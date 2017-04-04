@@ -4,8 +4,12 @@ ARG1="$1"		# e.g. '--cron' or 'Alien' -> search specific entry
 URL='http://kinox.to'
 DB='database.txt'
 I=0
-NEW=0							# see: http://imdbpy.sourceforge.net/
-IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )"	# e.g. export PATH="$PATH:/home/bastian/software/imdbpy/bin"
+NEW=0
+IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
+	echo "please install 'http://imdbpy.sourceforge.net/' and set e.g."
+	echo "export PATH=\"$PATH:/home/bastian/software/imdbpy/bin"
+	exit 1
+}
 
 [ "$ARG1" = '--cron' ] && while :; do git pull; ./"$0" ; git push; date; sleep $(( 2 * 3600 )); done
 
