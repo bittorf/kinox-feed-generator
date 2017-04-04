@@ -1,16 +1,21 @@
 #!/bin/sh
 
-ARG1="$1"		# e.g. '--cron' or 'Alient' -> search specific entry
+ARG1="$1"		# e.g. '--cron' or 'Alien' -> search specific entry
 URL='http://kinox.to'
 DB='database.txt'
 I=0
-NEW=0
+NEW=0							# see: http://imdbpy.sourceforge.net/
+IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )"	# e.g. export PATH="$PATH:/home/bastian/software/imdbpy/bin"
 
 [ "$ARG1" = '--cron' ] && while :; do git pull; ./"$0" ; git push; date; sleep $(( 2 * 3600 )); done
 
+# dependencies:
+# POSIX-sh, wget, git, recode, imdbpy
+
+
+# TODO: remove 'search' function
 # TODO: Link zur Kritik? Wikipedia? Extract text...
 # TODO: new = last entry unknown or older than 30 days?
-# TODO: imdb-link: http://kinox.to/Stream/The_Hateful_Eight-1.html
 # TODO: ohne beschreibung: http://kinox.to/Stream/The_Nesting.html
 # TODO: gibt 404: http://kinox.to/Stream/Family_Guy.html,s14
 
@@ -27,6 +32,24 @@ kinox_imdb_link_get()
 
 	# <tr> <td class="Label" nowrap>IMDb Wertung:</td> <td class="Value"><div class="IMDBRatingOuter" onclick="runPopup('http://www.imdb.com/title/tt4061908/', '', '_blank');"><div class="IMDBRatinInner" style="width: 82px"></div></div><div class="IMDBRatingLabel">4.1 / 10 :: 0 Votes <div class="IMDBRatingLinks"><a href="/tt4061908">&nbsp;</a></div></div> </td></tr><tr> <td class="Label" nowrap>Genre:</td> <td class="Value"><a href="/Genre/Crime">Krimi</a> </td></tr><tr> <td class="Label" nowrap>Produzent:</td> <td class="Value">Ken Brown</td></tr>
 	wget -O - "$url" | grep 'IMDb Wertung' | sed -n "s|.*'\(http://www.imdb.com.*\)'.*|\1|p" | cut -d"'" -f1
+}
+
+imdb_get_rating()
+{
+	local link="$1"		# e.g. http://www.imdb.com/title/tt4061908/
+	local id word
+	local list="$( echo "$link" | tr '/' ' ' )"
+
+	for word in $list; do {
+		case "$word" in
+			'tt'[0-9]*)
+				id="$( echo "$word" | cut -b3- )"
+			;;
+		esac
+	} done
+
+	# e.g. 'Rating: 7.7 (148196 votes).'
+	$IMDBPY_GETMOVIE "$id" | grep ^'Rating: ' || echo 'Rating: ?'
 }
 
 underliner()
@@ -97,8 +120,8 @@ PATTERN='<td class="Title img_preview" rel='
 							git add "$DB"
 
 							IMDB_LINK="$( kinox_imdb_link_get "${URL}${LINK}" )"
-							IMDB_RATE="rated 7.6/10 (8757 persons) $IMDB_LINK"
-							IMDB_RATE="rated ?/10"
+							IMDB_RATE="$( imdb_get_rating "$IMDB_LINK" )"
+							IMDB_RATE="$IMDB_RATE $IMDB_LINK"
 							DESCRIPTION="$( kinox_description_get "${URL}${LINK}" )"
 							[ "$DESCRIPTION" = 'Keine Beschreibung vorhanden' ] && DESCRIPTION='...'
 
