@@ -7,7 +7,7 @@ I=0
 NEW=0
 IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
 	echo "please install 'http://imdbpy.sourceforge.net/' and set e.g."
-	echo "export PATH=\"$PATH:/home/bastian/software/imdbpy/bin"
+	echo "export PATH=\"\$PATH:/home/bastian/software/imdbpy/bin"
 	exit 1
 }
 
