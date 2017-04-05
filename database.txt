@@ -417,3 +417,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491418839 - Wed Apr  5 21:00:39 CEST 2017 - /Stream/Chicago_Med-1.html,s2e5 - Chicago Med
 1491418870 - Wed Apr  5 21:01:10 CEST 2017 - /Stream/Charite.html,s1e4 - Charité
 1491418890 - Wed Apr  5 21:01:30 CEST 2017 - /Stream/Kevin_Can_Wait-1.html,s1e18 - Kevin Can Wait
+1491418944 - Wed Apr  5 21:02:24 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e12 - Navy CIS: L.A.
