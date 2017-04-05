@@ -414,3 +414,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491418779 - Wed Apr  5 20:59:39 CEST 2017 - /Stream/Tote_Maedchen_luegen_nicht.html,s1 - Tote Mädchen lügen nicht
 1491418780 - Wed Apr  5 20:59:40 CEST 2017 - /Stream/Ultimate_Beastmaster.html,s1e2 - Ultimate Beastmaster
 1491418792 - Wed Apr  5 20:59:52 CEST 2017 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s7e7 - Shameless - Nicht ganz nüchtern
+1491418839 - Wed Apr  5 21:00:39 CEST 2017 - /Stream/Chicago_Med-1.html,s2e5 - Chicago Med
