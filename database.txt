@@ -431,3 +431,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491498432 - Thu Apr  6 19:07:12 CEST 2017 - /Stream/Fortitude.html,s2e6 - Fortitude
 1491498438 - Thu Apr  6 19:07:18 CEST 2017 - /Stream/The_Last_Man_on_Earth-3.html,s1 - The Last Man on Earth
 1491498438 - Thu Apr  6 19:07:18 CEST 2017 - /Stream/Billions-1.html,s2e7 - Billions
+1491498445 - Thu Apr  6 19:07:25 CEST 2017 - /Stream/Die_Simpsons.html,s27e15 - Die Simpsons
