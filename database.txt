@@ -439,3 +439,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491498495 - Thu Apr  6 19:08:15 CEST 2017 - /Stream/Blindspot-1.html,s2e10 - Blindspot
 1491498506 - Thu Apr  6 19:08:26 CEST 2017 - /Stream/The_Blacklist-1.html,s4e13 - The Blacklist
 1491498519 - Thu Apr  6 19:08:39 CEST 2017 - /Stream/Ultimate_Beastmaster.html,s1e3 - Ultimate Beastmaster
+1491498523 - Thu Apr  6 19:08:43 CEST 2017 - /Stream/Superstore-1.html,s2 - Superstore
