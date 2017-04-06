@@ -447,3 +447,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491498548 - Thu Apr  6 19:09:08 CEST 2017 - /Stream/Bobs_Burgers-2.html,s6e4 - Bob's Burgers
 1491498556 - Thu Apr  6 19:09:16 CEST 2017 - /Stream/Supergirl-2.html,s2e3 - Supergirl
 1491498565 - Thu Apr  6 19:09:25 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D.html,s4e16 - Agents of S.H.I.E.L.D.
+1491498581 - Thu Apr  6 19:09:41 CEST 2017 - /Stream/The_Goldbergs.html,s4e20 - The Goldbergs
