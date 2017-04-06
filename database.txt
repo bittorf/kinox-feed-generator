@@ -460,3 +460,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491498656 - Thu Apr  6 19:10:56 CEST 2017 - /Stream/NCIS_New_Orleans.html,s3e20 - NCIS: New Orleans
 1491498667 - Thu Apr  6 19:11:07 CEST 2017 - /Stream/Fortitude-1.html,s2e10 - Fortitude
 1491498673 - Thu Apr  6 19:11:13 CEST 2017 - /Stream/Empire-3.html,s3e12 - Empire
+1491498682 - Thu Apr  6 19:11:22 CEST 2017 - /Stream/The_Magicians.html,s2e11 - The Magicians
