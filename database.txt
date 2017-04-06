@@ -480,3 +480,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491520415 - Fri Apr  7 01:13:35 CEST 2017 - /Stream/Standoff-1.html - Standoff
 1491520420 - Fri Apr  7 01:13:40 CEST 2017 - /Stream/Sechse_kommen_durch_die_ganze_Welt-1.html - Sechse kommen durch die ganze Welt
 1491520426 - Fri Apr  7 01:13:46 CEST 2017 - /Stream/Sehnsucht_nach_Paris.html - Sehnsucht nach Paris
+1491520431 - Fri Apr  7 01:13:51 CEST 2017 - /Stream/Shirley-Der_Maler_Edward_Hopper_in_13_Bildern.html - Shirley - Der Maler Edward Hopper in 13 Bildern
