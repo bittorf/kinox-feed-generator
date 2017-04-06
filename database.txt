@@ -464,3 +464,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491498689 - Thu Apr  6 19:11:29 CEST 2017 - /Stream/Chicago_PD.html,s4e19 - Chicago PD
 1491498697 - Thu Apr  6 19:11:37 CEST 2017 - /Stream/The_Middle.html,s8e18 - The Middle.
 1491498705 - Thu Apr  6 19:11:45 CEST 2017 - /Stream/Modern_Family.html,s8e19 - Modern Family
+1491498723 - Thu Apr  6 19:12:03 CEST 2017 - /Stream/The_Fosters.html,s4e19 - The Fosters
