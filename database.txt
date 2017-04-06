@@ -490,3 +490,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491520469 - Fri Apr  7 01:14:29 CEST 2017 - /Stream/Stung-1.html - Stung
 1491520474 - Fri Apr  7 01:14:34 CEST 2017 - /Stream/Senor_Kaplan.html - Senor Kaplan
 1491520478 - Fri Apr  7 01:14:38 CEST 2017 - /Stream/Infernal_Affairs-Abstieg_in_die_achte_Hoelle.html - Infernal Affairs - Abstieg in die achte Hölle
+1491520484 - Fri Apr  7 01:14:44 CEST 2017 - /Stream/Schellen-Ursli.html - Schellen-Ursli
