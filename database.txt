@@ -483,3 +483,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491520431 - Fri Apr  7 01:13:51 CEST 2017 - /Stream/Shirley-Der_Maler_Edward_Hopper_in_13_Bildern.html - Shirley - Der Maler Edward Hopper in 13 Bildern
 1491520437 - Fri Apr  7 01:13:57 CEST 2017 - /Stream/Sturmland.html - Sturmland
 1491520443 - Fri Apr  7 01:14:03 CEST 2017 - /Stream/Halloween_Night-2.html - Halloween Night
+1491520448 - Fri Apr  7 01:14:08 CEST 2017 - /Stream/Beste_Freunde_Sie_heisst_jetzt_Lotte.html - Beste Freunde: Sie heiﬂt jetzt Lotte!
