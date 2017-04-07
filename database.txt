@@ -503,3 +503,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491563785 - Fri Apr  7 13:16:25 CEST 2017 - /Stream/South_Park.html,s20e4 - South Park
 1491563793 - Fri Apr  7 13:16:33 CEST 2017 - /Stream/Sun_Records.html,s1e7 - Sun Records
 1491563798 - Fri Apr  7 13:16:38 CEST 2017 - /Stream/The_Blacklist_Redemption.html,s1e7 - The Blacklist: Redemption
+1491563803 - Fri Apr  7 13:16:43 CEST 2017 - /Stream/Colony-1.html,s2e13 - Colony
