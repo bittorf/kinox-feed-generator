@@ -499,3 +499,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491563756 - Fri Apr  7 13:15:56 CEST 2017 - /Stream/Scorpion-1.html,s3e11 - Scorpion
 1491563767 - Fri Apr  7 13:16:07 CEST 2017 - /Stream/Crazy_Ex-Girlfriend-1.html,s2 - Crazy Ex-Girlfriend
 1491563768 - Fri Apr  7 13:16:08 CEST 2017 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s39e1 - Alarm für Cobra 11 - Die Autobahnpolizei
+1491563776 - Fri Apr  7 13:16:16 CEST 2017 - /Stream/Rizzoli-Isles-1.html,s7e7 - Rizzoli & Isles
