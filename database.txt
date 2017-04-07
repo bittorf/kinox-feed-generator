@@ -508,3 +508,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491563820 - Fri Apr  7 13:17:00 CEST 2017 - /Stream/Scandal.html,s6e9 - Scandal
 1491563831 - Fri Apr  7 13:17:11 CEST 2017 - /Stream/Supernatural-1.html,s12e17 - Supernatural
 1491563853 - Fri Apr  7 13:17:33 CEST 2017 - /Stream/Powerless.html,s1e7 - Powerless
+1491563858 - Fri Apr  7 13:17:38 CEST 2017 - /Stream/Riverdale.html,s1e9 - Riverdale
