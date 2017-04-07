@@ -511,3 +511,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491563858 - Fri Apr  7 13:17:38 CEST 2017 - /Stream/Riverdale.html,s1e9 - Riverdale
 1491563864 - Fri Apr  7 13:17:44 CEST 2017 - /Stream/The_Great_Indoors.html,s1e18 - The Great Indoors
 1491563869 - Fri Apr  7 13:17:49 CEST 2017 - /Stream/The_Catch.html,s2e5 - The Catch
+1491563876 - Fri Apr  7 13:17:56 CEST 2017 - /Stream/Superstore.html,s2e18 - Superstore
