@@ -549,3 +549,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491636186 - Sat Apr  8 09:23:06 CEST 2017 - /Stream/Yonderland-1.html,s2 - Yonderland
 1491636187 - Sat Apr  8 09:23:07 CEST 2017 - /Stream/Neo_Magazin-1.html,s5e10 - Neo Magazin
 1491636192 - Sat Apr  8 09:23:12 CEST 2017 - /Stream/Scream_Queens-1.html,s1e3 - Scream Queens
+1491636200 - Sat Apr  8 09:23:20 CEST 2017 - /Stream/The_Vampire_Diaries.html,s8e2 - The Vampire Diaries
