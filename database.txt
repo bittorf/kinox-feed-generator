@@ -547,3 +547,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491607352 - Sat Apr  8 01:22:32 CEST 2017 - /Stream/Sommerschnee.html - Sommerschnee
 1491636179 - Sat Apr  8 09:22:59 CEST 2017 - /Stream/Die_Medici_Herrscher_von_Florenz.html,s1e1 - Die Medici: Herrscher von Florenz
 1491636186 - Sat Apr  8 09:23:06 CEST 2017 - /Stream/Yonderland-1.html,s2 - Yonderland
+1491636187 - Sat Apr  8 09:23:07 CEST 2017 - /Stream/Neo_Magazin-1.html,s5e10 - Neo Magazin
