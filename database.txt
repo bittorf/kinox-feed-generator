@@ -551,3 +551,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491636192 - Sat Apr  8 09:23:12 CEST 2017 - /Stream/Scream_Queens-1.html,s1e3 - Scream Queens
 1491636200 - Sat Apr  8 09:23:20 CEST 2017 - /Stream/The_Vampire_Diaries.html,s8e2 - The Vampire Diaries
 1491636218 - Sat Apr  8 09:23:38 CEST 2017 - /Stream/Quantico-1.html,s2e4 - Quantico
+1491636226 - Sat Apr  8 09:23:46 CEST 2017 - /Stream/MacGyver-2.html,s1e20 - MacGyver
