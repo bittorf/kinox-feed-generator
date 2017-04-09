@@ -642,3 +642,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491780903 - Mon Apr 10 01:35:03 CEST 2017 - /Stream/Liebe_auf_Bewaehrung.html - Liebe auf Bewährung
 1491780908 - Mon Apr 10 01:35:08 CEST 2017 - /Stream/Space_Rangers-Hyper_Space.html - Space Rangers - Hyper Space
 1491780911 - Mon Apr 10 01:35:11 CEST 2017 - /Stream/The_Swan_Princess_Royally_Undercover.html - The Swan Princess: Royally Undercover
+1491780915 - Mon Apr 10 01:35:15 CEST 2017 - /Stream/Suicide_Squad.html - Suicide Squad
