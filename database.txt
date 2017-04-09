@@ -620,3 +620,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491759163 - Sun Apr  9 19:32:43 CEST 2017 - /Stream/Black_Sails-1.html,s4e4 - Black Sails
 1491759175 - Sun Apr  9 19:32:55 CEST 2017 - /Stream/Those_Who_Cant-3.html,s1e6 - Those Who Can't
 1491759180 - Sun Apr  9 19:33:00 CEST 2017 - /Stream/Road_Hauks.html,s1e1 - Road Hauks
+1491759184 - Sun Apr  9 19:33:04 CEST 2017 - /Stream/Training_Day-2.html,s1e7 - Training Day
