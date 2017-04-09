@@ -666,3 +666,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491781030 - Mon Apr 10 01:37:10 CEST 2017 - /Stream/Summer_Shark_Attack.html - Summer Shark Attack
 1491781035 - Mon Apr 10 01:37:15 CEST 2017 - /Stream/Barett-Das_Gesetz_der_Rache.html - Barett - Das Gesetz der Rache
 1491781041 - Mon Apr 10 01:37:21 CEST 2017 - /Stream/Schlacht_um_Algier.html - Schlacht um Algier
+1491781045 - Mon Apr 10 01:37:25 CEST 2017 - /Stream/Die_Hoelle_von_Algier.html - Die Hölle von Algier
