@@ -129,7 +129,7 @@ PATTERN='<td class="Title img_preview" rel='
 							wget -qO /dev/null "${URL}${LINK}"
 							[ $? -eq $RC_ERROR404 ] && {
 								# auto-correct wrong 'Serie'-detection
-								LINK="$( echo "$LINK" | sed -n 's/\(^.*\.html\),s*$/\1/p' )"
+								LINK="$( echo "$LINK" | sed -n 's/\(^.*\.html\),s.*$/\1/p' )"
 								TITLE_PRE=
 								TITLE_POST=
 							}
