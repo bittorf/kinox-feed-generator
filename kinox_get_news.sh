@@ -17,11 +17,13 @@ IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
 # POSIX-sh, wget, git, recode, imdbpy
 
 
+# TODO: erscheinungsjahr/monat
 # TODO: remove 'search' function
 # TODO: Link zur Kritik? Wikipedia? Extract text...
 # TODO: new = last entry unknown or older than 30 days?
 # TODO: ohne beschreibung: http://kinox.to/Stream/The_Nesting.html
-# TODO: gibt 404: http://kinox.to/Stream/Family_Guy.html,s14
+# TODO: change imdb-language? (for plot)
+# http://webapps.stackexchange.com/questions/11003/how-can-i-disable-reconfigure-imdbs-automatic-geo-location-so-it-does-not-defau
 
 kinox_description_get()
 {
@@ -122,6 +124,15 @@ PATTERN='<td class="Title img_preview" rel='
 							NEW=$(( NEW + 1 ))
 							echo "$( LC_ALL=C date +%s ) - $( LC_ALL=C date ) - $LINK - $TITLE" >>"$DB"
 							git add "$DB"
+
+							RC_ERROR404=8
+							wget -qO /dev/null "${URL}${LINK}"
+							[ $? -eq $RC_ERROR404 ] && {
+								# auto-correct wrong 'Serie'-detection
+								LINK="$( echo "$LINK" | sed -n 's/\(^.*\.html\),s*$/\1/p' )"
+								TITLE_PRE=
+								TITLE_POST=
+							}
 
 							IMDB_LINK="$( kinox_imdb_link_get "${URL}${LINK}" )"
 							IMDB_RATE="$( imdb_get_rating "$IMDB_LINK" )"
