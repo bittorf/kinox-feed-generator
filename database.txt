@@ -770,3 +770,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491889272 - Tue Apr 11 07:41:12 CEST 2017 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s13e9 - Grey's Anatomy - Die jungen Ärzte
 1491889293 - Tue Apr 11 07:41:33 CEST 2017 - /Stream/A-P-B.html,s1e10 - A.P.B.
 1491889298 - Tue Apr 11 07:41:38 CEST 2017 - /Stream/24_Legacy.html,s1e11 - 24: Legacy
+1491889304 - Tue Apr 11 07:41:44 CEST 2017 - /Stream/Superior_Donuts.html,s1e10 - Superior Donuts
