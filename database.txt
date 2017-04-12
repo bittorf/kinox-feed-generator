@@ -839,3 +839,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491976280 - Wed Apr 12 07:51:20 CEST 2017 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s7e8 - Shameless - Nicht ganz nüchtern
 1491976292 - Wed Apr 12 07:51:32 CEST 2017 - /Stream/Chicago_Med-1.html,s2e6 - Chicago Med
 1491976299 - Wed Apr 12 07:51:39 CEST 2017 - /Stream/Billions-1.html,s2e8 - Billions
+1491976308 - Wed Apr 12 07:51:48 CEST 2017 - /Stream/The_Fosters.html,s4e20 - The Fosters
