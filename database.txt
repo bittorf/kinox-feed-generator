@@ -879,3 +879,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492041542 - Thu Apr 13 01:59:02 CEST 2017 - /Stream/Schiessen_Sie_auf_den_Pianisten.html - Schieﬂen Sie auf den Pianisten
 1492041546 - Thu Apr 13 01:59:06 CEST 2017 - /Stream/Aliens_vs-Predator_2-1.html - Aliens vs. Predator 2
 1492041555 - Thu Apr 13 01:59:15 CEST 2017 - /Stream/Scheinwelt-Vergangenheit_endet_nie.html - Scheinwelt - Vergangenheit endet nie
+1492041558 - Thu Apr 13 01:59:18 CEST 2017 - /Stream/Sindbad_und_das_Auge_des_Tigers.html - Sindbad und das Auge des Tigers
