@@ -832,3 +832,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491976222 - Wed Apr 12 07:50:22 CEST 2017 - /Stream/La_La_Land-1.html - La La Land
 1491976236 - Wed Apr 12 07:50:36 CEST 2017 - /Stream/Die_Troedelqueen-Gelegenheit_Macht_Liebe.html - Die Trödelqueen - Gelegenheit Macht Liebe
 1491976241 - Wed Apr 12 07:50:41 CEST 2017 - /Stream/Der_Mafia_Boss-Sie_toeten_wie_Schakale.html - Der Mafia Boß - Sie töten wie Schakale
+1491976247 - Wed Apr 12 07:50:47 CEST 2017 - /Stream/The_Royals.html,s3e4 - The Royals
