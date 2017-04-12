@@ -858,3 +858,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491976470 - Wed Apr 12 07:54:30 CEST 2017 - /Stream/Digby_Dragon.html,s1e21 - Digby Dragon
 1491976475 - Wed Apr 12 07:54:35 CEST 2017 - /Stream/Kevin_Can_Wait-1.html,s1e19 - Kevin Can Wait
 1491976481 - Wed Apr 12 07:54:41 CEST 2017 - /Stream/How_to_Get_Away_with_Murder-1.html,s3e6 - How to Get Away with Murder
+1491976493 - Wed Apr 12 07:54:53 CEST 2017 - /Stream/Bobs_Burgers-2.html,s6e6 - Bob's Burgers
