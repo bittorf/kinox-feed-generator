@@ -836,3 +836,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1491976254 - Wed Apr 12 07:50:54 CEST 2017 - /Stream/Taboo-2.html,s1e2 - Taboo
 1491976261 - Wed Apr 12 07:51:01 CEST 2017 - /Stream/South_Park.html,s20e5 - South Park
 1491976273 - Wed Apr 12 07:51:13 CEST 2017 - /Stream/Rosewood-1.html,s1e2 - Rosewood
+1491976280 - Wed Apr 12 07:51:20 CEST 2017 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s7e8 - Shameless - Nicht ganz nüchtern
