@@ -895,3 +895,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492070496 - Thu Apr 13 10:01:36 CEST 2017 - /Stream/The_Kings_Choice-Angriff_auf_Norwegen.html - The King's Choice - Angriff auf Norwegen
 1492070502 - Thu Apr 13 10:01:42 CEST 2017 - /Stream/Divorce.html,s1 - Divorce
 1492070508 - Thu Apr 13 10:01:48 CEST 2017 - /Stream/Charite.html,s1e5 - Charité
+1492070514 - Thu Apr 13 10:01:54 CEST 2017 - /Stream/Ultimate_Beastmaster.html,s1e5 - Ultimate Beastmaster
