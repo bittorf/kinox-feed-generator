@@ -911,3 +911,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492099454 - Thu Apr 13 18:04:14 CEST 2017 - /Stream/Rizzoli-Isles-1.html,s7e8 - Rizzoli & Isles
 1492099464 - Thu Apr 13 18:04:24 CEST 2017 - /Stream/Code_Black-1.html,s2 - Code Black
 1492099471 - Thu Apr 13 18:04:31 CEST 2017 - /Stream/Designated_Survivor-1.html,s1e13 - Designated Survivor
+1492099479 - Thu Apr 13 18:04:39 CEST 2017 - /Stream/Return_of_the_Mac.html,s1e1 - Return of the Mac
