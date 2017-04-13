@@ -908,3 +908,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492070599 - Thu Apr 13 10:03:19 CEST 2017 - /Stream/Archer-1.html,s8e2 - Archer
 1492099436 - Thu Apr 13 18:03:56 CEST 2017 - /Stream/Verleugnung.html - Verleugnung
 1492099445 - Thu Apr 13 18:04:05 CEST 2017 - /Stream/Fortitude.html,s2e7 - Fortitude
+1492099454 - Thu Apr 13 18:04:14 CEST 2017 - /Stream/Rizzoli-Isles-1.html,s7e8 - Rizzoli & Isles
