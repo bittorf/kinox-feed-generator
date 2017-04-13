@@ -884,3 +884,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492041569 - Thu Apr 13 01:59:29 CEST 2017 - /Stream/Alien_vs-Predator.html - Alien vs. Predator
 1492041582 - Thu Apr 13 01:59:42 CEST 2017 - /Stream/Sieben_Stunden_Angst.html - Sieben Stunden Angst
 1492041587 - Thu Apr 13 01:59:47 CEST 2017 - /Stream/Z_Nation-1.html,s2 - Z Nation
+1492041595 - Thu Apr 13 01:59:55 CEST 2017 - /Stream/2_Broke_Girls-1.html,s6e11 - 2 Broke Girls
