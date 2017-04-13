@@ -901,3 +901,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492070531 - Thu Apr 13 10:02:11 CEST 2017 - /Stream/The_Path.html,s2e13 - The Path
 1492070537 - Thu Apr 13 10:02:17 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders.html,s2 - Criminal Minds: Beyond Borders
 1492070550 - Thu Apr 13 10:02:30 CEST 2017 - /Stream/Underground-5.html,s2e6 - Underground
+1492070560 - Thu Apr 13 10:02:40 CEST 2017 - /Stream/The_Magicians.html,s2e12 - The Magicians
