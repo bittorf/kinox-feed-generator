@@ -926,3 +926,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492121177 - Fri Apr 14 00:06:17 CEST 2017 - /Stream/Sooper_Se_Ooper-1.html - Sooper Se Ooper
 1492121182 - Fri Apr 14 00:06:22 CEST 2017 - /Stream/Spin_Out.html - Spin Out
 1492121187 - Fri Apr 14 00:06:27 CEST 2017 - /Stream/Subterano.html - Subterano
+1492121192 - Fri Apr 14 00:06:32 CEST 2017 - /Stream/Space_Warriors-Das_verrueckte_Weltraumcamp.html - Space Warriors - Das verrückte Weltraumcamp
