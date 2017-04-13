@@ -904,3 +904,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492070560 - Thu Apr 13 10:02:40 CEST 2017 - /Stream/The_Magicians.html,s2e12 - The Magicians
 1492070569 - Thu Apr 13 10:02:49 CEST 2017 - /Stream/The_Expanse.html,s2e12 - The Expanse
 1492070578 - Thu Apr 13 10:02:58 CEST 2017 - /Stream/Empire-3.html,s3e13 - Empire
+1492070589 - Thu Apr 13 10:03:09 CEST 2017 - /Stream/Major_Crimes.html,s5e21 - Major Crimes
