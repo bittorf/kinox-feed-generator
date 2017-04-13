@@ -892,3 +892,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492041646 - Thu Apr 13 02:00:46 CEST 2017 - /Stream/Elementary-1.html,s4e1 - Elementary
 1492041660 - Thu Apr 13 02:01:00 CEST 2017 - /Stream/Die_Biene_Maja.html,s1e1 - Die Biene Maja
 1492070489 - Thu Apr 13 10:01:29 CEST 2017 - /Stream/Final_Impact-Die_Vernichtung_der_Erde.html - Final Impact - Die Vernichtung der Erde
+1492070496 - Thu Apr 13 10:01:36 CEST 2017 - /Stream/The_Kings_Choice-Angriff_auf_Norwegen.html - The King's Choice - Angriff auf Norwegen
