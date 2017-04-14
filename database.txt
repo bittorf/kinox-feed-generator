@@ -966,3 +966,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492208000 - Sat Apr 15 00:13:20 CEST 2017 - /Stream/Saint_Amour-Drei_gute_Jahrgaenge.html - Saint Amour - Drei gute Jahrgänge
 1492208006 - Sat Apr 15 00:13:26 CEST 2017 - /Stream/A_Hitman_in_London.html - A Hitman in London
 1492208021 - Sat Apr 15 00:13:41 CEST 2017 - /Stream/Shark_Lake-1.html - Shark Lake
+1492208028 - Sat Apr 15 00:13:48 CEST 2017 - /Stream/10_Rules_for_Sleeping_Around-1.html - 10 Rules for Sleeping Around
