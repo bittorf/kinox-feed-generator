@@ -948,3 +948,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492150209 - Fri Apr 14 08:10:09 CEST 2017 - /Stream/Powerless.html,s1e8 - Powerless
 1492150215 - Fri Apr 14 08:10:15 CEST 2017 - /Stream/Sun_Records.html,s1e8 - Sun Records
 1492179041 - Fri Apr 14 16:10:41 CEST 2017 - /Stream/The_Shallows_Gefahr_aus_der_Tiefe.html - The Shallows: Gefahr aus der Tiefe
+1492179057 - Fri Apr 14 16:10:57 CEST 2017 - /Stream/The_Detour-1.html,s2e5 - The Detour
