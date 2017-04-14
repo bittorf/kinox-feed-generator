@@ -953,3 +953,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492179069 - Fri Apr 14 16:11:09 CEST 2017 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s39e2 - Alarm für Cobra 11 - Die Autobahnpolizei
 1492179077 - Fri Apr 14 16:11:17 CEST 2017 - /Stream/Ransom-2.html,s1e5 - Ransom
 1492179082 - Fri Apr 14 16:11:22 CEST 2017 - /Stream/Neo_Magazin-1.html,s5e11 - Neo Magazin
+1492179088 - Fri Apr 14 16:11:28 CEST 2017 - /Stream/Scream_Queens-1.html,s1e4 - Scream Queens
