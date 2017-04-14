@@ -941,3 +941,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492150150 - Fri Apr 14 08:09:10 CEST 2017 - /Stream/The_Blacklist.html,s1e8 - The Blacklist
 1492150164 - Fri Apr 14 08:09:24 CEST 2017 - /Stream/Life_in_Pieces.html,s2e19 - Life in Pieces
 1492150170 - Fri Apr 14 08:09:30 CEST 2017 - /Stream/The_Last_Kingdom.html,s2e5 - The Last Kingdom
+1492150176 - Fri Apr 14 08:09:36 CEST 2017 - /Stream/Chicago_Med.html,s2e20 - Chicago Med
