@@ -987,3 +987,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492244214 - Sat Apr 15 10:16:54 CEST 2017 - /Stream/Lifjord-Der_Freispruch.html,s2e3 - Lifjord - Der Freispruch
 1492244230 - Sat Apr 15 10:17:10 CEST 2017 - /Stream/MacGyver-2.html,s1e21 - MacGyver
 1492244236 - Sat Apr 15 10:17:16 CEST 2017 - /Stream/The_Path.html,s2e12 - The Path
+1492244241 - Sat Apr 15 10:17:21 CEST 2017 - /Stream/Stan_Lees_Lucky_Man.html,s2e8 - Stan Lee's Lucky Man
