@@ -992,3 +992,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492244253 - Sat Apr 15 10:17:33 CEST 2017 - /Stream/The_Originals.html,s4e5 - The Originals
 1492244267 - Sat Apr 15 10:17:47 CEST 2017 - /Stream/Hawaii_Five-0-1.html,s7e22 - Hawaii Five-0
 1492244281 - Sat Apr 15 10:18:01 CEST 2017 - /Stream/Blue_Bloods.html,s7e20 - Blue Bloods
+1492244293 - Sat Apr 15 10:18:13 CEST 2017 - /Stream/The_Quad.html,s1e8 - The Quad
