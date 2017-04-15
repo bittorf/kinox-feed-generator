@@ -983,3 +983,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492244188 - Sat Apr 15 10:16:28 CEST 2017 - /Stream/Bettys_Diagnose.html,s3e13 - Bettys Diagnose
 1492244195 - Sat Apr 15 10:16:35 CEST 2017 - /Stream/Baron_noir.html,s1e2 - Baron noir
 1492244201 - Sat Apr 15 10:16:41 CEST 2017 - /Stream/The_Son-1.html,s1e1 - The Son
+1492244208 - Sat Apr 15 10:16:48 CEST 2017 - /Stream/Bull-1.html,s1e14 - Bull
