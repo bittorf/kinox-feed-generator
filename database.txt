@@ -990,3 +990,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492244241 - Sat Apr 15 10:17:21 CEST 2017 - /Stream/Stan_Lees_Lucky_Man.html,s2e8 - Stan Lee's Lucky Man
 1492244247 - Sat Apr 15 10:17:27 CEST 2017 - /Stream/Rosewood.html,s2e20 - Rosewood
 1492244253 - Sat Apr 15 10:17:33 CEST 2017 - /Stream/The_Originals.html,s4e5 - The Originals
+1492244267 - Sat Apr 15 10:17:47 CEST 2017 - /Stream/Hawaii_Five-0-1.html,s7e22 - Hawaii Five-0
