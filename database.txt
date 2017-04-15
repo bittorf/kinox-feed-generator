@@ -995,3 +995,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492244293 - Sat Apr 15 10:18:13 CEST 2017 - /Stream/The_Quad.html,s1e8 - The Quad
 1492251512 - Sat Apr 15 12:18:32 CEST 2017 - /Stream/Die_Rueckkehr_der_gelben_Hoellenhunde.html - Die Rückkehr der gelben Höllenhunde
 1492251519 - Sat Apr 15 12:18:39 CEST 2017 - /Stream/Die_fast_perfekte_Welt_der_Pauline.html - Die fast perfekte Welt der Pauline
+1492251525 - Sat Apr 15 12:18:45 CEST 2017 - /Stream/Supernatural-1.html,s12e18 - Supernatural
