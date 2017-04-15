@@ -985,3 +985,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492244201 - Sat Apr 15 10:16:41 CEST 2017 - /Stream/The_Son-1.html,s1e1 - The Son
 1492244208 - Sat Apr 15 10:16:48 CEST 2017 - /Stream/Bull-1.html,s1e14 - Bull
 1492244214 - Sat Apr 15 10:16:54 CEST 2017 - /Stream/Lifjord-Der_Freispruch.html,s2e3 - Lifjord - Der Freispruch
+1492244230 - Sat Apr 15 10:17:10 CEST 2017 - /Stream/MacGyver-2.html,s1e21 - MacGyver
