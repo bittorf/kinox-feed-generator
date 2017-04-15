@@ -977,3 +977,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492208095 - Sat Apr 15 00:14:55 CEST 2017 - /Stream/Die_Pee-Wees-Rivalen_auf_dem_Eis.html - Die Pee-Wees - Rivalen auf dem Eis
 1492208102 - Sat Apr 15 00:15:02 CEST 2017 - /Stream/Stunde_Null.html - Stunde Null
 1492208108 - Sat Apr 15 00:15:08 CEST 2017 - /Stream/Suicide_Note-Falscher_Verdacht.html - Suicide Note - Falscher Verdacht
+1492236942 - Sat Apr 15 08:15:42 CEST 2017 - /Stream/Logan_The_Wolverine.html - Logan: The Wolverine
