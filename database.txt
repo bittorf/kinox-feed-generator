@@ -980,3 +980,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492236942 - Sat Apr 15 08:15:42 CEST 2017 - /Stream/Logan_The_Wolverine.html - Logan: The Wolverine
 1492236958 - Sat Apr 15 08:15:58 CEST 2017 - /Stream/Fight_Valley-1.html - Fight Valley
 1492244173 - Sat Apr 15 10:16:13 CEST 2017 - /Stream/Yonderland-1.html,s3 - Yonderland
+1492244188 - Sat Apr 15 10:16:28 CEST 2017 - /Stream/Bettys_Diagnose.html,s3e13 - Bettys Diagnose
