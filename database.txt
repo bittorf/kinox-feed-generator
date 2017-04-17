@@ -1011,3 +1011,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492446227 - Mon Apr 17 18:23:47 CEST 2017 - /Stream/Grossstadtrevier.html,s30e5 - Groﬂstadtrevier
 1492446234 - Mon Apr 17 18:23:54 CEST 2017 - /Stream/Doogie_Howser.html,s4 - Doogie Howser
 1492446250 - Mon Apr 17 18:24:10 CEST 2017 - /Stream/Sabrina-total_verhext.html,s4e1 - Sabrina - total verhext
+1492446258 - Mon Apr 17 18:24:18 CEST 2017 - /Stream/Sabrina-total_verhext.html,s3 - Sabrina - total verhext
