@@ -1027,3 +1027,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492446383 - Mon Apr 17 18:26:23 CEST 2017 - /Stream/Fortitude-1.html,s2 - Fortitude
 1492446389 - Mon Apr 17 18:26:29 CEST 2017 - /Stream/The_Leftovers.html,s3e1 - The Leftovers
 1492446406 - Mon Apr 17 18:26:46 CEST 2017 - /Stream/Big_Little_Lies.html,s1e2 - Big Little Lies
+1492496852 - Tue Apr 18 08:27:32 CEST 2017 - /Stream/Tough_Luck-1.html - Tough Luck
