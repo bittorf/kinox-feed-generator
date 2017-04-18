@@ -1045,3 +1045,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492496973 - Tue Apr 18 08:29:33 CEST 2017 - /Stream/Angie_Tribeca.html,s3e2 - Angie Tribeca
 1492496979 - Tue Apr 18 08:29:39 CEST 2017 - /Stream/Scorpion.html,s3e22 - Scorpion
 1492496989 - Tue Apr 18 08:29:49 CEST 2017 - /Stream/Bates_Motel.html,s5e9 - Bates Motel
+1492497008 - Tue Apr 18 08:30:08 CEST 2017 - /Stream/Baby_Daddy.html,s6e6 - Baby Daddy
