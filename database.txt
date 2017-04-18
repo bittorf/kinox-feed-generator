@@ -1032,3 +1032,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492496863 - Tue Apr 18 08:27:43 CEST 2017 - /Stream/Graceland-2.html,s3e2 - Graceland
 1492496869 - Tue Apr 18 08:27:49 CEST 2017 - /Stream/Vikings-1.html,s1e10 - Vikings
 1492496882 - Tue Apr 18 08:28:02 CEST 2017 - /Stream/Code_Black-1.html,s2e5 - Code Black
+1492496895 - Tue Apr 18 08:28:15 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e7 - Chicago Fire
