@@ -1036,3 +1036,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492496905 - Tue Apr 18 08:28:25 CEST 2017 - /Stream/Taken-5.html,s1e8 - Taken
 1492496912 - Tue Apr 18 08:28:32 CEST 2017 - /Stream/A-P-B.html,s1e11 - A.P.B.
 1492496923 - Tue Apr 18 08:28:43 CEST 2017 - /Stream/Kevin_Can_Wait.html,s1e22 - Kevin Can Wait
+1492496928 - Tue Apr 18 08:28:48 CEST 2017 - /Stream/Fortitude-1.html,s2e1 - Fortitude
