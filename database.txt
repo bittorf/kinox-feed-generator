@@ -1046,3 +1046,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492496979 - Tue Apr 18 08:29:39 CEST 2017 - /Stream/Scorpion.html,s3e22 - Scorpion
 1492496989 - Tue Apr 18 08:29:49 CEST 2017 - /Stream/Bates_Motel.html,s5e9 - Bates Motel
 1492497008 - Tue Apr 18 08:30:08 CEST 2017 - /Stream/Baby_Daddy.html,s6e6 - Baby Daddy
+1492497015 - Tue Apr 18 08:30:15 CEST 2017 - /Stream/2_Broke_Girls.html,s6e22 - 2 Broke Girls
