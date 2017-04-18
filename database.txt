@@ -1043,3 +1043,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492496960 - Tue Apr 18 08:29:20 CEST 2017 - /Stream/Superior_Donuts.html,s1e11 - Superior Donuts
 1492496965 - Tue Apr 18 08:29:25 CEST 2017 - /Stream/Quantico.html,s2e18 - Quantico
 1492496973 - Tue Apr 18 08:29:33 CEST 2017 - /Stream/Angie_Tribeca.html,s3e2 - Angie Tribeca
+1492496979 - Tue Apr 18 08:29:39 CEST 2017 - /Stream/Scorpion.html,s3e22 - Scorpion
