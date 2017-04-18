@@ -1040,3 +1040,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492496935 - Tue Apr 18 08:28:55 CEST 2017 - /Stream/American_Crime.html,s3e6 - American Crime
 1492496941 - Tue Apr 18 08:29:01 CEST 2017 - /Stream/Better_Call_Saul-1.html,s3e2 - Better Call Saul
 1492496954 - Tue Apr 18 08:29:14 CEST 2017 - /Stream/Wolfblood.html,s5e8 - Wolfblood
+1492496960 - Tue Apr 18 08:29:20 CEST 2017 - /Stream/Superior_Donuts.html,s1e11 - Superior Donuts
