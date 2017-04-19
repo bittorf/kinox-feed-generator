@@ -1055,3 +1055,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492590752 - Wed Apr 19 10:32:32 CEST 2017 - /Stream/Better_Call_Saul.html,s3e2 - Better Call Saul
 1492590761 - Wed Apr 19 10:32:41 CEST 2017 - /Stream/24_Legacy-1.html,s1e11 - 24: Legacy
 1492590769 - Wed Apr 19 10:32:49 CEST 2017 - /Stream/Profiling_Paris.html,s7e3 - Profiling Paris
+1492590785 - Wed Apr 19 10:33:05 CEST 2017 - /Stream/Charite.html,s1e6 - Charité
