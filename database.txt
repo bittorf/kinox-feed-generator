@@ -1052,3 +1052,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492590720 - Wed Apr 19 10:32:00 CEST 2017 - /Stream/Outcast-4.html,s2e2 - Outcast
 1492590729 - Wed Apr 19 10:32:09 CEST 2017 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s7e9 - Shameless - Nicht ganz nüchtern
 1492590744 - Wed Apr 19 10:32:24 CEST 2017 - /Stream/Riverdale-1.html,s1e10 - Riverdale
+1492590752 - Wed Apr 19 10:32:32 CEST 2017 - /Stream/Better_Call_Saul.html,s3e2 - Better Call Saul
