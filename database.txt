@@ -1058,3 +1058,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492590785 - Wed Apr 19 10:33:05 CEST 2017 - /Stream/Charite.html,s1e6 - Charité
 1492590791 - Wed Apr 19 10:33:11 CEST 2017 - /Stream/Chicago_Med-1.html,s2e7 - Chicago Med
 1492590798 - Wed Apr 19 10:33:18 CEST 2017 - /Stream/American_Housewife.html,s1e20 - American Housewife
+1492590804 - Wed Apr 19 10:33:24 CEST 2017 - /Stream/Bull.html,s1e19 - Bull
