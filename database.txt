@@ -1075,3 +1075,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492641375 - Thu Apr 20 00:36:15 CEST 2017 - /Stream/Ruckus.html - Ruckus
 1492641381 - Thu Apr 20 00:36:21 CEST 2017 - /Stream/Rumble_in_the_Bronx.html - Rumble in the Bronx
 1492641390 - Thu Apr 20 00:36:30 CEST 2017 - /Stream/Die_Bienenhueterin.html - Die Bienenhüterin
+1492641401 - Thu Apr 20 00:36:41 CEST 2017 - /Stream/Roxy_Hunter_und_das_Geheimnis_des_Schamanen.html - Roxy Hunter und das Geheimnis des Schamanen
