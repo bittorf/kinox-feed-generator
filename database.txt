@@ -1127,3 +1127,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492713858 - Thu Apr 20 20:44:18 CEST 2017 - /Stream/Archer-1.html,s8e3 - Archer
 1492713867 - Thu Apr 20 20:44:27 CEST 2017 - /Stream/Neo_Magazin-1.html,s4e10 - Neo Magazin
 1492728286 - Fri Apr 21 00:44:46 CEST 2017 - /Stream/Rounders-1.html - Rounders
+1492728295 - Fri Apr 21 00:44:55 CEST 2017 - /Stream/Reverse_Angle_Ein_Brief_aus_New_York.html - Reverse Angle: Ein Brief aus New York
