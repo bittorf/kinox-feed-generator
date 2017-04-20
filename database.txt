@@ -1104,3 +1104,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492713642 - Thu Apr 20 20:40:42 CEST 2017 - /Stream/Nacktbaden-Manche_braeunen_andere_brennen.html - Nacktbaden - Manche bräunen, andere brennen
 1492713653 - Thu Apr 20 20:40:53 CEST 2017 - /Stream/Ransom-2.html,s1e6 - Ransom
 1492713658 - Thu Apr 20 20:40:58 CEST 2017 - /Stream/How_to_Get_Away_with_Murder-1.html,s3e7 - How to Get Away with Murder
+1492713667 - Thu Apr 20 20:41:07 CEST 2017 - /Stream/Class-2.html,s1e3 - Class
