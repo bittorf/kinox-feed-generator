@@ -1124,3 +1124,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492713831 - Thu Apr 20 20:43:51 CEST 2017 - /Stream/The_Magicians.html,s2e13 - The Magicians
 1492713844 - Thu Apr 20 20:44:04 CEST 2017 - /Stream/The_Expanse.html,s2e13 - The Expanse
 1492713850 - Thu Apr 20 20:44:10 CEST 2017 - /Stream/Fargo-1.html,s3e1 - Fargo
+1492713858 - Thu Apr 20 20:44:18 CEST 2017 - /Stream/Archer-1.html,s8e3 - Archer
