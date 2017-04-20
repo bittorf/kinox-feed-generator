@@ -1119,3 +1119,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492713802 - Thu Apr 20 20:43:22 CEST 2017 - /Stream/Designated_Survivor.html,s1e17 - Designated Survivor
 1492713809 - Thu Apr 20 20:43:29 CEST 2017 - /Stream/Rebel-1.html,s1e4 - Rebel
 1492713813 - Thu Apr 20 20:43:33 CEST 2017 - /Stream/Lopez-2.html,s2e4 - Lopez
+1492713818 - Thu Apr 20 20:43:38 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders.html,s2e8 - Criminal Minds: Beyond Borders
