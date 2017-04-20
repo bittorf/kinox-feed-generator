@@ -1109,3 +1109,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492713693 - Thu Apr 20 20:41:33 CEST 2017 - /Stream/Die_Simpsons.html,s27e17 - Die Simpsons
 1492713712 - Thu Apr 20 20:41:52 CEST 2017 - /Stream/The_Five-2.html,s1 - The Five
 1492713724 - Thu Apr 20 20:42:04 CEST 2017 - /Stream/Code_Black-1.html,s2e6 - Code Black
+1492713730 - Thu Apr 20 20:42:10 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e13 - Navy CIS: L.A.
