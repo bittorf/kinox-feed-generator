@@ -1209,3 +1209,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492815348 - Sat Apr 22 00:55:48 CEST 2017 - /Stream/Rampage_2_Capital_Punishment.html - Rampage 2: Capital Punishment
 1492815354 - Sat Apr 22 00:55:54 CEST 2017 - /Stream/Ruf_der_Pferde-Ein_Maedchen_folgt_seinem_Herzen.html - Ruf der Pferde - Ein Mädchen folgt seinem Herzen
 1492815359 - Sat Apr 22 00:55:59 CEST 2017 - /Stream/Robotjox-Die_Schlacht_der_Stahlgiganten.html - Robotjox - Die Schlacht der Stahlgiganten
+1492815367 - Sat Apr 22 00:56:07 CEST 2017 - /Stream/Reine_Maennersache.html - Reine Männersache
