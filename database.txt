@@ -1181,3 +1181,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492757470 - Fri Apr 21 08:51:10 CEST 2017 - /Stream/The_Flash-1.html,s2 - The Flash
 1492757483 - Fri Apr 21 08:51:23 CEST 2017 - /Stream/Supergirl-2.html,s2e5 - Supergirl
 1492757493 - Fri Apr 21 08:51:33 CEST 2017 - /Stream/The_Catch.html,s2e7 - The Catch
+1492757500 - Fri Apr 21 08:51:40 CEST 2017 - /Stream/Superstore.html,s2e19 - Superstore
