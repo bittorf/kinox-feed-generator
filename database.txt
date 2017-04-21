@@ -1205,3 +1205,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1492815321 - Sat Apr 22 00:55:21 CEST 2017 - /Stream/Repentance.html - Repentance
 1492815327 - Sat Apr 22 00:55:27 CEST 2017 - /Stream/Richard_The_Lionheart.html - Richard: The Lionheart
 1492815333 - Sat Apr 22 00:55:33 CEST 2017 - /Stream/Radio_Silence-Der_Tod_hoert_mit.html - Radio Silence - Der Tod hört mit
+1492815338 - Sat Apr 22 00:55:39 CEST 2017 - /Stream/Rico_Oskar_und_die_Tieferschatten.html - Rico, Oskar und die Tieferschatten
