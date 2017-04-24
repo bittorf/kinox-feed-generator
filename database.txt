@@ -1243,3 +1243,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493017326 - Mon Apr 24 09:02:06 CEST 2017 - /Stream/You_Me_Her.html,s2e8 - You Me Her
 1493017330 - Mon Apr 24 09:02:10 CEST 2017 - /Stream/Shades_of_Blue.html,s2e8 - Shades of Blue
 1493017336 - Mon Apr 24 09:02:16 CEST 2017 - /Stream/Billions.html,s2e10 - Billions
+1493017343 - Mon Apr 24 09:02:23 CEST 2017 - /Stream/Into_the_Badlands.html,s2e6 - Into the Badlands
