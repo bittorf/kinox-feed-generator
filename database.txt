@@ -1220,3 +1220,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493009956 - Mon Apr 24 06:59:16 CEST 2017 - /Stream/Spring_Awakening-Rebellion_der_Jugend.html - Spring Awakening - Rebellion der Jugend
 1493009961 - Mon Apr 24 06:59:21 CEST 2017 - /Stream/Teen_Wolf-2.html,s6e6 - Teen Wolf
 1493009977 - Mon Apr 24 06:59:37 CEST 2017 - /Stream/Girlboss.html,s1 - Girlboss
+1493009981 - Mon Apr 24 06:59:41 CEST 2017 - /Stream/Bosch.html,s3 - Bosch
