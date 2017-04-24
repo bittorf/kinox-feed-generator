@@ -1237,3 +1237,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493010080 - Mon Apr 24 07:01:20 CEST 2017 - /Stream/Love-3.html,s2e9 - Love
 1493010085 - Mon Apr 24 07:01:25 CEST 2017 - /Stream/Humans-1.html,s2e4 - Humans
 1493010093 - Mon Apr 24 07:01:33 CEST 2017 - /Stream/Baron_noir.html,s1e3 - Baron noir
+1493010097 - Mon Apr 24 07:01:37 CEST 2017 - /Stream/Bull_The_Necklace-1.html,s1e15 - "Bull" The Necklace
