@@ -1224,3 +1224,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493009988 - Mon Apr 24 06:59:48 CEST 2017 - /Stream/The_Detour-1.html,s2e6 - The Detour
 1493009994 - Mon Apr 24 06:59:54 CEST 2017 - /Stream/The_Job_Lot.html,s1e2 - The Job Lot
 1493009998 - Mon Apr 24 06:59:58 CEST 2017 - /Stream/The_Son-1.html,s1e3 - The Son
+1493010011 - Mon Apr 24 07:00:11 CEST 2017 - /Stream/Quantico-1.html,s2e6 - Quantico
