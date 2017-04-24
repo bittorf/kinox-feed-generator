@@ -1231,3 +1231,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493010042 - Mon Apr 24 07:00:42 CEST 2017 - /Stream/Lucha_Underground.html,s2 - Lucha Underground
 1493010048 - Mon Apr 24 07:00:48 CEST 2017 - /Stream/Mickey_and_the_Roadster_Racers.html,s1e2 - Mickey and the Roadster Racers
 1493010053 - Mon Apr 24 07:00:53 CEST 2017 - /Stream/Lifjord-Der_Freispruch.html,s2e4 - Lifjord - Der Freispruch
+1493010058 - Mon Apr 24 07:00:58 CEST 2017 - /Stream/Neo_Magazin-1.html,s5e12 - Neo Magazin
