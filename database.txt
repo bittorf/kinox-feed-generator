@@ -1228,3 +1228,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493010021 - Mon Apr 24 07:00:21 CEST 2017 - /Stream/Prison_Break_Sequel.html,s5e3 - Prison Break: Sequel
 1493010027 - Mon Apr 24 07:00:27 CEST 2017 - /Stream/Dittsche.html,s26e7 - Dittsche
 1493010032 - Mon Apr 24 07:00:32 CEST 2017 - /Stream/South_Park.html,s20e6 - South Park
+1493010042 - Mon Apr 24 07:00:42 CEST 2017 - /Stream/Lucha_Underground.html,s2 - Lucha Underground
