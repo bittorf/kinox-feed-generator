@@ -1233,3 +1233,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493010053 - Mon Apr 24 07:00:53 CEST 2017 - /Stream/Lifjord-Der_Freispruch.html,s2e4 - Lifjord - Der Freispruch
 1493010058 - Mon Apr 24 07:00:58 CEST 2017 - /Stream/Neo_Magazin-1.html,s5e12 - Neo Magazin
 1493010064 - Mon Apr 24 07:01:04 CEST 2017 - /Stream/Rizzoli-Isles-1.html,s7e9 - Rizzoli & Isles
+1493010073 - Mon Apr 24 07:01:13 CEST 2017 - /Stream/Hinter_Gittern-Der_Frauenknast.html,s4e1 - Hinter Gittern - Der Frauenknast
