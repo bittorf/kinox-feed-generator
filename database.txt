@@ -1218,3 +1218,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493009941 - Mon Apr 24 06:59:01 CEST 2017 - /Stream/Get_Out.html - Get Out
 1493009949 - Mon Apr 24 06:59:09 CEST 2017 - /Stream/The_Bye_Bye_Man.html - The Bye Bye Man
 1493009956 - Mon Apr 24 06:59:16 CEST 2017 - /Stream/Spring_Awakening-Rebellion_der_Jugend.html - Spring Awakening - Rebellion der Jugend
+1493009961 - Mon Apr 24 06:59:21 CEST 2017 - /Stream/Teen_Wolf-2.html,s6e6 - Teen Wolf
