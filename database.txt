@@ -1221,3 +1221,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493009961 - Mon Apr 24 06:59:21 CEST 2017 - /Stream/Teen_Wolf-2.html,s6e6 - Teen Wolf
 1493009977 - Mon Apr 24 06:59:37 CEST 2017 - /Stream/Girlboss.html,s1 - Girlboss
 1493009981 - Mon Apr 24 06:59:41 CEST 2017 - /Stream/Bosch.html,s3 - Bosch
+1493009988 - Mon Apr 24 06:59:48 CEST 2017 - /Stream/The_Detour-1.html,s2e6 - The Detour
