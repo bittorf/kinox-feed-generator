@@ -1241,3 +1241,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493017308 - Mon Apr 24 09:01:48 CEST 2017 - /Stream/Feud.html,s1e8 - Feud
 1493017314 - Mon Apr 24 09:01:54 CEST 2017 - /Stream/Making_History.html,s1e6 - Making History
 1493017326 - Mon Apr 24 09:02:06 CEST 2017 - /Stream/You_Me_Her.html,s2e8 - You Me Her
+1493017330 - Mon Apr 24 09:02:10 CEST 2017 - /Stream/Shades_of_Blue.html,s2e8 - Shades of Blue
