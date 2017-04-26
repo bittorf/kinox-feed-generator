@@ -1261,3 +1261,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493197647 - Wed Apr 26 11:07:27 CEST 2017 - /Stream/Das_Loch.html - Das Loch
 1493197651 - Wed Apr 26 11:07:31 CEST 2017 - /Stream/Chicago_Med-1.html,s2e8 - Chicago Med
 1493197657 - Wed Apr 26 11:07:37 CEST 2017 - /Stream/2_Broke_Girls-1.html,s6e12 - 2 Broke Girls
+1493197664 - Wed Apr 26 11:07:44 CEST 2017 - /Stream/Ultimate_Beastmaster.html,s1e8 - Ultimate Beastmaster
