@@ -1256,3 +1256,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493017436 - Mon Apr 24 09:03:56 CEST 2017 - /Stream/Once_Upon_a_Time.html,s6e18 - Once Upon a Time
 1493017456 - Mon Apr 24 09:04:16 CEST 2017 - /Stream/Bobs_Burgers.html,s7e17 - Bob's Burgers
 1493017467 - Mon Apr 24 09:04:27 CEST 2017 - /Stream/NCIS_Los_Angeles.html,s8e21 - NCIS: Los Angeles
+1493197633 - Wed Apr 26 11:07:13 CEST 2017 - /Stream/Cyborg_X-1.html - Cyborg X
