@@ -1297,3 +1297,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493197929 - Wed Apr 26 11:12:09 CEST 2017 - /Stream/The_Americans.html,s5e8 - The Americans
 1493197938 - Wed Apr 26 11:12:18 CEST 2017 - /Stream/Chicago_Fire.html,s5e19 - Chicago Fire
 1493197947 - Wed Apr 26 11:12:27 CEST 2017 - /Stream/Baby_Daddy.html,s6e7 - Baby Daddy
+1493197953 - Wed Apr 26 11:12:33 CEST 2017 - /Stream/American_Dad-1.html,s14e10 - American Dad!
