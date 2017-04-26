@@ -1295,3 +1295,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493197914 - Wed Apr 26 11:11:54 CEST 2017 - /Stream/Brooklyn_Nine-Nine.html,s14e15 - Brooklyn Nine-Nine
 1493197921 - Wed Apr 26 11:12:01 CEST 2017 - /Stream/Bates_Motel.html,s5 - Bates Motel
 1493197929 - Wed Apr 26 11:12:09 CEST 2017 - /Stream/The_Americans.html,s5e8 - The Americans
+1493197938 - Wed Apr 26 11:12:18 CEST 2017 - /Stream/Chicago_Fire.html,s5e19 - Chicago Fire
