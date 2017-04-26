@@ -1272,3 +1272,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493197735 - Wed Apr 26 11:08:55 CEST 2017 - /Stream/Kevin_Can_Wait-1.html,s1e21 - Kevin Can Wait
 1493197740 - Wed Apr 26 11:09:00 CEST 2017 - /Stream/Profiling_Paris.html,s7e4 - Profiling Paris
 1493197747 - Wed Apr 26 11:09:07 CEST 2017 - /Stream/South_Park.html,s20e7 - South Park
+1493197755 - Wed Apr 26 11:09:15 CEST 2017 - /Stream/Lethal_Weapon-2.html,s1e11 - Lethal Weapon
