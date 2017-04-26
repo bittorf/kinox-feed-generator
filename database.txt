@@ -1293,3 +1293,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493197897 - Wed Apr 26 11:11:37 CEST 2017 - /Stream/Young-Hungry.html,s5e6 - Young & Hungry
 1493197901 - Wed Apr 26 11:11:41 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D.html,s4e19 - Agents of S.H.I.E.L.D.
 1493197914 - Wed Apr 26 11:11:54 CEST 2017 - /Stream/Brooklyn_Nine-Nine.html,s14e15 - Brooklyn Nine-Nine
+1493197921 - Wed Apr 26 11:12:01 CEST 2017 - /Stream/Bates_Motel.html,s5 - Bates Motel
