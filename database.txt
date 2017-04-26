@@ -1276,3 +1276,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493197762 - Wed Apr 26 11:09:22 CEST 2017 - /Stream/Better_Call_Saul.html,s3e3 - Better Call Saul
 1493197769 - Wed Apr 26 11:09:29 CEST 2017 - /Stream/Love-3.html,s2e10 - Love
 1493197774 - Wed Apr 26 11:09:34 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e14 - Navy CIS: L.A.
+1493197783 - Wed Apr 26 11:09:43 CEST 2017 - /Stream/Die_Simpsons.html,s27e18 - Die Simpsons
