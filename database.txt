@@ -1278,3 +1278,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493197774 - Wed Apr 26 11:09:34 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e14 - Navy CIS: L.A.
 1493197783 - Wed Apr 26 11:09:43 CEST 2017 - /Stream/Die_Simpsons.html,s27e18 - Die Simpsons
 1493197799 - Wed Apr 26 11:09:59 CEST 2017 - /Stream/24_Legacy-1.html,s1e12 - 24: Legacy
+1493197810 - Wed Apr 26 11:10:10 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e8 - Chicago Fire
