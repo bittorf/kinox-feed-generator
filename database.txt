@@ -1285,3 +1285,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493197837 - Wed Apr 26 11:10:37 CEST 2017 - /Stream/A-P-B.html,s1e12 - A.P.B.
 1493197843 - Wed Apr 26 11:10:43 CEST 2017 - /Stream/Outcast_2016.html,s2e4 - Outcast 2016
 1493197849 - Wed Apr 26 11:10:49 CEST 2017 - /Stream/Outsiders.html,s2e13 - Outsiders
+1493197856 - Wed Apr 26 11:10:56 CEST 2017 - /Stream/Angie_Tribeca.html,s3 - Angie Tribeca
