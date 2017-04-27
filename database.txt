@@ -1310,3 +1310,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493277268 - Thu Apr 27 09:14:28 CEST 2017 - /Stream/Fresh_Off_the_Boat-1.html,s3e2 - Fresh Off the Boat
 1493277283 - Thu Apr 27 09:14:43 CEST 2017 - /Stream/Z_Nation-1.html,s3e1 - Z Nation
 1493277290 - Thu Apr 27 09:14:50 CEST 2017 - /Stream/Class-2.html,s1e4 - Class
+1493277303 - Thu Apr 27 09:15:03 CEST 2017 - /Stream/The_Royals.html,s3e5 - The Royals
