@@ -1315,3 +1315,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493277316 - Thu Apr 27 09:15:16 CEST 2017 - /Stream/Designated_Survivor.html,s1e18 - Designated Survivor
 1493277333 - Thu Apr 27 09:15:33 CEST 2017 - /Stream/Speechless-1.html,s1e20 - Speechless
 1493277338 - Thu Apr 27 09:15:38 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders.html,s2e9 - Criminal Minds: Beyond Borders
+1493277352 - Thu Apr 27 09:15:52 CEST 2017 - /Stream/Greenleaf.html,s2e7 - Greenleaf
