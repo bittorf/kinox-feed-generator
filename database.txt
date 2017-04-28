@@ -1358,3 +1358,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493385789 - Fri Apr 28 15:23:09 CEST 2017 - /Stream/Life_in_Pieces.html,s2e20 - Life in Pieces
 1493385794 - Fri Apr 28 15:23:14 CEST 2017 - /Stream/The_Blacklist.html,s4e18 - The Blacklist
 1493385806 - Fri Apr 28 15:23:26 CEST 2017 - /Stream/Mom.html,s4e20 - Mom
+1493385812 - Fri Apr 28 15:23:32 CEST 2017 - /Stream/The_Big_Bang_Theory-1.html,s10e22 - The Big Bang Theory
