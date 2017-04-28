@@ -1341,3 +1341,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493385675 - Fri Apr 28 15:21:15 CEST 2017 - /Stream/Killer_Joe.html - Killer Joe
 1493385683 - Fri Apr 28 15:21:23 CEST 2017 - /Stream/Ultimate_Beastmaster.html,s1 - Ultimate Beastmaster
 1493385687 - Fri Apr 28 15:21:27 CEST 2017 - /Stream/Designated_Survivor-1.html,s1e15 - Designated Survivor
+1493385694 - Fri Apr 28 15:21:34 CEST 2017 - /Stream/Fortitude.html,s2e9 - Fortitude
