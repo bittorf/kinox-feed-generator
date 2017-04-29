@@ -1368,3 +1368,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493429141 - Sat Apr 29 03:25:41 CEST 2017 - /Stream/Baby_Daddy-1.html,s5 - Baby Daddy
 1493429146 - Sat Apr 29 03:25:46 CEST 2017 - /Stream/The_Expanse_german_subbed.html,s2 - The Expanse *german subbed*
 1493429153 - Sat Apr 29 03:25:53 CEST 2017 - /Stream/Homeland_german_subbed.html,s6e12 - Homeland *german subbed*
+1493429164 - Sat Apr 29 03:26:04 CEST 2017 - /Stream/Fargo-2.html,s3e2 - Fargo
