@@ -1387,3 +1387,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493429310 - Sat Apr 29 03:28:30 CEST 2017 - /Stream/Outsiders_german_subbed.html,s2e11 - Outsiders *german subbed*
 1493429316 - Sat Apr 29 03:28:36 CEST 2017 - /Stream/Big_Little_Lies.html,s1e4 - Big Little Lies
 1493429321 - Sat Apr 29 03:28:41 CEST 2017 - /Stream/Supernatural_german_subbed.html,s12e18 - Supernatural *german subbed*
+1493429341 - Sat Apr 29 03:29:01 CEST 2017 - /Stream/Supergirl_german_subbed.html,s2e13 - Supergirl *german subbed*
