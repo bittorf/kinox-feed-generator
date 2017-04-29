@@ -1378,3 +1378,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493429229 - Sat Apr 29 03:27:09 CEST 2017 - /Stream/Arrow_german_subbed.html,s5e17 - Arrow *german subbed*
 1493429245 - Sat Apr 29 03:27:25 CEST 2017 - /Stream/Fresh_Off_the_Boat-1.html,s3e1 - Fresh Off the Boat
 1493429252 - Sat Apr 29 03:27:32 CEST 2017 - /Stream/Super_Girl.html,s2e18 - Super Girl
+1493429261 - Sat Apr 29 03:27:41 CEST 2017 - /Stream/Legends_of_Tomorrow_german_subbed.html,s2e11 - Legends of Tomorrow *german subbed*
