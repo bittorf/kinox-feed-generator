@@ -1361,3 +1361,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493385812 - Fri Apr 28 15:23:32 CEST 2017 - /Stream/The_Big_Bang_Theory-1.html,s10e22 - The Big Bang Theory
 1493385828 - Fri Apr 28 15:23:48 CEST 2017 - /Stream/Supernatural-1.html,s12e19 - Supernatural
 1493385856 - Fri Apr 28 15:24:16 CEST 2017 - /Stream/Greys_Anatomy.html,s13e21 - Grey's Anatomy
+1493429109 - Sat Apr 29 03:25:09 CEST 2017 - /Stream/The_Originals_german_subbed.html,s4e4 - The Originals *german subbed*
