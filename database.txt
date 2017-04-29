@@ -1404,3 +1404,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493458246 - Sat Apr 29 11:30:46 CEST 2017 - /Stream/Hot_Girls_Wanted_Turned_On.html,s1e1 - Hot Girls Wanted: Turned On
 1493458251 - Sat Apr 29 11:30:51 CEST 2017 - /Stream/Dear_White_People-1.html,s1e1 - Dear White People
 1493458264 - Sat Apr 29 11:31:04 CEST 2017 - /Stream/Genius_Einstein.html,s1e1 - Genius: Einstein
+1493458270 - Sat Apr 29 11:31:10 CEST 2017 - /Stream/Baron_noir.html,s1e4 - Baron noir
