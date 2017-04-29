@@ -1384,3 +1384,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493429286 - Sat Apr 29 03:28:06 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s4e18 - Agents of S.H.I.E.L.D. *german subbed*
 1493429298 - Sat Apr 29 03:28:18 CEST 2017 - /Stream/Code_Black-1.html,s2e7 - Code Black
 1493429303 - Sat Apr 29 03:28:23 CEST 2017 - /Stream/Bosch.html,s3e6 - Bosch
+1493429310 - Sat Apr 29 03:28:30 CEST 2017 - /Stream/Outsiders_german_subbed.html,s2e11 - Outsiders *german subbed*
