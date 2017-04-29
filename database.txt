@@ -1380,3 +1380,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493429252 - Sat Apr 29 03:27:32 CEST 2017 - /Stream/Super_Girl.html,s2e18 - Super Girl
 1493429261 - Sat Apr 29 03:27:41 CEST 2017 - /Stream/Legends_of_Tomorrow_german_subbed.html,s2e11 - Legends of Tomorrow *german subbed*
 1493429268 - Sat Apr 29 03:27:48 CEST 2017 - /Stream/How_to_Get_Away_with_Murder-1.html,s3 - How to Get Away with Murder
+1493429277 - Sat Apr 29 03:27:57 CEST 2017 - /Stream/Quantico-1.html,s2e7 - Quantico
