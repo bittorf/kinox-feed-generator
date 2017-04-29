@@ -1372,3 +1372,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493429172 - Sat Apr 29 03:26:12 CEST 2017 - /Stream/Colony_german_subbed.html,s2 - Colony *german subbed*
 1493429179 - Sat Apr 29 03:26:19 CEST 2017 - /Stream/The_Flash_german_subbed.html,s3 - The Flash *german subbed*
 1493429193 - Sat Apr 29 03:26:33 CEST 2017 - /Stream/Gotham.html,s3e15 - Gotham
+1493429205 - Sat Apr 29 03:26:45 CEST 2017 - /Stream/Lifjord-Der_Freispruch.html,s2e5 - Lifjord - Der Freispruch
