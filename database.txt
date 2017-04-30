@@ -1413,3 +1413,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493544776 - Sun Apr 30 11:32:56 CEST 2017 - /Stream/Famous_in_Love_german_subbed.html,s1e1 - Famous in Love *german subbed*
 1493544781 - Sun Apr 30 11:33:01 CEST 2017 - /Stream/Prison_Break_german_subbed-1.html,s1e1 - Prison Break *german subbed*
 1493544788 - Sun Apr 30 11:33:08 CEST 2017 - /Stream/Pretty_Little_Liars_german_subbed.html,s7e11 - Pretty Little Liars *german subbed*
+1493544800 - Sun Apr 30 11:33:20 CEST 2017 - /Stream/Quantico-1.html,s2e8 - Quantico
