@@ -1421,3 +1421,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493544849 - Sun Apr 30 11:34:09 CEST 2017 - /Stream/Digby_Dragon.html,s1 - Digby Dragon
 1493544854 - Sun Apr 30 11:34:14 CEST 2017 - /Stream/Frequency_german_subbed.html,s1 - Frequency *german subbed*
 1493544859 - Sun Apr 30 11:34:19 CEST 2017 - /Stream/Divorce-1.html,s1 - Divorce
+1493544863 - Sun Apr 30 11:34:23 CEST 2017 - /Stream/Bosch-1.html,s3 - Bosch
