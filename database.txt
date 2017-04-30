@@ -1425,3 +1425,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493544870 - Sun Apr 30 11:34:30 CEST 2017 - /Stream/Crazy_Ex-Girlfriend-1.html,s2e13 - Crazy Ex-Girlfriend
 1493544877 - Sun Apr 30 11:34:37 CEST 2017 - /Stream/Ancient_Aliens.html,s12e1 - Ancient Aliens
 1493544883 - Sun Apr 30 11:34:43 CEST 2017 - /Stream/Death_Parade.html,s1 - Death Parade
+1493544890 - Sun Apr 30 11:34:50 CEST 2017 - /Stream/BattleBots.html,s2e10 - BattleBots
