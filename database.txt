@@ -1410,3 +1410,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493544753 - Sun Apr 30 11:32:33 CEST 2017 - /Stream/Ich_denke_oft_an_Piroschka.html - Ich denke oft an Piroschka
 1493544759 - Sun Apr 30 11:32:39 CEST 2017 - /Stream/Anguish-Gequaelte_Seele.html - Anguish - Gequälte Seele
 1493544770 - Sun Apr 30 11:32:50 CEST 2017 - /Stream/Rush_Hour-3.html,s1e3 - Rush Hour
+1493544776 - Sun Apr 30 11:32:56 CEST 2017 - /Stream/Famous_in_Love_german_subbed.html,s1e1 - Famous in Love *german subbed*
