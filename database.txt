@@ -1426,3 +1426,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493544877 - Sun Apr 30 11:34:37 CEST 2017 - /Stream/Ancient_Aliens.html,s12e1 - Ancient Aliens
 1493544883 - Sun Apr 30 11:34:43 CEST 2017 - /Stream/Death_Parade.html,s1 - Death Parade
 1493544890 - Sun Apr 30 11:34:50 CEST 2017 - /Stream/BattleBots.html,s2e10 - BattleBots
+1493544895 - Sun Apr 30 11:34:55 CEST 2017 - /Stream/Criminal_Minds_german_subbed.html,s12e20 - Criminal Minds *german subbed*
