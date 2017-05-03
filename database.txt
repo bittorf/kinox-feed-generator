@@ -1429,3 +1429,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493544895 - Sun Apr 30 11:34:55 CEST 2017 - /Stream/Criminal_Minds_german_subbed.html,s12e20 - Criminal Minds *german subbed*
 1493544909 - Sun Apr 30 11:35:09 CEST 2017 - /Stream/Casting_JonBenet.html - Casting JonBenet
 1493818699 - Wed May  3 15:38:19 CEST 2017 - /Stream/Gold_Gier_hat_eine_neue_Farbe.html - Gold: Gier hat eine neue Farbe
+1493818710 - Wed May  3 15:38:30 CEST 2017 - /Stream/Humanoid-Der_letzte_Kampf_der_Menschheit.html - Humanoid - Der letzte Kampf der Menschheit
