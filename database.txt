@@ -1435,3 +1435,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493818728 - Wed May  3 15:38:48 CEST 2017 - /Stream/Star_Wars_Rebels.html,s3 - Star Wars Rebels
 1493818737 - Wed May  3 15:38:57 CEST 2017 - /Stream/Outcast-4.html,s2e4 - Outcast
 1493818748 - Wed May  3 15:39:08 CEST 2017 - /Stream/Prison_Break_Sequel-1.html,s5e5 - Prison Break: Sequel
+1493818755 - Wed May  3 15:39:15 CEST 2017 - /Stream/Class-2.html,s1e5 - Class
