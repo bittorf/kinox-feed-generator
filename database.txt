@@ -1443,3 +1443,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493818797 - Wed May  3 15:39:57 CEST 2017 - /Stream/Circus_Halligalli.html,s9e11 - Circus Halligalli
 1493818801 - Wed May  3 15:40:01 CEST 2017 - /Stream/The_Americans.html,s5e9 - The Americans
 1493818814 - Wed May  3 15:40:14 CEST 2017 - /Stream/Chicago_Fire.html,s5e20 - Chicago Fire
+1493818825 - Wed May  3 15:40:25 CEST 2017 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s7e11 - Shameless - Nicht ganz nüchtern
