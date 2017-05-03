@@ -1432,3 +1432,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493818710 - Wed May  3 15:38:30 CEST 2017 - /Stream/Humanoid-Der_letzte_Kampf_der_Menschheit.html - Humanoid - Der letzte Kampf der Menschheit
 1493818716 - Wed May  3 15:38:36 CEST 2017 - /Stream/Odysseus-the_Isle_of_Mists-1.html - Odysseus & the Isle of Mists
 1493818722 - Wed May  3 15:38:42 CEST 2017 - /Stream/Im_Nirgendwo.html - Im Nirgendwo
+1493818728 - Wed May  3 15:38:48 CEST 2017 - /Stream/Star_Wars_Rebels.html,s3 - Star Wars Rebels
