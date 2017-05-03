@@ -1447,3 +1447,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493818838 - Wed May  3 15:40:38 CEST 2017 - /Stream/The_Middle.html,s8e21 - The Middle.
 1493818856 - Wed May  3 15:40:56 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e15 - Navy CIS: L.A.
 1493818870 - Wed May  3 15:41:10 CEST 2017 - /Stream/Der_gleiche_Himmel.html,s1e1 - Der gleiche Himmel
+1493818876 - Wed May  3 15:41:16 CEST 2017 - /Stream/Die_Simpsons.html,s27e19 - Die Simpsons
