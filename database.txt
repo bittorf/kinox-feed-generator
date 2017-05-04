@@ -1466,3 +1466,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493883873 - Thu May  4 09:44:33 CEST 2017 - /Stream/Fortitude.html,s2e10 - Fortitude
 1493883882 - Thu May  4 09:44:42 CEST 2017 - /Stream/Speechless-1.html,s1e21 - Speechless
 1493883887 - Thu May  4 09:44:47 CEST 2017 - /Stream/Underground-5.html,s2e9 - Underground
+1493883895 - Thu May  4 09:44:55 CEST 2017 - /Stream/Blindspot.html,s2e20 - Blindspot
