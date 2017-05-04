@@ -1505,3 +1505,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493913071 - Thu May  4 17:51:11 CEST 2017 - /Stream/Mistresses-2.html,s3 - Mistresses
 1493913078 - Thu May  4 17:51:18 CEST 2017 - /Stream/Schnell_ermittelt.html,s5e7 - Schnell ermittelt
 1493913083 - Thu May  4 17:51:23 CEST 2017 - /Stream/Prison_Break_Sequel.html,s5e4 - Prison Break: Sequel
+1493913088 - Thu May  4 17:51:28 CEST 2017 - /Stream/Prison_Break_german_subbed.html,s5e1 - Prison Break *german subbed*
