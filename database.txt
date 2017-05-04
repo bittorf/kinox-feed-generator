@@ -1492,3 +1492,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493912973 - Thu May  4 17:49:33 CEST 2017 - /Stream/iZombie.html,s3e5 - iZombie
 1493912981 - Thu May  4 17:49:41 CEST 2017 - /Stream/Prison_Break-2.html,s5e5 - Prison Break
 1493912990 - Thu May  4 17:49:50 CEST 2017 - /Stream/Gotham_german_subbed-1.html,s3 - Gotham *german subbed*
+1493913001 - Thu May  4 17:50:01 CEST 2017 - /Stream/Pretty_Little_Liars.html,s7e13 - Pretty Little Liars
