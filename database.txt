@@ -1486,3 +1486,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493912893 - Thu May  4 17:48:13 CEST 2017 - /Stream/Chicago_Med-1.html,s2e9 - Chicago Med
 1493912905 - Thu May  4 17:48:25 CEST 2017 - /Stream/NCIS_Naval_Criminal_Investigative_Service_german_subbed.html,s14e22 - NCIS: Naval Criminal Investigative Service *german subbed*
 1493912919 - Thu May  4 17:48:39 CEST 2017 - /Stream/You_Me_and_the_Apocalypse-1.html,s1e1 - You, Me and the Apocalypse
+1493912926 - Thu May  4 17:48:46 CEST 2017 - /Stream/Better_Call_Saul.html,s3e4 - Better Call Saul
