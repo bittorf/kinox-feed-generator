@@ -1478,3 +1478,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493884006 - Thu May  4 09:46:46 CEST 2017 - /Stream/Law-Order_Special_Victims_Unit.html,s18e17 - Law & Order: Special Victims Unit
 1493884022 - Thu May  4 09:47:02 CEST 2017 - /Stream/Criminal_Minds.html,s12e21 - Criminal Minds
 1493884034 - Thu May  4 09:47:14 CEST 2017 - /Stream/Soy_Luna.html,s2 - Soy Luna
+1493884040 - Thu May  4 09:47:20 CEST 2017 - /Stream/SOKO_5113.html,s42e26 - SOKO 5113
