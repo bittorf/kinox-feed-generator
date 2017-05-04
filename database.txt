@@ -1484,3 +1484,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493912881 - Thu May  4 17:48:01 CEST 2017 - /Stream/Personal_Affairs.html - Personal Affairs
 1493912887 - Thu May  4 17:48:07 CEST 2017 - /Stream/Orgazmo-1.html - Orgazmo
 1493912893 - Thu May  4 17:48:13 CEST 2017 - /Stream/Chicago_Med-1.html,s2e9 - Chicago Med
+1493912905 - Thu May  4 17:48:25 CEST 2017 - /Stream/NCIS_Naval_Criminal_Investigative_Service_german_subbed.html,s14e22 - NCIS: Naval Criminal Investigative Service *german subbed*
