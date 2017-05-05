@@ -1511,3 +1511,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493970758 - Fri May  5 09:52:38 CEST 2017 - /Stream/Tatort_Presidio.html - Tatort: Presidio
 1493970762 - Fri May  5 09:52:42 CEST 2017 - /Stream/Ransom-2.html,s1e8 - Ransom
 1493970770 - Fri May  5 09:52:50 CEST 2017 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s39e5 - Alarm für Cobra 11 - Die Autobahnpolizei
+1493970780 - Fri May  5 09:53:00 CEST 2017 - /Stream/Gotham-1.html,s3e1 - Gotham
