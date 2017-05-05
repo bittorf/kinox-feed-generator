@@ -1523,3 +1523,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493970860 - Fri May  5 09:54:20 CEST 2017 - /Stream/Scandal.html,s6e13 - Scandal
 1493970872 - Fri May  5 09:54:32 CEST 2017 - /Stream/Supernatural-1.html,s12e20 - Supernatural
 1493970892 - Fri May  5 09:54:52 CEST 2017 - /Stream/Greys_Anatomy.html,s13e22 - Grey's Anatomy
+1493970912 - Fri May  5 09:55:12 CEST 2017 - /Stream/Superstore.html,s2e21 - Superstore
