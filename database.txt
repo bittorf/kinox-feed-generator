@@ -1532,3 +1532,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494057423 - Sat May  6 09:57:03 CEST 2017 - /Stream/The_Detour-1.html,s2e8 - The Detour
 1494057429 - Sat May  6 09:57:09 CEST 2017 - /Stream/Humans-1.html,s2e6 - Humans
 1494057437 - Sat May  6 09:57:17 CEST 2017 - /Stream/Genius_Einstein.html,s1e2 - Genius: Einstein
+1494057443 - Sat May  6 09:57:23 CEST 2017 - /Stream/Rosewood-1.html,s1e10 - Rosewood
