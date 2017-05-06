@@ -1528,3 +1528,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1493970924 - Fri May  5 09:55:24 CEST 2017 - /Stream/Life_in_Pieces.html,s2e21 - Life in Pieces
 1493970934 - Fri May  5 09:55:34 CEST 2017 - /Stream/The_Big_Bang_Theory-1.html,s10e23 - The Big Bang Theory
 1494057411 - Sat May  6 09:56:51 CEST 2017 - /Stream/Big_Little_Lies.html,s1e5 - Big Little Lies
+1494057417 - Sat May  6 09:56:57 CEST 2017 - /Stream/Neo_Magazin-1.html,s5e14 - Neo Magazin
