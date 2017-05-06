@@ -1541,3 +1541,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494057493 - Sat May  6 09:58:13 CEST 2017 - /Stream/Sense8-1.html,s2 - Sense8
 1494057501 - Sat May  6 09:58:21 CEST 2017 - /Stream/The_Originals.html,s4e7 - The Originals
 1494057511 - Sat May  6 09:58:31 CEST 2017 - /Stream/Reign.html,s4e11 - Reign
+1494057520 - Sat May  6 09:58:40 CEST 2017 - /Stream/Hawaii_Five-0-1.html,s7e24 - Hawaii Five-0
