@@ -1543,3 +1543,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494057511 - Sat May  6 09:58:31 CEST 2017 - /Stream/Reign.html,s4e11 - Reign
 1494057520 - Sat May  6 09:58:40 CEST 2017 - /Stream/Hawaii_Five-0-1.html,s7e24 - Hawaii Five-0
 1494057532 - Sat May  6 09:58:52 CEST 2017 - /Stream/Blue_Bloods.html,s7e22 - Blue Bloods
+1494143997 - Sun May  7 09:59:57 CEST 2017 - /Stream/Dittsche.html,s26e9 - Dittsche
