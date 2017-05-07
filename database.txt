@@ -1548,3 +1548,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494144018 - Sun May  7 10:00:18 CEST 2017 - /Stream/Germanys_Next_Topmodel.html,s12e10 - Germany's Next Topmodel
 1494144026 - Sun May  7 10:00:26 CEST 2017 - /Stream/Prison_Break_Sequel.html,s5e5 - Prison Break: Sequel
 1494144032 - Sun May  7 10:00:32 CEST 2017 - /Stream/The_Son-1.html,s1e5 - The Son
+1494144038 - Sun May  7 10:00:38 CEST 2017 - /Stream/Animal_Kingdom-1.html,s4 - Animal Kingdom
