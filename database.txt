@@ -1564,3 +1564,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494172967 - Sun May  7 18:02:47 CEST 2017 - /Stream/Im_Namen_meiner_Tochter-Der_Fall_Kalinka.html - Im Namen meiner Tochter - Der Fall Kalinka
 1494172973 - Sun May  7 18:02:53 CEST 2017 - /Stream/Sharpays_fabelhafte_Welt.html - Sharpay's fabelhafte Welt
 1494172981 - Sun May  7 18:03:01 CEST 2017 - /Stream/Prison_Break.html,s5e5 - Prison Break
+1494172993 - Sun May  7 18:03:13 CEST 2017 - /Stream/Supernatural_german_subbed.html,s12e19 - Supernatural *german subbed*
