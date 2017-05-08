@@ -1615,3 +1615,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494281403 - Tue May  9 00:10:03 CEST 2017 - /Stream/The_Last_Kingdom.html,s2e1 - The Last Kingdom
 1494281409 - Tue May  9 00:10:09 CEST 2017 - /Stream/The_Last_Man_on_Earth-2.html,s3e16 - The Last Man on Earth
 1494281415 - Tue May  9 00:10:15 CEST 2017 - /Stream/The_Leftovers.html,s3e3 - The Leftovers
+1494281430 - Tue May  9 00:10:30 CEST 2017 - /Stream/The_Goldbergs.html,s4e21 - The Goldbergs
