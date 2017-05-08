@@ -1574,3 +1574,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494230697 - Mon May  8 10:04:57 CEST 2017 - /Stream/You_Me_and_the_Apocalypse-1.html,s1e2 - You, Me and the Apocalypse
 1494230703 - Mon May  8 10:05:03 CEST 2017 - /Stream/Nobodies.html,s1e6 - Nobodies
 1494230707 - Mon May  8 10:05:07 CEST 2017 - /Stream/Lucifer-1.html,s2e15 - Lucifer
+1494230714 - Mon May  8 10:05:14 CEST 2017 - /Stream/Chicago_Justice.html,s1e12 - Chicago Justice
