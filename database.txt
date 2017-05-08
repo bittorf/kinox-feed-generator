@@ -1576,3 +1576,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494230707 - Mon May  8 10:05:07 CEST 2017 - /Stream/Lucifer-1.html,s2e15 - Lucifer
 1494230714 - Mon May  8 10:05:14 CEST 2017 - /Stream/Chicago_Justice.html,s1e12 - Chicago Justice
 1494230722 - Mon May  8 10:05:22 CEST 2017 - /Stream/Shades_of_Blue.html,s2e10 - Shades of Blue
+1494230729 - Mon May  8 10:05:29 CEST 2017 - /Stream/Billions.html,s2e12 - Billions
