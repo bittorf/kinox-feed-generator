@@ -1592,3 +1592,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494281292 - Tue May  9 00:08:12 CEST 2017 - /Stream/Inspektor_Jury-Der_Tote_im_Pub.html - Inspektor Jury - Der Tote im Pub
 1494281297 - Tue May  9 00:08:17 CEST 2017 - /Stream/Karate_Kill.html - Karate Kill
 1494281302 - Tue May  9 00:08:22 CEST 2017 - /Stream/Underground_Werewolf.html - Underground Werewolf
+1494281306 - Tue May  9 00:08:26 CEST 2017 - /Stream/Inspektor_Jury_spielt_Katz_und_Maus.html - Inspektor Jury spielt Katz und Maus
