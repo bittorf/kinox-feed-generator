@@ -1623,3 +1623,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494281467 - Tue May  9 00:11:07 CEST 2017 - /Stream/American_Crime.html,s3e8 - American Crime
 1494281475 - Tue May  9 00:11:15 CEST 2017 - /Stream/Brooklyn_Nine-Nine.html,s4e16 - Brooklyn Nine-Nine
 1494281483 - Tue May  9 00:11:23 CEST 2017 - /Stream/Comic_Book_Men.html,s6e16 - Comic Book Men
+1494281489 - Tue May  9 00:11:29 CEST 2017 - /Stream/Archer-1.html,s8e4 - Archer
