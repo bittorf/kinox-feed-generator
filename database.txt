@@ -1603,3 +1603,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494281340 - Tue May  9 00:09:00 CEST 2017 - /Stream/Liebe_ist_der_groesste_Zauber.html - Liebe ist der größte Zauber
 1494281344 - Tue May  9 00:09:04 CEST 2017 - /Stream/Innocent-1.html - Innocent
 1494281348 - Tue May  9 00:09:08 CEST 2017 - /Stream/Inspektor_Jury_Mord_im_Nebel.html - Inspektor Jury: Mord im Nebel
+1494281352 - Tue May  9 00:09:12 CEST 2017 - /Stream/Angriff_der_Riesenkralle.html - Angriff der Riesenkralle
