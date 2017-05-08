@@ -1573,3 +1573,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494230692 - Mon May  8 10:04:52 CEST 2017 - /Stream/Man_Seeking_Woman-1.html,s2 - Man Seeking Woman
 1494230697 - Mon May  8 10:04:57 CEST 2017 - /Stream/You_Me_and_the_Apocalypse-1.html,s1e2 - You, Me and the Apocalypse
 1494230703 - Mon May  8 10:05:03 CEST 2017 - /Stream/Nobodies.html,s1e6 - Nobodies
+1494230707 - Mon May  8 10:05:07 CEST 2017 - /Stream/Lucifer-1.html,s2e15 - Lucifer
