@@ -1630,3 +1630,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494310339 - Tue May  9 08:12:19 CEST 2017 - /Stream/The_Vampire_Diaries.html,s8e6 - The Vampire Diaries
 1494310357 - Tue May  9 08:12:37 CEST 2017 - /Stream/Profiling_Paris.html,s7e6 - Profiling Paris
 1494310366 - Tue May  9 08:12:46 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e10 - Chicago Fire
+1494310374 - Tue May  9 08:12:54 CEST 2017 - /Stream/Wir_sind_die_Croods.html,s3e1 - Wir sind die Croods
