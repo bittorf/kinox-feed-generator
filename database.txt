@@ -1635,3 +1635,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494310382 - Tue May  9 08:13:02 CEST 2017 - /Stream/Superior_Donuts.html,s1e13 - Superior Donuts
 1494310387 - Tue May  9 08:13:07 CEST 2017 - /Stream/Kevin_Can_Wait.html,s1e24 - Kevin Can Wait
 1494310391 - Tue May  9 08:13:11 CEST 2017 - /Stream/Outcast_2016.html,s2e6 - Outcast 2016
+1494310402 - Tue May  9 08:13:22 CEST 2017 - /Stream/Stan_Lees_Lucky_Man.html,s2 - Stan Lee's Lucky Man
