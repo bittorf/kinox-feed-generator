@@ -1625,3 +1625,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494281483 - Tue May  9 00:11:23 CEST 2017 - /Stream/Comic_Book_Men.html,s6e16 - Comic Book Men
 1494281489 - Tue May  9 00:11:29 CEST 2017 - /Stream/Archer-1.html,s8e4 - Archer
 1494310318 - Tue May  9 08:11:58 CEST 2017 - /Stream/American_Gods-1.html,s1e2 - American Gods
+1494310326 - Tue May  9 08:12:06 CEST 2017 - /Stream/Riverdale-1.html,s1e12 - Riverdale
