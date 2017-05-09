@@ -1649,3 +1649,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494368129 - Wed May 10 00:15:29 CEST 2017 - /Stream/Nobodies.html,s1e5 - Nobodies
 1494368134 - Wed May 10 00:15:34 CEST 2017 - /Stream/Superior_Donuts.html,s1e12 - Superior Donuts
 1494368139 - Wed May 10 00:15:39 CEST 2017 - /Stream/Superstore.html,s2e20 - Superstore
+1494368148 - Wed May 10 00:15:48 CEST 2017 - /Stream/Madam_Secretary.html,s3e20 - Madam Secretary
