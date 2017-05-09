@@ -1637,3 +1637,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494310391 - Tue May  9 08:13:11 CEST 2017 - /Stream/Outcast_2016.html,s2e6 - Outcast 2016
 1494310402 - Tue May  9 08:13:22 CEST 2017 - /Stream/Stan_Lees_Lucky_Man.html,s2 - Stan Lee's Lucky Man
 1494310409 - Tue May  9 08:13:29 CEST 2017 - /Stream/Quantico.html,s2e21 - Quantico
+1494310419 - Tue May  9 08:13:39 CEST 2017 - /Stream/Super_Girl.html,s2e20 - Super Girl
