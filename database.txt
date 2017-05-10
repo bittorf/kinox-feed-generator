@@ -1673,3 +1673,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494433194 - Wed May 10 18:19:54 CEST 2017 - /Stream/Code_Black-1.html,s2e15 - Code Black
 1494433201 - Wed May 10 18:20:01 CEST 2017 - /Stream/Lethal_Weapon-2.html,s1e13 - Lethal Weapon
 1494433208 - Wed May 10 18:20:08 CEST 2017 - /Stream/Bobs_Burgers-2.html,s6e10 - Bob's Burgers
+1494433214 - Wed May 10 18:20:14 CEST 2017 - /Stream/Chicago_Med-1.html,s2e10 - Chicago Med
