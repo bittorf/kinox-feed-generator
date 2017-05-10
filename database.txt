@@ -1678,3 +1678,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494433226 - Wed May 10 18:20:26 CEST 2017 - /Stream/Prison_Break_Sequel-1.html,s5e6 - Prison Break: Sequel
 1494433233 - Wed May 10 18:20:33 CEST 2017 - /Stream/Rebel-1.html,s1 - Rebel
 1494433238 - Wed May 10 18:20:38 CEST 2017 - /Stream/American_Housewife.html,s1e22 - American Housewife
+1494433244 - Wed May 10 18:20:44 CEST 2017 - /Stream/Bull.html,s1e21 - Bull
