@@ -1686,3 +1686,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494433287 - Wed May 10 18:21:27 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D.html,s4e21 - Agents of S.H.I.E.L.D.
 1494433299 - Wed May 10 18:21:39 CEST 2017 - /Stream/Brooklyn_Nine-Nine.html,s4 - Brooklyn Nine-Nine
 1494433307 - Wed May 10 18:21:47 CEST 2017 - /Stream/The_Americans.html,s5e10 - The Americans
+1494433319 - Wed May 10 18:21:59 CEST 2017 - /Stream/Chicago_Fire.html,s5e21 - Chicago Fire
