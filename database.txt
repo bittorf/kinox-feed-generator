@@ -1716,3 +1716,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494541673 - Fri May 12 00:27:53 CEST 2017 - /Stream/The_Last_Man_on_Earth-1.html - The Last Man on Earth
 1494541677 - Fri May 12 00:27:57 CEST 2017 - /Stream/Ostfriesisch_fuer_Anfaenger.html - Ostfriesisch für Anfänger
 1494541682 - Fri May 12 00:28:02 CEST 2017 - /Stream/Family_Guy.html,s14e12 - Family Guy
+1494541696 - Fri May 12 00:28:16 CEST 2017 - /Stream/Legends_of_Tomorrow-1.html,s2e7 - Legends of Tomorrow
