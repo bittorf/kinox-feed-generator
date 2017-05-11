@@ -1704,3 +1704,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494491087 - Thu May 11 10:24:47 CEST 2017 - /Stream/The_100.html,s4e11 - The 100
 1494491096 - Thu May 11 10:24:56 CEST 2017 - /Stream/Chicago_PD.html,s4e22 - Chicago PD
 1494491105 - Thu May 11 10:25:05 CEST 2017 - /Stream/Arrow.html,s5e21 - Arrow
+1494491121 - Thu May 11 10:25:21 CEST 2017 - /Stream/Archer-1.html,s8e6 - Archer
