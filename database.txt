@@ -1718,3 +1718,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494541682 - Fri May 12 00:28:02 CEST 2017 - /Stream/Family_Guy.html,s14e12 - Family Guy
 1494541696 - Fri May 12 00:28:16 CEST 2017 - /Stream/Legends_of_Tomorrow-1.html,s2e7 - Legends of Tomorrow
 1494541704 - Fri May 12 00:28:24 CEST 2017 - /Stream/Daredevil-3.html,s2e1 - Daredevil
+1494541721 - Fri May 12 00:28:41 CEST 2017 - /Stream/Star_Wars_Rebels.html,s3e19 - Star Wars Rebels
