@@ -1709,3 +1709,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494491146 - Thu May 11 10:25:46 CEST 2017 - /Stream/Law-Order_Special_Victims_Unit.html,s18e18 - Law & Order: Special Victims Unit
 1494491160 - Thu May 11 10:26:00 CEST 2017 - /Stream/Criminal_Minds.html,s12e22 - Criminal Minds
 1494512791 - Thu May 11 16:26:31 CEST 2017 - /Stream/Abgang_mit_Stil.html - Abgang mit Stil
+1494512800 - Thu May 11 16:26:40 CEST 2017 - /Stream/Die_irre_Heldentour_des_Billy_Lynn.html - Die irre Heldentour des Billy Lynn
