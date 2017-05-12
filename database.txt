@@ -1734,3 +1734,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494577870 - Fri May 12 10:31:10 CEST 2017 - /Stream/Rebel-1.html,s1e7 - Rebel
 1494577874 - Fri May 12 10:31:14 CEST 2017 - /Stream/Riverdale.html,s1e13 - Riverdale
 1494577880 - Fri May 12 10:31:20 CEST 2017 - /Stream/Life_in_Pieces.html,s2e22 - Life in Pieces
+1494577886 - Fri May 12 10:31:26 CEST 2017 - /Stream/Reign.html,s4e12 - Reign
