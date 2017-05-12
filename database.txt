@@ -1740,3 +1740,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494577918 - Fri May 12 10:31:58 CEST 2017 - /Stream/The_Big_Bang_Theory-1.html,s10e24 - The Big Bang Theory
 1494577934 - Fri May 12 10:32:14 CEST 2017 - /Stream/Supernatural-1.html,s12e21 - Supernatural
 1494628402 - Sat May 13 00:33:22 CEST 2017 - /Stream/Fist_Fight.html - Fist Fight
+1494628410 - Sat May 13 00:33:30 CEST 2017 - /Stream/The_Birth_of_a_Nation_Aufstand_zur_Freiheit.html - The Birth of a Nation: Aufstand zur Freiheit
