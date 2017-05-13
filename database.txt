@@ -1763,3 +1763,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494664561 - Sat May 13 10:36:01 CEST 2017 - /Stream/Hawaii_Five-0-1.html,s7e25 - Hawaii Five-0
 1494664573 - Sat May 13 10:36:13 CEST 2017 - /Stream/Master_of_Non.html,s2e1 - Master of Non
 1494664579 - Sat May 13 10:36:19 CEST 2017 - /Stream/The_Originals.html,s4e8 - The Originals
+1494715022 - Sun May 14 00:37:02 CEST 2017 - /Stream/Die_Schluempfe-Das_verlorenen_Dorf.html - Die Schlümpfe - Das verlorenen Dorf
