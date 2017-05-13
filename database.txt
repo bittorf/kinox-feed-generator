@@ -1786,3 +1786,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494715129 - Sun May 14 00:38:49 CEST 2017 - /Stream/Robur-Der_Herr_der_sieben_Kontinente.html - Robur - Der Herr der sieben Kontinente
 1494715133 - Sun May 14 00:38:53 CEST 2017 - /Stream/Rosemarys_Baby-2.html - Rosemary's Baby
 1494715142 - Sun May 14 00:39:02 CEST 2017 - /Stream/Road_to_your_Heart-Fuenf_Tage_bis_Kapstadt.html - Road to your Heart - Fünf Tage bis Kapstadt
+1494715146 - Sun May 14 00:39:06 CEST 2017 - /Stream/Red_Kill_Zone.html - Red Kill Zone
