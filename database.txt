@@ -1794,3 +1794,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494715169 - Sun May 14 00:39:29 CEST 2017 - /Stream/Shadowhunters-1.html,s1 - Shadowhunters
 1494715176 - Sun May 14 00:39:36 CEST 2017 - /Stream/The_Frankenstein_Chronicles-1.html,s1 - The Frankenstein Chronicles
 1494715181 - Sun May 14 00:39:41 CEST 2017 - /Stream/Billions-1.html,s2 - Billions
+1494715189 - Sun May 14 00:39:49 CEST 2017 - /Stream/Kingdom-2.html,s2e1 - Kingdom
