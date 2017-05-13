@@ -1768,3 +1768,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494715034 - Sun May 14 00:37:14 CEST 2017 - /Stream/Return_to_Sender_Das_falsche_Opfer.html - Return to Sender: Das falsche Opfer
 1494715040 - Sun May 14 00:37:20 CEST 2017 - /Stream/Ricki-Wie_Familie_so_ist.html - Ricki - Wie Familie so ist
 1494715046 - Sun May 14 00:37:26 CEST 2017 - /Stream/Rivalen_am_reissenden_Strom.html - Rivalen am reißenden Strom
+1494715050 - Sun May 14 00:37:30 CEST 2017 - /Stream/Ruroni_Kenshin_Kyoto_taika-hen.html - Rurôni Kenshin: Kyôto taika-hen
