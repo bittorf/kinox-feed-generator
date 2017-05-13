@@ -1751,3 +1751,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494628462 - Sat May 13 00:34:22 CEST 2017 - /Stream/Marseille-1.html,s1e1 - Marseille
 1494664491 - Sat May 13 10:34:51 CEST 2017 - /Stream/Ransom-2.html,s1e9 - Ransom
 1494664497 - Sat May 13 10:34:57 CEST 2017 - /Stream/Genius_Einstein.html,s1e3 - Genius: Einstein
+1494664503 - Sat May 13 10:35:03 CEST 2017 - /Stream/Gotham-1.html,s3e2 - Gotham
