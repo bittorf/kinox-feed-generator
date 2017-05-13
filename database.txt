@@ -1778,3 +1778,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494715085 - Sun May 14 00:38:05 CEST 2017 - /Stream/Raum.html - Raum
 1494715092 - Sun May 14 00:38:12 CEST 2017 - /Stream/Rico_Oskar_und_das_Herzgebreche.html - Rico, Oskar und das Herzgebreche
 1494715098 - Sun May 14 00:38:18 CEST 2017 - /Stream/Rurouni_Kenshin-The_Legends_Ends.html - Rurouni Kenshin - The Legends Ends
+1494715102 - Sun May 14 00:38:22 CEST 2017 - /Stream/Rockula-1.html - Rockula
