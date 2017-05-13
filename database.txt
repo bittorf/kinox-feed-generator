@@ -1755,3 +1755,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494664514 - Sat May 13 10:35:14 CEST 2017 - /Stream/Die_Toten_von_Turin.html,s1e1 - Die Toten von Turin
 1494664518 - Sat May 13 10:35:18 CEST 2017 - /Stream/Marseille-1.html,s1 - Marseille
 1494664522 - Sat May 13 10:35:22 CEST 2017 - /Stream/Death_in_Paradise-1.html,s6e1 - Death in Paradise
+1494664530 - Sat May 13 10:35:30 CEST 2017 - /Stream/Neo_Magazin-1.html,s5e15 - Neo Magazin
