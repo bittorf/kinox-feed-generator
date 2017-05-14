@@ -1821,3 +1821,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494773033 - Sun May 14 16:43:53 CEST 2017 - /Stream/Rogue-2.html,s3e1 - Rogue
 1494773042 - Sun May 14 16:44:02 CEST 2017 - /Stream/The_Originals_german_subbed.html,s4e5 - The Originals *german subbed*
 1494773055 - Sun May 14 16:44:15 CEST 2017 - /Stream/The_100_german_subbed.html,s4e11 - The 100 *german subbed*
+1494773066 - Sun May 14 16:44:26 CEST 2017 - /Stream/Pretty_Little_Liars_german_subbed.html,s7e13 - Pretty Little Liars *german subbed*
