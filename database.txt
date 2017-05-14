@@ -1801,3 +1801,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494751238 - Sun May 14 10:40:38 CEST 2017 - /Stream/Quantico-1.html,s2e9 - Quantico
 1494751246 - Sun May 14 10:40:46 CEST 2017 - /Stream/Rizzoli-Isles-1.html,s7e12 - Rizzoli & Isles
 1494751253 - Sun May 14 10:40:53 CEST 2017 - /Stream/Prison_Break_Sequel.html,s5e6 - Prison Break: Sequel
+1494751262 - Sun May 14 10:41:02 CEST 2017 - /Stream/Daredevil-3.html,s2 - Daredevil
