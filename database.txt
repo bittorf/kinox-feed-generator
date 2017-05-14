@@ -1798,3 +1798,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494715194 - Sun May 14 00:39:54 CEST 2017 - /Stream/Soy_Luna.html,s2e5 - Soy Luna
 1494751226 - Sun May 14 10:40:26 CEST 2017 - /Stream/Knallerkerle.html,s1e5 - Knallerkerle
 1494751231 - Sun May 14 10:40:31 CEST 2017 - /Stream/Master_of_Non.html,s2 - Master of Non
+1494751238 - Sun May 14 10:40:38 CEST 2017 - /Stream/Quantico-1.html,s2e9 - Quantico
