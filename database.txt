@@ -1807,3 +1807,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494751291 - Sun May 14 10:41:31 CEST 2017 - /Stream/You_Me_and_the_Apocalypse-1.html,s1e3 - You, Me and the Apocalypse
 1494751298 - Sun May 14 10:41:38 CEST 2017 - /Stream/Training_Day-2.html,s1e12 - Training Day
 1494751305 - Sun May 14 10:41:45 CEST 2017 - /Stream/Doctor_Who-1.html,s10e5 - Doctor Who
+1494751321 - Sun May 14 10:42:01 CEST 2017 - /Stream/The_Big_Bang_Theory_german_subbed.html,s10 - The Big Bang Theory *german subbed*
