@@ -1823,3 +1823,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494773055 - Sun May 14 16:44:15 CEST 2017 - /Stream/The_100_german_subbed.html,s4e11 - The 100 *german subbed*
 1494773066 - Sun May 14 16:44:26 CEST 2017 - /Stream/Pretty_Little_Liars_german_subbed.html,s7e13 - Pretty Little Liars *german subbed*
 1494773081 - Sun May 14 16:44:41 CEST 2017 - /Stream/Greys_Anatomy_german_subbed.html,s13 - Grey's Anatomy *german subbed*
+1494773109 - Sun May 14 16:45:09 CEST 2017 - /Stream/Riverdale-1.html,s1e13 - Riverdale
