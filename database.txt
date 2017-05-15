@@ -1837,3 +1837,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494830839 - Mon May 15 08:47:19 CEST 2017 - /Stream/Shades_of_Blue.html,s2e11 - Shades of Blue
 1494830845 - Mon May 15 08:47:25 CEST 2017 - /Stream/Elementary.html,s5e23 - Elementary
 1494830856 - Mon May 15 08:47:36 CEST 2017 - /Stream/Veep.html,s6e5 - Veep
+1494830865 - Mon May 15 08:47:45 CEST 2017 - /Stream/American_Gods.html,s1e3 - American Gods
