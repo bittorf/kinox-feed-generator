@@ -1840,3 +1840,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494830865 - Mon May 15 08:47:45 CEST 2017 - /Stream/American_Gods.html,s1e3 - American Gods
 1494830871 - Mon May 15 08:47:51 CEST 2017 - /Stream/Chicago_Justice.html,s1e13 - Chicago Justice
 1494830876 - Mon May 15 08:47:56 CEST 2017 - /Stream/You_Me_Her.html,s2e10 - You Me Her
+1494830881 - Mon May 15 08:48:01 CEST 2017 - /Stream/Lucifer-1.html,s2e16 - Lucifer
