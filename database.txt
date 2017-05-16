@@ -1861,3 +1861,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494917630 - Tue May 16 08:53:50 CEST 2017 - /Stream/Bobs_Burgers-2.html,s6e11 - Bob's Burgers
 1494917636 - Tue May 16 08:53:56 CEST 2017 - /Stream/Life_in_Pieces-1.html,s2e20 - Life in Pieces
 1494917642 - Tue May 16 08:54:02 CEST 2017 - /Stream/Chicago_Med-1.html,s2e11 - Chicago Med
+1494917648 - Tue May 16 08:54:08 CEST 2017 - /Stream/Lethal_Weapon-2.html,s1e14 - Lethal Weapon
