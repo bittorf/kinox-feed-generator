@@ -1888,3 +1888,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494975444 - Wed May 17 00:57:24 CEST 2017 - /Stream/Transpecos-Zwischen_Gut_und_Boese_herrscht_ein_schmaler_Grat.html - Transpecos - Zwischen Gut und Böse herrscht ein schmaler Grat
 1494975448 - Wed May 17 00:57:28 CEST 2017 - /Stream/Gimlet.html - Gimlet
 1494975453 - Wed May 17 00:57:33 CEST 2017 - /Stream/Sahara-2.html - Sahara
+1494975457 - Wed May 17 00:57:37 CEST 2017 - /Stream/Riaru_Kanzen_naru_kubinagary_no_hi.html - Riaru: Kanzen naru kubinagaryû no hi
