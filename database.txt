@@ -1878,3 +1878,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494975393 - Wed May 17 00:56:33 CEST 2017 - /Stream/Alles_unter_Kontrolle.html - Alles unter Kontrolle
 1494975398 - Wed May 17 00:56:38 CEST 2017 - /Stream/Das_Ende_ist_erst_der_Anfang.html - Das Ende ist erst der Anfang
 1494975404 - Wed May 17 00:56:44 CEST 2017 - /Stream/The_LEGO_Batman_Movie.html - The LEGO Batman Movie
+1494975410 - Wed May 17 00:56:50 CEST 2017 - /Stream/Der_Spuerhund.html - Der Spürhund
