@@ -1894,3 +1894,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1494975471 - Wed May 17 00:57:51 CEST 2017 - /Stream/Old_Drum-Gut_gebellt_ist_halb_gewonnen.html - Old Drum - Gut gebellt ist halb gewonnen
 1494975475 - Wed May 17 00:57:55 CEST 2017 - /Stream/Gemeinsam_wohnt_man_besser.html - Gemeinsam wohnt man besser
 1495040326 - Wed May 17 18:58:46 CEST 2017 - /Stream/King_Arthur_Legend_of_the_Sword.html - King Arthur: Legend of the Sword
+1495040350 - Wed May 17 18:59:10 CEST 2017 - /Stream/Die_Erfindung_der_Wahrheit.html - Die Erfindung der Wahrheit
