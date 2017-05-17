@@ -1898,3 +1898,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495040357 - Wed May 17 18:59:17 CEST 2017 - /Stream/German_Beauty.html - German Beauty
 1495040361 - Wed May 17 18:59:21 CEST 2017 - /Stream/The_Royals.html,s3e7 - The Royals
 1495040367 - Wed May 17 18:59:27 CEST 2017 - /Stream/Chicago_Justice-1.html,s1e3 - Chicago Justice
+1495040377 - Wed May 17 18:59:37 CEST 2017 - /Stream/Suits-1.html,s6e15 - Suits
