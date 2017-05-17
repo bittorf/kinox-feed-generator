@@ -1902,3 +1902,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495040387 - Wed May 17 18:59:47 CEST 2017 - /Stream/Profiling_Paris.html,s7e7 - Profiling Paris
 1495040396 - Wed May 17 18:59:56 CEST 2017 - /Stream/The_Blacklist-1.html,s4e16 - The Blacklist
 1495040417 - Wed May 17 19:00:17 CEST 2017 - /Stream/Shane-1.html,s1 - Shane
+1495040422 - Wed May 17 19:00:22 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e17 - Navy CIS: L.A.
