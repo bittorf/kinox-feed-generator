@@ -1896,3 +1896,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495040326 - Wed May 17 18:58:46 CEST 2017 - /Stream/King_Arthur_Legend_of_the_Sword.html - King Arthur: Legend of the Sword
 1495040350 - Wed May 17 18:59:10 CEST 2017 - /Stream/Die_Erfindung_der_Wahrheit.html - Die Erfindung der Wahrheit
 1495040357 - Wed May 17 18:59:17 CEST 2017 - /Stream/German_Beauty.html - German Beauty
+1495040361 - Wed May 17 18:59:21 CEST 2017 - /Stream/The_Royals.html,s3e7 - The Royals
