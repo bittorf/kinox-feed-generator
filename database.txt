@@ -1932,3 +1932,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495401437 - Sun May 21 23:17:17 CEST 2017 - /Stream/The_Leftovers_german_subbed.html,s3e4 - The Leftovers *german subbed*
 1495401445 - Sun May 21 23:17:25 CEST 2017 - /Stream/The_Flash_german_subbed.html,s3e20 - The Flash *german subbed*
 1495401457 - Sun May 21 23:17:37 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s4e21 - Agents of S.H.I.E.L.D. *german subbed*
+1495401469 - Sun May 21 23:17:49 CEST 2017 - /Stream/Chicago_Fire_german_subbed.html,s5e21 - Chicago Fire *german subbed*
