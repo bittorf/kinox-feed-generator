@@ -1936,3 +1936,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495401478 - Sun May 21 23:17:58 CEST 2017 - /Stream/Arrow_german_subbed.html,s5e20 - Arrow *german subbed*
 1495401493 - Sun May 21 23:18:13 CEST 2017 - /Stream/Supernatural_german_subbed.html,s12e21 - Supernatural *german subbed*
 1495408723 - Mon May 22 01:18:43 CEST 2017 - /Stream/Rosas_Traum.html - Rosas Traum
+1495408731 - Mon May 22 01:18:51 CEST 2017 - /Stream/Requiem_fuer_Django.html - Requiem für Django
