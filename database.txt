@@ -1934,3 +1934,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495401457 - Sun May 21 23:17:37 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s4e21 - Agents of S.H.I.E.L.D. *german subbed*
 1495401469 - Sun May 21 23:17:49 CEST 2017 - /Stream/Chicago_Fire_german_subbed.html,s5e21 - Chicago Fire *german subbed*
 1495401478 - Sun May 21 23:17:58 CEST 2017 - /Stream/Arrow_german_subbed.html,s5e20 - Arrow *german subbed*
+1495401493 - Sun May 21 23:18:13 CEST 2017 - /Stream/Supernatural_german_subbed.html,s12e21 - Supernatural *german subbed*
