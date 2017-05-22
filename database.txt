@@ -1978,3 +1978,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495495415 - Tue May 23 01:23:35 CEST 2017 - /Stream/Unbreakable_Kimmy_Schmidt.html,s3 - Unbreakable Kimmy Schmidt
 1495495423 - Tue May 23 01:23:43 CEST 2017 - /Stream/Fargo-2.html,s3e5 - Fargo
 1495495431 - Tue May 23 01:23:51 CEST 2017 - /Stream/Rizzoli-Isles-1.html,s7e13 - Rizzoli & Isles
+1495495438 - Tue May 23 01:23:58 CEST 2017 - /Stream/Gotham-1.html,s3e3 - Gotham
