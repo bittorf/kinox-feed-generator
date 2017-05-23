@@ -1995,3 +1995,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495567570 - Tue May 23 21:26:10 CEST 2017 - /Stream/The_Devils_Candy.html - The Devil's Candy
 1495567575 - Tue May 23 21:26:15 CEST 2017 - /Stream/Outcast_2016.html,s2e8 - Outcast 2016
 1495567583 - Tue May 23 21:26:23 CEST 2017 - /Stream/Super_Girl.html,s2e22 - Super Girl
+1495567594 - Tue May 23 21:26:34 CEST 2017 - /Stream/Better_Call_Saul-1.html,s3e7 - Better Call Saul
