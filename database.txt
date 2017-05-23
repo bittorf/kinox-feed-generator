@@ -1993,3 +1993,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495567559 - Tue May 23 21:25:59 CEST 2017 - /Stream/Trash_Fire.html - Trash Fire
 1495567566 - Tue May 23 21:26:06 CEST 2017 - /Stream/Der_Kettensaegenkiller.html - Der Kettensägenkiller
 1495567570 - Tue May 23 21:26:10 CEST 2017 - /Stream/The_Devils_Candy.html - The Devil's Candy
+1495567575 - Tue May 23 21:26:15 CEST 2017 - /Stream/Outcast_2016.html,s2e8 - Outcast 2016
