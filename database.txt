@@ -2016,3 +2016,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495639867 - Wed May 24 17:31:07 CEST 2017 - /Stream/The_Blacklist-1.html,s4e17 - The Blacklist
 1495639884 - Wed May 24 17:31:24 CEST 2017 - /Stream/The_Simpsons.html,s28e22 - The Simpsons
 1495639899 - Wed May 24 17:31:39 CEST 2017 - /Stream/Lethal_Weapon-2.html,s1e15 - Lethal Weapon
+1495639905 - Wed May 24 17:31:45 CEST 2017 - /Stream/Bull.html,s1e23 - Bull
