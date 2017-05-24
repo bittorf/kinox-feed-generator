@@ -2019,3 +2019,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495639905 - Wed May 24 17:31:45 CEST 2017 - /Stream/Bull.html,s1e23 - Bull
 1495639910 - Wed May 24 17:31:50 CEST 2017 - /Stream/Young-Hungry.html,s5e10 - Young & Hungry
 1495639917 - Wed May 24 17:31:57 CEST 2017 - /Stream/The_Shield-Gesetz_der_Gewalt.html,s5e3 - The Shield - Gesetz der Gewalt
+1495639926 - Wed May 24 17:32:06 CEST 2017 - /Stream/Pokemon-1.html,s20 - Pokemon
