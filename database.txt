@@ -2012,3 +2012,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495639839 - Wed May 24 17:30:39 CEST 2017 - /Stream/Snatch-2.html,s1e2 - Snatch
 1495639843 - Wed May 24 17:30:43 CEST 2017 - /Stream/American_Gods.html,s1e4 - American Gods
 1495639851 - Wed May 24 17:30:51 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e12 - Chicago Fire
+1495639860 - Wed May 24 17:31:00 CEST 2017 - /Stream/The_Royals.html,s3e8 - The Royals
