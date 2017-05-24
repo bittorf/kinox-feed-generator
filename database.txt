@@ -2029,3 +2029,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495668799 - Thu May 25 01:33:19 CEST 2017 - /Stream/Teletubbies.html,s1e34 - Teletubbies
 1495668803 - Thu May 25 01:33:23 CEST 2017 - /Stream/Hooten-the_Lady.html,s1e1 - Hooten & the Lady
 1495668808 - Thu May 25 01:33:28 CEST 2017 - /Stream/American_Crime_Story.html,s1e1 - American Crime Story
+1495668815 - Thu May 25 01:33:35 CEST 2017 - /Stream/Chicago_Justice-1.html,s1e4 - Chicago Justice
