@@ -2055,3 +2055,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495726651 - Thu May 25 17:37:31 CEST 2017 - /Stream/Archer-1.html,s8e8 - Archer
 1495726658 - Thu May 25 17:37:38 CEST 2017 - /Stream/Law-Order_Special_Victims_Unit.html,s18 - Law & Order: Special Victims Unit
 1495755494 - Fri May 26 01:38:14 CEST 2017 - /Stream/Raw_3_Die_Offenbarung_der_Grete_Mueller.html - Raw 3: Die Offenbarung der Grete Müller
+1495755502 - Fri May 26 01:38:22 CEST 2017 - /Stream/Die_Wildente.html - Die Wildente
