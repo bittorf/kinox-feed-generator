@@ -2044,3 +2044,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495726554 - Thu May 25 17:35:54 CEST 2017 - /Stream/Teachers-2.html,s1e8 - Teachers
 1495726559 - Thu May 25 17:35:59 CEST 2017 - /Stream/Designated_Survivor-1.html,s1e19 - Designated Survivor
 1495726566 - Thu May 25 17:36:06 CEST 2017 - /Stream/Navy_CIS_L-A.html,s8e18 - Navy CIS: L.A.
+1495726576 - Thu May 25 17:36:16 CEST 2017 - /Stream/Rosewood-1.html,s1e13 - Rosewood
