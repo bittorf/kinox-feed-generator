@@ -2066,3 +2066,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495791574 - Fri May 26 11:39:34 CEST 2017 - /Stream/Supergirl-2.html,s2e10 - Supergirl
 1495791584 - Fri May 26 11:39:44 CEST 2017 - /Stream/Germanys_Next_Topmodel.html,s12e12 - Germany's Next Topmodel
 1495791588 - Fri May 26 11:39:48 CEST 2017 - /Stream/The_100.html,s4e13 - The 100
+1495798807 - Fri May 26 13:40:07 CEST 2017 - /Stream/iZombie_german_subbed.html,s3 - iZombie *german subbed*
