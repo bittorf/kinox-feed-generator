@@ -2074,3 +2074,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495798853 - Fri May 26 13:40:53 CEST 2017 - /Stream/The_Flash_german_subbed.html,s3e21 - The Flash *german subbed*
 1495798867 - Fri May 26 13:41:07 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s4e22 - Agents of S.H.I.E.L.D. *german subbed*
 1495798880 - Fri May 26 13:41:20 CEST 2017 - /Stream/Supernatural_german_subbed.html,s12 - Supernatural *german subbed*
+1495798902 - Fri May 26 13:41:42 CEST 2017 - /Stream/Pretty_Little_Liars_german_subbed.html,s7e14 - Pretty Little Liars *german subbed*
