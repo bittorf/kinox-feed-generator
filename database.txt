@@ -2070,3 +2070,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495798819 - Fri May 26 13:40:19 CEST 2017 - /Stream/Twin_Peaks_german_subbed.html,s3e1 - Twin Peaks *german subbed*
 1495798825 - Fri May 26 13:40:25 CEST 2017 - /Stream/Lucifer_german_subbed.html,s2e15 - Lucifer *german subbed*
 1495798832 - Fri May 26 13:40:32 CEST 2017 - /Stream/12_Monkeys_german_subbed.html,s3e1 - 12 Monkeys *german subbed*
+1495798838 - Fri May 26 13:40:39 CEST 2017 - /Stream/Gotham_german_subbed-1.html,s3e18 - Gotham *german subbed*
