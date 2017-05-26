@@ -2068,3 +2068,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495791588 - Fri May 26 11:39:48 CEST 2017 - /Stream/The_100.html,s4e13 - The 100
 1495798807 - Fri May 26 13:40:07 CEST 2017 - /Stream/iZombie_german_subbed.html,s3 - iZombie *german subbed*
 1495798819 - Fri May 26 13:40:19 CEST 2017 - /Stream/Twin_Peaks_german_subbed.html,s3e1 - Twin Peaks *german subbed*
+1495798825 - Fri May 26 13:40:25 CEST 2017 - /Stream/Lucifer_german_subbed.html,s2e15 - Lucifer *german subbed*
