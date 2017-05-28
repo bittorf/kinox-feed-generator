@@ -2085,3 +2085,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495842224 - Sat May 27 01:43:44 CEST 2017 - /Stream/Night_of_Something_Strange.html - Night of Something Strange
 1495993541 - Sun May 28 19:45:41 CEST 2017 - /Stream/Masterminds-2.html - Masterminds
 1495993551 - Sun May 28 19:45:51 CEST 2017 - /Stream/Metalfarm.html - Metalfarm
+1495993555 - Sun May 28 19:45:55 CEST 2017 - /Stream/Cutie_Honey_Tears.html - Cutie Honey: Tears
