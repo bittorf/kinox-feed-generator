@@ -2089,3 +2089,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1495993559 - Sun May 28 19:45:59 CEST 2017 - /Stream/Gotham-1.html,s3e4 - Gotham
 1495993570 - Sun May 28 19:46:10 CEST 2017 - /Stream/The_Detour-1.html,s2e11 - The Detour
 1495993575 - Sun May 28 19:46:15 CEST 2017 - /Stream/The_Flash-1.html,s3e10 - The Flash
+1495993587 - Sun May 28 19:46:27 CEST 2017 - /Stream/Twin_Peaks-1.html,s3e2 - Twin Peaks
