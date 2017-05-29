@@ -2111,3 +2111,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496051388 - Mon May 29 11:49:48 CEST 2017 - /Stream/Pirates_of_the_Caribbean_Salazars_Rache.html - Pirates of the Caribbean: Salazars Rache
 1496051412 - Mon May 29 11:50:12 CEST 2017 - /Stream/Ein_Dorf_rockt_ab.html - Ein Dorf rockt ab
 1496051418 - Mon May 29 11:50:18 CEST 2017 - /Stream/Viking_Legacy.html - Viking Legacy
+1496051424 - Mon May 29 11:50:24 CEST 2017 - /Stream/Hacksaw_Ridge-Die_Entscheidung.html - Hacksaw Ridge - Die Entscheidung
