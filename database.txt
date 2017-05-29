@@ -2118,3 +2118,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496058660 - Mon May 29 13:51:00 CEST 2017 - /Stream/Legends_of_Tomorrow-1.html,s2 - Legends of Tomorrow
 1496058667 - Mon May 29 13:51:07 CEST 2017 - /Stream/Bloodline-1.html,s3 - Bloodline
 1496058673 - Mon May 29 13:51:13 CEST 2017 - /Stream/The_Break.html,s1e7 - The Break
+1496058678 - Mon May 29 13:51:18 CEST 2017 - /Stream/Die_Toten_von_Turin.html,s1e6 - Die Toten von Turin
