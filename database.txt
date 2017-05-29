@@ -2114,3 +2114,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496051424 - Mon May 29 11:50:24 CEST 2017 - /Stream/Hacksaw_Ridge-Die_Entscheidung.html - Hacksaw Ridge - Die Entscheidung
 1496051433 - Mon May 29 11:50:33 CEST 2017 - /Stream/Wind_Blows_in_Winter.html,s2e8 - Wind Blows in Winter
 1496051438 - Mon May 29 11:50:38 CEST 2017 - /Stream/Winners-Losers.html,s3 - Winners & Losers
+1496058651 - Mon May 29 13:50:51 CEST 2017 - /Stream/Twin_Peaks-1.html,s3 - Twin Peaks
