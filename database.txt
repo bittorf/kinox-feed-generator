@@ -2139,3 +2139,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496130866 - Tue May 30 09:54:26 CEST 2017 - /Stream/Gotham.html,s3e20 - Gotham
 1496130877 - Tue May 30 09:54:37 CEST 2017 - /Stream/American_Dad-1.html,s13e12 - American Dad!
 1496130887 - Tue May 30 09:54:47 CEST 2017 - /Stream/Triage_X.html,s1e4 - Triage X
+1496130891 - Tue May 30 09:54:51 CEST 2017 - /Stream/Wir_sind_die_Croods.html,s3e8 - Wir sind die Croods
