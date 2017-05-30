@@ -2149,3 +2149,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496130924 - Tue May 30 09:55:24 CEST 2017 - /Stream/Greenleaf-1.html,s1e13 - Greenleaf
 1496130930 - Tue May 30 09:55:30 CEST 2017 - /Stream/Fargo-2.html,s1e80 - Fargo
 1496130937 - Tue May 30 09:55:37 CEST 2017 - /Stream/Die_Geiseln.html,s2e1 - Die Geiseln
+1496130942 - Tue May 30 09:55:42 CEST 2017 - /Stream/Class-2.html,s1e8 - Class
