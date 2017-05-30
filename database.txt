@@ -2154,3 +2154,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496130951 - Tue May 30 09:55:51 CEST 2017 - /Stream/Brojects.html,s2e9 - Brojects
 1496130956 - Tue May 30 09:55:56 CEST 2017 - /Stream/Chance-2.html,s1e3 - Chance
 1496130961 - Tue May 30 09:56:01 CEST 2017 - /Stream/Begierde-The_Hunger.html,s2 - Begierde - The Hunger
+1496130969 - Tue May 30 09:56:09 CEST 2017 - /Stream/Baron_noir.html,s1 - Baron noir
