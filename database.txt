@@ -2152,3 +2152,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496130942 - Tue May 30 09:55:42 CEST 2017 - /Stream/Class-2.html,s1e8 - Class
 1496130946 - Tue May 30 09:55:46 CEST 2017 - /Stream/Die_Toten_von_Turin.html,s1e5 - Die Toten von Turin
 1496130951 - Tue May 30 09:55:51 CEST 2017 - /Stream/Brojects.html,s2e9 - Brojects
+1496130956 - Tue May 30 09:55:56 CEST 2017 - /Stream/Chance-2.html,s1e3 - Chance
