@@ -2132,3 +2132,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496130823 - Tue May 30 09:53:43 CEST 2017 - /Stream/Digimon_Adventure_tri-1_Wiedervereinigung.html - Digimon Adventure tri. 1: Wiedervereinigung
 1496130827 - Tue May 30 09:53:47 CEST 2017 - /Stream/Life_in_Pieces-1.html,s2e22 - Life in Pieces
 1496130832 - Tue May 30 09:53:52 CEST 2017 - /Stream/Undercover-1.html,s5 - Undercover
+1496130837 - Tue May 30 09:53:57 CEST 2017 - /Stream/Brooklyn_Nine-Nine-1.html,s3 - Brooklyn Nine-Nine
