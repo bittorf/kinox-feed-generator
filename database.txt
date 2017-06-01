@@ -2185,3 +2185,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496289747 - Thu Jun  1 06:02:27 CEST 2017 - /Stream/Nobel.html,s1e1 - Nobel
 1496289752 - Thu Jun  1 06:02:32 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e1 - Hawaii Five-0
 1496289764 - Thu Jun  1 06:02:44 CEST 2017 - /Stream/The_Blacklist-1.html,s4e18 - The Blacklist
+1496289779 - Thu Jun  1 06:02:59 CEST 2017 - /Stream/Ugly_Betty.html,s2 - Ugly Betty
