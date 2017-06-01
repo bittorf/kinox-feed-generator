@@ -2183,3 +2183,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496289735 - Thu Jun  1 06:02:15 CEST 2017 - /Stream/The_Disappointments_Room-1.html - The Disappointments Room
 1496289741 - Thu Jun  1 06:02:21 CEST 2017 - /Stream/The_Last_Kingdom-1.html,s2 - The Last Kingdom
 1496289747 - Thu Jun  1 06:02:27 CEST 2017 - /Stream/Nobel.html,s1e1 - Nobel
+1496289752 - Thu Jun  1 06:02:32 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e1 - Hawaii Five-0
