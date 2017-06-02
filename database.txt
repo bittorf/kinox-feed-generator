@@ -2226,3 +2226,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496383848 - Fri Jun  2 08:10:48 CEST 2017 - /Stream/Soy_Nero.html - Soy Nero
 1496383854 - Fri Jun  2 08:10:54 CEST 2017 - /Stream/Bull-1.html,s1e21 - Bull
 1496383859 - Fri Jun  2 08:10:59 CEST 2017 - /Stream/This_Is_Us_Das_ist_Leben.html,s1e2 - This Is Us: Das ist Leben
+1496383866 - Fri Jun  2 08:11:06 CEST 2017 - /Stream/Brooklyn_Nine-Nine-1.html,s3e5 - Brooklyn Nine-Nine
