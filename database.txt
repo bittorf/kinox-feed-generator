@@ -2237,3 +2237,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496383920 - Fri Jun  2 08:12:00 CEST 2017 - /Stream/Bobs_Burgers-2.html,s6e13 - Bob's Burgers
 1496383929 - Fri Jun  2 08:12:09 CEST 2017 - /Stream/Lethal_Weapon-2.html,s1e16 - Lethal Weapon
 1496383939 - Fri Jun  2 08:12:19 CEST 2017 - /Stream/Nobel.html,s1 - Nobel
+1496383944 - Fri Jun  2 08:12:24 CEST 2017 - /Stream/Fargo-2.html,s3e7 - Fargo
