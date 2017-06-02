@@ -2233,3 +2233,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496383893 - Fri Jun  2 08:11:33 CEST 2017 - /Stream/Designated_Survivor-1.html,s1e20 - Designated Survivor
 1496383904 - Fri Jun  2 08:11:44 CEST 2017 - /Stream/The_Break.html,s1e8 - The Break
 1496383908 - Fri Jun  2 08:11:48 CEST 2017 - /Stream/Chicago_Justice-1.html,s1e5 - Chicago Justice
+1496383914 - Fri Jun  2 08:11:54 CEST 2017 - /Stream/NYC_22-1.html,s1e1 - NYC 22
