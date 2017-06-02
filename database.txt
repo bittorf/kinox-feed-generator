@@ -2250,3 +2250,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496412856 - Fri Jun  2 16:14:16 CEST 2017 - /Stream/Warehouse_13-1.html,s4 - Warehouse 13
 1496412864 - Fri Jun  2 16:14:24 CEST 2017 - /Stream/Nurse_Jackie-1.html,s4e10 - Nurse Jackie
 1496412873 - Fri Jun  2 16:14:33 CEST 2017 - /Stream/American_Chopper_The_Series.html,s2e5 - American Chopper: The Series
+1496441697 - Sat Jun  3 00:14:57 CEST 2017 - /Stream/Germanys_Next_Topmodel.html,s12e14 - Germany's Next Topmodel
