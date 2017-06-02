@@ -2247,3 +2247,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496412830 - Fri Jun  2 16:13:50 CEST 2017 - /Stream/Nashville.html,s5e12 - Nashville
 1496412839 - Fri Jun  2 16:13:59 CEST 2017 - /Stream/Leverage.html,s3e4 - Leverage
 1496412848 - Fri Jun  2 16:14:08 CEST 2017 - /Stream/Leverage.html,s1e1 - Leverage
+1496412856 - Fri Jun  2 16:14:16 CEST 2017 - /Stream/Warehouse_13-1.html,s4 - Warehouse 13
