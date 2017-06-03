@@ -2288,3 +2288,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496485250 - Sat Jun  3 12:20:50 CEST 2017 - /Stream/The_Job_Lot.html,s2 - The Job Lot
 1496485256 - Sat Jun  3 12:20:56 CEST 2017 - /Stream/Flaked.html,s2e1 - Flaked
 1496485261 - Sat Jun  3 12:21:01 CEST 2017 - /Stream/The_Path-1.html,s2e11 - The Path
+1496528504 - Sun Jun  4 00:21:44 CEST 2017 - /Stream/Scream_Queens-1.html,s1e11 - Scream Queens
