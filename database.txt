@@ -2280,3 +2280,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496477980 - Sat Jun  3 10:19:40 CEST 2017 - /Stream/Chance-2.html,s1 - Chance
 1496477985 - Sat Jun  3 10:19:45 CEST 2017 - /Stream/Death_in_Paradise-1.html,s6e4 - Death in Paradise
 1496477992 - Sat Jun  3 10:19:52 CEST 2017 - /Stream/Bull_The_Necklace-1.html,s1e21 - "Bull" The Necklace
+1496485208 - Sat Jun  3 12:20:08 CEST 2017 - /Stream/Vigilante_Diaries-1.html - Vigilante Diaries
