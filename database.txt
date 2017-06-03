@@ -2273,3 +2273,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496477917 - Sat Jun  3 10:18:37 CEST 2017 - /Stream/Soy_Luna.html,s2e29 - Soy Luna
 1496477923 - Sat Jun  3 10:18:43 CEST 2017 - /Stream/The_Vampire_Diaries.html,s8e10 - The Vampire Diaries
 1496477939 - Sat Jun  3 10:18:59 CEST 2017 - /Stream/The_Originals.html,s4e10 - The Originals
+1496477948 - Sat Jun  3 10:19:08 CEST 2017 - /Stream/Neo_Magazin-1.html,s5e17 - Neo Magazin
