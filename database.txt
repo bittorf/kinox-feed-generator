@@ -2294,3 +2294,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496528528 - Sun Jun  4 00:22:08 CEST 2017 - /Stream/The_Detour-1.html,s2e12 - The Detour
 1496528534 - Sun Jun  4 00:22:14 CEST 2017 - /Stream/Soy_Luna.html,s2e30 - Soy Luna
 1496557366 - Sun Jun  4 08:22:46 CEST 2017 - /Stream/Ueberflieger-Kleine_Voegel_grosses_Geklapper.html - Überflieger - Kleine Vögel, großes Geklapper
+1496557376 - Sun Jun  4 08:22:56 CEST 2017 - /Stream/1898-Los_ltimos_de_Filipinas.html - 1898. Los últimos de Filipinas
