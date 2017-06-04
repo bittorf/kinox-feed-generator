@@ -2352,3 +2352,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496615462 - Mon Jun  5 00:31:02 CEST 2017 - /Stream/Warehouse_13.html,s5e6 - Warehouse 13
 1496615471 - Mon Jun  5 00:31:11 CEST 2017 - /Stream/Lucifer_german_subbed.html,s2e18 - Lucifer *german subbed*
 1496615480 - Mon Jun  5 00:31:20 CEST 2017 - /Stream/12_Monkeys_german_subbed.html,s3e4 - 12 Monkeys *german subbed*
+1496615487 - Mon Jun  5 00:31:27 CEST 2017 - /Stream/Twin_Peaks_german_subbed.html,s3e4 - Twin Peaks *german subbed*
