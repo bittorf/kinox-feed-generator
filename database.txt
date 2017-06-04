@@ -2317,3 +2317,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496557532 - Sun Jun  4 08:25:32 CEST 2017 - /Stream/Modern_Family.html,s4 - Modern Family
 1496557549 - Sun Jun  4 08:25:49 CEST 2017 - /Stream/Modern_Family.html,s3 - Modern Family
 1496571978 - Sun Jun  4 12:26:18 CEST 2017 - /Stream/Independence_Day_Wiederkehr.html - Independence Day: Wiederkehr
+1496572003 - Sun Jun  4 12:26:43 CEST 2017 - /Stream/Verdict_Revised-Unschuldig_verurteilt.html,s2 - Verdict Revised - Unschuldig verurteilt
