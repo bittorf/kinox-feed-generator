@@ -2325,3 +2325,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496572041 - Sun Jun  4 12:27:21 CEST 2017 - /Stream/Ballers-1.html,s2 - Ballers
 1496572048 - Sun Jun  4 12:27:28 CEST 2017 - /Stream/The_Leftovers_german_subbed.html,s3e6 - The Leftovers *german subbed*
 1496572063 - Sun Jun  4 12:27:43 CEST 2017 - /Stream/V-Die_Besucher.html,s2e8 - V - Die Besucher
+1496572072 - Sun Jun  4 12:27:52 CEST 2017 - /Stream/Twin_Peaks_german_subbed.html,s3 - Twin Peaks *german subbed*
