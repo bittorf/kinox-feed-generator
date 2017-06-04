@@ -2350,3 +2350,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496615452 - Mon Jun  5 00:30:52 CEST 2017 - /Stream/Vier_Frauen_und_ein_Todesfall.html,s1e1 - Vier Frauen und ein Todesfall
 1496615457 - Mon Jun  5 00:30:57 CEST 2017 - /Stream/Verdammt_verliebt.html,s1 - Verdammt verliebt
 1496615462 - Mon Jun  5 00:31:02 CEST 2017 - /Stream/Warehouse_13.html,s5e6 - Warehouse 13
+1496615471 - Mon Jun  5 00:31:11 CEST 2017 - /Stream/Lucifer_german_subbed.html,s2e18 - Lucifer *german subbed*
