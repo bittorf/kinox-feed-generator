@@ -2343,3 +2343,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496615408 - Mon Jun  5 00:30:08 CEST 2017 - /Stream/Veronica_Mars.html,s1 - Veronica Mars
 1496615415 - Mon Jun  5 00:30:15 CEST 2017 - /Stream/Four_and_a_Half_Friends.html,s1 - Four and a Half Friends
 1496615420 - Mon Jun  5 00:30:20 CEST 2017 - /Stream/Die_Zeitreisenden.html,s1 - Die Zeitreisenden
+1496615426 - Mon Jun  5 00:30:26 CEST 2017 - /Stream/Veronica_Mars.html,s2 - Veronica Mars
