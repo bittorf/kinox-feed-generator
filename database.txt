@@ -2373,3 +2373,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496651675 - Mon Jun  5 10:34:35 CEST 2017 - /Stream/Weeds-Kleine_Deals_unter_Nachbarn.html,s3e10 - Weeds - Kleine Deals unter Nachbarn
 1496651687 - Mon Jun  5 10:34:47 CEST 2017 - /Stream/The_Cleveland_Show.html,s4e23 - The Cleveland Show
 1496651697 - Mon Jun  5 10:34:57 CEST 2017 - /Stream/Vikings.html,s3e9 - Vikings
+1496651709 - Mon Jun  5 10:35:09 CEST 2017 - /Stream/Vikings.html,s2 - Vikings
