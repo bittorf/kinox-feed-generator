@@ -2398,3 +2398,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496702614 - Tue Jun  6 00:43:34 CEST 2017 - /Stream/Louis_das_Schlitzohr.html - Louis, das Schlitzohr
 1496702619 - Tue Jun  6 00:43:39 CEST 2017 - /Stream/Dogma-1.html - Dogma
 1496702627 - Tue Jun  6 00:43:47 CEST 2017 - /Stream/New_Girl-1.html,s5 - New Girl
+1496702639 - Tue Jun  6 00:43:59 CEST 2017 - /Stream/Wet_Hot_American_Summer_First_Day_of_Camp.html,s1 - Wet Hot American Summer: First Day of Camp
