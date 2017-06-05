@@ -2389,3 +2389,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496702566 - Tue Jun  6 00:42:46 CEST 2017 - /Stream/Meine_Zeit_mit_Cezanne.html - Meine Zeit mit Cézanne
 1496702570 - Tue Jun  6 00:42:50 CEST 2017 - /Stream/The_Lego_Movie.html - The Lego Movie
 1496702578 - Tue Jun  6 00:42:58 CEST 2017 - /Stream/Maennertag.html - Männertag
+1496702583 - Tue Jun  6 00:43:03 CEST 2017 - /Stream/Tell_Me_How_I_Die.html - Tell Me How I Die
