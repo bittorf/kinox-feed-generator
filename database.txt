@@ -2403,3 +2403,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496731477 - Tue Jun  6 08:44:37 CEST 2017 - /Stream/Fear_the_Walking_Dead-1.html,s3e1 - Fear the Walking Dead
 1496731487 - Tue Jun  6 08:44:47 CEST 2017 - /Stream/Casual.html,s3e5 - Casual
 1496731493 - Tue Jun  6 08:44:53 CEST 2017 - /Stream/Angie_Tribeca.html,s3e9 - Angie Tribeca
+1496731499 - Tue Jun  6 08:44:59 CEST 2017 - /Stream/Shadowhunters.html,s2e11 - Shadowhunters
