@@ -2411,3 +2411,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496774773 - Tue Jun  6 20:46:13 CEST 2017 - /Stream/Sundown-1.html - Sundown
 1496774781 - Tue Jun  6 20:46:21 CEST 2017 - /Stream/Annas_Erbe.html - Annas Erbe
 1496774785 - Tue Jun  6 20:46:25 CEST 2017 - /Stream/Fear_the_Walking_Dead-1.html,s3 - Fear the Walking Dead
+1496774794 - Tue Jun  6 20:46:34 CEST 2017 - /Stream/Stargate.html,s1e2 - Stargate
