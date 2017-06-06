@@ -2458,3 +2458,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496789542 - Wed Jun  7 00:52:22 CEST 2017 - /Stream/Maman-Ich.html,s4e2 - Maman & Ich
 1496789546 - Wed Jun  7 00:52:26 CEST 2017 - /Stream/Twin_Peaks-1.html,s4 - Twin Peaks
 1496789555 - Wed Jun  7 00:52:35 CEST 2017 - /Stream/Sherlock-1.html,s4e2 - Sherlock
+1496789561 - Wed Jun  7 00:52:41 CEST 2017 - /Stream/Lethal_Weapon-2.html,s4 - Lethal Weapon
