@@ -2413,3 +2413,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496774785 - Tue Jun  6 20:46:25 CEST 2017 - /Stream/Fear_the_Walking_Dead-1.html,s3 - Fear the Walking Dead
 1496774794 - Tue Jun  6 20:46:34 CEST 2017 - /Stream/Stargate.html,s1e2 - Stargate
 1496774806 - Tue Jun  6 20:46:46 CEST 2017 - /Stream/How_to_Get_Away_with_Murder-1.html,s3e14 - How to Get Away with Murder
+1496774816 - Tue Jun  6 20:46:56 CEST 2017 - /Stream/The_Royals.html,s3e1 - The Royals
