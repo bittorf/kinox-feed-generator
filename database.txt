@@ -2463,3 +2463,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496789573 - Wed Jun  7 00:52:53 CEST 2017 - /Stream/Lucha_Underground.html,s4 - Lucha Underground
 1496789579 - Wed Jun  7 00:52:59 CEST 2017 - /Stream/The_Royals.html,s7 - The Royals
 1496789585 - Wed Jun  7 00:53:05 CEST 2017 - /Stream/Wir_sind_die_Croods.html,s4 - Wir sind die Croods
+1496789589 - Wed Jun  7 00:53:09 CEST 2017 - /Stream/Magda_macht_das_schon.html,s4 - Magda macht das schon!
