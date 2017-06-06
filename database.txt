@@ -2418,3 +2418,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496774844 - Tue Jun  6 20:47:24 CEST 2017 - /Stream/Game_of_Thrones-Das_Lied_von_Eis_und_Feuer.html,s1e5 - Game of Thrones - Das Lied von Eis und Feuer
 1496774871 - Tue Jun  6 20:47:51 CEST 2017 - /Stream/Better_Call_Saul-1.html,s3e8 - Better Call Saul
 1496774888 - Tue Jun  6 20:48:08 CEST 2017 - /Stream/Gotham.html,s3e21 - Gotham
+1496774901 - Tue Jun  6 20:48:21 CEST 2017 - /Stream/American_Dad-1.html,s13e13 - American Dad!
