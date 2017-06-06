@@ -2450,3 +2450,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496789490 - Wed Jun  7 00:51:30 CEST 2017 - /Stream/Mr-Destiny-1.html - Mr. Destiny
 1496789494 - Wed Jun  7 00:51:34 CEST 2017 - /Stream/Die_Bestimmung-Allegiant_Part_1.html - Die Bestimmung - Allegiant Part 1
 1496789507 - Wed Jun  7 00:51:47 CEST 2017 - /Stream/Mr-Collins_zweiter_Fruehling.html - Mr. Collins' zweiter Frühling
+1496789513 - Wed Jun  7 00:51:53 CEST 2017 - /Stream/Mein_Bruder_die_Pfadfinderin.html - Mein Bruder, die Pfadfinderin!
