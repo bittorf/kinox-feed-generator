@@ -2400,3 +2400,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496702627 - Tue Jun  6 00:43:47 CEST 2017 - /Stream/New_Girl-1.html,s5 - New Girl
 1496702639 - Tue Jun  6 00:43:59 CEST 2017 - /Stream/Wet_Hot_American_Summer_First_Day_of_Camp.html,s1 - Wet Hot American Summer: First Day of Camp
 1496731467 - Tue Jun  6 08:44:27 CEST 2017 - /Stream/Sherlock-1.html,s4 - Sherlock
+1496731477 - Tue Jun  6 08:44:37 CEST 2017 - /Stream/Fear_the_Walking_Dead-1.html,s3e1 - Fear the Walking Dead
