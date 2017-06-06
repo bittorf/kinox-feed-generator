@@ -2405,3 +2405,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496731493 - Tue Jun  6 08:44:53 CEST 2017 - /Stream/Angie_Tribeca.html,s3e9 - Angie Tribeca
 1496731499 - Tue Jun  6 08:44:59 CEST 2017 - /Stream/Shadowhunters.html,s2e11 - Shadowhunters
 1496731507 - Tue Jun  6 08:45:07 CEST 2017 - /Stream/Stitchers.html,s3e1 - Stitchers
+1496731512 - Tue Jun  6 08:45:12 CEST 2017 - /Stream/Gotham.html,s32e22 - Gotham
