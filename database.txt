@@ -2421,3 +2421,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496774901 - Tue Jun  6 20:48:21 CEST 2017 - /Stream/American_Dad-1.html,s13e13 - American Dad!
 1496774910 - Tue Jun  6 20:48:30 CEST 2017 - /Stream/Tosh-0.html,s6 - Tosh.0
 1496774916 - Tue Jun  6 20:48:36 CEST 2017 - /Stream/Wipeout.html,s5e5 - Wipeout
+1496774922 - Tue Jun  6 20:48:42 CEST 2017 - /Stream/Whale_Wars.html,s1e1 - Whale Wars
