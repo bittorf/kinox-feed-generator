@@ -2483,3 +2483,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496818544 - Wed Jun  7 08:55:44 CEST 2017 - /Stream/Spartacus_Blood_and_Sand-1.html,s2 - Spartacus: Blood and Sand
 1496818554 - Wed Jun  7 08:55:54 CEST 2017 - /Stream/Eagleheart.html,s3e9 - Eagleheart
 1496818560 - Wed Jun  7 08:56:00 CEST 2017 - /Stream/Hawaii_Five-0-1.html,s4e9 - Hawaii Five-0
+1496818572 - Wed Jun  7 08:56:12 CEST 2017 - /Stream/Sons_of_Guns.html,s4 - Sons of Guns
