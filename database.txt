@@ -2494,3 +2494,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496825836 - Wed Jun  7 10:57:16 CEST 2017 - /Stream/American_Dad-1.html,s14e13 - American Dad!
 1496825845 - Wed Jun  7 10:57:25 CEST 2017 - /Stream/American_Dad-1.html,s5 - American Dad!
 1496825854 - Wed Jun  7 10:57:34 CEST 2017 - /Stream/Without_a_Trace-Spurlos_verschwunden.html,s2e15 - Without a Trace - Spurlos verschwunden
+1496825864 - Wed Jun  7 10:57:44 CEST 2017 - /Stream/American_Dad-1.html,s6e18 - American Dad!
