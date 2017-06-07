@@ -2471,3 +2471,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496818438 - Wed Jun  7 08:53:58 CEST 2017 - /Stream/Nashville-1.html,s5 - Nashville
 1496818446 - Wed Jun  7 08:54:06 CEST 2017 - /Stream/Shadowhunters-1.html,s2e11 - Shadowhunters
 1496818453 - Wed Jun  7 08:54:13 CEST 2017 - /Stream/The_Blacklist-1.html,s4e19 - The Blacklist
+1496818468 - Wed Jun  7 08:54:28 CEST 2017 - /Stream/Hawthorne-1.html,s2e9 - Hawthorne
