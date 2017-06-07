@@ -2545,3 +2545,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496876578 - Thu Jun  8 01:02:58 CEST 2017 - /Stream/The_Royals.html,s3 - The Royals
 1496876586 - Thu Jun  8 01:03:06 CEST 2017 - /Stream/Strike_Back-2.html,s4e1 - Strike Back
 1496876593 - Thu Jun  8 01:03:13 CEST 2017 - /Stream/The_Affair-1.html,s2e1 - The Affair
+1496876600 - Thu Jun  8 01:03:20 CEST 2017 - /Stream/Good_Wife.html,s7e1 - Good Wife
