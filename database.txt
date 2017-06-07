@@ -2492,3 +2492,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496825815 - Wed Jun  7 10:56:55 CEST 2017 - /Stream/Fear_the_Walking_Dead-1.html,s3e2 - Fear the Walking Dead
 1496825828 - Wed Jun  7 10:57:08 CEST 2017 - /Stream/iZombie.html,s3e10 - iZombie
 1496825836 - Wed Jun  7 10:57:16 CEST 2017 - /Stream/American_Dad-1.html,s14e13 - American Dad!
+1496825845 - Wed Jun  7 10:57:25 CEST 2017 - /Stream/American_Dad-1.html,s5 - American Dad!
