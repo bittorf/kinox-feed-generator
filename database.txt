@@ -2469,3 +2469,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496818425 - Wed Jun  7 08:53:45 CEST 2017 - /Stream/Suburra-1.html - Suburra
 1496818431 - Wed Jun  7 08:53:51 CEST 2017 - /Stream/Better_Call_Saul.html,s3e8 - Better Call Saul
 1496818438 - Wed Jun  7 08:53:58 CEST 2017 - /Stream/Nashville-1.html,s5 - Nashville
+1496818446 - Wed Jun  7 08:54:06 CEST 2017 - /Stream/Shadowhunters-1.html,s2e11 - Shadowhunters
