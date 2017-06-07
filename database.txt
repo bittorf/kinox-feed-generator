@@ -2522,3 +2522,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496876441 - Thu Jun  8 01:00:41 CEST 2017 - /Stream/Mission_ISRA_88-Das_Ende_des_Universum.html - Mission ISRA 88 - Das Ende des Universum
 1496876446 - Thu Jun  8 01:00:46 CEST 2017 - /Stream/Mona_Lisa.html - Mona Lisa
 1496876452 - Thu Jun  8 01:00:52 CEST 2017 - /Stream/Manchester_by_the_Sea.html - Manchester by the Sea
+1496876460 - Thu Jun  8 01:01:00 CEST 2017 - /Stream/Money_Monster-1.html - Money Monster
