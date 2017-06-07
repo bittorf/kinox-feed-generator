@@ -2481,3 +2481,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496818521 - Wed Jun  7 08:55:21 CEST 2017 - /Stream/Pretty_Little_Liars.html,s7e17 - Pretty Little Liars
 1496818535 - Wed Jun  7 08:55:35 CEST 2017 - /Stream/Spartacus_Blood_and_Sand-1.html,s3 - Spartacus: Blood and Sand
 1496818544 - Wed Jun  7 08:55:44 CEST 2017 - /Stream/Spartacus_Blood_and_Sand-1.html,s2 - Spartacus: Blood and Sand
+1496818554 - Wed Jun  7 08:55:54 CEST 2017 - /Stream/Eagleheart.html,s3e9 - Eagleheart
