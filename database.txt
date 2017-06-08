@@ -2596,3 +2596,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496956295 - Thu Jun  8 23:11:35 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s6e8 - The Big Bang Theory
 1496956312 - Thu Jun  8 23:11:52 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s4e13 - The Big Bang Theory
 1496956330 - Thu Jun  8 23:12:10 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s3 - The Big Bang Theory
+1496956348 - Thu Jun  8 23:12:28 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s2 - The Big Bang Theory
