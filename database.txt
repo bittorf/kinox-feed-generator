@@ -2610,3 +2610,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496963661 - Fri Jun  9 01:14:21 CEST 2017 - /Stream/Moerderische_Front-Krieg_in_den_Dolomiten.html - Mörderische Front - Krieg in den Dolomiten
 1496963665 - Fri Jun  9 01:14:25 CEST 2017 - /Stream/Meine_Tochter_Anne_Frank.html - Meine Tochter Anne Frank
 1496963669 - Fri Jun  9 01:14:29 CEST 2017 - /Stream/My_Fair_Lady-1.html - My Fair Lady
+1496963676 - Fri Jun  9 01:14:36 CEST 2017 - /Stream/Sniper-Der_Scharfschuetze.html - Sniper - Der Scharfschütze
