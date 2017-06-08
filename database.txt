@@ -2600,3 +2600,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496956366 - Thu Jun  8 23:12:46 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s5 - The Big Bang Theory
 1496956389 - Thu Jun  8 23:13:09 CEST 2017 - /Stream/The_Blacklist-1.html,s1e15 - The Blacklist
 1496963610 - Fri Jun  9 01:13:30 CEST 2017 - /Stream/Men_of_War.html - Men of War
+1496963618 - Fri Jun  9 01:13:38 CEST 2017 - /Stream/Die_Superfaust.html - Die Superfaust
