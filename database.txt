@@ -2581,3 +2581,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496956146 - Thu Jun  8 23:09:06 CEST 2017 - /Stream/Wir_sind_die_Croods.html,s3e11 - Wir sind die Croods
 1496956150 - Thu Jun  8 23:09:10 CEST 2017 - /Stream/Pokemon-1.html,s19e48 - Pokemon
 1496956159 - Thu Jun  8 23:09:19 CEST 2017 - /Stream/Der_junge_Papst.html,s1e4 - Der junge Papst
+1496956164 - Thu Jun  8 23:09:24 CEST 2017 - /Stream/Star_Wars_The_Clone_Wars-2.html,s5 - Star Wars: The Clone Wars
