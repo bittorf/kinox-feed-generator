@@ -2560,3 +2560,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496898322 - Thu Jun  8 07:05:22 CEST 2017 - /Stream/Treme.html,s3e7 - Treme
 1496905539 - Thu Jun  8 09:05:39 CEST 2017 - /Stream/The_Imposter.html - The Imposter
 1496905549 - Thu Jun  8 09:05:49 CEST 2017 - /Stream/Strike_Back-2.html,s3e1 - Strike Back
+1496905558 - Thu Jun  8 09:05:58 CEST 2017 - /Stream/Bones-Die_Knochenjaegerin.html,s11e1 - Bones - Die Knochenjägerin
