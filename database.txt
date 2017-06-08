@@ -2628,3 +2628,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496963770 - Fri Jun  9 01:16:10 CEST 2017 - /Stream/Mortdecai-Der_Teilzeitgauner.html - Mortdecai - Der Teilzeitgauner
 1496963778 - Fri Jun  9 01:16:18 CEST 2017 - /Stream/Most_Wanted-Im_Fadenkreuz_des_Kartells.html - Most Wanted - Im Fadenkreuz des Kartells
 1496963782 - Fri Jun  9 01:16:22 CEST 2017 - /Stream/Das_Leben_Stinkt.html - Das Leben Stinkt
+1496963788 - Fri Jun  9 01:16:28 CEST 2017 - /Stream/Minions-1.html - Minions
