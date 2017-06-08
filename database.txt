@@ -2570,3 +2570,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496956077 - Thu Jun  8 23:07:57 CEST 2017 - /Stream/Der_rote_Reiter.html - Der rote Reiter
 1496956082 - Thu Jun  8 23:08:02 CEST 2017 - /Stream/The_Girl_with_All_the_Gifts.html - The Girl with All the Gifts
 1496956089 - Thu Jun  8 23:08:09 CEST 2017 - /Stream/Thor-Der_Berserker_Gottes.html - Thor - Der Berserker Gottes
+1496956095 - Thu Jun  8 23:08:15 CEST 2017 - /Stream/Die_Dschungelhelden.html,s16e6 - Die Dschungelhelden
