@@ -2648,3 +2648,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1496999934 - Fri Jun  9 11:18:54 CEST 2017 - /Stream/Bull-1.html,s1e22 - Bull
 1496999942 - Fri Jun  9 11:19:02 CEST 2017 - /Stream/The_Z_Virus.html,s1 - The Z Virus
 1496999948 - Fri Jun  9 11:19:08 CEST 2017 - /Stream/Private_Eyes.html,s2e3 - Private Eyes
+1496999952 - Fri Jun  9 11:19:12 CEST 2017 - /Stream/Queen_of_the_South.html,s2e1 - Queen of the South
