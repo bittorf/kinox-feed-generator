@@ -2717,3 +2717,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497101334 - Sat Jun 10 15:28:54 CEST 2017 - /Stream/Outcast_2016.html,s2e10 - Outcast 2016
 1497101341 - Sat Jun 10 15:29:01 CEST 2017 - /Stream/King_of_Queens.html,s7 - King of Queens
 1497101348 - Sat Jun 10 15:29:08 CEST 2017 - /Stream/King_of_Queens.html,s5e23 - King of Queens
+1497108561 - Sat Jun 10 17:29:21 CEST 2017 - /Stream/The_Cleveland_Show-2.html,s4e13 - The Cleveland Show
