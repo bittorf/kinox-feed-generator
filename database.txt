@@ -2693,3 +2693,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497079507 - Sat Jun 10 09:25:07 CEST 2017 - /Stream/Wir_muessen_reden.html,s1 - Wir müssen reden!
 1497079512 - Sat Jun 10 09:25:12 CEST 2017 - /Stream/Gotham-1.html,s3e6 - Gotham
 1497079526 - Sat Jun 10 09:25:26 CEST 2017 - /Stream/Unsere_Muetter_unsere_Vaeter.html,s1e2 - Unsere Mütter, unsere Väter
+1497079526 - Sat Jun 10 09:25:26 CEST 2017 - /Stream/Das_Geheimnis_von_Twin_Peaks.html,s3e5 - Das Geheimnis von Twin Peaks
