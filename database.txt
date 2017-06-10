@@ -2736,3 +2736,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497138162 - Sun Jun 11 01:42:42 CEST 2017 - /Stream/Night_Market-Toedliche_Fracht-1.html - Night Market - Tödliche Fracht
 1497138172 - Sun Jun 11 01:42:52 CEST 2017 - /Stream/News_Movie.html - News Movie
 1497138178 - Sun Jun 11 01:42:58 CEST 2017 - /Stream/Night_of_the_Living_Dead_Re-Animation.html - Night of the Living Dead: Re-Animation
+1497138185 - Sun Jun 11 01:43:05 CEST 2017 - /Stream/Maniacs-Die_Horrorbande.html - Maniacs - Die Horrorbande
