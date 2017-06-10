@@ -2690,3 +2690,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497079485 - Sat Jun 10 09:24:45 CEST 2017 - /Stream/Feuerwehrmann_Sam_Achtung_Ausserirdische-Der_Kinofilm.html - Feuerwehrmann Sam: Achtung Außerirdische! - Der Kinofilm
 1497079491 - Sat Jun 10 09:24:51 CEST 2017 - /Stream/Unglaubliche_Geschichten.html,s1 - Unglaubliche Geschichten
 1497079502 - Sat Jun 10 09:25:02 CEST 2017 - /Stream/I_Love_Dick-1.html,s1e1 - I Love Dick
+1497079507 - Sat Jun 10 09:25:07 CEST 2017 - /Stream/Wir_muessen_reden.html,s1 - Wir müssen reden!
