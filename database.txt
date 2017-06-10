@@ -2752,3 +2752,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497138254 - Sun Jun 11 01:44:14 CEST 2017 - /Stream/Never_Die_Alone.html - Never Die Alone
 1497138261 - Sun Jun 11 01:44:21 CEST 2017 - /Stream/Night_of_the_Living_Dead_3D-1.html - Night of the Living Dead 3D
 1497138268 - Sun Jun 11 01:44:28 CEST 2017 - /Stream/Night_Hunter.html - Night Hunter
+1497138273 - Sun Jun 11 01:44:33 CEST 2017 - /Stream/Night_Claws-Die_Nacht_der_Bestie.html - Night Claws - Die Nacht der Bestie
