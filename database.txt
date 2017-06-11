@@ -2825,3 +2825,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497225192 - Mon Jun 12 01:53:12 CEST 2017 - /Stream/Orcs-1.html - Orcs!
 1497225197 - Mon Jun 12 01:53:17 CEST 2017 - /Stream/Original_Sin-1.html - Original Sin
 1497225203 - Mon Jun 12 01:53:23 CEST 2017 - /Stream/Pawn_Stars-1.html,s11 - Pawn Stars
+1497225209 - Mon Jun 12 01:53:29 CEST 2017 - /Stream/The_Fosters-1.html,s3 - The Fosters
