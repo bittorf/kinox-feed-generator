@@ -2832,3 +2832,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497225247 - Mon Jun 12 01:54:07 CEST 2017 - /Stream/Doctor_Who-1.html,s10e9 - Doctor Who
 1497225262 - Mon Jun 12 01:54:22 CEST 2017 - /Stream/The_Z_Virus.html,s1e4 - The Z Virus
 1497254094 - Mon Jun 12 09:54:54 CEST 2017 - /Stream/Pretty_Little_Liars-1.html,s7 - Pretty Little Liars
+1497254108 - Mon Jun 12 09:55:08 CEST 2017 - /Stream/Lucha_Underground.html,s2e15 - Lucha Underground
