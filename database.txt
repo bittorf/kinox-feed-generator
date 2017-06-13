@@ -2860,3 +2860,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497340726 - Tue Jun 13 09:58:46 CEST 2017 - /Stream/Stitchers.html,s3e2 - Stitchers
 1497340731 - Tue Jun 13 09:58:51 CEST 2017 - /Stream/Better_Call_Saul-1.html,s3e9 - Better Call Saul
 1497340740 - Tue Jun 13 09:59:00 CEST 2017 - /Stream/Orphan_Black.html,s5e1 - Orphan Black
+1497340751 - Tue Jun 13 09:59:11 CEST 2017 - /Stream/American_Dad-1.html,s13e14 - American Dad!
