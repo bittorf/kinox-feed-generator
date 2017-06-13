@@ -2866,3 +2866,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497347986 - Tue Jun 13 11:59:46 CEST 2017 - /Stream/4_Blocks.html,s1e6 - 4 Blocks
 1497369611 - Tue Jun 13 18:00:11 CEST 2017 - /Stream/Die_Bruecke-Transit_in_den_Tod.html,s2e10 - Die Brücke - Transit in den Tod
 1497369624 - Tue Jun 13 18:00:24 CEST 2017 - /Stream/Die_Thundermans.html,s4e10 - Die Thundermans
+1497369631 - Tue Jun 13 18:00:31 CEST 2017 - /Stream/Soy_Luna.html,s2e36 - Soy Luna
