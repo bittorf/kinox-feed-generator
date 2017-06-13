@@ -2940,3 +2940,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497391692 - Wed Jun 14 00:08:12 CEST 2017 - /Stream/Wir_sind_die_Croods.html,s3e12 - Wir sind die Croods
 1497391696 - Wed Jun 14 00:08:16 CEST 2017 - /Stream/Outcast-4.html,s2e10 - Outcast
 1497391702 - Wed Jun 14 00:08:22 CEST 2017 - /Stream/Taras_Welten.html,s1 - Taras Welten
+1497391708 - Wed Jun 14 00:08:28 CEST 2017 - /Stream/Soy_Luna.html,s2e34 - Soy Luna
