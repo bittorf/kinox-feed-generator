@@ -2857,3 +2857,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497340700 - Tue Jun 13 09:58:20 CEST 2017 - /Stream/American_Gods-1.html,s1e7 - American Gods
 1497340707 - Tue Jun 13 09:58:27 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e15 - Chicago Fire
 1497340717 - Tue Jun 13 09:58:37 CEST 2017 - /Stream/Shadowhunters.html,s2e12 - Shadowhunters
+1497340726 - Tue Jun 13 09:58:46 CEST 2017 - /Stream/Stitchers.html,s3e2 - Stitchers
