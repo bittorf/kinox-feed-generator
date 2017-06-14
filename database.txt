@@ -2990,3 +2990,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497478473 - Thu Jun 15 00:14:33 CEST 2017 - /Stream/Nicht_schon_wieder_Rudi.html - Nicht schon wieder Rudi!
 1497478476 - Thu Jun 15 00:14:36 CEST 2017 - /Stream/F_is_for_Family-1.html,s2e6 - F is for Family
 1497478482 - Thu Jun 15 00:14:42 CEST 2017 - /Stream/Annedroids.html,s3 - Annedroids
+1497478487 - Thu Jun 15 00:14:47 CEST 2017 - /Stream/Strike_Back-2.html,s4 - Strike Back
