@@ -2970,3 +2970,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497478361 - Thu Jun 15 00:12:41 CEST 2017 - /Stream/Nussknacker_und_Mausekoenig.html - Nussknacker und Mausekönig
 1497478365 - Thu Jun 15 00:12:45 CEST 2017 - /Stream/New_World_Order_X-Das_Ende_der_Menschheit.html - New World Order X - Das Ende der Menschheit
 1497478371 - Thu Jun 15 00:12:51 CEST 2017 - /Stream/Nele_in_Berlin.html - Nele in Berlin
+1497478376 - Thu Jun 15 00:12:56 CEST 2017 - /Stream/Nicht_von_schlechten_Eltern.html - Nicht von schlechten Eltern
