@@ -2993,3 +2993,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497478487 - Thu Jun 15 00:14:47 CEST 2017 - /Stream/Strike_Back-2.html,s4 - Strike Back
 1497478495 - Thu Jun 15 00:14:55 CEST 2017 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s3 - Teenage Mutant Ninja Turtles
 1497478502 - Thu Jun 15 00:15:02 CEST 2017 - /Stream/Annedroids.html,s4 - Annedroids
+1497478507 - Thu Jun 15 00:15:07 CEST 2017 - /Stream/Taras_Welten.html,s3e1 - Taras Welten
