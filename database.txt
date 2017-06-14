@@ -2954,3 +2954,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497420600 - Wed Jun 14 08:10:00 CEST 2017 - /Stream/Bobs_Burgers-2.html,s6e15 - Bob's Burgers
 1497420612 - Wed Jun 14 08:10:12 CEST 2017 - /Stream/Shadowhunters-1.html,s2e12 - Shadowhunters
 1497420621 - Wed Jun 14 08:10:21 CEST 2017 - /Stream/How_to_Get_Away_with_Murder-1.html,s3e15 - How to Get Away with Murder
+1497420632 - Wed Jun 14 08:10:32 CEST 2017 - /Stream/Chicago_Med-1.html,s2e15 - Chicago Med
