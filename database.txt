@@ -2952,3 +2952,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497420586 - Wed Jun 14 08:09:46 CEST 2017 - /Stream/Chicago_Justice-1.html,s1 - Chicago Justice
 1497420595 - Wed Jun 14 08:09:55 CEST 2017 - /Stream/Mako-Einfach_Meerjungfrau.html,s4e14 - Mako - Einfach Meerjungfrau
 1497420600 - Wed Jun 14 08:10:00 CEST 2017 - /Stream/Bobs_Burgers-2.html,s6e15 - Bob's Burgers
+1497420612 - Wed Jun 14 08:10:12 CEST 2017 - /Stream/Shadowhunters-1.html,s2e12 - Shadowhunters
