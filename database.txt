@@ -3001,3 +3001,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497478537 - Thu Jun 15 00:15:37 CEST 2017 - /Stream/Outcast-4.html,s3 - Outcast
 1497521788 - Thu Jun 15 12:16:28 CEST 2017 - /Stream/Wonder_Woman-4.html - Wonder Woman
 1497521805 - Thu Jun 15 12:16:45 CEST 2017 - /Stream/Bull_The_Necklace-1.html,s1e23 - "Bull" The Necklace
+1497529016 - Thu Jun 15 14:16:56 CEST 2017 - /Stream/Teletubbies.html,s1e42 - Teletubbies
