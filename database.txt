@@ -3002,3 +3002,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497521788 - Thu Jun 15 12:16:28 CEST 2017 - /Stream/Wonder_Woman-4.html - Wonder Woman
 1497521805 - Thu Jun 15 12:16:45 CEST 2017 - /Stream/Bull_The_Necklace-1.html,s1e23 - "Bull" The Necklace
 1497529016 - Thu Jun 15 14:16:56 CEST 2017 - /Stream/Teletubbies.html,s1e42 - Teletubbies
+1497529024 - Thu Jun 15 14:17:04 CEST 2017 - /Stream/Queen_of_the_South-1.html,s1e1 - Queen of the South
