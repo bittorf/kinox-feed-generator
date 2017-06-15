@@ -3032,3 +3032,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497565243 - Fri Jun 16 00:20:43 CEST 2017 - /Stream/Nightcast.html - Nightcast
 1497565247 - Fri Jun 16 00:20:47 CEST 2017 - /Stream/Nightmare_Detective_2.html - Nightmare Detective 2
 1497565252 - Fri Jun 16 00:20:52 CEST 2017 - /Stream/Undead-1.html - Undead
+1497565260 - Fri Jun 16 00:21:00 CEST 2017 - /Stream/Der_Edelweisskoenig.html - Der Edelweißkönig
