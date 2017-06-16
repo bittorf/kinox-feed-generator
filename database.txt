@@ -3067,3 +3067,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497608744 - Fri Jun 16 12:25:44 CEST 2017 - /Stream/Nashville.html,s5e14 - Nashville
 1497608752 - Fri Jun 16 12:25:52 CEST 2017 - /Stream/Reign.html,s4e16 - Reign
 1497608762 - Fri Jun 16 12:26:02 CEST 2017 - /Stream/Queen_of_the_South.html,s2e2 - Queen of the South
+1497608769 - Fri Jun 16 12:26:09 CEST 2017 - /Stream/Pretty_Little_Liars-1.html,s6e8 - Pretty Little Liars
