@@ -3057,3 +3057,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497608639 - Fri Jun 16 12:23:59 CEST 2017 - /Stream/Queen_of_the_South-1.html,s1e2 - Queen of the South
 1497608647 - Fri Jun 16 12:24:07 CEST 2017 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s13e21 - Grey's Anatomy - Die jungen Ärzte
 1497608670 - Fri Jun 16 12:24:30 CEST 2017 - /Stream/Blindspot-1.html,s2e18 - Blindspot
+1497608681 - Fri Jun 16 12:24:41 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e3 - Hawaii Five-0
