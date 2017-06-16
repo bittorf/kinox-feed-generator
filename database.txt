@@ -3065,3 +3065,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497608727 - Fri Jun 16 12:25:27 CEST 2017 - /Stream/Supergirl-2.html,s2e13 - Supergirl
 1497608737 - Fri Jun 16 12:25:37 CEST 2017 - /Stream/Z_Nation-1.html,s3e15 - Z Nation
 1497608744 - Fri Jun 16 12:25:44 CEST 2017 - /Stream/Nashville.html,s5e14 - Nashville
+1497608752 - Fri Jun 16 12:25:52 CEST 2017 - /Stream/Reign.html,s4e16 - Reign
