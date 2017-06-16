@@ -3076,3 +3076,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497652064 - Sat Jun 17 00:27:44 CEST 2017 - /Stream/Das_Belko_Experiment.html - Das Belko Experiment
 1497652071 - Sat Jun 17 00:27:51 CEST 2017 - /Stream/Maenner_ticken_anders.html - Männer ticken anders
 1497652076 - Sat Jun 17 00:27:56 CEST 2017 - /Stream/Mediterranea-Refugees_welcome.html - Mediterranea - Refugees welcome?
+1497652081 - Sat Jun 17 00:28:01 CEST 2017 - /Stream/Mein_treues_Pferd_Baer.html - Mein treues Pferd "Bär"
