@@ -3061,3 +3061,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497608692 - Fri Jun 16 12:24:52 CEST 2017 - /Stream/Code_Black-1.html,s2e14 - Code Black
 1497608699 - Fri Jun 16 12:24:59 CEST 2017 - /Stream/Brooklyn_Nine-Nine-1.html,s3e23 - Brooklyn Nine-Nine
 1497608708 - Fri Jun 16 12:25:08 CEST 2017 - /Stream/This_Is_Us_Das_ist_Leben.html,s1e4 - This Is Us: Das ist Leben
+1497608715 - Fri Jun 16 12:25:15 CEST 2017 - /Stream/Legends_of_Tomorrow-1.html,s2e5 - Legends of Tomorrow
