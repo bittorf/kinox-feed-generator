@@ -3106,3 +3106,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497738720 - Sun Jun 18 00:32:00 CEST 2017 - /Stream/Nur_noch_60_Sekunden.html - Nur noch 60 Sekunden
 1497738730 - Sun Jun 18 00:32:10 CEST 2017 - /Stream/Nosferatu_Phantom_der_Nacht.html - Nosferatu: Phantom der Nacht
 1497738736 - Sun Jun 18 00:32:16 CEST 2017 - /Stream/Nobody_Knows_Anything.html - Nobody Knows Anything!
+1497738740 - Sun Jun 18 00:32:20 CEST 2017 - /Stream/Bushido-Kampf_um_die_goldenen_Reisschalen.html - Bushido - Kampf um die goldenen Reisschalen
