@@ -3114,3 +3114,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497738764 - Sun Jun 18 00:32:44 CEST 2017 - /Stream/Wir_sind_die_Croods.html,s3 - Wir sind die Croods
 1497738768 - Sun Jun 18 00:32:48 CEST 2017 - /Stream/Jodha_Akbar.html,s1e10 - Jodha Akbar
 1497738772 - Sun Jun 18 00:32:52 CEST 2017 - /Stream/Rosewood-1.html,s1e14 - Rosewood
+1497738779 - Sun Jun 18 00:32:59 CEST 2017 - /Stream/Lucha_Underground.html,s2e14 - Lucha Underground
