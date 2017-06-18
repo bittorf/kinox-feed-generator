@@ -3166,3 +3166,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497825586 - Mon Jun 19 00:39:46 CEST 2017 - /Stream/Bruder_vor_Luder.html - Bruder vor Luder
 1497825591 - Mon Jun 19 00:39:51 CEST 2017 - /Stream/Next.html - Next
 1497825599 - Mon Jun 19 00:39:59 CEST 2017 - /Stream/Near_Dark-Die_Nacht_hat_ihren_Preis.html - Near Dark - Die Nacht hat ihren Preis
+1497825608 - Mon Jun 19 00:40:08 CEST 2017 - /Stream/New_Jack_City.html - New Jack City
