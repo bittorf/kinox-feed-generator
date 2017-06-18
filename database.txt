@@ -3129,3 +3129,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497767706 - Sun Jun 18 08:35:06 CEST 2017 - /Stream/ABC_Baer.html,s3e5 - ABC Bär
 1497767709 - Sun Jun 18 08:35:09 CEST 2017 - /Stream/Mako-Einfach_Meerjungfrau.html,s4e15 - Mako - Einfach Meerjungfrau
 1497767714 - Sun Jun 18 08:35:14 CEST 2017 - /Stream/You_Me_and_the_Apocalypse-1.html,s1e8 - You, Me and the Apocalypse
+1497767719 - Sun Jun 18 08:35:19 CEST 2017 - /Stream/Wynonna_Earp.html,s2e2 - Wynonna Earp
