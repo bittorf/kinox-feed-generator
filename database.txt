@@ -3121,3 +3121,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497738802 - Sun Jun 18 00:33:22 CEST 2017 - /Stream/This_Is_England_86-1.html,s3e1 - This Is England '86
 1497767637 - Sun Jun 18 08:33:57 CEST 2017 - /Stream/Riviera.html - Riviera
 1497767647 - Sun Jun 18 08:34:07 CEST 2017 - /Stream/You_Me_Her-1.html,s2 - You Me Her
+1497767652 - Sun Jun 18 08:34:12 CEST 2017 - /Stream/Death_in_Paradise-1.html,s6e6 - Death in Paradise
