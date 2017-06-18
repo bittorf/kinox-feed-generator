@@ -3140,3 +3140,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497782199 - Sun Jun 18 12:36:39 CEST 2017 - /Stream/Gang_of_Roses_Part_II.html - Gang of Roses Part II
 1497782203 - Sun Jun 18 12:36:43 CEST 2017 - /Stream/Queen_of_the_South-1.html,s1 - Queen of the South
 1497782210 - Sun Jun 18 12:36:50 CEST 2017 - /Stream/El_Chapo.html,s1 - El Chapo
+1497782214 - Sun Jun 18 12:36:54 CEST 2017 - /Stream/Animal_Kingdom-1.html,s2e3 - Animal Kingdom
