@@ -3126,3 +3126,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497767669 - Sun Jun 18 08:34:29 CEST 2017 - /Stream/Teen_Wolf-2.html,s6 - Teen Wolf
 1497767683 - Sun Jun 18 08:34:43 CEST 2017 - /Stream/The_Vampire_Diaries.html,s8e12 - The Vampire Diaries
 1497767698 - Sun Jun 18 08:34:58 CEST 2017 - /Stream/Die_Pfefferkoerner.html,s13 - Die Pfefferkörner
+1497767706 - Sun Jun 18 08:35:06 CEST 2017 - /Stream/ABC_Baer.html,s3e5 - ABC Bär
