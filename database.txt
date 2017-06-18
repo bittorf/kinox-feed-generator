@@ -3173,3 +3173,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497825630 - Mon Jun 19 00:40:30 CEST 2017 - /Stream/Neue_Vahr_Sued.html - Neue Vahr Süd
 1497825635 - Mon Jun 19 00:40:35 CEST 2017 - /Stream/New_in_Town.html - New in Town
 1497825643 - Mon Jun 19 00:40:43 CEST 2017 - /Stream/Night_of_the_Dead.html - Night of the Dead
+1497825648 - Mon Jun 19 00:40:48 CEST 2017 - /Stream/Night_of_the_Hell_Hamsters.html - Night of the Hell Hamsters
