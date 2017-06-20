@@ -3213,3 +3213,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497970089 - Tue Jun 20 16:48:09 CEST 2017 - /Stream/The_Son-1.html,s1e10 - The Son
 1497970095 - Tue Jun 20 16:48:15 CEST 2017 - /Stream/Jodha_Akbar.html,s1e1 - Jodha Akbar
 1497970099 - Tue Jun 20 16:48:19 CEST 2017 - /Stream/Liv_und_Maddie.html,s4e1 - Liv und Maddie
+1497970106 - Tue Jun 20 16:48:26 CEST 2017 - /Stream/Chicago_Med-1.html,s2e16 - Chicago Med
