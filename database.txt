@@ -3206,3 +3206,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497970010 - Tue Jun 20 16:46:50 CEST 2017 - /Stream/Arrow_german_subbed.html,s5e22 - Arrow *german subbed*
 1497970029 - Tue Jun 20 16:47:09 CEST 2017 - /Stream/iZombie_german_subbed.html,s3e11 - iZombie *german subbed*
 1497970043 - Tue Jun 20 16:47:23 CEST 2017 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s13e23 - Grey's Anatomy - Die jungen Ärzte
+1497970064 - Tue Jun 20 16:47:44 CEST 2017 - /Stream/The_Mr-Peabody-Sherman_Show.html,s3e1 - The Mr. Peabody & Sherman Show
