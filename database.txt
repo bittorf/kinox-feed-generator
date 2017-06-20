@@ -3234,3 +3234,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1497999037 - Wed Jun 21 00:50:37 CEST 2017 - /Stream/Besessen-Das_Loch_in_der_Wand.html - Besessen - Das Loch in der Wand
 1497999041 - Wed Jun 21 00:50:41 CEST 2017 - /Stream/Bunker_of_the_Dead-1.html - Bunker of the Dead
 1497999046 - Wed Jun 21 00:50:46 CEST 2017 - /Stream/Boom-Sex_mit_der_Ex.html - Boom! - Sex mit der Ex
+1497999052 - Wed Jun 21 00:50:52 CEST 2017 - /Stream/Brancaleone_2-Teil-Abenteuer_im_heiligen_Land.html - Brancaleone 2. Teil - Abenteuer im heiligen Land
