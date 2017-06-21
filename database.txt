@@ -3268,3 +3268,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498056943 - Wed Jun 21 16:55:43 CEST 2017 - /Stream/Teachers-2.html,s2e1 - Teachers
 1498056948 - Wed Jun 21 16:55:48 CEST 2017 - /Stream/Versailles-1.html,s2 - Versailles
 1498056954 - Wed Jun 21 16:55:54 CEST 2017 - /Stream/Girls-1.html,s6e9 - Girls
+1498056962 - Wed Jun 21 16:56:02 CEST 2017 - /Stream/The_Collection-1.html,s1e2 - The Collection
