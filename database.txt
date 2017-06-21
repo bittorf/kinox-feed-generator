@@ -3258,3 +3258,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498056860 - Wed Jun 21 16:54:20 CEST 2017 - /Stream/The_Mr-Peabody-Sherman_Show.html,s3e2 - The Mr. Peabody & Sherman Show
 1498056866 - Wed Jun 21 16:54:26 CEST 2017 - /Stream/Better_Call_Saul.html,s3e10 - Better Call Saul
 1498056874 - Wed Jun 21 16:54:34 CEST 2017 - /Stream/Teletubbies.html,s1e46 - Teletubbies
+1498056879 - Wed Jun 21 16:54:39 CEST 2017 - /Stream/American_Gods-1.html,s1e8 - American Gods
