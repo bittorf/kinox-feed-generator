@@ -3315,3 +3315,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498172575 - Fri Jun 23 01:02:55 CEST 2017 - /Stream/Bullet-Auge_um_Auge.html - Bullet - Auge um Auge
 1498172580 - Fri Jun 23 01:03:00 CEST 2017 - /Stream/Blood_Games.html - Blood Games
 1498172587 - Fri Jun 23 01:03:07 CEST 2017 - /Stream/Beste_FReinde.html - Beste FReinde
+1498172594 - Fri Jun 23 01:03:14 CEST 2017 - /Stream/Bewaffneter_Widerstand-Armed_Response.html - Bewaffneter Widerstand - Armed Response
