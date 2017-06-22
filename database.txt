@@ -3336,3 +3336,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498172701 - Fri Jun 23 01:05:01 CEST 2017 - /Stream/Bibi-Tina_Voll_verhext.html - Bibi & Tina: Voll verhext!
 1498172708 - Fri Jun 23 01:05:08 CEST 2017 - /Stream/Back_to_the_Dark_Side.html - Back to the Dark Side
 1498172713 - Fri Jun 23 01:05:13 CEST 2017 - /Stream/Batman_Unlimited_Animal_Instincts.html - Batman Unlimited: Animal Instincts
+1498172718 - Fri Jun 23 01:05:18 CEST 2017 - /Stream/Boogeyman-Der_schwarze_Mann.html - Boogeyman - Der schwarze Mann
