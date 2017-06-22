@@ -3326,3 +3326,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498172639 - Fri Jun 23 01:03:59 CEST 2017 - /Stream/The_Black_Water_Vampire.html - The Black Water Vampire
 1498172644 - Fri Jun 23 01:04:04 CEST 2017 - /Stream/Boys_Like_Us.html - Boys Like Us
 1498172652 - Fri Jun 23 01:04:12 CEST 2017 - /Stream/Battle_New_York_Day_2-1.html - Battle: New York, Day 2
+1498172656 - Fri Jun 23 01:04:16 CEST 2017 - /Stream/Beautiful_Fucking_Day.html - Beautiful Fucking Day
