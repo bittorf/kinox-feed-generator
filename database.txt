@@ -3322,3 +3322,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498172618 - Fri Jun 23 01:03:38 CEST 2017 - /Stream/Battle_Royal-BR_2_Survival_Program.html - Battle Royal - BR 2: Survival Program
 1498172623 - Fri Jun 23 01:03:43 CEST 2017 - /Stream/Bockspruenge.html - Bocksprünge
 1498172628 - Fri Jun 23 01:03:48 CEST 2017 - /Stream/Battle_for_SkyArk.html - Battle for SkyArk
+1498172634 - Fri Jun 23 01:03:54 CEST 2017 - /Stream/Bad_Ass_3.html - Bad Ass 3
