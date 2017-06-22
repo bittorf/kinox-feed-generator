@@ -3303,3 +3303,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498150870 - Thu Jun 22 19:01:10 CEST 2017 - /Stream/Veep-Die_Vizepraesidentin.html,s6e1 - Veep - Die Vizepräsidentin
 1498150878 - Thu Jun 22 19:01:18 CEST 2017 - /Stream/Annedroids.html,s4e12 - Annedroids
 1498150884 - Thu Jun 22 19:01:24 CEST 2017 - /Stream/The_Mr-Peabody-Sherman_Show.html,s3e3 - The Mr. Peabody & Sherman Show
+1498150890 - Thu Jun 22 19:01:30 CEST 2017 - /Stream/Supergirl_german_subbed.html,s2e16 - Supergirl *german subbed*
