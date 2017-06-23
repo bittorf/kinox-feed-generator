@@ -3352,3 +3352,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498223281 - Fri Jun 23 15:08:01 CEST 2017 - /Stream/Brojects.html,s3e2 - Brojects
 1498223286 - Fri Jun 23 15:08:06 CEST 2017 - /Stream/Supergirl-2.html,s2e14 - Supergirl
 1498223297 - Fri Jun 23 15:08:17 CEST 2017 - /Stream/The_Mist-1.html,s1e1 - The Mist
+1498223303 - Fri Jun 23 15:08:23 CEST 2017 - /Stream/Queen_of_the_South.html,s2e3 - Queen of the South
