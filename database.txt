@@ -3360,3 +3360,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498223338 - Fri Jun 23 15:08:58 CEST 2017 - /Stream/Saving_Hope.html,s5e12 - Saving Hope
 1498259382 - Sat Jun 24 01:09:42 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e1 - Criminal Minds: Beyond Borders
 1498259395 - Sat Jun 24 01:09:55 CEST 2017 - /Stream/Fargo-2.html,s3e10 - Fargo
+1498259407 - Sat Jun 24 01:10:07 CEST 2017 - /Stream/The_Handmaids_Tale_german_subbed.html,s1e3 - The Handmaid's Tale *german subbed*
