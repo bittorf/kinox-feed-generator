@@ -3350,3 +3350,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498223267 - Fri Jun 23 15:07:47 CEST 2017 - /Stream/Fresh_Off_the_Boat-1.html,s3e18 - Fresh Off the Boat
 1498223275 - Fri Jun 23 15:07:55 CEST 2017 - /Stream/Annedroids.html,s4e13 - Annedroids
 1498223281 - Fri Jun 23 15:08:01 CEST 2017 - /Stream/Brojects.html,s3e2 - Brojects
+1498223286 - Fri Jun 23 15:08:06 CEST 2017 - /Stream/Supergirl-2.html,s2e14 - Supergirl
