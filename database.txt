@@ -3411,3 +3411,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498324701 - Sat Jun 24 19:18:21 CEST 2017 - /Stream/The_Big_Bang_Theory_german_subbed.html,s6 - The Big Bang Theory *german subbed*
 1498324717 - Sat Jun 24 19:18:37 CEST 2017 - /Stream/The_Big_Bang_Theory_german_subbed.html,s8 - The Big Bang Theory *german subbed*
 1498324733 - Sat Jun 24 19:18:53 CEST 2017 - /Stream/The_Big_Bang_Theory_german_subbed.html,s5 - The Big Bang Theory *german subbed*
+1498324750 - Sat Jun 24 19:19:10 CEST 2017 - /Stream/The_Blacklist_german_subbed.html,s2 - The Blacklist *german subbed*
