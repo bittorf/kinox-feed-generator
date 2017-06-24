@@ -3408,3 +3408,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498324675 - Sat Jun 24 19:17:55 CEST 2017 - /Stream/Man_Seeking_Woman-1.html,s3e9 - Man Seeking Woman
 1498324681 - Sat Jun 24 19:18:01 CEST 2017 - /Stream/The_Bold_Type.html,s1e1 - The Bold Type
 1498324685 - Sat Jun 24 19:18:05 CEST 2017 - /Stream/The_Blacklist_german_subbed.html,s3e6 - The Blacklist *german subbed*
+1498324701 - Sat Jun 24 19:18:21 CEST 2017 - /Stream/The_Big_Bang_Theory_german_subbed.html,s6 - The Big Bang Theory *german subbed*
