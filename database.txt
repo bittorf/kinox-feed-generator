@@ -3406,3 +3406,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498324657 - Sat Jun 24 19:17:37 CEST 2017 - /Stream/Teen_Wolf-2.html,s2 - Teen Wolf
 1498324671 - Sat Jun 24 19:17:51 CEST 2017 - /Stream/Riviera.html,s1e2 - Riviera
 1498324675 - Sat Jun 24 19:17:55 CEST 2017 - /Stream/Man_Seeking_Woman-1.html,s3e9 - Man Seeking Woman
+1498324681 - Sat Jun 24 19:18:01 CEST 2017 - /Stream/The_Bold_Type.html,s1e1 - The Bold Type
