@@ -3383,3 +3383,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498295644 - Sat Jun 24 11:14:04 CEST 2017 - /Stream/The_Handmaids_Tale_german_subbed.html,s1 - The Handmaid's Tale *german subbed*
 1498295655 - Sat Jun 24 11:14:15 CEST 2017 - /Stream/Versailles-1.html,s2e8 - Versailles
 1498295661 - Sat Jun 24 11:14:21 CEST 2017 - /Stream/Blindspot-1.html,s2 - Blindspot
+1498295671 - Sat Jun 24 11:14:31 CEST 2017 - /Stream/The_Job_Lot.html,s3 - The Job Lot
