@@ -3371,3 +3371,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498295525 - Sat Jun 24 11:12:05 CEST 2017 - /Stream/Moontrap_Target_Earth.html - Moontrap: Target Earth
 1498295531 - Sat Jun 24 11:12:11 CEST 2017 - /Stream/Erpressung.html - Erpressung
 1498295539 - Sat Jun 24 11:12:19 CEST 2017 - /Stream/Lemony_Snicket-Raetselhafte_Ereignisse.html - Lemony Snicket - Rätselhafte Ereignisse
+1498295549 - Sat Jun 24 11:12:29 CEST 2017 - /Stream/10_Days_in_a_Madhouse.html - 10 Days in a Madhouse
