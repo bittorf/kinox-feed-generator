@@ -3429,3 +3429,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498324902 - Sat Jun 24 19:21:42 CEST 2017 - /Stream/Ray_Donovan_german_subbed.html,s2 - Ray Donovan *german subbed*
 1498324911 - Sat Jun 24 19:21:51 CEST 2017 - /Stream/Ray_Donovan_german_subbed.html,s1e3 - Ray Donovan *german subbed*
 1498324919 - Sat Jun 24 19:21:59 CEST 2017 - /Stream/Under_the_Dome_german_subbed.html,s1 - Under the Dome *german subbed*
+1498324926 - Sat Jun 24 19:22:06 CEST 2017 - /Stream/Dominion_german_subbed.html,s2e1 - Dominion *german subbed*
