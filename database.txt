@@ -3426,3 +3426,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498324868 - Sat Jun 24 19:21:08 CEST 2017 - /Stream/Sons_of_Anarchy_german_subbed.html,s5 - Sons of Anarchy *german subbed*
 1498324880 - Sat Jun 24 19:21:20 CEST 2017 - /Stream/Doctor_Who_german_subbed.html,s9e5 - Doctor Who *german subbed*
 1498324897 - Sat Jun 24 19:21:37 CEST 2017 - /Stream/Legends_german_subbed.html,s1 - Legends *german subbed*
+1498324902 - Sat Jun 24 19:21:42 CEST 2017 - /Stream/Ray_Donovan_german_subbed.html,s2 - Ray Donovan *german subbed*
