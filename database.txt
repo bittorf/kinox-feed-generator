@@ -3422,3 +3422,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498324834 - Sat Jun 24 19:20:34 CEST 2017 - /Stream/Witches_of_East_End_german_subbed-1.html,s1 - Witches of East End *german subbed*
 1498324839 - Sat Jun 24 19:20:39 CEST 2017 - /Stream/Murder_in_the_First_german_subbed.html,s1 - Murder in the First *german subbed*
 1498324844 - Sat Jun 24 19:20:44 CEST 2017 - /Stream/Under_the_Dome_german_subbed.html,s3 - Under the Dome *german subbed*
+1498324851 - Sat Jun 24 19:20:51 CEST 2017 - /Stream/The_Americans_german_subbed.html,s2 - The Americans *german subbed*
