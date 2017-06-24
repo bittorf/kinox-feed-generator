@@ -3378,3 +3378,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498295603 - Sat Jun 24 11:13:23 CEST 2017 - /Stream/Batman-3.html,s1e1 - Batman
 1498295619 - Sat Jun 24 11:13:39 CEST 2017 - /Stream/12_Monkeys-2.html,s2e6 - 12 Monkeys
 1498295628 - Sat Jun 24 11:13:48 CEST 2017 - /Stream/Free_Rein.html,s1 - Free Rein
+1498295632 - Sat Jun 24 11:13:52 CEST 2017 - /Stream/Die_Thundermans.html,s4e6 - Die Thundermans
