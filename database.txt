@@ -3431,3 +3431,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498324919 - Sat Jun 24 19:21:59 CEST 2017 - /Stream/Under_the_Dome_german_subbed.html,s1 - Under the Dome *german subbed*
 1498324926 - Sat Jun 24 19:22:06 CEST 2017 - /Stream/Dominion_german_subbed.html,s2e1 - Dominion *german subbed*
 1498324932 - Sat Jun 24 19:22:12 CEST 2017 - /Stream/Falling_Skies_german_subbed.html,s5e2 - Falling Skies *german subbed*
+1498324940 - Sat Jun 24 19:22:20 CEST 2017 - /Stream/Navy_CIS_L-A-german_subbed.html,s5 - Navy CIS: L.A. *german subbed*
