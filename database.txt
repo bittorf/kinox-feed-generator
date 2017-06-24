@@ -3374,3 +3374,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498295549 - Sat Jun 24 11:12:29 CEST 2017 - /Stream/10_Days_in_a_Madhouse.html - 10 Days in a Madhouse
 1498295555 - Sat Jun 24 11:12:35 CEST 2017 - /Stream/Approaching_the_Unknown-1.html - Approaching the Unknown
 1498295561 - Sat Jun 24 11:12:41 CEST 2017 - /Stream/Tatort-1.html,s1 - Tatort
+1498295599 - Sat Jun 24 11:13:19 CEST 2017 - /Stream/Genius_Einstein.html,s1e9 - Genius: Einstein
