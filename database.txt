@@ -3416,3 +3416,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498324773 - Sat Jun 24 19:19:33 CEST 2017 - /Stream/The_Blacklist_german_subbed.html,s1 - The Blacklist *german subbed*
 1498324792 - Sat Jun 24 19:19:52 CEST 2017 - /Stream/Haven_german_subbed.html,s5 - Haven *german subbed*
 1498324800 - Sat Jun 24 19:20:00 CEST 2017 - /Stream/The_Big_Bang_Theory_german_subbed.html,s7 - The Big Bang Theory *german subbed*
+1498324816 - Sat Jun 24 19:20:16 CEST 2017 - /Stream/Witches_of_East_End_german_subbed-1.html,s2 - Witches of East End *german subbed*
