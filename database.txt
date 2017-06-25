@@ -3444,3 +3444,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498325074 - Sat Jun 24 19:24:34 CEST 2017 - /Stream/Navy_CIS_L-A-german_subbed.html,s4e6 - Navy CIS: L.A. *german subbed*
 1498346700 - Sun Jun 25 01:25:00 CEST 2017 - /Stream/Transformers_The_Last_Knight.html - Transformers: The Last Knight
 1498346716 - Sun Jun 25 01:25:16 CEST 2017 - /Stream/South_Park_german_subbed.html,s16e4 - South Park *german subbed*
+1498382757 - Sun Jun 25 11:25:57 CEST 2017 - /Stream/Bon_Voyage_ihr_Idioten.html - Bon Voyage, ihr Idioten
