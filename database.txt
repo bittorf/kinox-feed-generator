@@ -3446,3 +3446,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498346716 - Sun Jun 25 01:25:16 CEST 2017 - /Stream/South_Park_german_subbed.html,s16e4 - South Park *german subbed*
 1498382757 - Sun Jun 25 11:25:57 CEST 2017 - /Stream/Bon_Voyage_ihr_Idioten.html - Bon Voyage, ihr Idioten
 1498382765 - Sun Jun 25 11:26:05 CEST 2017 - /Stream/Doctor_Who_Last_Christmas.html - "Doctor Who" Last Christmas
+1498397181 - Sun Jun 25 15:26:21 CEST 2017 - /Stream/Cinema_dell_oscurita.html - Cinema dell' oscurità
