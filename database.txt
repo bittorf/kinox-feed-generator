@@ -3461,3 +3461,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498469334 - Mon Jun 26 11:28:54 CEST 2017 - /Stream/Poldark.html,s3e3 - Poldark
 1498469340 - Mon Jun 26 11:29:00 CEST 2017 - /Stream/Orphan_Black.html,s5e3 - Orphan Black
 1498469347 - Mon Jun 26 11:29:07 CEST 2017 - /Stream/Pretty_Little_Liars.html,s9e19 - Pretty Little Liars
+1498469361 - Mon Jun 26 11:29:21 CEST 2017 - /Stream/Claws-1.html,s1e3 - Claws
