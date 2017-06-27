@@ -3479,3 +3479,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498577578 - Tue Jun 27 17:32:58 CEST 2017 - /Stream/Preacher-1.html,s2e2 - Preacher
 1498577586 - Tue Jun 27 17:33:06 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e17 - Chicago Fire
 1498577594 - Tue Jun 27 17:33:14 CEST 2017 - /Stream/Pawn_Stars.html,s14 - Pawn Stars
+1498584807 - Tue Jun 27 19:33:27 CEST 2017 - /Stream/Nightcap.html,s2 - Nightcap
