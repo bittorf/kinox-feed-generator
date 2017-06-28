@@ -3494,3 +3494,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498692959 - Thu Jun 29 01:35:59 CEST 2017 - /Stream/.html - Tom und Jerry - The Classic Collection Vol.04
 1498692960 - Thu Jun 29 01:36:00 CEST 2017 - /Stream/The_Blacklist-1.html,s4e22 - The Blacklist
 1498692974 - Thu Jun 29 01:36:14 CEST 2017 - /Stream/Legends_of_Tomorrow-1.html,s2e8 - Legends of Tomorrow
+1498692984 - Thu Jun 29 01:36:24 CEST 2017 - /Stream/Blindspot-1.html,s2e20 - Blindspot
