@@ -3502,3 +3502,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498743472 - Thu Jun 29 15:37:52 CEST 2017 - /Stream/Veep-Die_Vizepraesidentin.html,s6e2 - Veep - Die Vizepräsidentin
 1498757894 - Thu Jun 29 19:38:14 CEST 2017 - /Stream/Brojects.html,s3e4 - Brojects
 1498757909 - Thu Jun 29 19:38:29 CEST 2017 - /Stream/Poldark-1.html,s2e2 - Poldark
+1498757917 - Thu Jun 29 19:38:37 CEST 2017 - /Stream/Chicago_Justice-1.html,s1e8 - Chicago Justice
