@@ -3514,3 +3514,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498779603 - Fri Jun 30 01:40:03 CEST 2017 - /Stream/Wentworth-1.html,s3e1 - Wentworth
 1498779609 - Fri Jun 30 01:40:09 CEST 2017 - /Stream/Silicon_Valley-1.html,s4e2 - Silicon Valley
 1498779616 - Fri Jun 30 01:40:16 CEST 2017 - /Stream/Girls-1.html,s6e10 - Girls
+1498815659 - Fri Jun 30 11:40:59 CEST 2017 - /Stream/Stan_Lees_Lucky_Man-1.html,s2e2 - Stan Lee's Lucky Man
