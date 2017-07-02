@@ -3551,3 +3551,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498988953 - Sun Jul  2 11:49:13 CEST 2017 - /Stream/Degrassi_The_Next_Generation.html,s13 - Degrassi: The Next Generation
 1498988962 - Sun Jul  2 11:49:22 CEST 2017 - /Stream/Bomb_Girls.html,s1e6 - Bomb Girls
 1499039415 - Mon Jul  3 01:50:15 CEST 2017 - /Stream/Rec.html - [Rec]
+1499039424 - Mon Jul  3 01:50:24 CEST 2017 - /Stream/REC_Genesis-1.html - [REC]³ Génesis
