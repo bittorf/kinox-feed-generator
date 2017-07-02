@@ -3544,3 +3544,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1498988873 - Sun Jul  2 11:47:53 CEST 2017 - /Stream/Death_in_Paradise-1.html,s6e8 - Death in Paradise
 1498988879 - Sun Jul  2 11:47:59 CEST 2017 - /Stream/Brojects.html,s3e5 - Brojects
 1498988883 - Sun Jul  2 11:48:03 CEST 2017 - /Stream/Doctor_Who-1.html,s10e12 - Doctor Who
+1498988898 - Sun Jul  2 11:48:18 CEST 2017 - /Stream/Detektiv_Conan.html,s1 - Detektiv Conan
