@@ -3555,3 +3555,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499039425 - Mon Jul  3 01:50:25 CEST 2017 - /Stream/Koenigin_der_Wueste.html - Königin der Wüste
 1499039434 - Mon Jul  3 01:50:34 CEST 2017 - /Stream/You_Me_and_the_Apocalypse-1.html,s1e9 - You, Me and the Apocalypse
 1499068271 - Mon Jul  3 09:51:11 CEST 2017 - /Stream/The_Code.html,s2e5 - The Code
+1499068283 - Mon Jul  3 09:51:23 CEST 2017 - /Stream/The_Collection-1.html,s1e3 - The Collection
