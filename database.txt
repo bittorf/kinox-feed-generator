@@ -3562,3 +3562,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499154796 - Tue Jul  4 09:53:16 CEST 2017 - /Stream/The_Good_Place-1.html,s1 - The Good Place
 1499154812 - Tue Jul  4 09:53:32 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e18 - Chicago Fire
 1499154821 - Tue Jul  4 09:53:41 CEST 2017 - /Stream/The_Cleveland_Show-2.html,s4e17 - The Cleveland Show
+1499154827 - Tue Jul  4 09:53:47 CEST 2017 - /Stream/Undefeated_Bahamut_Chronicle.html,s1 - Undefeated Bahamut Chronicle
