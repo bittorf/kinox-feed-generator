@@ -3565,3 +3565,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499154827 - Tue Jul  4 09:53:47 CEST 2017 - /Stream/Undefeated_Bahamut_Chronicle.html,s1 - Undefeated Bahamut Chronicle
 1499154831 - Tue Jul  4 09:53:51 CEST 2017 - /Stream/Preacher-1.html,s2e3 - Preacher
 1499212478 - Wed Jul  5 01:54:38 CEST 2017 - /Stream/Animal_Kingdom-2.html,s1e3 - Animal Kingdom
+1499212490 - Wed Jul  5 01:54:50 CEST 2017 - /Stream/Chicago_Med-1.html,s2e18 - Chicago Med
