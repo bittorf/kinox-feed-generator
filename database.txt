@@ -3567,3 +3567,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499212478 - Wed Jul  5 01:54:38 CEST 2017 - /Stream/Animal_Kingdom-2.html,s1e3 - Animal Kingdom
 1499212490 - Wed Jul  5 01:54:50 CEST 2017 - /Stream/Chicago_Med-1.html,s2e18 - Chicago Med
 1499212497 - Wed Jul  5 01:54:57 CEST 2017 - /Stream/Fear_the_Walking_Dead-1.html,s3e6 - Fear the Walking Dead
+1499212513 - Wed Jul  5 01:55:13 CEST 2017 - /Stream/MacGyver-3.html,s1e6 - MacGyver
