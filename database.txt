@@ -3560,3 +3560,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499068302 - Mon Jul  3 09:51:42 CEST 2017 - /Stream/Fear_the_Walking_Dead.html,s3e6 - Fear the Walking Dead
 1499104336 - Mon Jul  3 19:52:16 CEST 2017 - /Stream/Grimm-3.html,s5e1 - Grimm
 1499154796 - Tue Jul  4 09:53:16 CEST 2017 - /Stream/The_Good_Place-1.html,s1 - The Good Place
+1499154812 - Tue Jul  4 09:53:32 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e18 - Chicago Fire
