@@ -3594,3 +3594,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499299127 - Thu Jul  6 01:58:47 CEST 2017 - /Stream/Der_Soldat_James_Ryan.html - Der Soldat James Ryan
 1499299137 - Thu Jul  6 01:58:57 CEST 2017 - /Stream/Grimm-3.html,s5 - Grimm
 1499299148 - Thu Jul  6 01:59:08 CEST 2017 - /Stream/The_Mr-Peabody-Sherman_Show.html,s4e1 - The Mr. Peabody & Sherman Show
+1499299154 - Thu Jul  6 01:59:14 CEST 2017 - /Stream/Legends_of_Tomorrow-1.html,s2e9 - Legends of Tomorrow
