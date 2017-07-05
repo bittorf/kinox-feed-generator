@@ -3578,3 +3578,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499299038 - Thu Jul  6 01:57:18 CEST 2017 - /Stream/Das_Wunder_in_der_8-Strasse.html - Das Wunder in der 8. Straﬂe
 1499299044 - Thu Jul  6 01:57:24 CEST 2017 - /Stream/Dragon_Ball_Z_Super_saiyajin_son-gohan.html - Dragon Ball Z: Super saiyajin son-gohan
 1499299049 - Thu Jul  6 01:57:29 CEST 2017 - /Stream/Das_Kartell.html - Das Kartell
+1499299056 - Thu Jul  6 01:57:36 CEST 2017 - /Stream/Das_Spukschloss_im_Spessart.html - Das Spukschloﬂ im Spessart
