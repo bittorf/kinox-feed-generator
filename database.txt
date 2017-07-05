@@ -3586,3 +3586,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499299083 - Thu Jul  6 01:58:03 CEST 2017 - /Stream/Das_Grauen_aus_der_Tiefe.html - Das Grauen aus der Tiefe
 1499299087 - Thu Jul  6 01:58:07 CEST 2017 - /Stream/Der_Weg_einer_Frau.html - Der Weg einer Frau
 1499299092 - Thu Jul  6 01:58:12 CEST 2017 - /Stream/Dragon_Ball_Z-Super_Saiyajin_Son-Goku.html - Dragon Ball Z - Super Saiyajin Son-Goku
+1499299097 - Thu Jul  6 01:58:17 CEST 2017 - /Stream/Dragon_Ball_Z-The_Movie_Rache_fuer_Freezer.html - Dragon Ball Z - The Movie: Rache für Freezer
