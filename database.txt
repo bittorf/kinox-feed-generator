@@ -3601,3 +3601,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499299191 - Thu Jul  6 01:59:51 CEST 2017 - /Stream/NYC_22-1.html,s1e6 - NYC 22
 1499299196 - Thu Jul  6 01:59:56 CEST 2017 - /Stream/The_Mr-Peabody-Sherman_Show.html,s3 - The Mr. Peabody & Sherman Show
 1499299206 - Thu Jul  6 02:00:06 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e2 - Criminal Minds: Beyond Borders
+1499328043 - Thu Jul  6 10:00:43 CEST 2017 - /Stream/Stan_Lees_Lucky_Man-1.html,s2e3 - Stan Lee's Lucky Man
