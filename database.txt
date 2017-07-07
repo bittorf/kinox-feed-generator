@@ -3657,3 +3657,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499465359 - Sat Jul  8 00:09:19 CEST 2017 - /Stream/Drei_Tage_bis_Weihnachten.html - Drei Tage bis Weihnachten
 1499465370 - Sat Jul  8 00:09:30 CEST 2017 - /Stream/Dragon_Ball_Z-Angriff_der_Biokaempfer.html - Dragon Ball Z - Angriff der Biokämpfer
 1499465374 - Sat Jul  8 00:09:34 CEST 2017 - /Stream/Der_Mann_der_Koenig_sein_wollte.html - Der Mann, der König sein wollte
+1499465379 - Sat Jul  8 00:09:39 CEST 2017 - /Stream/The_Master_mit_den_gebrochenen_Haenden.html - 'The Master' mit den gebrochenen Händen
