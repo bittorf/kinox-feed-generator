@@ -3668,3 +3668,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499465437 - Sat Jul  8 00:10:37 CEST 2017 - /Stream/Into_the_Badlands-1.html,s2e1 - Into the Badlands
 1499465446 - Sat Jul  8 00:10:46 CEST 2017 - /Stream/Black-ish.html,s1e1 - Black-ish
 1499465452 - Sat Jul  8 00:10:52 CEST 2017 - /Stream/Pawn_Stars-1.html,s13e20 - Pawn Stars
+1499465462 - Sat Jul  8 00:11:02 CEST 2017 - /Stream/Arrow_german_subbed.html,s5e23 - Arrow *german subbed*
