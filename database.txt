@@ -3641,3 +3641,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499422000 - Fri Jul  7 12:06:40 CEST 2017 - /Stream/Zoo-1.html,s3e2 - Zoo
 1499422009 - Fri Jul  7 12:06:49 CEST 2017 - /Stream/American_Dad.html,s3e8 - American Dad
 1499422023 - Fri Jul  7 12:07:03 CEST 2017 - /Stream/Star_Wars_The_Clone_Wars-1.html,s6e7 - Star Wars: The Clone Wars
+1499422033 - Fri Jul  7 12:07:13 CEST 2017 - /Stream/Stargate_SG-1.html,s9e20 - Stargate SG-1
