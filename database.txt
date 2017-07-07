@@ -3655,3 +3655,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499465346 - Sat Jul  8 00:09:06 CEST 2017 - /Stream/Die_Piratenbraut.html - Die Piratenbraut
 1499465354 - Sat Jul  8 00:09:14 CEST 2017 - /Stream/Die_Rueckkehr_der_lebenden_Toten.html - Die Rückkehr der lebenden Toten
 1499465359 - Sat Jul  8 00:09:19 CEST 2017 - /Stream/Drei_Tage_bis_Weihnachten.html - Drei Tage bis Weihnachten
+1499465370 - Sat Jul  8 00:09:30 CEST 2017 - /Stream/Dragon_Ball_Z-Angriff_der_Biokaempfer.html - Dragon Ball Z - Angriff der Biokämpfer
