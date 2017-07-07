@@ -3665,3 +3665,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499465410 - Sat Jul  8 00:10:10 CEST 2017 - /Stream/Wentworth-1.html,s3 - Wentworth
 1499465416 - Sat Jul  8 00:10:16 CEST 2017 - /Stream/Gotham-1.html,s3e10 - Gotham
 1499465427 - Sat Jul  8 00:10:27 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e6 - Hawaii Five-0
+1499465437 - Sat Jul  8 00:10:37 CEST 2017 - /Stream/Into_the_Badlands-1.html,s2e1 - Into the Badlands
