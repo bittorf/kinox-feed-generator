@@ -3643,3 +3643,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499422023 - Fri Jul  7 12:07:03 CEST 2017 - /Stream/Star_Wars_The_Clone_Wars-1.html,s6e7 - Star Wars: The Clone Wars
 1499422033 - Fri Jul  7 12:07:13 CEST 2017 - /Stream/Stargate_SG-1.html,s9e20 - Stargate SG-1
 1499422044 - Fri Jul  7 12:07:24 CEST 2017 - /Stream/Stargate_Atlantis.html,s2e7 - Stargate: Atlantis
+1499465290 - Sat Jul  8 00:08:10 CEST 2017 - /Stream/Der_Sizilianer-1.html - Der Sizilianer
