@@ -3623,3 +3623,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499385824 - Fri Jul  7 02:03:44 CEST 2017 - /Stream/Veep-Die_Vizepraesidentin.html,s6e3 - Veep - Die Vizepräsidentin
 1499421868 - Fri Jul  7 12:04:28 CEST 2017 - /Stream/Ich-Einfach_unverbesserlich_3.html - Ich - Einfach unverbesserlich 3
 1499421876 - Fri Jul  7 12:04:36 CEST 2017 - /Stream/Get_the_Girl-2.html - Get the Girl
+1499421882 - Fri Jul  7 12:04:42 CEST 2017 - /Stream/MacArthur-Held_des_Pazifik.html - MacArthur - Held des Pazifik
