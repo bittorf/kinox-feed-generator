@@ -3645,3 +3645,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499422044 - Fri Jul  7 12:07:24 CEST 2017 - /Stream/Stargate_Atlantis.html,s2e7 - Stargate: Atlantis
 1499465290 - Sat Jul  8 00:08:10 CEST 2017 - /Stream/Der_Sizilianer-1.html - Der Sizilianer
 1499465299 - Sat Jul  8 00:08:19 CEST 2017 - /Stream/Der_Haus-Tyrann.html - Der Haus-Tyrann
+1499465304 - Sat Jul  8 00:08:24 CEST 2017 - /Stream/Die_Eroberer.html - Die Eroberer
