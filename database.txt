@@ -3639,3 +3639,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499421985 - Fri Jul  7 12:06:25 CEST 2017 - /Stream/Nashville.html,s5e17 - Nashville
 1499421994 - Fri Jul  7 12:06:34 CEST 2017 - /Stream/Saving_Hope.html,s5e14 - Saving Hope
 1499422000 - Fri Jul  7 12:06:40 CEST 2017 - /Stream/Zoo-1.html,s3e2 - Zoo
+1499422009 - Fri Jul  7 12:06:49 CEST 2017 - /Stream/American_Dad.html,s3e8 - American Dad
