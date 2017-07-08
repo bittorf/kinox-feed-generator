@@ -3710,3 +3710,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499552182 - Sun Jul  9 00:16:22 CEST 2017 - /Stream/Die_wilden_Kerle_6-Die_Legende_lebt.html - Die wilden Kerle 6 - Die Legende lebt
 1499552189 - Sun Jul  9 00:16:29 CEST 2017 - /Stream/The_Official_3D_2010_FIFA_World_Cup_Film.html - The Official 3D 2010 FIFA World Cup Film
 1499552193 - Sun Jul  9 00:16:33 CEST 2017 - /Stream/Die_Alliierten-Hinter_feindlichen_Linien.html - Die Alliierten - Hinter feindlichen Linien
+1499552208 - Sun Jul  9 00:16:48 CEST 2017 - /Stream/die_Teufels_tolle_Hunde.html - die Teufels tolle Hunde
