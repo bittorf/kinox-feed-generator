@@ -3719,3 +3719,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499552241 - Sun Jul  9 00:17:21 CEST 2017 - /Stream/Der_Bunker-1.html - Der Bunker
 1499552245 - Sun Jul  9 00:17:25 CEST 2017 - /Stream/Auf_der_Jagd_nach_dem_Nierenstein.html - Auf der Jagd nach dem Nierenstein
 1499552250 - Sun Jul  9 00:17:30 CEST 2017 - /Stream/Das_Glueck_am_Horizont.html - Das Glück am Horizont
+1499552254 - Sun Jul  9 00:17:34 CEST 2017 - /Stream/Der_perfekte_Rockstar.html - Der perfekte Rockstar
