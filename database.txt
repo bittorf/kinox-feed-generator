@@ -3690,3 +3690,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499508830 - Sat Jul  8 12:13:50 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4e1 - Degrassi: Next Class
 1499508835 - Sat Jul  8 12:13:55 CEST 2017 - /Stream/Castlevania.html,s1e1 - Castlevania
 1499508839 - Sat Jul  8 12:13:59 CEST 2017 - /Stream/Wynonna_Earp.html,s2e5 - Wynonna Earp
+1499508845 - Sat Jul  8 12:14:05 CEST 2017 - /Stream/Killjoys.html,s3e2 - Killjoys
