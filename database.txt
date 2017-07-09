@@ -3727,3 +3727,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499588329 - Sun Jul  9 10:18:49 CEST 2017 - /Stream/Versailles-1.html,s2e1 - Versailles
 1499588335 - Sun Jul  9 10:18:55 CEST 2017 - /Stream/You_Me_and_the_Apocalypse-1.html,s1e10 - You, Me and the Apocalypse
 1499588342 - Sun Jul  9 10:19:02 CEST 2017 - /Stream/Castlevania.html,s1e4 - Castlevania
+1499588348 - Sun Jul  9 10:19:08 CEST 2017 - /Stream/Still_Star-Crossed.html,s1e4 - Still Star-Crossed
