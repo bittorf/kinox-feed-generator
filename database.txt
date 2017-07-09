@@ -3757,3 +3757,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499638948 - Mon Jul 10 00:22:28 CEST 2017 - /Stream/Dark_by_Noon.html - Dark by Noon
 1499638953 - Mon Jul 10 00:22:33 CEST 2017 - /Stream/Die_Abenteuer_des_Rabbi_Jakob.html - Die Abenteuer des Rabbi Jakob
 1499638958 - Mon Jul 10 00:22:38 CEST 2017 - /Stream/Die_Verfluchten_der_Pampas.html - Die Verfluchten der Pampas
+1499638963 - Mon Jul 10 00:22:43 CEST 2017 - /Stream/Der_Kuckuck_und_der_Esel.html - Der Kuckuck und der Esel
