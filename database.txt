@@ -3738,3 +3738,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499638835 - Mon Jul 10 00:20:35 CEST 2017 - /Stream/Double_Team-2.html - Double Team
 1499638840 - Mon Jul 10 00:20:40 CEST 2017 - /Stream/Das_Maerchen_vom_Schlaraffenland.html - Das Märchen vom Schlaraffenland
 1499638845 - Mon Jul 10 00:20:45 CEST 2017 - /Stream/Morgan_2016.html - Morgan (2016)
+1499638851 - Mon Jul 10 00:20:51 CEST 2017 - /Stream/Cooper_2-Der_Hundeengel_ist_zurueck.html - Cooper 2 - Der Hundeengel ist zurück!
