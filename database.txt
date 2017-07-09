@@ -3735,3 +3735,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499638821 - Mon Jul 10 00:20:21 CEST 2017 - /Stream/Leading_Lady-1.html - Leading Lady
 1499638825 - Mon Jul 10 00:20:25 CEST 2017 - /Stream/Die_Meute_lauert_ueberall.html - Die Meute lauert überall
 1499638830 - Mon Jul 10 00:20:30 CEST 2017 - /Stream/Fortress-Die_Festung.html - Fortress - Die Festung
+1499638835 - Mon Jul 10 00:20:35 CEST 2017 - /Stream/Double_Team-2.html - Double Team
