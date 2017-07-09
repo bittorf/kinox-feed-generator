@@ -3722,3 +3722,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499552254 - Sun Jul  9 00:17:34 CEST 2017 - /Stream/Der_perfekte_Rockstar.html - Der perfekte Rockstar
 1499552260 - Sun Jul  9 00:17:40 CEST 2017 - /Stream/American_Gothic-Prinz_der_Finsternis.html,s1 - American Gothic - Prinz der Finsternis
 1499588303 - Sun Jul  9 10:18:23 CEST 2017 - /Stream/The_Mr-Peabody-Sherman_Show.html,s4 - The Mr. Peabody & Sherman Show
+1499588313 - Sun Jul  9 10:18:33 CEST 2017 - /Stream/Into_the_Badlands-1.html,s2 - Into the Badlands
