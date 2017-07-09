@@ -3759,3 +3759,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499638958 - Mon Jul 10 00:22:38 CEST 2017 - /Stream/Die_Verfluchten_der_Pampas.html - Die Verfluchten der Pampas
 1499638963 - Mon Jul 10 00:22:43 CEST 2017 - /Stream/Der_Kuckuck_und_der_Esel.html - Der Kuckuck und der Esel
 1499638967 - Mon Jul 10 00:22:47 CEST 2017 - /Stream/Gruft_der_Vampire.html - Gruft der Vampire
+1499638971 - Mon Jul 10 00:22:51 CEST 2017 - /Stream/Cop_Car-1.html - Cop Car
