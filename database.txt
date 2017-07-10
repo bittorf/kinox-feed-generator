@@ -3774,3 +3774,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499703908 - Mon Jul 10 18:25:08 CEST 2017 - /Stream/Death_Survival-Menschenjagd.html - Death Survival - Menschenjagd
 1499703915 - Mon Jul 10 18:25:15 CEST 2017 - /Stream/The_Mick.html,s1 - The Mick
 1499703921 - Mon Jul 10 18:25:21 CEST 2017 - /Stream/The_Vampire_Diaries.html,s8e15 - The Vampire Diaries
+1499703939 - Mon Jul 10 18:25:39 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4e2 - Degrassi: Next Class
