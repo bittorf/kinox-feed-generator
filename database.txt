@@ -3844,3 +3844,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499812455 - Wed Jul 12 00:34:15 CEST 2017 - /Stream/Der_Grosse_Sommer_Schweizerdeutsch.html - Der Grosse Sommer *Schweizerdeutsch*
 1499812458 - Wed Jul 12 00:34:18 CEST 2017 - /Stream/The_Swan_Princess_Princess_Tomorrow_Pirate_Today.html - The Swan Princess: Princess Tomorrow, Pirate Today!
 1499812462 - Wed Jul 12 00:34:22 CEST 2017 - /Stream/Die_Rache_des_Trappers.html - Die Rache des Trappers
+1499812467 - Wed Jul 12 00:34:27 CEST 2017 - /Stream/Donald_Strachey_Systemschock.html - Donald Strachey: Systemschock
