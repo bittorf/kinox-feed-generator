@@ -3800,3 +3800,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499812200 - Wed Jul 12 00:30:00 CEST 2017 - /Stream/Die_goettliche_Sophie.html - Die göttliche Sophie
 1499812209 - Wed Jul 12 00:30:09 CEST 2017 - /Stream/Drechslers_zweite_Chance.html - Drechslers zweite Chance
 1499812217 - Wed Jul 12 00:30:17 CEST 2017 - /Stream/Dear_Eleanor-1.html - Dear Eleanor
+1499812224 - Wed Jul 12 00:30:24 CEST 2017 - /Stream/Der_Mann_aus_Arizona.html - Der Mann aus Arizona
