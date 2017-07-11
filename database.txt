@@ -3836,3 +3836,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499812405 - Wed Jul 12 00:33:25 CEST 2017 - /Stream/Dark_Touch-1.html - Dark Touch
 1499812410 - Wed Jul 12 00:33:30 CEST 2017 - /Stream/Das_Dschungelbuch-4.html - Das Dschungelbuch
 1499812427 - Wed Jul 12 00:33:47 CEST 2017 - /Stream/Der_Mann_nebenan.html - Der Mann nebenan
+1499812431 - Wed Jul 12 00:33:51 CEST 2017 - /Stream/Die_Nacht_der_verrueckten_Abenteuer.html - Die Nacht der verrückten Abenteuer
