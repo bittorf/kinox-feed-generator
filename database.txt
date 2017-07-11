@@ -3841,3 +3841,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499812441 - Wed Jul 12 00:34:01 CEST 2017 - /Stream/Der_Glaube_unserer_Vaeter.html - Der Glaube unserer Väter
 1499812446 - Wed Jul 12 00:34:06 CEST 2017 - /Stream/Das_Millionen_Rennen.html - Das Millionen Rennen
 1499812450 - Wed Jul 12 00:34:10 CEST 2017 - /Stream/Darkest_Day-1.html - Darkest Day
+1499812455 - Wed Jul 12 00:34:15 CEST 2017 - /Stream/Der_Grosse_Sommer_Schweizerdeutsch.html - Der Grosse Sommer *Schweizerdeutsch*
