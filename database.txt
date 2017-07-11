@@ -3792,3 +3792,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499761704 - Tue Jul 11 10:28:24 CEST 2017 - /Stream/Chicago_Fire-1.html,s5e19 - Chicago Fire
 1499761712 - Tue Jul 11 10:28:32 CEST 2017 - /Stream/Dark_Matter-3.html,s3e1 - Dark Matter
 1499761719 - Tue Jul 11 10:28:39 CEST 2017 - /Stream/Will-1.html,s1e1 - Will
+1499761726 - Tue Jul 11 10:28:46 CEST 2017 - /Stream/Shadowhunters.html,s2e15 - Shadowhunters
