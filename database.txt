@@ -3852,3 +3852,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499812500 - Wed Jul 12 00:35:00 CEST 2017 - /Stream/Call_the_Midwife-Ruf_des_Lebens.html,s5 - Call the Midwife - Ruf des Lebens
 1499812508 - Wed Jul 12 00:35:08 CEST 2017 - /Stream/The_Vampire_Diaries.html,s8e16 - The Vampire Diaries
 1499812524 - Wed Jul 12 00:35:24 CEST 2017 - /Stream/Preacher.html,s2e4 - Preacher
+1499812531 - Wed Jul 12 00:35:31 CEST 2017 - /Stream/Chicago_Med-1.html,s2e19 - Chicago Med
