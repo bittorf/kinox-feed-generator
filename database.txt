@@ -3818,3 +3818,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499812314 - Wed Jul 12 00:31:54 CEST 2017 - /Stream/Der_Spieler_mit_der_Nummer_5.html - Der Spieler mit der Nummer 5
 1499812319 - Wed Jul 12 00:31:59 CEST 2017 - /Stream/David_vs-Goliath.html - David vs. Goliath
 1499812327 - Wed Jul 12 00:32:07 CEST 2017 - /Stream/Das_Ende_der_Angst.html - Das Ende der Angst
+1499812332 - Wed Jul 12 00:32:12 CEST 2017 - /Stream/Das_Tagebuch_der_Anne_Frank-1.html - Das Tagebuch der Anne Frank
