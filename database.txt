@@ -3855,3 +3855,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499812531 - Wed Jul 12 00:35:31 CEST 2017 - /Stream/Chicago_Med-1.html,s2e19 - Chicago Med
 1499812540 - Wed Jul 12 00:35:40 CEST 2017 - /Stream/Preacher-1.html,s2e4 - Preacher
 1499812546 - Wed Jul 12 00:35:46 CEST 2017 - /Stream/The_Mr-Peabody-Sherman_Show.html,s4e4 - The Mr. Peabody & Sherman Show
+1499841381 - Wed Jul 12 08:36:21 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4e3 - Degrassi: Next Class
