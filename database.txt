@@ -3862,3 +3862,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499841411 - Wed Jul 12 08:36:51 CEST 2017 - /Stream/Wrecked-1.html,s2e4 - Wrecked
 1499899067 - Thu Jul 13 00:37:47 CEST 2017 - /Stream/Nashville-1.html,s5e11 - Nashville
 1499899079 - Thu Jul 13 00:37:59 CEST 2017 - /Stream/Legends_of_Tomorrow-1.html,s2e10 - Legends of Tomorrow
+1499899088 - Thu Jul 13 00:38:08 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e3 - Criminal Minds: Beyond Borders
