@@ -3870,3 +3870,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499935154 - Thu Jul 13 10:39:14 CEST 2017 - /Stream/Shadowhunters-1.html,s2e15 - Shadowhunters
 1499935161 - Thu Jul 13 10:39:21 CEST 2017 - /Stream/Younger.html,s4e3 - Younger
 1499935167 - Thu Jul 13 10:39:27 CEST 2017 - /Stream/Nightcap.html,s2e7 - Nightcap
+1499935171 - Thu Jul 13 10:39:31 CEST 2017 - /Stream/The_Carmichael_Show.html,s3e8 - The Carmichael Show
