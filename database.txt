@@ -3866,3 +3866,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499935127 - Thu Jul 13 10:38:47 CEST 2017 - /Stream/Einfach_das_Ende_der_Welt.html - Einfach das Ende der Welt
 1499935135 - Thu Jul 13 10:38:55 CEST 2017 - /Stream/Wilson-Der_Weltverbesserer.html - Wilson - Der Weltverbesserer
 1499935141 - Thu Jul 13 10:39:01 CEST 2017 - /Stream/Will-2.html,s1e2 - Will
+1499935146 - Thu Jul 13 10:39:06 CEST 2017 - /Stream/Stan_Lees_Lucky_Man-1.html,s2e4 - Stan Lee's Lucky Man
