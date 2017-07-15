@@ -3897,3 +3897,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500115570 - Sat Jul 15 12:46:10 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4e4 - Degrassi: Next Class
 1500115576 - Sat Jul 15 12:46:16 CEST 2017 - /Stream/Veep-Die_Vizepraesidentin.html,s6e4 - Veep - Die Vizepräsidentin
 1500122791 - Sat Jul 15 14:46:31 CEST 2017 - /Stream/Dark_Matter-2.html,s3e7 - Dark Matter
+1500158832 - Sun Jul 16 00:47:12 CEST 2017 - /Stream/Das_Dschungelbuch-5.html - Das Dschungelbuch
