@@ -3899,3 +3899,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500122791 - Sat Jul 15 14:46:31 CEST 2017 - /Stream/Dark_Matter-2.html,s3e7 - Dark Matter
 1500158832 - Sun Jul 16 00:47:12 CEST 2017 - /Stream/Das_Dschungelbuch-5.html - Das Dschungelbuch
 1500158838 - Sun Jul 16 00:47:18 CEST 2017 - /Stream/Das_Gestaendnis.html - Das Geständnis
+1500158844 - Sun Jul 16 00:47:24 CEST 2017 - /Stream/Der_Tag_der_Kraehen.html - Der Tag der Krähen
