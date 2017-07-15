@@ -3889,3 +3889,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500115514 - Sat Jul 15 12:45:14 CEST 2017 - /Stream/Blood_Drive.html,s1e5 - Blood Drive
 1500115520 - Sat Jul 15 12:45:20 CEST 2017 - /Stream/Private_Eyes.html,s2e8 - Private Eyes
 1500115525 - Sat Jul 15 12:45:25 CEST 2017 - /Stream/The_Night_Shift.html,s4e4 - The Night Shift
+1500115532 - Sat Jul 15 12:45:32 CEST 2017 - /Stream/Wynonna_Earp.html,s2e6 - Wynonna Earp
