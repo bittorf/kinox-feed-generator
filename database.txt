@@ -3879,3 +3879,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500115374 - Sat Jul 15 12:42:54 CEST 2017 - /Stream/The_Flash-1.html,s3e17 - The Flash
 1500115396 - Sat Jul 15 12:43:16 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-1.html,s4e1 - Agents of S.H.I.E.L.D.
 1500115408 - Sat Jul 15 12:43:28 CEST 2017 - /Stream/Blindspot-1.html,s2e22 - Blindspot
+1500115417 - Sat Jul 15 12:43:37 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e7 - Hawaii Five-0
