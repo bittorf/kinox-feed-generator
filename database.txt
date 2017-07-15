@@ -3911,3 +3911,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500158889 - Sun Jul 16 00:48:09 CEST 2017 - /Stream/Die_weisse_Rose.html - Die weiße Rose
 1500158894 - Sun Jul 16 00:48:14 CEST 2017 - /Stream/Daemonen_und_Wunder-Dheepan.html - Dämonen und Wunder - Dheepan
 1500158905 - Sun Jul 16 00:48:25 CEST 2017 - /Stream/Der_Gluecksbringer-Liebe_gibt_es_nicht_umsonst.html - Der Glücksbringer - Liebe gibt es nicht umsonst
+1500158911 - Sun Jul 16 00:48:31 CEST 2017 - /Stream/Lapitsch-Der_kleine_Schuhmacher.html - Lapitsch - Der kleine Schuhmacher
