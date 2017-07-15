@@ -3882,3 +3882,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500115417 - Sat Jul 15 12:43:37 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e7 - Hawaii Five-0
 1500115428 - Sat Jul 15 12:43:48 CEST 2017 - /Stream/Silicon_Valley-1.html,s4e4 - Silicon Valley
 1500115435 - Sat Jul 15 12:43:55 CEST 2017 - /Stream/Incorporated-1.html,s1e3 - Incorporated
+1500115441 - Sat Jul 15 12:44:01 CEST 2017 - /Stream/Supergirl-2.html,s2e17 - Supergirl
