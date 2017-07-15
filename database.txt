@@ -3874,3 +3874,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1499935176 - Thu Jul 13 10:39:36 CEST 2017 - /Stream/Suits.html,s7e1 - Suits
 1499985627 - Fri Jul 14 00:40:27 CEST 2017 - /Stream/Das_Wunder_von_Kaernten.html - Das Wunder von Kärnten
 1499985638 - Fri Jul 14 00:40:38 CEST 2017 - /Stream/Der_kleine_Lord.html - Der kleine Lord
+1500115354 - Sat Jul 15 12:42:34 CEST 2017 - /Stream/NYC_22-1.html,s1e7 - NYC 22
