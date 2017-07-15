@@ -3914,3 +3914,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500158911 - Sun Jul 16 00:48:31 CEST 2017 - /Stream/Lapitsch-Der_kleine_Schuhmacher.html - Lapitsch - Der kleine Schuhmacher
 1500158916 - Sun Jul 16 00:48:36 CEST 2017 - /Stream/Die_dunkle_Seite_des_Mondes.html - Die dunkle Seite des Mondes
 1500158922 - Sun Jul 16 00:48:42 CEST 2017 - /Stream/The_Pied_Piper_of_Hamlin.html - The Pied Piper of Hamlin
+1500158928 - Sun Jul 16 00:48:48 CEST 2017 - /Stream/Das_Wunder_von_Macon.html - Das Wunder von Macon
