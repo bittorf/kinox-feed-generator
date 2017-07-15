@@ -3904,3 +3904,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500158853 - Sun Jul 16 00:47:33 CEST 2017 - /Stream/Der_Staerkste_unter_der_Sonne.html - Der Stärkste unter der Sonne
 1500158858 - Sun Jul 16 00:47:38 CEST 2017 - /Stream/Zurueck_auf_die_Strasse.html - Zurück auf die Straße
 1500158863 - Sun Jul 16 00:47:43 CEST 2017 - /Stream/Tigerkralle-1.html - Tigerkralle
+1500158870 - Sun Jul 16 00:47:50 CEST 2017 - /Stream/Der_Junge_mit_den_Goldhosen.html - Der Junge mit den Goldhosen
