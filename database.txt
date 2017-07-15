@@ -3921,3 +3921,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500158955 - Sun Jul 16 00:49:15 CEST 2017 - /Stream/Der_Rammbock.html - Der Rammbock
 1500158961 - Sun Jul 16 00:49:21 CEST 2017 - /Stream/Der_Tag_an_dem_ich_meinen_toten_Mann_traf.html - Der Tag, an dem ich meinen toten Mann traf
 1500158965 - Sun Jul 16 00:49:25 CEST 2017 - /Stream/Duell_der_7_Tiger.html - Duell der 7 Tiger
+1500158969 - Sun Jul 16 00:49:29 CEST 2017 - /Stream/Born_to_Kill_german_subbed.html,s1 - Born to Kill *german subbed*
