@@ -3934,3 +3934,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500195084 - Sun Jul 16 10:51:24 CEST 2017 - /Stream/Twin_Peaks-1.html,s3e9 - Twin Peaks
 1500195090 - Sun Jul 16 10:51:30 CEST 2017 - /Stream/Longmire-1.html,s4e2 - Longmire
 1500195098 - Sun Jul 16 10:51:38 CEST 2017 - /Stream/The_Mick.html,s1e4 - The Mick
+1500195104 - Sun Jul 16 10:51:44 CEST 2017 - /Stream/Chicago_Justice-1.html,s1e10 - Chicago Justice
