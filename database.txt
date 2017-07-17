@@ -3940,3 +3940,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500209543 - Sun Jul 16 14:52:23 CEST 2017 - /Stream/Riviera.html,s1e5 - Riviera
 1500209548 - Sun Jul 16 14:52:28 CEST 2017 - /Stream/TURN.html,s4e6 - TURN
 1500245579 - Mon Jul 17 00:52:59 CEST 2017 - /Stream/Navy_CIS_german_subbed.html,s14 - Navy CIS *german subbed*
+1500274417 - Mon Jul 17 08:53:37 CEST 2017 - /Stream/Poldark.html,s3e6 - Poldark
