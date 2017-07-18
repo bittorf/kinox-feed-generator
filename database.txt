@@ -3952,3 +3952,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500281767 - Mon Jul 17 10:56:07 CEST 2017 - /Stream/Claws-1.html,s1e6 - Claws
 1500332207 - Tue Jul 18 00:56:47 CEST 2017 - /Stream/Pretty_Little_Liars-1.html,s7e17 - Pretty Little Liars
 1500368253 - Tue Jul 18 10:57:33 CEST 2017 - /Stream/Spider-Man_Homecoming.html - Spider-Man: Homecoming
+1500368274 - Tue Jul 18 10:57:54 CEST 2017 - /Stream/The_Collection-1.html,s1e6 - The Collection
