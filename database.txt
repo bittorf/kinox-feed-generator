@@ -3963,3 +3963,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500368329 - Tue Jul 18 10:58:49 CEST 2017 - /Stream/Stitchers.html,s3e6 - Stitchers
 1500368336 - Tue Jul 18 10:58:56 CEST 2017 - /Stream/Pawn_Stars.html,s14e21 - Pawn Stars
 1500447607 - Wed Jul 19 09:00:07 CEST 2017 - /Stream/Chicago_Med-1.html,s2e20 - Chicago Med
+1500447617 - Wed Jul 19 09:00:17 CEST 2017 - /Stream/MacGyver-3.html,s1e10 - MacGyver
