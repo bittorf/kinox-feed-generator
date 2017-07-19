@@ -3975,3 +3975,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500447682 - Wed Jul 19 09:01:22 CEST 2017 - /Stream/Animal_Kingdom-1.html,s2e7 - Animal Kingdom
 1500447687 - Wed Jul 19 09:01:27 CEST 2017 - /Stream/The_Fosters.html,s5e2 - The Fosters
 1500505336 - Thu Jul 20 01:02:16 CEST 2017 - /Stream/Rogue-2.html,s4e2 - Rogue
+1500505345 - Thu Jul 20 01:02:25 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4e5 - Degrassi: Next Class
