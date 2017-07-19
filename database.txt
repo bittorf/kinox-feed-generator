@@ -3979,3 +3979,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500505349 - Thu Jul 20 01:02:29 CEST 2017 - /Stream/Shadowhunters-1.html,s2e16 - Shadowhunters
 1500505357 - Thu Jul 20 01:02:37 CEST 2017 - /Stream/Preacher.html,s2e5 - Preacher
 1500505364 - Thu Jul 20 01:02:44 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e4 - Criminal Minds: Beyond Borders
+1500505370 - Thu Jul 20 01:02:50 CEST 2017 - /Stream/Reign-1.html,s4e1 - Reign
