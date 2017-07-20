@@ -3999,3 +3999,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500592423 - Fri Jul 21 01:13:43 CEST 2017 - /Stream/Being_Mary_Jane.html,s4e11 - Being Mary Jane
 1500592429 - Fri Jul 21 01:13:49 CEST 2017 - /Stream/Blood_Drive.html,s1e6 - Blood Drive
 1500592434 - Fri Jul 21 01:13:54 CEST 2017 - /Stream/Nightcap.html,s2e8 - Nightcap
+1500592439 - Fri Jul 21 01:13:59 CEST 2017 - /Stream/Suits.html,s7e2 - Suits
