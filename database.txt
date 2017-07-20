@@ -3984,3 +3984,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500505382 - Thu Jul 20 01:03:02 CEST 2017 - /Stream/Teachers-2.html,s2e5 - Teachers
 1500592325 - Fri Jul 21 01:12:05 CEST 2017 - /Stream/Mom-1.html,s4 - Mom
 1500592336 - Fri Jul 21 01:12:16 CEST 2017 - /Stream/Pure_Genius.html,s1e1 - Pure Genius
+1500592341 - Fri Jul 21 01:12:21 CEST 2017 - /Stream/Chicago_P-D.html,s3e3 - Chicago P.D.
