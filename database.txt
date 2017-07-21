@@ -4008,3 +4008,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500621328 - Fri Jul 21 09:15:28 CEST 2017 - /Stream/Queen_of_the_South.html,s2e7 - Queen of the South
 1500621335 - Fri Jul 21 09:15:35 CEST 2017 - /Stream/The_Night_Shift.html,s4e5 - The Night Shift
 1500621345 - Fri Jul 21 09:15:45 CEST 2017 - /Stream/Doctor_Who-1.html,s10 - Doctor Who
+1500621361 - Fri Jul 21 09:16:01 CEST 2017 - /Stream/Nashville.html,s5e19 - Nashville
