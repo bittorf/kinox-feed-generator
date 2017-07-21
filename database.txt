@@ -4005,3 +4005,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500621289 - Fri Jul 21 09:14:49 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e8 - Hawaii Five-0
 1500621309 - Fri Jul 21 09:15:09 CEST 2017 - /Stream/Silicon_Valley-1.html,s4e5 - Silicon Valley
 1500621319 - Fri Jul 21 09:15:19 CEST 2017 - /Stream/Saving_Hope.html,s5e16 - Saving Hope
+1500621328 - Fri Jul 21 09:15:28 CEST 2017 - /Stream/Queen_of_the_South.html,s2e7 - Queen of the South
