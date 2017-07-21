@@ -4012,3 +4012,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500621370 - Fri Jul 21 09:16:10 CEST 2017 - /Stream/Private_Eyes.html,s2e9 - Private Eyes
 1500621375 - Fri Jul 21 09:16:15 CEST 2017 - /Stream/Zoo-1.html,s3e4 - Zoo
 1500621385 - Fri Jul 21 09:16:25 CEST 2017 - /Stream/Mountain_Men.html,s6e7 - Mountain Men
+1500679039 - Sat Jul 22 01:17:19 CEST 2017 - /Stream/Chicago_P-D.html,s3 - Chicago P.D.
