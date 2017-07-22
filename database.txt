@@ -4018,3 +4018,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500679062 - Sat Jul 22 01:17:42 CEST 2017 - /Stream/Scorpion-1.html,s3e15 - Scorpion
 1500679076 - Sat Jul 22 01:17:56 CEST 2017 - /Stream/Gotham-1.html,s3e12 - Gotham
 1500736736 - Sat Jul 22 17:18:56 CEST 2017 - /Stream/Twin_Peaks-1.html,s3e10 - Twin Peaks
+1500736750 - Sat Jul 22 17:19:10 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4 - Degrassi: Next Class
