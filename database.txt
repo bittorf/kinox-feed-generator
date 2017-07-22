@@ -4020,3 +4020,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500736736 - Sat Jul 22 17:18:56 CEST 2017 - /Stream/Twin_Peaks-1.html,s3e10 - Twin Peaks
 1500736750 - Sat Jul 22 17:19:10 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4 - Degrassi: Next Class
 1500736755 - Sat Jul 22 17:19:15 CEST 2017 - /Stream/Rogue-2.html,s4 - Rogue
+1500736760 - Sat Jul 22 17:19:20 CEST 2017 - /Stream/Longmire-1.html,s4e3 - Longmire
