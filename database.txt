@@ -4048,3 +4048,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500823390 - Sun Jul 23 17:23:10 CEST 2017 - /Stream/Darknet.html,s1e1 - Darknet
 1500823403 - Sun Jul 23 17:23:23 CEST 2017 - /Stream/Still_Star-Crossed.html,s1e6 - Still Star-Crossed
 1500823406 - Sun Jul 23 17:23:26 CEST 2017 - /Stream/Power-1.html,s4e5 - Power
+1500823414 - Sun Jul 23 17:23:34 CEST 2017 - /Stream/TURN.html,s4e7 - TURN
