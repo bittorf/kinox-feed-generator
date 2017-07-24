@@ -4073,3 +4073,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500881263 - Mon Jul 24 09:27:43 CEST 2017 - /Stream/Claws-1.html,s1e7 - Claws
 1500881269 - Mon Jul 24 09:27:49 CEST 2017 - /Stream/Ballers.html,s3e1 - Ballers
 1500881276 - Mon Jul 24 09:27:56 CEST 2017 - /Stream/Poldark.html,s3e7 - Poldark
+1500881287 - Mon Jul 24 09:28:07 CEST 2017 - /Stream/The_Strain.html,s4e2 - The Strain
