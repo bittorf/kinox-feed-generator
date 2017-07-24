@@ -4063,3 +4063,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500881168 - Mon Jul 24 09:26:08 CEST 2017 - /Stream/Saint.html - Saint
 1500881173 - Mon Jul 24 09:26:13 CEST 2017 - /Stream/Fresh-1.html - Fresh
 1500881179 - Mon Jul 24 09:26:19 CEST 2017 - /Stream/Dragonheart_4-Die_Kraft_des_Feuers.html - Dragonheart 4 - Die Kraft des Feuers
+1500881184 - Mon Jul 24 09:26:24 CEST 2017 - /Stream/Captain_Berlin_versus_Hitler.html - Captain Berlin versus Hitler
