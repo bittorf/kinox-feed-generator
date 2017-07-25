@@ -4087,3 +4087,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500967877 - Tue Jul 25 09:31:17 CEST 2017 - /Stream/Shadowhunters.html,s2e17 - Shadowhunters
 1500967893 - Tue Jul 25 09:31:33 CEST 2017 - /Stream/Stitchers.html,s3e7 - Stitchers
 1501025539 - Wed Jul 26 01:32:19 CEST 2017 - /Stream/Dark_Matter-3.html,s3e3 - Dark Matter
+1501025552 - Wed Jul 26 01:32:32 CEST 2017 - /Stream/Chicago_Med-1.html,s2e21 - Chicago Med
