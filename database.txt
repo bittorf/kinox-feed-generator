@@ -4091,3 +4091,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501025558 - Wed Jul 26 01:32:38 CEST 2017 - /Stream/Twin_Peaks-2.html,s3e11 - Twin Peaks
 1501025564 - Wed Jul 26 01:32:44 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4e8 - Degrassi: Next Class
 1501025569 - Wed Jul 26 01:32:49 CEST 2017 - /Stream/Rogue-2.html,s4e5 - Rogue
+1501025575 - Wed Jul 26 01:32:55 CEST 2017 - /Stream/The_Magicians_german_subbed.html,s2e3 - The Magicians *german subbed*
