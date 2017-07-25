@@ -4089,3 +4089,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501025539 - Wed Jul 26 01:32:19 CEST 2017 - /Stream/Dark_Matter-3.html,s3e3 - Dark Matter
 1501025552 - Wed Jul 26 01:32:32 CEST 2017 - /Stream/Chicago_Med-1.html,s2e21 - Chicago Med
 1501025558 - Wed Jul 26 01:32:38 CEST 2017 - /Stream/Twin_Peaks-2.html,s3e11 - Twin Peaks
+1501025564 - Wed Jul 26 01:32:44 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4e8 - Degrassi: Next Class
