@@ -4076,3 +4076,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1500881287 - Mon Jul 24 09:28:07 CEST 2017 - /Stream/The_Strain.html,s4e2 - The Strain
 1500881295 - Mon Jul 24 09:28:15 CEST 2017 - /Stream/Game_of_Thrones.html,s7e2 - Game of Thrones
 1500967803 - Tue Jul 25 09:30:03 CEST 2017 - /Stream/Silicon_Valley-1.html,s3e1 - Silicon Valley
+1500967814 - Tue Jul 25 09:30:14 CEST 2017 - /Stream/Pretty_Little_Liars-1.html,s7e18 - Pretty Little Liars
