@@ -4135,3 +4135,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501112372 - Thu Jul 27 01:39:32 CEST 2017 - /Stream/Arrow-1.html,s5e13 - Arrow
 1501112386 - Thu Jul 27 01:39:46 CEST 2017 - /Stream/Degrassi_Next_Class.html,s4e9 - Degrassi: Next Class
 1501112390 - Thu Jul 27 01:39:50 CEST 2017 - /Stream/Rogue-2.html,s4e6 - Rogue
+1501112396 - Thu Jul 27 01:39:56 CEST 2017 - /Stream/Reign-1.html,s4e2 - Reign
