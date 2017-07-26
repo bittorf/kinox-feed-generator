@@ -4101,3 +4101,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501054448 - Wed Jul 26 09:34:08 CEST 2017 - /Stream/Wrecked-1.html,s2e6 - Wrecked
 1501054453 - Wed Jul 26 09:34:13 CEST 2017 - /Stream/Casual.html,s3e12 - Casual
 1501054458 - Wed Jul 26 09:34:18 CEST 2017 - /Stream/Animal_Kingdom-1.html,s2e8 - Animal Kingdom
+1501054464 - Wed Jul 26 09:34:24 CEST 2017 - /Stream/The_Fosters.html,s5e3 - The Fosters
