@@ -4122,3 +4122,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501112287 - Thu Jul 27 01:38:07 CEST 2017 - /Stream/Die_Hoelle-Inferno.html - Die Hölle - Inferno
 1501112294 - Thu Jul 27 01:38:14 CEST 2017 - /Stream/Hintergangen.html - Hintergangen
 1501112298 - Thu Jul 27 01:38:18 CEST 2017 - /Stream/In_Wahrheit-Mord_am_Engelsgraben.html - In Wahrheit - Mord am Engelsgraben
+1501112302 - Thu Jul 27 01:38:22 CEST 2017 - /Stream/DC_Super_Hero_Girls_Intergalactic_Games.html - DC Super Hero Girls: Intergalactic Games
