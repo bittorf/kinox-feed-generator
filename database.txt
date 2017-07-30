@@ -4164,3 +4164,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501440677 - Sun Jul 30 20:51:17 CEST 2017 - /Stream/Goth_Requiem_for_a_Dream.html - Goth: Requiem for a Dream
 1501440681 - Sun Jul 30 20:51:21 CEST 2017 - /Stream/Stratton.html - Stratton
 1501440686 - Sun Jul 30 20:51:26 CEST 2017 - /Stream/Twisted_Justice.html - Twisted Justice
+1501440690 - Sun Jul 30 20:51:30 CEST 2017 - /Stream/The_Mangler_2-1.html - The Mangler 2
