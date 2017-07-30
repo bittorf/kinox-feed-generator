@@ -4180,3 +4180,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501440803 - Sun Jul 30 20:53:23 CEST 2017 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s3 - Grey's Anatomy - Die jungen Ärzte
 1501440821 - Sun Jul 30 20:53:41 CEST 2017 - /Stream/The_Mick.html,s1e6 - The Mick
 1501440826 - Sun Jul 30 20:53:46 CEST 2017 - /Stream/Longmire-1.html,s4e4 - Longmire
+1501440834 - Sun Jul 30 20:53:54 CEST 2017 - /Stream/Das_Geheimnis_von_Twin_Peaks.html,s3e11 - Das Geheimnis von Twin Peaks
