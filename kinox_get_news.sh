@@ -13,6 +13,8 @@ IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
 
 [ "$ARG1" = '--cron' ] && while :; do git pull; ./"$0" ; git push; date; sleep $(( 2 * 3600 )); done
 
+WGET='wget --no-check-certificate'	# works best with v1.15+ (needed when http is redirected to https
+
 # dependencies:
 # POSIX-sh, wget, git, recode, imdbpy
 
@@ -29,7 +31,7 @@ kinox_description_get()
 {
 	local url="$1"
 
-	wget -O - "$url" | grep ^'<div class="Descriptore">' | sed 's/<[^>]*>//g' | fold -w 80 -s
+	$WGET -O - "$url" | grep ^'<div class="Descriptore">' | sed 's/<[^>]*>//g' | fold -w 80 -s
 }
 
 kinox_imdb_link_get()
@@ -37,7 +39,7 @@ kinox_imdb_link_get()
 	local url="$1"
 
 	# <tr> <td class="Label" nowrap>IMDb Wertung:</td> <td class="Value"><div class="IMDBRatingOuter" onclick="runPopup('http://www.imdb.com/title/tt4061908/', '', '_blank');"><div class="IMDBRatinInner" style="width: 82px"></div></div><div class="IMDBRatingLabel">4.1 / 10 :: 0 Votes <div class="IMDBRatingLinks"><a href="/tt4061908">&nbsp;</a></div></div> </td></tr><tr> <td class="Label" nowrap>Genre:</td> <td class="Value"><a href="/Genre/Crime">Krimi</a> </td></tr><tr> <td class="Label" nowrap>Produzent:</td> <td class="Value">Ken Brown</td></tr>
-	wget -O - "$url" | grep 'IMDb Wertung' | sed -n "s|.*'\(http://www.imdb.com.*\)'.*|\1|p" | cut -d"'" -f1
+	$WGET -O - "$url" | grep 'IMDb Wertung' | sed -n "s|.*'\(http://www.imdb.com.*\)'.*|\1|p" | cut -d"'" -f1
 }
 
 imdb_get_rating()
@@ -73,7 +75,7 @@ underliner()
 # <td class="Title"><a href="/Stream/Die_Geheimnisse_der_Spiderwicks.html" onclick="return false;">Die Geheimnisse der Spiderwicks</a> <span class="Year">2008</span></td>
 
 PATTERN='<td class="Title img_preview" rel='
-{ wget -qO - "$URL" || logger -s "[ERROR:$?] wget '$URL'"; printf '\n%s' "$PATTERN - EOF"; } |
+{ $WGET -qO - "$URL" || logger -s "[ERROR:$?] wget '$URL'"; printf '\n%s' "$PATTERN - EOF"; } |
  grep ^"$PATTERN" | recode 'UTF8..ISO-8859-15' | while read -r LINE; do {
 	LINK=
 	TITLE=
@@ -126,7 +128,7 @@ PATTERN='<td class="Title img_preview" rel='
 							git add "$DB"
 
 							RC_ERROR404=8
-							wget -qO /dev/null "${URL}${LINK}"
+							$WGET -qO /dev/null "${URL}${LINK}"
 							[ $? -eq $RC_ERROR404 ] && {
 								# auto-correct wrong 'Serie'-detection
 								LINK="$( echo "$LINK" | sed -n 's/\(^.*\.html\),s.*$/\1/p' )"
