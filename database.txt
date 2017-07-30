@@ -4192,3 +4192,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501455850 - Mon Jul 31 01:04:10 CEST 2017 - /Stream/Hudson_Hawk-Der_Meisterdieb.html - Hudson Hawk - Der Meisterdieb
 1501455860 - Mon Jul 31 01:04:20 CEST 2017 - /Stream/White_Collar-1.html,s5e9 - White Collar
 1501455869 - Mon Jul 31 01:04:29 CEST 2017 - /Stream/Homeland-1.html,s6e7 - Homeland
+1501455882 - Mon Jul 31 01:04:42 CEST 2017 - /Stream/Angie_Tribeca_Sonst_nichts.html,s3e9 - Angie Tribeca: Sonst nichts!
