@@ -4234,3 +4234,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501535538 - Mon Jul 31 23:12:18 CEST 2017 - /Stream/Breaking_Bad.html,s5e8 - Breaking Bad
 1501535548 - Mon Jul 31 23:12:28 CEST 2017 - /Stream/Breaking_Bad.html,s3e7 - Breaking Bad
 1501535558 - Mon Jul 31 23:12:38 CEST 2017 - /Stream/Blindspot-1.html,s1 - Blindspot
+1501535566 - Mon Jul 31 23:12:46 CEST 2017 - /Stream/Black_Sails-1.html,s2e7 - Black Sails
