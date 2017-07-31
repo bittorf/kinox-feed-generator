@@ -4195,3 +4195,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501455882 - Mon Jul 31 01:04:42 CEST 2017 - /Stream/Angie_Tribeca_Sonst_nichts.html,s3e9 - Angie Tribeca: Sonst nichts!
 1501455887 - Mon Jul 31 01:04:47 CEST 2017 - /Stream/MacGyver-3.html,s1e12 - MacGyver
 1501455893 - Mon Jul 31 01:04:53 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e9 - Hawaii Five-0
+1501477530 - Mon Jul 31 07:05:30 CEST 2017 - /Stream/Legends_of_Tomorrow-1.html,s2e12 - Legends of Tomorrow
