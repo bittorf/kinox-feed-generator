@@ -4231,3 +4231,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501535517 - Mon Jul 31 23:11:57 CEST 2017 - /Stream/12_Monkeys-2.html,s2 - 12 Monkeys
 1501535525 - Mon Jul 31 23:12:05 CEST 2017 - /Stream/House_of_Cards.html,s4e13 - House of Cards
 1501535534 - Mon Jul 31 23:12:14 CEST 2017 - /Stream/Bull-1.html,s1e2 - Bull
+1501535538 - Mon Jul 31 23:12:18 CEST 2017 - /Stream/Breaking_Bad.html,s5e8 - Breaking Bad
