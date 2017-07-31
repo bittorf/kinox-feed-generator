@@ -4212,3 +4212,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501484907 - Mon Jul 31 09:08:27 CEST 2017 - /Stream/The_Coroner.html,s2e1 - The Coroner
 1501484911 - Mon Jul 31 09:08:31 CEST 2017 - /Stream/Ballers.html,s3e2 - Ballers
 1501484918 - Mon Jul 31 09:08:38 CEST 2017 - /Stream/The_Strain.html,s4e3 - The Strain
+1501535363 - Mon Jul 31 23:09:23 CEST 2017 - /Stream/Gregs_Tagebuch_Boese_Falle.html - Gregs Tagebuch: Böse Falle!
