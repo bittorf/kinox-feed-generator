@@ -4216,3 +4216,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501535378 - Mon Jul 31 23:09:38 CEST 2017 - /Stream/Burn_Country-Fremd_im_eigenen_Land.html - Burn Country - Fremd im eigenen Land
 1501535384 - Mon Jul 31 23:09:44 CEST 2017 - /Stream/Grenzpatrouille.html - Grenzpatrouille
 1501535391 - Mon Jul 31 23:09:51 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s5e15 - The Big Bang Theory
+1501535407 - Mon Jul 31 23:10:07 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s6e20 - The Big Bang Theory
