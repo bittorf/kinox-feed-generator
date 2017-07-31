@@ -4218,3 +4218,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501535391 - Mon Jul 31 23:09:51 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s5e15 - The Big Bang Theory
 1501535407 - Mon Jul 31 23:10:07 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s6e20 - The Big Bang Theory
 1501535421 - Mon Jul 31 23:10:21 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s7e16 - The Big Bang Theory
+1501535436 - Mon Jul 31 23:10:36 CEST 2017 - /Stream/Scrubs-Die_Anfaenger.html,s3e5 - Scrubs - Die Anfänger
