@@ -4223,3 +4223,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501535451 - Mon Jul 31 23:10:51 CEST 2017 - /Stream/Scrubs-Die_Anfaenger.html,s1e13 - Scrubs - Die Anfänger
 1501535460 - Mon Jul 31 23:11:00 CEST 2017 - /Stream/Scorpion-1.html,s1e8 - Scorpion
 1501535468 - Mon Jul 31 23:11:08 CEST 2017 - /Stream/Salem-1.html,s2e10 - Salem
+1501535475 - Mon Jul 31 23:11:15 CEST 2017 - /Stream/Babylon_5_Crusade.html,s1e7 - Babylon 5: Crusade
