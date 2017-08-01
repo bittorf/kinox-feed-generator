@@ -4267,3 +4267,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501571797 - Tue Aug  1 09:16:37 CEST 2017 - /Stream/19-2.html,s4e1 - 19-2
 1501571803 - Tue Aug  1 09:16:43 CEST 2017 - /Stream/American_Dad-1.html,s13e16 - American Dad!
 1501571811 - Tue Aug  1 09:16:51 CEST 2017 - /Stream/Preacher-1.html,s2e7 - Preacher
+1501571817 - Tue Aug  1 09:16:57 CEST 2017 - /Stream/Shadowhunters.html,s2e18 - Shadowhunters
