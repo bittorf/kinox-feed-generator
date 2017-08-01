@@ -4261,3 +4261,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501571755 - Tue Aug  1 09:15:55 CEST 2017 - /Stream/The_Originals-1.html,s1e19 - The Originals
 1501571767 - Tue Aug  1 09:16:07 CEST 2017 - /Stream/The_Originals-1.html,s2e15 - The Originals
 1501571777 - Tue Aug  1 09:16:17 CEST 2017 - /Stream/Nicht_tot_zu_kriegen.html,s1e4 - Nicht tot zu kriegen
+1501571781 - Tue Aug  1 09:16:21 CEST 2017 - /Stream/Midnight_Texas.html,s1e2 - Midnight, Texas
