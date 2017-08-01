@@ -4252,3 +4252,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501571699 - Tue Aug  1 09:14:59 CEST 2017 - /Stream/The_Originals-1.html,s3e11 - The Originals
 1501571708 - Tue Aug  1 09:15:08 CEST 2017 - /Stream/24_Legacy-1.html,s4 - 24: Legacy
 1501571714 - Tue Aug  1 09:15:14 CEST 2017 - /Stream/Degrassi_Next_Class.html,s5 - Degrassi: Next Class
+1501571720 - Tue Aug  1 09:15:20 CEST 2017 - /Stream/Lucha_Underground.html,s3e4 - Lucha Underground
