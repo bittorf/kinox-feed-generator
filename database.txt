@@ -4254,3 +4254,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501571714 - Tue Aug  1 09:15:14 CEST 2017 - /Stream/Degrassi_Next_Class.html,s5 - Degrassi: Next Class
 1501571720 - Tue Aug  1 09:15:20 CEST 2017 - /Stream/Lucha_Underground.html,s3e4 - Lucha Underground
 1501571725 - Tue Aug  1 09:15:25 CEST 2017 - /Stream/Jodha_Akbar.html,s5 - Jodha Akbar
+1501571729 - Tue Aug  1 09:15:29 CEST 2017 - /Stream/Chicago_Fire-1.html,s5 - Chicago Fire
