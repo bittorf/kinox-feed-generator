@@ -4256,3 +4256,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501571725 - Tue Aug  1 09:15:25 CEST 2017 - /Stream/Jodha_Akbar.html,s5 - Jodha Akbar
 1501571729 - Tue Aug  1 09:15:29 CEST 2017 - /Stream/Chicago_Fire-1.html,s5 - Chicago Fire
 1501571737 - Tue Aug  1 09:15:37 CEST 2017 - /Stream/24_Legacy-1.html,s7e3 - 24: Legacy
+1501571744 - Tue Aug  1 09:15:44 CEST 2017 - /Stream/Rogue-2.html,s5 - Rogue
