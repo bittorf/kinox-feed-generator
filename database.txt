@@ -4281,3 +4281,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501643962 - Wed Aug  2 05:19:22 CEST 2017 - /Stream/Die_Pranke_des_gelben_Loewen.html - Die Pranke des gelben Löwen
 1501643967 - Wed Aug  2 05:19:27 CEST 2017 - /Stream/Die_Tom_und_Jerry_Show.html,s1 - Die Tom und Jerry Show
 1501643971 - Wed Aug  2 05:19:31 CEST 2017 - /Stream/Chicago_Med-1.html,s2e22 - Chicago Med
+1501643976 - Wed Aug  2 05:19:36 CEST 2017 - /Stream/Criminal_Minds-1.html,s12e13 - Criminal Minds
