@@ -4295,3 +4295,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501680115 - Wed Aug  2 15:21:55 CEST 2017 - /Stream/Grimm-3.html,s1 - Grimm
 1501680128 - Wed Aug  2 15:22:08 CEST 2017 - /Stream/Strike_Back-2.html,s5e1 - Strike Back
 1501680135 - Wed Aug  2 15:22:15 CEST 2017 - /Stream/Get_Shorty-1.html,s1 - Get Shorty
+1501680139 - Wed Aug  2 15:22:19 CEST 2017 - /Stream/The_Bold_Type.html,s1e5 - The Bold Type
