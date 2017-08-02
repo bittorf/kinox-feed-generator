@@ -4288,3 +4288,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501644013 - Wed Aug  2 05:20:13 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e6 - Criminal Minds: Beyond Borders
 1501680053 - Wed Aug  2 15:20:53 CEST 2017 - /Stream/Baby_Driver.html - Baby Driver
 1501680067 - Wed Aug  2 15:21:07 CEST 2017 - /Stream/Grimm-3.html,s2e16 - Grimm
+1501680081 - Wed Aug  2 15:21:21 CEST 2017 - /Stream/Deckname_Quarry.html,s1e1 - Deckname Quarry
