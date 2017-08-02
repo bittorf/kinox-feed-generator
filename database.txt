@@ -4299,3 +4299,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501680143 - Wed Aug  2 15:22:23 CEST 2017 - /Stream/Wrecked-1.html,s2e7 - Wrecked
 1501680148 - Wed Aug  2 15:22:28 CEST 2017 - /Stream/The_Fosters.html,s5e4 - The Fosters
 1501680154 - Wed Aug  2 15:22:34 CEST 2017 - /Stream/Somewhere_Between-1.html,s1e3 - Somewhere Between
+1501680159 - Wed Aug  2 15:22:39 CEST 2017 - /Stream/Archer.html,s8 - Archer
