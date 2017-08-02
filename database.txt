@@ -4278,3 +4278,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501643940 - Wed Aug  2 05:19:00 CEST 2017 - /Stream/Du_neben_mir.html - Du neben mir
 1501643952 - Wed Aug  2 05:19:12 CEST 2017 - /Stream/The_Shadow_Effect.html - The Shadow Effect
 1501643956 - Wed Aug  2 05:19:16 CEST 2017 - /Stream/Bailey-Ein_Freund_fuers_Leben.html - Bailey - Ein Freund fürs Leben
+1501643962 - Wed Aug  2 05:19:22 CEST 2017 - /Stream/Die_Pranke_des_gelben_Loewen.html - Die Pranke des gelben Löwen
