@@ -4370,3 +4370,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501781518 - Thu Aug  3 19:31:58 CEST 2017 - /Stream/Scandal-1.html,s2e11 - Scandal
 1501803149 - Fri Aug  4 01:32:29 CEST 2017 - /Stream/City_of_Tiny_Lights.html - City of Tiny Lights
 1501803158 - Fri Aug  4 01:32:38 CEST 2017 - /Stream/Divine_Gate.html - Divine Gate
+1501803161 - Fri Aug  4 01:32:41 CEST 2017 - /Stream/Archer.html,s5 - Archer
