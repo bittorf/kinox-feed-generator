@@ -4319,3 +4319,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501745142 - Thu Aug  3 09:25:42 CEST 2017 - /Stream/The_Sinner.html,s1e1 - The Sinner
 1501745146 - Thu Aug  3 09:25:46 CEST 2017 - /Stream/Snowfall.html,s1e5 - Snowfall
 1501745151 - Thu Aug  3 09:25:51 CEST 2017 - /Stream/Suits.html,s7e4 - Suits
+1501745160 - Thu Aug  3 09:26:00 CEST 2017 - /Stream/Reign-1.html,s4e3 - Reign
