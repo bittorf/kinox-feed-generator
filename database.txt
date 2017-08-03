@@ -4309,3 +4309,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501745061 - Thu Aug  3 09:24:21 CEST 2017 - /Stream/American_Horror_Story-Die_dunkle_Seite_in_dir-1.html,s3e10 - American Horror Story - Die dunkle Seite in dir
 1501745073 - Thu Aug  3 09:24:33 CEST 2017 - /Stream/Ray_Donovan-1.html,s4e1 - Ray Donovan
 1501745081 - Thu Aug  3 09:24:41 CEST 2017 - /Stream/Breaking_Bad.html,s2e12 - Breaking Bad
+1501745090 - Thu Aug  3 09:24:50 CEST 2017 - /Stream/Supergirl-2.html,s2e20 - Supergirl
