@@ -4386,3 +4386,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501803255 - Fri Aug  4 01:34:15 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e11 - Teen Wolf *german subbed*
 1501803270 - Fri Aug  4 01:34:30 CEST 2017 - /Stream/Zoo_german_subbed.html,s3e2 - Zoo *german subbed*
 1501803277 - Fri Aug  4 01:34:37 CEST 2017 - /Stream/The_Magicians_german_subbed.html,s2e4 - The Magicians *german subbed*
+1501803285 - Fri Aug  4 01:34:45 CEST 2017 - /Stream/NYC_22-1.html,s1e10 - NYC 22
