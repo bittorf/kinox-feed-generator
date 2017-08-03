@@ -4378,3 +4378,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501803199 - Fri Aug  4 01:33:19 CEST 2017 - /Stream/Archer.html,s7e1 - Archer
 1501803207 - Fri Aug  4 01:33:27 CEST 2017 - /Stream/Culpa.html,s1e4 - Culpa
 1501803211 - Fri Aug  4 01:33:31 CEST 2017 - /Stream/Silicon_Valley-1.html,s4e7 - Silicon Valley
+1501803217 - Fri Aug  4 01:33:37 CEST 2017 - /Stream/Stan_Lees_Lucky_Man-1.html,s2e7 - Stan Lee's Lucky Man
