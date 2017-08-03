@@ -4354,3 +4354,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501766959 - Thu Aug  3 15:29:19 CEST 2017 - /Stream/Veep-Die_Vizepraesidentin.html,s6e7 - Veep - Die Vizepräsidentin
 1501766967 - Thu Aug  3 15:29:27 CEST 2017 - /Stream/Chicago_P-D.html,s4e1 - Chicago P.D.
 1501766975 - Thu Aug  3 15:29:35 CEST 2017 - /Stream/Lost_Girl-2.html,s3e6 - Lost Girl
+1501766982 - Thu Aug  3 15:29:42 CEST 2017 - /Stream/Heroes_Reborn-1.html,s1e1 - Heroes Reborn
