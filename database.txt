@@ -4346,3 +4346,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501766910 - Thu Aug  3 15:28:30 CEST 2017 - /Stream/Denen_man_nicht_vergibt.html - Denen man nicht vergibt
 1501766914 - Thu Aug  3 15:28:34 CEST 2017 - /Stream/Die_Pyramide_des_Sonnengottes.html - Die Pyramide des Sonnengottes
 1501766919 - Thu Aug  3 15:28:39 CEST 2017 - /Stream/Daylight.html - Daylight
+1501766927 - Thu Aug  3 15:28:47 CEST 2017 - /Stream/Ein_toller_Kaefer.html - Ein toller Käfer
