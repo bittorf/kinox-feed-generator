@@ -4383,3 +4383,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501803230 - Fri Aug  4 01:33:50 CEST 2017 - /Stream/Teachers-2.html,s2e8 - Teachers
 1501803235 - Fri Aug  4 01:33:55 CEST 2017 - /Stream/Archer.html,s6e1 - Archer
 1501803243 - Fri Aug  4 01:34:03 CEST 2017 - /Stream/Pretty_Little_Liars_german_subbed.html,s7e20 - Pretty Little Liars *german subbed*
+1501803255 - Fri Aug  4 01:34:15 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e11 - Teen Wolf *german subbed*
