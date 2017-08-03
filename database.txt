@@ -4367,3 +4367,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501767070 - Thu Aug  3 15:31:10 CEST 2017 - /Stream/Girls-1.html,s3e2 - Girls
 1501781493 - Thu Aug  3 19:31:33 CEST 2017 - /Stream/Valerian-Die_Stadt_der_tausend_Planeten.html - Valerian - Die Stadt der tausend Planeten
 1501781510 - Thu Aug  3 19:31:50 CEST 2017 - /Stream/Saving_Hope-1.html,s2e7 - Saving Hope
+1501781518 - Thu Aug  3 19:31:58 CEST 2017 - /Stream/Scandal-1.html,s2e11 - Scandal
