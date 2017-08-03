@@ -4375,3 +4375,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501803177 - Fri Aug  4 01:32:57 CEST 2017 - /Stream/Chicago_P-D.html,s4e2 - Chicago P.D.
 1501803186 - Fri Aug  4 01:33:06 CEST 2017 - /Stream/Will-2.html,s1e5 - Will
 1501803191 - Fri Aug  4 01:33:11 CEST 2017 - /Stream/Shadowhunters-1.html,s2e18 - Shadowhunters
+1501803199 - Fri Aug  4 01:33:19 CEST 2017 - /Stream/Archer.html,s7e1 - Archer
