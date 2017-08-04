@@ -4393,3 +4393,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501832156 - Fri Aug  4 09:35:56 CEST 2017 - /Stream/Silicon_Valley-1.html,s3 - Silicon Valley
 1501832164 - Fri Aug  4 09:36:04 CEST 2017 - /Stream/The_Coroner.html,s2 - The Coroner
 1501832168 - Fri Aug  4 09:36:08 CEST 2017 - /Stream/White_Collar-1.html,s6e4 - White Collar
+1501832177 - Fri Aug  4 09:36:17 CEST 2017 - /Stream/Shadowhunters-1.html,s3e7 - Shadowhunters
