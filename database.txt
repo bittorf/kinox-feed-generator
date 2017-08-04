@@ -4395,3 +4395,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501832168 - Fri Aug  4 09:36:08 CEST 2017 - /Stream/White_Collar-1.html,s6e4 - White Collar
 1501832177 - Fri Aug  4 09:36:17 CEST 2017 - /Stream/Shadowhunters-1.html,s3e7 - Shadowhunters
 1501832184 - Fri Aug  4 09:36:24 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-1.html,s3e4 - Agents of S.H.I.E.L.D.
+1501832198 - Fri Aug  4 09:36:38 CEST 2017 - /Stream/Lucky_Dog.html,s3e7 - Lucky Dog
