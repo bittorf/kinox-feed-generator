@@ -4396,3 +4396,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501832177 - Fri Aug  4 09:36:17 CEST 2017 - /Stream/Shadowhunters-1.html,s3e7 - Shadowhunters
 1501832184 - Fri Aug  4 09:36:24 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-1.html,s3e4 - Agents of S.H.I.E.L.D.
 1501832198 - Fri Aug  4 09:36:38 CEST 2017 - /Stream/Lucky_Dog.html,s3e7 - Lucky Dog
+1501832203 - Fri Aug  4 09:36:43 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e10 - Hawaii Five-0
