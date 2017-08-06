@@ -4417,3 +4417,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1501976448 - Sun Aug  6 01:40:48 CEST 2017 - /Stream/Cardinal_german_subbed.html,s1 - Cardinal *german subbed*
 1501976453 - Sun Aug  6 01:40:53 CEST 2017 - /Stream/Ravens_Home.html,s1 - Raven's Home
 1502041313 - Sun Aug  6 19:41:53 CEST 2017 - /Stream/Das_Gesetz_der_Familie.html - Das Gesetz der Familie
+1502041323 - Sun Aug  6 19:42:03 CEST 2017 - /Stream/Kamikaze_1989.html - Kamikaze 1989
