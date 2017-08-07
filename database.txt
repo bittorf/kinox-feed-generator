@@ -4506,3 +4506,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502129038 - Mon Aug  7 20:03:58 CEST 2017 - /Stream/Alibi-com.html - Alibi.com
 1502129048 - Mon Aug  7 20:04:08 CEST 2017 - /Stream/King_of_Queens.html,s5e11 - King of Queens
 1502129054 - Mon Aug  7 20:04:14 CEST 2017 - /Stream/King_of_Queens.html,s4e7 - King of Queens
+1502129060 - Mon Aug  7 20:04:20 CEST 2017 - /Stream/Clarissa.html,s3e10 - Clarissa
