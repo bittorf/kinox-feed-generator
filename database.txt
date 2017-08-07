@@ -4478,3 +4478,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502085492 - Mon Aug  7 07:58:12 CEST 2017 - /Stream/Outback-Toedliche_Jagd.html - Outback - Tödliche Jagd
 1502085498 - Mon Aug  7 07:58:18 CEST 2017 - /Stream/Outlaw_of_War.html - Outlaw of War
 1502085502 - Mon Aug  7 07:58:22 CEST 2017 - /Stream/Out_of_the_Blue.html - Out of the Blue
+1502085507 - Mon Aug  7 07:58:27 CEST 2017 - /Stream/Pretty_Little_Liars-1.html,s7e20 - Pretty Little Liars
