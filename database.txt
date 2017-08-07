@@ -4489,3 +4489,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502085574 - Mon Aug  7 07:59:34 CEST 2017 - /Stream/Ballers.html,s3e3 - Ballers
 1502085582 - Mon Aug  7 07:59:42 CEST 2017 - /Stream/Poldark.html,s3e9 - Poldark
 1502085589 - Mon Aug  7 07:59:49 CEST 2017 - /Stream/Power-1.html,s4e7 - Power
+1502085599 - Mon Aug  7 07:59:59 CEST 2017 - /Stream/TURN.html,s4e9 - TURN
