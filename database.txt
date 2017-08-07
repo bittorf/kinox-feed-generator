@@ -4520,3 +4520,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502129141 - Mon Aug  7 20:05:41 CEST 2017 - /Stream/Jane_the_Virgin-1.html,s1e20 - Jane the Virgin
 1502129148 - Mon Aug  7 20:05:48 CEST 2017 - /Stream/Dark_Matter-3.html,s2e6 - Dark Matter
 1502129156 - Mon Aug  7 20:05:56 CEST 2017 - /Stream/Empire-2.html,s3e2 - Empire
+1502129169 - Mon Aug  7 20:06:09 CEST 2017 - /Stream/The_Following-1.html,s1e22 - The Following
