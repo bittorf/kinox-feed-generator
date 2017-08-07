@@ -4514,3 +4514,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502129091 - Mon Aug  7 20:04:51 CEST 2017 - /Stream/King_of_Queens.html,s2 - King of Queens
 1502129101 - Mon Aug  7 20:05:01 CEST 2017 - /Stream/My_Little_Pony_Freundschaft_ist_Magie.html,s7e6 - My Little Pony: Freundschaft ist Magie
 1502129110 - Mon Aug  7 20:05:10 CEST 2017 - /Stream/Kobra_uebernehmen_Sie.html,s1e1 - Kobra, übernehmen Sie
+1502129118 - Mon Aug  7 20:05:18 CEST 2017 - /Stream/Es_war_einmal-die_Entdeckung_unserer_Welt.html,s1e24 - Es war einmal... die Entdeckung unserer Welt
