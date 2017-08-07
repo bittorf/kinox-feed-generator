@@ -4537,3 +4537,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502143715 - Tue Aug  8 00:08:35 CEST 2017 - /Stream/Aufrecht_gegen_den_Strom.html - Aufrecht gegen den Strom
 1502143726 - Tue Aug  8 00:08:46 CEST 2017 - /Stream/Dragon-Die_Bruce_Lee_Story.html - Dragon - Die Bruce Lee Story
 1502143735 - Tue Aug  8 00:08:55 CEST 2017 - /Stream/Die_Coal_Valley_Saga.html - Die Coal Valley Saga
+1502143748 - Tue Aug  8 00:09:08 CEST 2017 - /Stream/Dark_Moon_Rising-1.html - Dark Moon Rising
