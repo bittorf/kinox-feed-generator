@@ -4491,3 +4491,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502085589 - Mon Aug  7 07:59:49 CEST 2017 - /Stream/Power-1.html,s4e7 - Power
 1502085599 - Mon Aug  7 07:59:59 CEST 2017 - /Stream/TURN.html,s4e9 - TURN
 1502085613 - Mon Aug  7 08:00:13 CEST 2017 - /Stream/Orphan_Black.html,s5e9 - Orphan Black
+1502085622 - Mon Aug  7 08:00:22 CEST 2017 - /Stream/Game_of_Thrones.html,s7e4 - Game of Thrones
