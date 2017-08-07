@@ -4484,3 +4484,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502085535 - Mon Aug  7 07:58:55 CEST 2017 - /Stream/Brooklyn_Nine-Nine-1.html,s4e4 - Brooklyn Nine-Nine
 1502085545 - Mon Aug  7 07:59:05 CEST 2017 - /Stream/Rosewood-1.html,s2e1 - Rosewood
 1502085552 - Mon Aug  7 07:59:12 CEST 2017 - /Stream/Twin_Peaks-2.html,s3e13 - Twin Peaks
+1502085560 - Mon Aug  7 07:59:20 CEST 2017 - /Stream/Claws-1.html,s1e9 - Claws
