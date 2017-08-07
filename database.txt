@@ -4494,3 +4494,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502085622 - Mon Aug  7 08:00:22 CEST 2017 - /Stream/Game_of_Thrones.html,s7e4 - Game of Thrones
 1502085662 - Mon Aug  7 08:01:02 CEST 2017 - /Stream/Teen_Wolf-1.html,s6e12 - Teen Wolf
 1502092886 - Mon Aug  7 10:01:26 CEST 2017 - /Stream/Game_of_Thrones-Das_Lied_von_Eis_und_Feuer.html,s7e4 - Game of Thrones - Das Lied von Eis und Feuer
+1502092919 - Mon Aug  7 10:01:59 CEST 2017 - /Stream/Gotham-1.html,s3 - Gotham
