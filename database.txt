@@ -4512,3 +4512,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502129074 - Mon Aug  7 20:04:34 CEST 2017 - /Stream/Killjoys-1.html,s1e3 - Killjoys
 1502129082 - Mon Aug  7 20:04:42 CEST 2017 - /Stream/Justified-1.html,s6e7 - Justified
 1502129091 - Mon Aug  7 20:04:51 CEST 2017 - /Stream/King_of_Queens.html,s2 - King of Queens
+1502129101 - Mon Aug  7 20:05:01 CEST 2017 - /Stream/My_Little_Pony_Freundschaft_ist_Magie.html,s7e6 - My Little Pony: Freundschaft ist Magie
