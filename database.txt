@@ -4550,3 +4550,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502172650 - Tue Aug  8 08:10:50 CEST 2017 - /Stream/Preacher-1.html,s2e8 - Preacher
 1502172657 - Tue Aug  8 08:10:57 CEST 2017 - /Stream/Shadowhunters.html,s2e19 - Shadowhunters
 1502172667 - Tue Aug  8 08:11:07 CEST 2017 - /Stream/Stitchers.html,s3e9 - Stitchers
+1502172673 - Tue Aug  8 08:11:13 CEST 2017 - /Stream/19-2.html,s4e2 - 19-2
