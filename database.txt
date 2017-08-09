@@ -4621,3 +4621,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502317381 - Thu Aug 10 00:23:01 CEST 2017 - /Stream/Der_Champion.html - Der Champion
 1502317386 - Thu Aug 10 00:23:06 CEST 2017 - /Stream/Six-2.html,s1 - Six
 1502317392 - Thu Aug 10 00:23:12 CEST 2017 - /Stream/Criminal_Minds-1.html,s12e14 - Criminal Minds
+1502317403 - Thu Aug 10 00:23:23 CEST 2017 - /Stream/Reign-1.html,s4e4 - Reign
