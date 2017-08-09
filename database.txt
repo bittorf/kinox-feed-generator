@@ -4606,3 +4606,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502317292 - Thu Aug 10 00:21:32 CEST 2017 - /Stream/Der_Einsame_aus_dem_Westen.html - Der Einsame aus dem Westen
 1502317296 - Thu Aug 10 00:21:36 CEST 2017 - /Stream/Die_Reise_nach_Wien.html - Die Reise nach Wien
 1502317301 - Thu Aug 10 00:21:41 CEST 2017 - /Stream/Die_Tribute_von_Panem-Mockingjay_Teil_2.html - Die Tribute von Panem - Mockingjay: Teil 2
+1502317316 - Thu Aug 10 00:21:56 CEST 2017 - /Stream/Die_Peanuts-Der_Film.html - Die Peanuts - Der Film
