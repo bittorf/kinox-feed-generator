@@ -4577,3 +4577,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502259340 - Wed Aug  9 08:15:40 CEST 2017 - /Stream/Homeland-1.html,s4e10 - Homeland
 1502259355 - Wed Aug  9 08:15:55 CEST 2017 - /Stream/Supergirl-2.html,s1e19 - Supergirl
 1502259388 - Wed Aug  9 08:16:28 CEST 2017 - /Stream/Suits-1.html,s3e11 - Suits
+1502259398 - Wed Aug  9 08:16:38 CEST 2017 - /Stream/New_Girl-1.html,s1e19 - New Girl
