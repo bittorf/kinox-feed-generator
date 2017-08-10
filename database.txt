@@ -4632,3 +4632,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502360709 - Thu Aug 10 12:25:09 CEST 2017 - /Stream/Nashville-1.html,s5e15 - Nashville
 1502360720 - Thu Aug 10 12:25:20 CEST 2017 - /Stream/Navy_CIS.html,s11e24 - Navy CIS
 1502360735 - Thu Aug 10 12:25:35 CEST 2017 - /Stream/Snowfall.html,s1e6 - Snowfall
+1502360740 - Thu Aug 10 12:25:40 CEST 2017 - /Stream/Suits.html,s7e5 - Suits
