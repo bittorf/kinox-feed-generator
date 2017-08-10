@@ -4634,3 +4634,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502360735 - Thu Aug 10 12:25:35 CEST 2017 - /Stream/Snowfall.html,s1e6 - Snowfall
 1502360740 - Thu Aug 10 12:25:40 CEST 2017 - /Stream/Suits.html,s7e5 - Suits
 1502360753 - Thu Aug 10 12:25:53 CEST 2017 - /Stream/The_Carmichael_Show.html,s3 - The Carmichael Show
+1502360759 - Thu Aug 10 12:25:59 CEST 2017 - /Stream/The_Sinner.html,s1e2 - The Sinner
