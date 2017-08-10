@@ -4628,3 +4628,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502360674 - Thu Aug 10 12:24:34 CEST 2017 - /Stream/NYC_22-1.html,s1e11 - NYC 22
 1502360681 - Thu Aug 10 12:24:41 CEST 2017 - /Stream/Wentworth-1.html,s4e3 - Wentworth
 1502360688 - Thu Aug 10 12:24:48 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e7 - Criminal Minds: Beyond Borders
+1502360695 - Thu Aug 10 12:24:55 CEST 2017 - /Stream/Supergirl-2.html,s2e21 - Supergirl
