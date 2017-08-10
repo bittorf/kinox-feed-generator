@@ -4644,3 +4644,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502404329 - Fri Aug 11 00:32:09 CEST 2017 - /Stream/Stag_Hunt-1.html - Stag Hunt
 1502404333 - Fri Aug 11 00:32:13 CEST 2017 - /Stream/Der_Tod_fuehrt_Regie.html - Der Tod führt Regie
 1502404338 - Fri Aug 11 00:32:18 CEST 2017 - /Stream/Der_Fall_Barschel.html - Der Fall Barschel
+1502404342 - Fri Aug 11 00:32:22 CEST 2017 - /Stream/Der_Pluenderer_von_Nevada.html - Der Plünderer von Nevada
