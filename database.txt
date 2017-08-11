@@ -4661,3 +4661,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502404417 - Fri Aug 11 00:33:37 CEST 2017 - /Stream/The_Magicians_german_subbed.html,s2e5 - The Magicians *german subbed*
 1502433252 - Fri Aug 11 08:34:12 CEST 2017 - /Stream/Nazi_Dawn.html - Nazi Dawn
 1502433260 - Fri Aug 11 08:34:20 CEST 2017 - /Stream/Die_Sportskanonen.html - Die Sportskanonen
+1502433268 - Fri Aug 11 08:34:28 CEST 2017 - /Stream/Am_wilden_Fluss.html - Am wilden Fluﬂ
