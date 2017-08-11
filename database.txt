@@ -4672,3 +4672,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502433324 - Fri Aug 11 08:35:24 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e11 - Hawaii Five-0
 1502433336 - Fri Aug 11 08:35:36 CEST 2017 - /Stream/Queen_of_the_South.html,s2e10 - Queen of the South
 1502433344 - Fri Aug 11 08:35:44 CEST 2017 - /Stream/Odd_Mom_Out.html,s3e5 - Odd Mom Out
+1502433349 - Fri Aug 11 08:35:49 CEST 2017 - /Stream/The_Night_Shift.html,s4e7 - The Night Shift
