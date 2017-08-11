@@ -4681,3 +4681,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502491050 - Sat Aug 12 00:37:30 CEST 2017 - /Stream/Der_Schaerfste_aller_Banditen.html - Der Sch‰rfste aller Banditen
 1502491059 - Sat Aug 12 00:37:39 CEST 2017 - /Stream/Dope-1.html - Dope
 1502491066 - Sat Aug 12 00:37:46 CEST 2017 - /Stream/Der_kleine_Rabe_Socke-Das_grosse_Rennen.html - Der kleine Rabe Socke - Das groﬂe Rennen
+1502491071 - Sat Aug 12 00:37:51 CEST 2017 - /Stream/Der_Kandidat-Macht_hat_Ihren_Preis.html - Der Kandidat - Macht hat Ihren Preis
