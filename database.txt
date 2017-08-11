@@ -4669,3 +4669,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502433306 - Fri Aug 11 08:35:06 CEST 2017 - /Stream/Incorporated-1.html,s1e7 - Incorporated
 1502433311 - Fri Aug 11 08:35:11 CEST 2017 - /Stream/Scorpion-1.html,s3e18 - Scorpion
 1502433319 - Fri Aug 11 08:35:19 CEST 2017 - /Stream/Pure_Genius.html,s1e4 - Pure Genius
+1502433324 - Fri Aug 11 08:35:24 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e11 - Hawaii Five-0
