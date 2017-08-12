@@ -4723,3 +4723,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502577819 - Sun Aug 13 00:43:39 CEST 2017 - /Stream/Die_Schatzinsel-3.html - Die Schatzinsel
 1502577824 - Sun Aug 13 00:43:44 CEST 2017 - /Stream/Der_Mann_in_der_Schlangenhaut.html - Der Mann in der Schlangenhaut
 1502577829 - Sun Aug 13 00:43:49 CEST 2017 - /Stream/Der_Sommer_mit_Mam.html - Der Sommer mit Mamã
+1502577835 - Sun Aug 13 00:43:55 CEST 2017 - /Stream/Der_Mann_in_Mammis_Bett.html - Der Mann in Mammis Bett
