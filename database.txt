@@ -4716,3 +4716,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502577786 - Sun Aug 13 00:43:06 CEST 2017 - /Stream/Die_Akte_General.html - Die Akte General
 1502577791 - Sun Aug 13 00:43:11 CEST 2017 - /Stream/Der_Mann_von_Del_Rio.html - Der Mann von Del Rio
 1502577795 - Sun Aug 13 00:43:15 CEST 2017 - /Stream/Der_Staat_gegen_Fritz_Bauer.html - Der Staat gegen Fritz Bauer
+1502577800 - Sun Aug 13 00:43:20 CEST 2017 - /Stream/Der_froehliche_Wanderer.html - Der fröhliche Wanderer
