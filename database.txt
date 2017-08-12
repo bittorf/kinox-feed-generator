@@ -4726,3 +4726,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502577835 - Sun Aug 13 00:43:55 CEST 2017 - /Stream/Der_Mann_in_Mammis_Bett.html - Der Mann in Mammis Bett
 1502577839 - Sun Aug 13 00:43:59 CEST 2017 - /Stream/Das_Maerchen_der_Maerchen.html - Das Märchen der Märchen
 1502577846 - Sun Aug 13 00:44:06 CEST 2017 - /Stream/Die_Jupiter_Apokalypse-Flucht_in_die_Zukunft.html - Die Jupiter Apokalypse - Flucht in die Zukunft
+1502577851 - Sun Aug 13 00:44:11 CEST 2017 - /Stream/Sechs_auf_einen_Streich-Der_Prinz_im_Baerenfell.html - Sechs auf einen Streich - Der Prinz im Bärenfell
