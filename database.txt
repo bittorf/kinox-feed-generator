@@ -4720,3 +4720,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502577805 - Sun Aug 13 00:43:25 CEST 2017 - /Stream/Die_Kleinen_und_die_Boesen.html - Die Kleinen und die Bösen
 1502577809 - Sun Aug 13 00:43:29 CEST 2017 - /Stream/Deadly_Home.html - Deadly Home
 1502577814 - Sun Aug 13 00:43:34 CEST 2017 - /Stream/Die_Entfesselten.html - Die Entfesselten
+1502577819 - Sun Aug 13 00:43:39 CEST 2017 - /Stream/Die_Schatzinsel-3.html - Die Schatzinsel
