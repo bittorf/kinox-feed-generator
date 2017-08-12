@@ -4713,3 +4713,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502534535 - Sat Aug 12 12:42:15 CEST 2017 - /Stream/Brooklyn_Nine-Nine-1.html,s4e15 - Brooklyn Nine-Nine
 1502534544 - Sat Aug 12 12:42:24 CEST 2017 - /Stream/Im_Knast.html,s2 - Im Knast
 1502577777 - Sun Aug 13 00:42:57 CEST 2017 - /Stream/Die_Schlangenpriesterin.html - Die Schlangenpriesterin
+1502577786 - Sun Aug 13 00:43:06 CEST 2017 - /Stream/Die_Akte_General.html - Die Akte General
