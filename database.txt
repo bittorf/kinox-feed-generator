@@ -4730,3 +4730,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502577855 - Sun Aug 13 00:44:15 CEST 2017 - /Stream/Die_Leiche_der_Anna_Fritz.html - Die Leiche der Anna Fritz
 1502577859 - Sun Aug 13 00:44:19 CEST 2017 - /Stream/A_Horse_Story.html - A Horse Story
 1502577864 - Sun Aug 13 00:44:24 CEST 2017 - /Stream/Der_Raecher_wartet_schon.html - Der Rächer wartet schon
+1502685966 - Mon Aug 14 06:46:06 CEST 2017 - /Stream/The_Strain.html,s4e5 - The Strain
