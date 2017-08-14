@@ -4741,3 +4741,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502707702 - Mon Aug 14 12:48:22 CEST 2017 - /Stream/Longmire-1.html,s4e6 - Longmire
 1502707709 - Mon Aug 14 12:48:29 CEST 2017 - /Stream/Lucifer-2.html,s2 - Lucifer
 1502707716 - Mon Aug 14 12:48:36 CEST 2017 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5e2 - Teenage Mutant Ninja Turtles
+1502707726 - Mon Aug 14 12:48:46 CEST 2017 - /Stream/Twin_Peaks-1.html,s3e13 - Twin Peaks
