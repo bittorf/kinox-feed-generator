@@ -4757,3 +4757,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502751055 - Tue Aug 15 00:50:55 CEST 2017 - /Stream/Duell_der_Brueder.html - Duell der Brüder
 1502751060 - Tue Aug 15 00:51:00 CEST 2017 - /Stream/Der_Spion_und_sein_Bruder.html - Der Spion und sein Bruder
 1502751076 - Tue Aug 15 00:51:16 CEST 2017 - /Stream/The_Master_Gunfighter.html - The Master Gunfighter
+1502751081 - Tue Aug 15 00:51:21 CEST 2017 - /Stream/Die_Goettliche.html - Die Göttliche
