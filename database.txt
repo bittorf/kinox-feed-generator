@@ -4754,3 +4754,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502751037 - Tue Aug 15 00:50:37 CEST 2017 - /Stream/Der_kleine_Prinz-1.html - Der kleine Prinz
 1502751044 - Tue Aug 15 00:50:44 CEST 2017 - /Stream/Die_Schueler_der_Madame_Anne.html - Die Schüler der Madame Anne
 1502751050 - Tue Aug 15 00:50:50 CEST 2017 - /Stream/Die_gestohlene_Hose.html - Die gestohlene Hose
+1502751055 - Tue Aug 15 00:50:55 CEST 2017 - /Stream/Duell_der_Brueder.html - Duell der Brüder
