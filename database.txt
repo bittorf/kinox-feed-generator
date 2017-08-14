@@ -4768,3 +4768,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502751117 - Tue Aug 15 00:51:57 CEST 2017 - /Stream/Der_Fluch_der_Ahnen.html - Der Fluch der Ahnen
 1502751123 - Tue Aug 15 00:52:03 CEST 2017 - /Stream/Das_gewisse_Etwas_der_Frauen.html - Das gewisse Etwas der Frauen
 1502751128 - Tue Aug 15 00:52:08 CEST 2017 - /Stream/The_Invisible_Kid-1.html - The Invisible Kid
+1502751132 - Tue Aug 15 00:52:12 CEST 2017 - /Stream/Die_Todes-Ranch.html - Die Todes-Ranch
