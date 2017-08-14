@@ -4738,3 +4738,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502707658 - Mon Aug 14 12:47:38 CEST 2017 - /Stream/The_Strain-1.html,s4e2 - The Strain
 1502707666 - Mon Aug 14 12:47:46 CEST 2017 - /Stream/Riviera.html,s1e9 - Riviera
 1502707672 - Mon Aug 14 12:47:52 CEST 2017 - /Stream/Game_of_Thrones-Das_Lied_von_Eis_und_Feuer.html,s7e5 - Game of Thrones - Das Lied von Eis und Feuer
+1502707702 - Mon Aug 14 12:48:22 CEST 2017 - /Stream/Longmire-1.html,s4e6 - Longmire
