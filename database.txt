@@ -4778,3 +4778,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502751168 - Tue Aug 15 00:52:48 CEST 2017 - /Stream/Orphan_Black.html,s5e10 - Orphan Black
 1502751176 - Tue Aug 15 00:52:56 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e12 - Teen Wolf *german subbed*
 1502780020 - Tue Aug 15 08:53:40 CEST 2017 - /Stream/Wrecked-Voll_abgestuerzt.html,s2e7 - Wrecked - Voll abgestürzt!
+1502780027 - Tue Aug 15 08:53:47 CEST 2017 - /Stream/Midnight_Texas.html,s1e4 - Midnight, Texas
