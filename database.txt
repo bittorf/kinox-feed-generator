@@ -4822,3 +4822,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502873965 - Wed Aug 16 10:59:25 CEST 2017 - /Stream/Animal_Kingdom-1.html,s2e11 - Animal Kingdom
 1502873971 - Wed Aug 16 10:59:31 CEST 2017 - /Stream/19-2.html,s4e3 - 19-2
 1502873977 - Wed Aug 16 10:59:37 CEST 2017 - /Stream/The_Fosters.html,s5e6 - The Fosters
+1502873984 - Wed Aug 16 10:59:44 CEST 2017 - /Stream/American_Dad-1.html,s14e18 - American Dad!
