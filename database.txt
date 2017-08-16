@@ -4851,3 +4851,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1502924696 - Thu Aug 17 01:04:56 CEST 2017 - /Stream/Kommissar_Maigret_Die_Falle.html - Kommissar Maigret: Die Falle
 1502924703 - Thu Aug 17 01:05:03 CEST 2017 - /Stream/Koenig_Laurin.html - König Laurin
 1502924708 - Thu Aug 17 01:05:08 CEST 2017 - /Stream/Kickboxer_Vengeance.html - Kickboxer: Vengeance
+1502924715 - Thu Aug 17 01:05:15 CEST 2017 - /Stream/Kleine_Helden_grosse_Wildnis_2-Abenteuer_Serengeti.html - Kleine Helden, große Wildnis 2 - Abenteuer Serengeti
