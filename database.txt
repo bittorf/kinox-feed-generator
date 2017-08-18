@@ -4899,3 +4899,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503047514 - Fri Aug 18 11:11:54 CEST 2017 - /Stream/Scorpion-1.html,s3e19 - Scorpion
 1503047527 - Fri Aug 18 11:12:07 CEST 2017 - /Stream/Nashville-1.html,s5e16 - Nashville
 1503047536 - Fri Aug 18 11:12:16 CEST 2017 - /Stream/Stan_Lees_Lucky_Man-1.html,s2e9 - Stan Lee's Lucky Man
+1503047543 - Fri Aug 18 11:12:23 CEST 2017 - /Stream/Teachers-2.html,s2e10 - Teachers
