@@ -4908,3 +4908,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503047578 - Fri Aug 18 11:12:58 CEST 2017 - /Stream/Zoo-1.html,s3e8 - Zoo
 1503047587 - Fri Aug 18 11:13:07 CEST 2017 - /Stream/The_Night_Shift.html,s4e8 - The Night Shift
 1503047593 - Fri Aug 18 11:13:13 CEST 2017 - /Stream/Girlfriends_Guide_to_Divorce.html,s4e1 - Girlfriends' Guide to Divorce
+1503047599 - Fri Aug 18 11:13:19 CEST 2017 - /Stream/Queen_of_the_South.html,s2e11 - Queen of the South
