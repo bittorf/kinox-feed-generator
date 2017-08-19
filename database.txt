@@ -4914,3 +4914,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503098060 - Sat Aug 19 01:14:20 CEST 2017 - /Stream/The_Mist_german_subbed.html,s1e7 - The Mist *german subbed*
 1503098066 - Sat Aug 19 01:14:26 CEST 2017 - /Stream/Suits_german_subbed.html,s7e5 - Suits *german subbed*
 1503126907 - Sat Aug 19 09:15:07 CEST 2017 - /Stream/Volt.html - Volt
+1503126919 - Sat Aug 19 09:15:19 CEST 2017 - /Stream/Pure_Genius.html,s1e5 - Pure Genius
