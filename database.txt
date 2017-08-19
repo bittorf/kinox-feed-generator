@@ -4921,3 +4921,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503126942 - Sat Aug 19 09:15:42 CEST 2017 - /Stream/K-C-Undercover.html,s3e8 - K.C. Undercover
 1503126948 - Sat Aug 19 09:15:48 CEST 2017 - /Stream/Dark_Matter-2.html,s3e12 - Dark Matter
 1503134162 - Sat Aug 19 11:16:02 CEST 2017 - /Stream/Marvels_The_Defenders.html,s1 - Marvel's The Defenders
+1503134169 - Sat Aug 19 11:16:09 CEST 2017 - /Stream/Die_Sopranos.html,s3 - Die Sopranos
