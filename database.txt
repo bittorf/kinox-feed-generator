@@ -4928,3 +4928,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503184645 - Sun Aug 20 01:17:25 CEST 2017 - /Stream/The_Flash-1.html,s3e22 - The Flash
 1503184658 - Sun Aug 20 01:17:38 CEST 2017 - /Stream/Twin_Peaks-1.html,s3e14 - Twin Peaks
 1503184667 - Sun Aug 20 01:17:47 CEST 2017 - /Stream/Game_of_Thrones_german_subbed.html,s7 - Game of Thrones *german subbed*
+1503184702 - Sun Aug 20 01:18:22 CEST 2017 - /Stream/Hawaii_Five-0_german_subbed.html,s7e17 - Hawaii Five-0 *german subbed*
