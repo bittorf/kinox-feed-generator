@@ -4924,3 +4924,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503134169 - Sat Aug 19 11:16:09 CEST 2017 - /Stream/Die_Sopranos.html,s3 - Die Sopranos
 1503134178 - Sat Aug 19 11:16:18 CEST 2017 - /Stream/Die_Sopranos.html,s1e8 - Die Sopranos
 1503134189 - Sat Aug 19 11:16:29 CEST 2017 - /Stream/Killjoys.html,s3e8 - Killjoys
+1503184635 - Sun Aug 20 01:17:15 CEST 2017 - /Stream/The_Cleveland_Show-2.html,s4 - The Cleveland Show
