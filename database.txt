@@ -4967,3 +4967,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503300310 - Mon Aug 21 09:25:10 CEST 2017 - /Stream/Teen_Wolf-1.html,s6 - Teen Wolf
 1503300326 - Mon Aug 21 09:25:26 CEST 2017 - /Stream/Ballers.html,s3e5 - Ballers
 1503300333 - Mon Aug 21 09:25:34 CEST 2017 - /Stream/Power-1.html,s4e9 - Power
+1503300343 - Mon Aug 21 09:25:43 CEST 2017 - /Stream/Rick_and_Morty.html,s3e5 - Rick and Morty
