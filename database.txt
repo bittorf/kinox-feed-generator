@@ -4963,3 +4963,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503300261 - Mon Aug 21 09:24:21 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e13 - Teen Wolf *german subbed*
 1503300280 - Mon Aug 21 09:24:40 CEST 2017 - /Stream/The_Last_Ship.html,s4 - The Last Ship
 1503300290 - Mon Aug 21 09:24:50 CEST 2017 - /Stream/Twin_Peaks-2.html,s3e15 - Twin Peaks
+1503300298 - Mon Aug 21 09:24:58 CEST 2017 - /Stream/The_Strain.html,s4e6 - The Strain
