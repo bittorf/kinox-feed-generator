@@ -4960,3 +4960,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503285787 - Mon Aug 21 05:23:07 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-1.html,s4e6 - Agents of S.H.I.E.L.D.
 1503285799 - Mon Aug 21 05:23:19 CEST 2017 - /Stream/Ballers-1.html,s2e4 - Ballers
 1503293016 - Mon Aug 21 07:23:36 CEST 2017 - /Stream/Game_of_Thrones-Das_Lied_von_Eis_und_Feuer.html,s7e6 - Game of Thrones - Das Lied von Eis und Feuer
+1503300261 - Mon Aug 21 09:24:21 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e13 - Teen Wolf *german subbed*
