@@ -4939,3 +4939,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503271241 - Mon Aug 21 01:20:41 CEST 2017 - /Stream/Halt_and_Catch_Fire.html,s4e1 - Halt and Catch Fire
 1503285661 - Mon Aug 21 05:21:01 CEST 2017 - /Stream/Kafkas_Der_Bau.html - Kafkas Der Bau
 1503285668 - Mon Aug 21 05:21:08 CEST 2017 - /Stream/Kampf_ohne_Gnade.html - Kampf ohne Gnade
+1503285673 - Mon Aug 21 05:21:13 CEST 2017 - /Stream/Krampus.html - Krampus
