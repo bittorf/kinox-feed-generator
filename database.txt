@@ -4993,3 +4993,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503394172 - Tue Aug 22 11:29:32 CEST 2017 - /Stream/People_of_Earth.html,s2e5 - People of Earth
 1503394177 - Tue Aug 22 11:29:37 CEST 2017 - /Stream/Preacher-1.html,s2e10 - Preacher
 1503394185 - Tue Aug 22 11:29:45 CEST 2017 - /Stream/19-2.html,s4e4 - 19-2
+1503394190 - Tue Aug 22 11:29:50 CEST 2017 - /Stream/American_Dad-1.html,s13e19 - American Dad!
