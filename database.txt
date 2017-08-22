@@ -4988,3 +4988,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503358097 - Tue Aug 22 01:28:17 CEST 2017 - /Stream/Kira.html - Kira
 1503358101 - Tue Aug 22 01:28:21 CEST 2017 - /Stream/Kaltfront.html - Kaltfront
 1503358105 - Tue Aug 22 01:28:25 CEST 2017 - /Stream/Gotham-1.html,s3e20 - Gotham
+1503394149 - Tue Aug 22 11:29:09 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s10e15 - The Big Bang Theory
