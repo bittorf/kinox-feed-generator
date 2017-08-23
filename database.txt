@@ -5014,3 +5014,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503495224 - Wed Aug 23 15:33:44 CEST 2017 - /Stream/Being_Mary_Jane.html,s4e16 - Being Mary Jane
 1503495230 - Wed Aug 23 15:33:50 CEST 2017 - /Stream/Somewhere_Between-1.html,s1e6 - Somewhere Between
 1503495236 - Wed Aug 23 15:33:56 CEST 2017 - /Stream/The_Bold_Type.html,s1e8 - The Bold Type
+1503495241 - Wed Aug 23 15:34:01 CEST 2017 - /Stream/Twin_Peaks_german_subbed.html,s3e14 - Twin Peaks *german subbed*
