@@ -5010,3 +5010,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503495181 - Wed Aug 23 15:33:01 CEST 2017 - /Stream/Reign-1.html,s4e6 - Reign
 1503495190 - Wed Aug 23 15:33:10 CEST 2017 - /Stream/The_Vampire_Diaries.html,s1e17 - The Vampire Diaries
 1503495206 - Wed Aug 23 15:33:26 CEST 2017 - /Stream/Dark_Matter-3.html,s3e7 - Dark Matter
+1503495214 - Wed Aug 23 15:33:34 CEST 2017 - /Stream/Chicago_Fire-1.html,s4e17 - Chicago Fire
