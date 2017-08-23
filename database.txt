@@ -5018,3 +5018,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503495250 - Wed Aug 23 15:34:10 CEST 2017 - /Stream/Shooter-2.html,s2e6 - Shooter
 1503495258 - Wed Aug 23 15:34:18 CEST 2017 - /Stream/The_Magicians_german_subbed.html,s2e7 - The Magicians *german subbed*
 1503495266 - Wed Aug 23 15:34:26 CEST 2017 - /Stream/Wrecked-1.html,s2e10 - Wrecked
+1503495272 - Wed Aug 23 15:34:32 CEST 2017 - /Stream/Animal_Kingdom-1.html,s2e12 - Animal Kingdom
