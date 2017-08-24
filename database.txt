@@ -5030,3 +5030,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503531383 - Thu Aug 24 01:36:23 CEST 2017 - /Stream/Wentworth-1.html,s4e4 - Wentworth
 1503560214 - Thu Aug 24 09:36:54 CEST 2017 - /Stream/Supernatural.html,s8e15 - Supernatural
 1503560239 - Thu Aug 24 09:37:19 CEST 2017 - /Stream/Wentworth-1.html,s4 - Wentworth
+1503560247 - Thu Aug 24 09:37:27 CEST 2017 - /Stream/Stan_Lees_Lucky_Man-1.html,s2e10 - Stan Lee's Lucky Man
