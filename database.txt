@@ -5059,3 +5059,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503654135 - Fri Aug 25 11:42:15 CEST 2017 - /Stream/Girlfriends_Guide_to_Divorce.html,s4e2 - Girlfriends' Guide to Divorce
 1503654141 - Fri Aug 25 11:42:21 CEST 2017 - /Stream/The_Night_Shift.html,s4e9 - The Night Shift
 1503704587 - Sat Aug 26 01:43:07 CEST 2017 - /Stream/Der_Nebel-1.html,s1e1 - Der Nebel
+1503704596 - Sat Aug 26 01:43:16 CEST 2017 - /Stream/Twin_Peaks_german_subbed.html,s3e15 - Twin Peaks *german subbed*
