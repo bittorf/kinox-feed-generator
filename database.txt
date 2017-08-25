@@ -5044,3 +5044,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503617961 - Fri Aug 25 01:39:21 CEST 2017 - /Stream/Zoo_german_subbed_.html,s3e5 - Zoo *german subbed* **
 1503654024 - Fri Aug 25 11:40:24 CEST 2017 - /Stream/Annabelle_2.html - Annabelle 2
 1503654035 - Fri Aug 25 11:40:35 CEST 2017 - /Stream/Criminal_Minds-1.html,s12e16 - Criminal Minds
+1503654048 - Fri Aug 25 11:40:48 CEST 2017 - /Stream/Stan_Lees_Lucky_Man-1.html,s2 - Stan Lee's Lucky Man
