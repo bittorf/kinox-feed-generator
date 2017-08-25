@@ -5047,3 +5047,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503654048 - Fri Aug 25 11:40:48 CEST 2017 - /Stream/Stan_Lees_Lucky_Man-1.html,s2 - Stan Lee's Lucky Man
 1503654054 - Fri Aug 25 11:40:54 CEST 2017 - /Stream/NYC_22-1.html,s1e13 - NYC 22
 1503654060 - Fri Aug 25 11:41:00 CEST 2017 - /Stream/Veep-Die_Vizepraesidentin.html,s6e10 - Veep - Die Vizepräsidentin
+1503654068 - Fri Aug 25 11:41:08 CEST 2017 - /Stream/Hawaii_Five-0.html,s7e13 - Hawaii Five-0
