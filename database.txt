@@ -5072,3 +5072,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503733508 - Sat Aug 26 09:45:08 CEST 2017 - /Stream/Scorpion-1.html,s3e20 - Scorpion
 1503733516 - Sat Aug 26 09:45:16 CEST 2017 - /Stream/Twin_Peaks-1.html,s3e15 - Twin Peaks
 1503733525 - Sat Aug 26 09:45:25 CEST 2017 - /Stream/The_Flash-1.html,s3e23 - The Flash
+1503733538 - Sat Aug 26 09:45:38 CEST 2017 - /Stream/Pure_Genius.html,s1e6 - Pure Genius
