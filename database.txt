@@ -5080,3 +5080,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503733565 - Sat Aug 26 09:46:05 CEST 2017 - /Stream/Dark_Matter-2.html,s3e13 - Dark Matter
 1503791213 - Sun Aug 27 01:46:53 CEST 2017 - /Stream/Dragonball-1.html,s1 - Dragonball
 1503791224 - Sun Aug 27 01:47:04 CEST 2017 - /Stream/The_Strain-1.html,s4e4 - The Strain
+1503791233 - Sun Aug 27 01:47:13 CEST 2017 - /Stream/Rosewood-1.html,s2e3 - Rosewood
