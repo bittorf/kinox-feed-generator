@@ -5084,3 +5084,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503791240 - Sun Aug 27 01:47:20 CEST 2017 - /Stream/Im_Sorry-1.html,s1e4 - I'm Sorry
 1503791245 - Sun Aug 27 01:47:25 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-1.html,s4e7 - Agents of S.H.I.E.L.D.
 1503791260 - Sun Aug 27 01:47:40 CEST 2017 - /Stream/Zoo_german_subbed.html,s3e5 - Zoo *german subbed*
+1503791269 - Sun Aug 27 01:47:49 CEST 2017 - /Stream/The_Mist_german_subbed.html,s1e8 - The Mist *german subbed*
