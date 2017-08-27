@@ -5089,3 +5089,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503791282 - Sun Aug 27 01:48:02 CEST 2017 - /Stream/NCIS_New_Orleans_german_subbed-1.html,s3e21 - NCIS: New Orleans *german subbed*
 1503791290 - Sun Aug 27 01:48:10 CEST 2017 - /Stream/Suits_german_subbed.html,s7e6 - Suits *german subbed*
 1503841741 - Sun Aug 27 15:49:01 CEST 2017 - /Stream/The_Mick.html,s1e10 - The Mick
+1503841750 - Sun Aug 27 15:49:10 CEST 2017 - /Stream/Longmire-1.html,s4e8 - Longmire
