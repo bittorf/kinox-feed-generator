@@ -5090,3 +5090,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503791290 - Sun Aug 27 01:48:10 CEST 2017 - /Stream/Suits_german_subbed.html,s7e6 - Suits *german subbed*
 1503841741 - Sun Aug 27 15:49:01 CEST 2017 - /Stream/The_Mick.html,s1e10 - The Mick
 1503841750 - Sun Aug 27 15:49:10 CEST 2017 - /Stream/Longmire-1.html,s4e8 - Longmire
+1503841758 - Sun Aug 27 15:49:18 CEST 2017 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5e4 - Teenage Mutant Ninja Turtles
