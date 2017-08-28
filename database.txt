@@ -5092,3 +5092,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503841750 - Sun Aug 27 15:49:10 CEST 2017 - /Stream/Longmire-1.html,s4e8 - Longmire
 1503841758 - Sun Aug 27 15:49:18 CEST 2017 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5e4 - Teenage Mutant Ninja Turtles
 1503841767 - Sun Aug 27 15:49:27 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e15 - Teen Wolf *german subbed*
+1503885017 - Mon Aug 28 03:50:17 CEST 2017 - /Stream/Bullyparade_Der_Film.html - Bullyparade: Der Film
