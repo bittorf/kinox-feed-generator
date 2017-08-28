@@ -5107,3 +5107,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503899986 - Mon Aug 28 07:59:46 CEST 2017 - /Stream/The_Last_Ship.html,s4e3 - The Last Ship
 1503899996 - Mon Aug 28 07:59:56 CEST 2017 - /Stream/Twin_Peaks-2.html,s3e16 - Twin Peaks
 1503900008 - Mon Aug 28 08:00:08 CEST 2017 - /Stream/Ballers.html,s3e6 - Ballers
+1503900015 - Mon Aug 28 08:00:15 CEST 2017 - /Stream/Halt_and_Catch_Fire.html,s4e3 - Halt and Catch Fire
