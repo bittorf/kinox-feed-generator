@@ -5121,3 +5121,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503993818 - Tue Aug 29 10:03:38 CEST 2017 - /Stream/19-2.html,s4e5 - 19-2
 1504008235 - Tue Aug 29 14:03:55 CEST 2017 - /Stream/The_Last_Ship-1.html,s4e3 - The Last Ship
 1504008249 - Tue Aug 29 14:04:09 CEST 2017 - /Stream/Scorpion-1.html,s3e8 - Scorpion
+1504008258 - Tue Aug 29 14:04:18 CEST 2017 - /Stream/Midnight_Texas.html,s1e6 - Midnight, Texas
