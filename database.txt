@@ -5111,3 +5111,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1503900023 - Mon Aug 28 08:00:23 CEST 2017 - /Stream/Ray_Donovan.html,s5e4 - Ray Donovan
 1503900031 - Mon Aug 28 08:00:31 CEST 2017 - /Stream/Game_of_Thrones.html,s7e7 - Game of Thrones
 1503957707 - Tue Aug 29 00:01:47 CEST 2017 - /Stream/Hawaii_Five-0_german_subbed.html,s7e18 - Hawaii Five-0 *german subbed*
+1503993756 - Tue Aug 29 10:02:36 CEST 2017 - /Stream/Death_Note-2.html - Death Note
