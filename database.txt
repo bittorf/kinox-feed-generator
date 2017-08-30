@@ -5161,3 +5161,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504087857 - Wed Aug 30 12:10:57 CEST 2017 - /Stream/American_Dad-1.html,s14e20 - American Dad!
 1504131103 - Thu Aug 31 00:11:43 CEST 2017 - /Stream/The_Blacklist_Redemption-1.html,s1e6 - The Blacklist: Redemption
 1504131111 - Thu Aug 31 00:11:51 CEST 2017 - /Stream/Will-2.html,s1e9 - Will
+1504131116 - Thu Aug 31 00:11:56 CEST 2017 - /Stream/Ray_Donovan_german_subbed.html,s5e2 - Ray Donovan *german subbed*
