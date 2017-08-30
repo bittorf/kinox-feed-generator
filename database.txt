@@ -5158,3 +5158,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504087835 - Wed Aug 30 12:10:35 CEST 2017 - /Stream/Navy_CIS.html,s14e10 - Navy CIS
 1504087848 - Wed Aug 30 12:10:48 CEST 2017 - /Stream/Time_After_Time-1.html,s1e12 - Time After Time
 1504087852 - Wed Aug 30 12:10:52 CEST 2017 - /Stream/Difficult_People-1.html,s3e6 - Difficult People
+1504087857 - Wed Aug 30 12:10:57 CEST 2017 - /Stream/American_Dad-1.html,s14e20 - American Dad!
