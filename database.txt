@@ -5132,3 +5132,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504080396 - Wed Aug 30 10:06:36 CEST 2017 - /Stream/Pirates_of_the_Caribbean-Fluch_der_Karibik_2.html - Pirates of the Caribbean - Fluch der Karibik 2
 1504080411 - Wed Aug 30 10:06:51 CEST 2017 - /Stream/Ice_Age_3-Die_Dinosaurier_sind_los.html - Ice Age 3 - Die Dinosaurier sind los
 1504080417 - Wed Aug 30 10:06:57 CEST 2017 - /Stream/Pirates_of_the_Caribbean-Fremde_Gezeiten.html - Pirates of the Caribbean - Fremde Gezeiten
+1504080435 - Wed Aug 30 10:07:15 CEST 2017 - /Stream/Fluch_der_Karibik-Am_Ende_der_Welt.html - Fluch der Karibik - Am Ende der Welt
