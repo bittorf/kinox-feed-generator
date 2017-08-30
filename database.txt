@@ -5126,3 +5126,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504008274 - Tue Aug 29 14:04:34 CEST 2017 - /Stream/The_Mist-1.html,s1e3 - The Mist
 1504008279 - Tue Aug 29 14:04:39 CEST 2017 - /Stream/Pawn_Stars.html,s14e30 - Pawn Stars
 1504008287 - Tue Aug 29 14:04:47 CEST 2017 - /Stream/American_Dad-1.html,s13e20 - American Dad!
+1504080360 - Wed Aug 30 10:06:00 CEST 2017 - /Stream/Fluch_der_Karibik.html - Fluch der Karibik
