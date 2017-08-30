@@ -5148,3 +5148,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504080559 - Wed Aug 30 10:09:19 CEST 2017 - /Stream/Shooter-2.html,s2e7 - Shooter
 1504080565 - Wed Aug 30 10:09:25 CEST 2017 - /Stream/Animal_Kingdom-1.html,s2e13 - Animal Kingdom
 1504080572 - Wed Aug 30 10:09:32 CEST 2017 - /Stream/Narcos-1.html,s2e2 - Narcos
+1504080578 - Wed Aug 30 10:09:38 CEST 2017 - /Stream/The_Bold_Type.html,s1e9 - The Bold Type
