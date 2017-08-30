@@ -5146,3 +5146,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504080539 - Wed Aug 30 10:08:59 CEST 2017 - /Stream/Die_Simpsons.html,s28e1 - Die Simpsons
 1504080554 - Wed Aug 30 10:09:14 CEST 2017 - /Stream/Wrecked-Voll_abgestuerzt.html,s2e9 - Wrecked - Voll abgestürzt!
 1504080559 - Wed Aug 30 10:09:19 CEST 2017 - /Stream/Shooter-2.html,s2e7 - Shooter
+1504080565 - Wed Aug 30 10:09:25 CEST 2017 - /Stream/Animal_Kingdom-1.html,s2e13 - Animal Kingdom
