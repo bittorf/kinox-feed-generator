@@ -5163,3 +5163,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504131111 - Thu Aug 31 00:11:51 CEST 2017 - /Stream/Will-2.html,s1e9 - Will
 1504131116 - Thu Aug 31 00:11:56 CEST 2017 - /Stream/Ray_Donovan_german_subbed.html,s5e2 - Ray Donovan *german subbed*
 1504167163 - Thu Aug 31 10:12:43 CEST 2017 - /Stream/Nashville-1.html,s5e18 - Nashville
+1504167176 - Thu Aug 31 10:12:56 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e10 - Criminal Minds: Beyond Borders
