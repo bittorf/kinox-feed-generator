@@ -5176,3 +5176,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504174463 - Thu Aug 31 12:14:23 CEST 2017 - /Stream/Knightskater-Ritter_auf_Rollerblades.html - Knightskater - Ritter auf Rollerblades
 1504174468 - Thu Aug 31 12:14:28 CEST 2017 - /Stream/Amer-2.html - Amer
 1504174472 - Thu Aug 31 12:14:32 CEST 2017 - /Stream/Das_Geheimnis_der_fliegenden_Teufel.html - Das Geheimnis der fliegenden Teufel
+1504174477 - Thu Aug 31 12:14:37 CEST 2017 - /Stream/The_Americans-1.html,s4 - The Americans
