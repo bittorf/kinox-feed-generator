@@ -5166,3 +5166,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504167176 - Thu Aug 31 10:12:56 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e10 - Criminal Minds: Beyond Borders
 1504167183 - Thu Aug 31 10:13:03 CEST 2017 - /Stream/Killjoys-1.html,s3e1 - Killjoys
 1504167190 - Thu Aug 31 10:13:10 CEST 2017 - /Stream/Six-2.html,s1e1 - Six
+1504167198 - Thu Aug 31 10:13:18 CEST 2017 - /Stream/Reign-1.html,s4e7 - Reign
