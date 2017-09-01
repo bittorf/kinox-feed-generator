@@ -5200,3 +5200,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504246717 - Fri Sep  1 08:18:37 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e11 - Criminal Minds: Beyond Borders
 1504246723 - Fri Sep  1 08:18:43 CEST 2017 - /Stream/Salvation-3.html,s1e10 - Salvation
 1504246728 - Fri Sep  1 08:18:48 CEST 2017 - /Stream/Zoo-1.html,s3e10 - Zoo
+1504246735 - Fri Sep  1 08:18:55 CEST 2017 - /Stream/The_Night_Shift.html,s4e10 - The Night Shift
