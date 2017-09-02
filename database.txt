@@ -5222,3 +5222,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504340623 - Sat Sep  2 10:23:43 CEST 2017 - /Stream/Scream_Queens-1.html,s2e7 - Scream Queens
 1504340630 - Sat Sep  2 10:23:50 CEST 2017 - /Stream/Nashville-1.html,s5e17 - Nashville
 1504340638 - Sat Sep  2 10:23:58 CEST 2017 - /Stream/Six-2.html,s1e7 - Six
+1504340647 - Sat Sep  2 10:24:07 CEST 2017 - /Stream/Assassination_Classroom-1.html,s1e11 - Assassination Classroom
