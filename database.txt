@@ -5206,3 +5206,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504246754 - Fri Sep  1 08:19:14 CEST 2017 - /Stream/Queen_of_the_South.html,s2e13 - Queen of the South
 1504246762 - Fri Sep  1 08:19:22 CEST 2017 - /Stream/Im_Sorry.html,s1e9 - I'm Sorry
 1504340450 - Sat Sep  2 10:20:50 CEST 2017 - /Stream/Shot_Caller.html - Shot Caller
+1504340458 - Sat Sep  2 10:20:58 CEST 2017 - /Stream/Das_Erwachen_des_Zodiac-Moerders.html - Das Erwachen des Zodiac-Mörders
