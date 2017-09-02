@@ -5229,3 +5229,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504340669 - Sat Sep  2 10:24:29 CEST 2017 - /Stream/Mountain_Men.html,s6e12 - Mountain Men
 1504340674 - Sat Sep  2 10:24:34 CEST 2017 - /Stream/Ice_Road_Truckers.html,s11e2 - Ice Road Truckers
 1504391122 - Sun Sep  3 00:25:22 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-1.html,s4e8 - Agents of S.H.I.E.L.D.
+1504391139 - Sun Sep  3 00:25:39 CEST 2017 - /Stream/The_Strain-1.html,s4e5 - The Strain
