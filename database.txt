@@ -5254,3 +5254,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504535436 - Mon Sep  4 16:30:36 CEST 2017 - /Stream/Halt_and_Catch_Fire.html,s4e4 - Halt and Catch Fire
 1504535453 - Mon Sep  4 16:30:53 CEST 2017 - /Stream/Teen_Wolf-1.html,s6e16 - Teen Wolf
 1504564296 - Tue Sep  5 00:31:36 CEST 2017 - /Stream/Twin_Peaks-1.html,s3e17 - Twin Peaks
+1504564308 - Tue Sep  5 00:31:48 CEST 2017 - /Stream/Zoo_german_subbed_.html,s3e8 - Zoo *german subbed* **
