@@ -5251,3 +5251,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504535402 - Mon Sep  4 16:30:02 CEST 2017 - /Stream/Ballers.html,s3e7 - Ballers
 1504535412 - Mon Sep  4 16:30:12 CEST 2017 - /Stream/The_Last_Ship.html,s4e4 - The Last Ship
 1504535423 - Mon Sep  4 16:30:23 CEST 2017 - /Stream/Power-1.html,s4e10 - Power
+1504535436 - Mon Sep  4 16:30:36 CEST 2017 - /Stream/Halt_and_Catch_Fire.html,s4e4 - Halt and Catch Fire
