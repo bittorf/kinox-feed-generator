@@ -5244,3 +5244,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504535347 - Mon Sep  4 16:29:07 CEST 2017 - /Stream/Empire-2.html,s3e10 - Empire
 1504535356 - Mon Sep  4 16:29:16 CEST 2017 - /Stream/Longmire-1.html,s4e9 - Longmire
 1504535363 - Mon Sep  4 16:29:23 CEST 2017 - /Stream/Ballers-1.html,s3e2 - Ballers
+1504535369 - Mon Sep  4 16:29:29 CEST 2017 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5e10 - Teenage Mutant Ninja Turtles
