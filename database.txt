@@ -5262,3 +5262,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504621994 - Tue Sep  5 16:33:14 CEST 2017 - /Stream/S-W-A-T-Under_Siege.html - S.W.A.T.: Under Siege
 1504621999 - Tue Sep  5 16:33:19 CEST 2017 - /Stream/School_of_Rock-2.html,s2e1 - School of Rock
 1504622004 - Tue Sep  5 16:33:24 CEST 2017 - /Stream/Narcos.html,s2 - Narcos
+1504622010 - Tue Sep  5 16:33:30 CEST 2017 - /Stream/Spellbinder-1.html,s1 - Spellbinder
