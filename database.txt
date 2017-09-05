@@ -5258,3 +5258,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504564317 - Tue Sep  5 00:31:57 CEST 2017 - /Stream/NCIS_New_Orleans_german_subbed-1.html,s3 - NCIS: New Orleans *german subbed*
 1504564326 - Tue Sep  5 00:32:06 CEST 2017 - /Stream/Orphan_Black_german_subbed.html,s5e7 - Orphan Black *german subbed*
 1504621979 - Tue Sep  5 16:32:59 CEST 2017 - /Stream/Tantsy_nasmert.html - Tantsy nasmert
+1504621987 - Tue Sep  5 16:33:07 CEST 2017 - /Stream/Queen_of_Katwe.html - Queen of Katwe
