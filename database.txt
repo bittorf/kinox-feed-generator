@@ -5293,3 +5293,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504694318 - Wed Sep  6 12:38:38 CEST 2017 - /Stream/American_Horror_Story.html,s7e1 - American Horror Story
 1504694330 - Wed Sep  6 12:38:50 CEST 2017 - /Stream/American_Dad-1.html,s13e21 - American Dad!
 1504723168 - Wed Sep  6 20:39:28 CEST 2017 - /Stream/Madame_Christine-ihre_unerwarteten_Gaeste.html - Madame Christine & ihre unerwarteten Gäste
+1504723180 - Wed Sep  6 20:39:40 CEST 2017 - /Stream/Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales.html - Pirates of the Caribbean: Dead Men Tell No Tales
