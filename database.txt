@@ -5289,3 +5289,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504694293 - Wed Sep  6 12:38:13 CEST 2017 - /Stream/Somewhere_Between-1.html,s1e8 - Somewhere Between
 1504694299 - Wed Sep  6 12:38:19 CEST 2017 - /Stream/The_Bold_Type.html,s1e10 - The Bold Type
 1504694304 - Wed Sep  6 12:38:24 CEST 2017 - /Stream/Shooter-2.html,s2e8 - Shooter
+1504694310 - Wed Sep  6 12:38:30 CEST 2017 - /Stream/The_Fosters.html,s5e9 - The Fosters
