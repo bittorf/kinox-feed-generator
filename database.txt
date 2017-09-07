@@ -5312,3 +5312,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504773804 - Thu Sep  7 10:43:24 CEST 2017 - /Stream/Younger.html,s4e11 - Younger
 1504773809 - Thu Sep  7 10:43:29 CEST 2017 - /Stream/Youre_the_Worst.html,s4e1 - You're the Worst
 1504773815 - Thu Sep  7 10:43:35 CEST 2017 - /Stream/Being_Mary_Jane.html,s4e18 - Being Mary Jane
+1504824267 - Fri Sep  8 00:44:27 CEST 2017 - /Stream/Nashville-1.html,s5e19 - Nashville
