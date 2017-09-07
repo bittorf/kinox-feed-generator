@@ -5300,3 +5300,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504737648 - Thu Sep  7 00:40:48 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e16 - Teen Wolf *german subbed*
 1504773705 - Thu Sep  7 10:41:45 CEST 2017 - /Stream/Fuerst_der_Finsternis.html - Fürst der Finsternis
 1504773713 - Thu Sep  7 10:41:53 CEST 2017 - /Stream/Man_Down-1.html - Man Down
+1504773720 - Thu Sep  7 10:42:00 CEST 2017 - /Stream/The_Leftovers-1.html,s3e8 - The Leftovers
