@@ -5355,3 +5355,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504947041 - Sat Sep  9 10:50:41 CEST 2017 - /Stream/Das_Rueckgrat_des_Teufels.html - Das Rückgrat des Teufels
 1504947047 - Sat Sep  9 10:50:47 CEST 2017 - /Stream/Killjoys-1.html,s3e2 - Killjoys
 1504947054 - Sat Sep  9 10:50:54 CEST 2017 - /Stream/BoJack_Horseman.html,s4 - BoJack Horseman
+1504947058 - Sat Sep  9 10:50:58 CEST 2017 - /Stream/The_Collection-1.html,s1e1 - The Collection
