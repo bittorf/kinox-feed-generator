@@ -5350,3 +5350,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504947017 - Sat Sep  9 10:50:17 CEST 2017 - /Stream/Der_grosse_Zug_nach_Santa_Fe.html - Der groﬂe Zug nach Santa Fe
 1504947021 - Sat Sep  9 10:50:21 CEST 2017 - /Stream/Der_Mafia_Killer.html - Der Mafia Killer
 1504947026 - Sat Sep  9 10:50:26 CEST 2017 - /Stream/Maria_und_Mirabella.html - Maria und Mirabella
+1504947031 - Sat Sep  9 10:50:31 CEST 2017 - /Stream/Hilfe_Mein_Hund_spricht.html - Hilfe! Mein Hund spricht
