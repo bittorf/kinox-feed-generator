@@ -5360,3 +5360,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1504947072 - Sat Sep  9 10:51:12 CEST 2017 - /Stream/Killjoys-1.html,s4e2 - Killjoys
 1504947078 - Sat Sep  9 10:51:18 CEST 2017 - /Stream/The_Expanse-1.html,s2e1 - The Expanse
 1504947085 - Sat Sep  9 10:51:25 CEST 2017 - /Stream/Im_Dying_Up_Here.html,s1e3 - I'm Dying Up Here
+1504997537 - Sun Sep 10 00:52:17 CEST 2017 - /Stream/The_Mist_german_subbed.html,s1e9 - The Mist *german subbed*
