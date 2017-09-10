@@ -5384,3 +5384,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505055353 - Sun Sep 10 16:55:53 CEST 2017 - /Stream/Das_doppelte_Lottchen-3.html - Das doppelte Lottchen
 1505055359 - Sun Sep 10 16:55:59 CEST 2017 - /Stream/The_Originals-1.html,s4 - The Originals
 1505055371 - Sun Sep 10 16:56:11 CEST 2017 - /Stream/The_Expanse-1.html,s2 - The Expanse
+1505055379 - Sun Sep 10 16:56:19 CEST 2017 - /Stream/Zoo_german_subbed_.html,s3e9 - Zoo *german subbed* **
