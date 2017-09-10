@@ -5376,3 +5376,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505026457 - Sun Sep 10 08:54:17 CEST 2017 - /Stream/The_Mick.html,s1e11 - The Mick
 1505026462 - Sun Sep 10 08:54:22 CEST 2017 - /Stream/Longmire-1.html,s4e10 - Longmire
 1505026470 - Sun Sep 10 08:54:30 CEST 2017 - /Stream/The_Strain-1.html,s4e6 - The Strain
+1505033687 - Sun Sep 10 10:54:47 CEST 2017 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5 - Teenage Mutant Ninja Turtles
