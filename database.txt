@@ -5381,3 +5381,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505033705 - Sun Sep 10 10:55:05 CEST 2017 - /Stream/Im_Sorry-1.html,s1e6 - I'm Sorry
 1505033710 - Sun Sep 10 10:55:10 CEST 2017 - /Stream/Outlander_2014.html,s3e1 - Outlander 2014
 1505055343 - Sun Sep 10 16:55:43 CEST 2017 - /Stream/Little_Terrors.html - Little Terrors
+1505055353 - Sun Sep 10 16:55:53 CEST 2017 - /Stream/Das_doppelte_Lottchen-3.html - Das doppelte Lottchen
