@@ -5388,3 +5388,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505055387 - Sun Sep 10 16:56:27 CEST 2017 - /Stream/True_Blood.html,s2e1 - True Blood
 1505055401 - Sun Sep 10 16:56:41 CEST 2017 - /Stream/True_Blood.html,s3 - True Blood
 1505055415 - Sun Sep 10 16:56:55 CEST 2017 - /Stream/True_Blood.html,s4e1 - True Blood
+1505120307 - Mon Sep 11 10:58:27 CEST 2017 - /Stream/The_Collection-1.html,s1 - The Collection
