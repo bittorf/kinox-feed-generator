@@ -5395,3 +5395,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505120336 - Mon Sep 11 10:58:56 CEST 2017 - /Stream/The_Strain.html,s4e9 - The Strain
 1505120345 - Mon Sep 11 10:59:05 CEST 2017 - /Stream/The_Last_Ship.html,s4e5 - The Last Ship
 1505120353 - Mon Sep 11 10:59:13 CEST 2017 - /Stream/Teen_Wolf-1.html,s6e17 - Teen Wolf
+1505120368 - Mon Sep 11 10:59:28 CEST 2017 - /Stream/Dice-1.html,s2e3 - Dice
