@@ -5421,3 +5421,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505235875 - Tue Sep 12 19:04:35 CEST 2017 - /Stream/Midnight_Texas.html,s1e8 - Midnight, Texas
 1505235882 - Tue Sep 12 19:04:42 CEST 2017 - /Stream/People_of_Earth.html,s2e8 - People of Earth
 1505235887 - Tue Sep 12 19:04:47 CEST 2017 - /Stream/Preacher-1.html,s2e13 - Preacher
+1505235896 - Tue Sep 12 19:04:56 CEST 2017 - /Stream/Zoo_german_subbed_.html,s3e10 - Zoo *german subbed* **
