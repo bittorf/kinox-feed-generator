@@ -5419,3 +5419,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505235864 - Tue Sep 12 19:04:24 CEST 2017 - /Stream/Cops.html,s30e13 - Cops
 1505235870 - Tue Sep 12 19:04:30 CEST 2017 - /Stream/The_Deuce.html,s1e1 - The Deuce
 1505235875 - Tue Sep 12 19:04:35 CEST 2017 - /Stream/Midnight_Texas.html,s1e8 - Midnight, Texas
+1505235882 - Tue Sep 12 19:04:42 CEST 2017 - /Stream/People_of_Earth.html,s2e8 - People of Earth
