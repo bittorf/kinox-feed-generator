@@ -5408,3 +5408,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505235775 - Tue Sep 12 19:02:55 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s10 - The Big Bang Theory
 1505235791 - Tue Sep 12 19:03:11 CEST 2017 - /Stream/Outlander-3.html,s3e1 - Outlander
 1505235800 - Tue Sep 12 19:03:20 CEST 2017 - /Stream/Dragonball_Super-1.html,s1 - Dragonball Super
+1505235808 - Tue Sep 12 19:03:28 CEST 2017 - /Stream/Crisis_in_Six_Scenes.html,s6e2 - Crisis in Six Scenes
