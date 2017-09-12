@@ -5406,3 +5406,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505235761 - Tue Sep 12 19:02:41 CEST 2017 - /Stream/Crisis_in_Six_Scenes.html,s3 - Crisis in Six Scenes
 1505235769 - Tue Sep 12 19:02:49 CEST 2017 - /Stream/DuckTales-Neues_aus_Entenhausen.html,s1 - DuckTales - Neues aus Entenhausen
 1505235775 - Tue Sep 12 19:02:55 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s10 - The Big Bang Theory
+1505235791 - Tue Sep 12 19:03:11 CEST 2017 - /Stream/Outlander-3.html,s3e1 - Outlander
