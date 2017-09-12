@@ -5404,3 +5404,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505170884 - Tue Sep 12 01:01:24 CEST 2017 - /Stream/No_Offence-1.html,s2 - No Offence
 1505170891 - Tue Sep 12 01:01:31 CEST 2017 - /Stream/Fear_the_Walking_Dead.html,s3e10 - Fear the Walking Dead
 1505235761 - Tue Sep 12 19:02:41 CEST 2017 - /Stream/Crisis_in_Six_Scenes.html,s3 - Crisis in Six Scenes
+1505235769 - Tue Sep 12 19:02:49 CEST 2017 - /Stream/DuckTales-Neues_aus_Entenhausen.html,s1 - DuckTales - Neues aus Entenhausen
