@@ -5453,3 +5453,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505344261 - Thu Sep 14 01:11:01 CEST 2017 - /Stream/Dragonball_Super-1.html,s1e7 - Dragonball Super
 1505344269 - Thu Sep 14 01:11:09 CEST 2017 - /Stream/Sleepy_Hollow-3.html,s4e2 - Sleepy Hollow
 1505344282 - Thu Sep 14 01:11:22 CEST 2017 - /Stream/APB.html,s1e1 - APB
+1505344289 - Thu Sep 14 01:11:29 CEST 2017 - /Stream/Die_Simpsons.html,s28e3 - Die Simpsons
