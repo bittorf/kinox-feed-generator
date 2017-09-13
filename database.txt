@@ -5426,3 +5426,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505235915 - Tue Sep 12 19:05:15 CEST 2017 - /Stream/Ray_Donovan_german_subbed.html,s5e3 - Ray Donovan *german subbed*
 1505235923 - Tue Sep 12 19:05:23 CEST 2017 - /Stream/American_Dad-1.html,s13e22 - American Dad!
 1505293590 - Wed Sep 13 11:06:30 CEST 2017 - /Stream/Enders_Game-Das_grosse_Spiel.html - Ender's Game - Das groﬂe Spiel
+1505293605 - Wed Sep 13 11:06:45 CEST 2017 - /Stream/Die_Drachenreiter_von_Berk.html,s7 - Die Drachenreiter von Berk
