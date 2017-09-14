@@ -5483,3 +5483,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505387754 - Thu Sep 14 13:15:54 CEST 2017 - /Stream/Dark_Matter-3.html,s3 - Dark Matter
 1505387762 - Thu Sep 14 13:16:02 CEST 2017 - /Stream/Salvation-3.html,s1e12 - Salvation
 1505431004 - Fri Sep 15 01:16:44 CEST 2017 - /Stream/Scorpion-1.html,s3e23 - Scorpion
+1505431014 - Fri Sep 15 01:16:54 CEST 2017 - /Stream/The_Originals_german_subbed.html,s4e12 - The Originals *german subbed*
