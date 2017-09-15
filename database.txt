@@ -5504,3 +5504,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505488788 - Fri Sep 15 17:19:48 CEST 2017 - /Stream/Greenleaf.html,s2e14 - Greenleaf
 1505488795 - Fri Sep 15 17:19:55 CEST 2017 - /Stream/Glitch-3.html,s2e1 - Glitch
 1505488800 - Fri Sep 15 17:20:00 CEST 2017 - /Stream/Better_Things-2.html,s2e1 - Better Things
+1505496017 - Fri Sep 15 19:20:17 CEST 2017 - /Stream/Zoo_german_subbed.html,s3e11 - Zoo *german subbed*
