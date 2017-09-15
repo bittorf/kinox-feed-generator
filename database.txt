@@ -5486,3 +5486,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505431014 - Fri Sep 15 01:16:54 CEST 2017 - /Stream/The_Originals_german_subbed.html,s4e12 - The Originals *german subbed*
 1505488677 - Fri Sep 15 17:17:57 CEST 2017 - /Stream/Logan_Lucky.html - Logan Lucky
 1505488688 - Fri Sep 15 17:18:08 CEST 2017 - /Stream/Der_weite_Weg_der_Hoffnung.html - Der weite Weg der Hoffnung
+1505488694 - Fri Sep 15 17:18:14 CEST 2017 - /Stream/The_Osiris_Child.html - The Osiris Child
