@@ -5511,3 +5511,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505510470 - Fri Sep 15 23:21:10 CEST 2017 - /Stream/S-H-I-T-Die_Highschool_GmbH.html - S.H.I.T. - Die Highschool GmbH
 1505510479 - Fri Sep 15 23:21:19 CEST 2017 - /Stream/Amityville_Horror-Eine_wahre_Geschichte.html - Amityville Horror - Eine wahre Geschichte
 1505510486 - Fri Sep 15 23:21:26 CEST 2017 - /Stream/After_Earth.html - After Earth
+1505575362 - Sat Sep 16 17:22:42 CEST 2017 - /Stream/Ein_moerderisches_Angebot.html - Ein mörderisches Angebot
