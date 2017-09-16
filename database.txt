@@ -5519,3 +5519,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505575390 - Sat Sep 16 17:23:10 CEST 2017 - /Stream/Hostel_2.html - Hostel 2
 1505575397 - Sat Sep 16 17:23:17 CEST 2017 - /Stream/Brothers_Grimm.html - Brothers Grimm
 1505575406 - Sat Sep 16 17:23:26 CEST 2017 - /Stream/Midnight_Texas_german_subbed.html,s1 - Midnight, Texas *german subbed*
+1505575411 - Sat Sep 16 17:23:31 CEST 2017 - /Stream/The_Last_Tycoon-2.html,s1e1 - The Last Tycoon
