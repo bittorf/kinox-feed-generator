@@ -5526,3 +5526,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505575436 - Sat Sep 16 17:23:56 CEST 2017 - /Stream/In_aller_Freundschaft-Die_jungen_Aerzte.html,s3 - In aller Freundschaft - Die jungen Ärzte
 1505575444 - Sat Sep 16 17:24:04 CEST 2017 - /Stream/Die_Drachenreiter_von_Berk.html,s6 - Die Drachenreiter von Berk
 1505575451 - Sat Sep 16 17:24:11 CEST 2017 - /Stream/Cleverman-1.html,s1e2 - Cleverman
+1505575457 - Sat Sep 16 17:24:17 CEST 2017 - /Stream/Scream_Queens-1.html,s2e9 - Scream Queens
