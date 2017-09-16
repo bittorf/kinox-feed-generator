@@ -5522,3 +5522,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505575411 - Sat Sep 16 17:23:31 CEST 2017 - /Stream/The_Last_Tycoon-2.html,s1e1 - The Last Tycoon
 1505575417 - Sat Sep 16 17:23:37 CEST 2017 - /Stream/The_Fosters-1.html,s4e13 - The Fosters
 1505575425 - Sat Sep 16 17:23:45 CEST 2017 - /Stream/Dr-Quinn-Aerztin_aus_Leidenschaft.html,s2 - Dr. Quinn - Ärztin aus Leidenschaft
+1505575430 - Sat Sep 16 17:23:50 CEST 2017 - /Stream/Neo_Magazin-1.html,s6e1 - Neo Magazin
