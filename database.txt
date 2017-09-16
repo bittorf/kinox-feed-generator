@@ -5539,3 +5539,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505575540 - Sat Sep 16 17:25:40 CEST 2017 - /Stream/Chicago_PD.html,s4 - Chicago PD
 1505575548 - Sat Sep 16 17:25:48 CEST 2017 - /Stream/Chicago_Fire.html,s5 - Chicago Fire
 1505575556 - Sat Sep 16 17:25:56 CEST 2017 - /Stream/Arrow.html,s5 - Arrow
+1505575575 - Sat Sep 16 17:26:15 CEST 2017 - /Stream/Die_Chefin.html,s8e1 - Die Chefin
