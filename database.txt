@@ -5521,3 +5521,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505575406 - Sat Sep 16 17:23:26 CEST 2017 - /Stream/Midnight_Texas_german_subbed.html,s1 - Midnight, Texas *german subbed*
 1505575411 - Sat Sep 16 17:23:31 CEST 2017 - /Stream/The_Last_Tycoon-2.html,s1e1 - The Last Tycoon
 1505575417 - Sat Sep 16 17:23:37 CEST 2017 - /Stream/The_Fosters-1.html,s4e13 - The Fosters
+1505575425 - Sat Sep 16 17:23:45 CEST 2017 - /Stream/Dr-Quinn-Aerztin_aus_Leidenschaft.html,s2 - Dr. Quinn - Ärztin aus Leidenschaft
