@@ -5524,3 +5524,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505575425 - Sat Sep 16 17:23:45 CEST 2017 - /Stream/Dr-Quinn-Aerztin_aus_Leidenschaft.html,s2 - Dr. Quinn - Ärztin aus Leidenschaft
 1505575430 - Sat Sep 16 17:23:50 CEST 2017 - /Stream/Neo_Magazin-1.html,s6e1 - Neo Magazin
 1505575436 - Sat Sep 16 17:23:56 CEST 2017 - /Stream/In_aller_Freundschaft-Die_jungen_Aerzte.html,s3 - In aller Freundschaft - Die jungen Ärzte
+1505575444 - Sat Sep 16 17:24:04 CEST 2017 - /Stream/Die_Drachenreiter_von_Berk.html,s6 - Die Drachenreiter von Berk
