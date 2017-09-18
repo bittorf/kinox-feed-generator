@@ -5576,3 +5576,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505748827 - Mon Sep 18 17:33:47 CEST 2017 - /Stream/Get_Shorty-1.html,s1e7 - Get Shorty
 1505748834 - Mon Sep 18 17:33:54 CEST 2017 - /Stream/Dice-1.html,s2e4 - Dice
 1505748839 - Mon Sep 18 17:33:59 CEST 2017 - /Stream/Ballers.html,s3e9 - Ballers
+1505748846 - Mon Sep 18 17:34:06 CEST 2017 - /Stream/Outlander_2014.html,s3e2 - Outlander 2014
