@@ -5565,3 +5565,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505633437 - Sun Sep 17 09:30:37 CEST 2017 - /Stream/Top_of_the_Lake_.html,s2e5 - Top of the Lake *german subbed*
 1505748744 - Mon Sep 18 17:32:24 CEST 2017 - /Stream/Dead_Again_in_Tombstone.html - Dead Again in Tombstone
 1505748752 - Mon Sep 18 17:32:32 CEST 2017 - /Stream/Law-Order_New_York.html,s17 - Law & Order: New York
+1505748765 - Mon Sep 18 17:32:45 CEST 2017 - /Stream/Ballers-1.html,s3e3 - Ballers
