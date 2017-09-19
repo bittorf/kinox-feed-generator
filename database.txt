@@ -5607,3 +5607,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505821204 - Tue Sep 19 13:40:04 CEST 2017 - /Stream/Spider-Man-3.html,s1e6 - Spider-Man
 1505821209 - Tue Sep 19 13:40:09 CEST 2017 - /Stream/Longmire-1.html,s4 - Longmire
 1505821215 - Tue Sep 19 13:40:15 CEST 2017 - /Stream/Midnight_Texas_german_subbed.html,s1e8 - Midnight, Texas *german subbed*
+1505821222 - Tue Sep 19 13:40:22 CEST 2017 - /Stream/The_Magicians_german_subbed.html,s2e9 - The Magicians *german subbed*
