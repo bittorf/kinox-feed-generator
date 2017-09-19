@@ -5602,3 +5602,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505806729 - Tue Sep 19 09:38:49 CEST 2017 - /Stream/SpongeBob_Schwammkopf.html,s1 - SpongeBob Schwammkopf
 1505806739 - Tue Sep 19 09:38:59 CEST 2017 - /Stream/SpongeBob_Schwammkopf.html,s6e15 - SpongeBob Schwammkopf
 1505806748 - Tue Sep 19 09:39:08 CEST 2017 - /Stream/SpongeBob_Schwammkopf.html,s7e5 - SpongeBob Schwammkopf
+1505821171 - Tue Sep 19 13:39:31 CEST 2017 - /Stream/The_Big_Bang_Theory.html,s10e18 - The Big Bang Theory
