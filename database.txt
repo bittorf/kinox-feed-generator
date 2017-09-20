@@ -5637,3 +5637,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505951160 - Thu Sep 21 01:46:00 CEST 2017 - /Stream/One_Piece.html,s8 - One Piece
 1505951167 - Thu Sep 21 01:46:07 CEST 2017 - /Stream/Being_Mary_Jane.html,s4e20 - Being Mary Jane
 1505951174 - Thu Sep 21 01:46:14 CEST 2017 - /Stream/Tosh-0.html,s9e21 - Tosh.0
+1505951181 - Thu Sep 21 01:46:21 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e18 - Teen Wolf *german subbed*
