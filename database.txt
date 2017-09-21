@@ -5655,3 +5655,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1506037793 - Fri Sep 22 01:49:53 CEST 2017 - /Stream/The_Loch.html,s1e3 - The Loch
 1506037798 - Fri Sep 22 01:49:58 CEST 2017 - /Stream/Power-2.html,s4e1 - Power
 1506037809 - Fri Sep 22 01:50:09 CEST 2017 - /Stream/Ray_Donovan_german_subbed.html,s5e4 - Ray Donovan *german subbed*
+1506037820 - Fri Sep 22 01:50:20 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e19 - Teen Wolf *german subbed*
