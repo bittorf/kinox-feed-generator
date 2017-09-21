@@ -5642,3 +5642,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1505987238 - Thu Sep 21 11:47:18 CEST 2017 - /Stream/Freigaenger-Im_Hafturlaub_am_falschen_Ort.html - Freigänger - Im Hafturlaub am falschen Ort
 1505987244 - Thu Sep 21 11:47:24 CEST 2017 - /Stream/Sleepy_Hollow-3.html,s4e3 - Sleepy Hollow
 1505987257 - Thu Sep 21 11:47:37 CEST 2017 - /Stream/Salvation-3.html,s1e13 - Salvation
+1505987263 - Thu Sep 21 11:47:43 CEST 2017 - /Stream/The_Sinner.html,s1e8 - The Sinner
