@@ -5654,3 +5654,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1506037785 - Fri Sep 22 01:49:45 CEST 2017 - /Stream/Chicago_P-D.html,s4e15 - Chicago P.D.
 1506037793 - Fri Sep 22 01:49:53 CEST 2017 - /Stream/The_Loch.html,s1e3 - The Loch
 1506037798 - Fri Sep 22 01:49:58 CEST 2017 - /Stream/Power-2.html,s4e1 - Power
+1506037809 - Fri Sep 22 01:50:09 CEST 2017 - /Stream/Ray_Donovan_german_subbed.html,s5e4 - Ray Donovan *german subbed*
