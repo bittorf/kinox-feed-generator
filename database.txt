@@ -5668,3 +5668,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1506067061 - Fri Sep 22 09:57:41 CEST 2017 - /Stream/Better_Things-2.html,s2e2 - Better Things
 1506067066 - Fri Sep 22 09:57:46 CEST 2017 - /Stream/Zoo-1.html,s3e13 - Zoo
 1506067074 - Fri Sep 22 09:57:54 CEST 2017 - /Stream/Girlfriends_Guide_to_Divorce.html,s4e6 - Girlfriends' Guide to Divorce
+1506067081 - Fri Sep 22 09:58:01 CEST 2017 - /Stream/Gotham.html,s4e1 - Gotham
