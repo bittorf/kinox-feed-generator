@@ -5672,3 +5672,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1506067092 - Fri Sep 22 09:58:12 CEST 2017 - /Stream/Mountain_Men.html,s6e15 - Mountain Men
 1506124745 - Sat Sep 23 01:59:05 CEST 2017 - /Stream/Dragonball_Super-1.html,s1e14 - Dragonball Super
 1506124759 - Sat Sep 23 01:59:19 CEST 2017 - /Stream/Scorpion-1.html,s3e24 - Scorpion
+1506124768 - Sat Sep 23 01:59:28 CEST 2017 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s2e13 - Criminal Minds: Beyond Borders
