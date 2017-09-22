@@ -5657,3 +5657,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1506037809 - Fri Sep 22 01:50:09 CEST 2017 - /Stream/Ray_Donovan_german_subbed.html,s5e4 - Ray Donovan *german subbed*
 1506037820 - Fri Sep 22 01:50:20 CEST 2017 - /Stream/Teen_Wolf_german_subbed.html,s6e19 - Teen Wolf *german subbed*
 1506052580 - Fri Sep 22 05:56:20 CEST 2017 - /Stream/Bibi-Tina_Tohuwabohu_total.html - Bibi & Tina: Tohuwabohu total
+1506052595 - Fri Sep 22 05:56:35 CEST 2017 - /Stream/Berlin_Syndrom.html - Berlin Syndrom
