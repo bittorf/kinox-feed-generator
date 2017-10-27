@@ -5706,3 +5706,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509128844 - Fri Oct 27 20:27:24 CEST 2017 - /Stream/Before_Sunrise-Zwischenstopp_in_Wien.html - Before Sunrise - Zwischenstopp in Wien
 1509128851 - Fri Oct 27 20:27:31 CEST 2017 - /Stream/A_Different_Set_of_Cards.html - A Different Set of Cards
 1509128856 - Fri Oct 27 20:27:36 CEST 2017 - /Stream/Django-Ein_Silberdollar_fuer_einen_Toten.html - Django - Ein Silberdollar für einen Toten
+1509128862 - Fri Oct 27 20:27:42 CEST 2017 - /Stream/Der_letzte_Coup_der_Dalton-Gang.html - Der letzte Coup der Dalton-Gang
