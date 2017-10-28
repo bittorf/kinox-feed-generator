@@ -5742,3 +5742,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509179670 - Sat Oct 28 10:34:30 CEST 2017 - /Stream/Gotham_german_subbed-1.html,s4e5 - Gotham *german subbed*
 1509179685 - Sat Oct 28 10:34:45 CEST 2017 - /Stream/Inhumans.html,s1e6 - Inhumans
 1509179692 - Sat Oct 28 10:34:52 CEST 2017 - /Stream/The_Orville.html,s1e7 - The Orville
+1509179700 - Sat Oct 28 10:35:00 CEST 2017 - /Stream/Superstore.html,s3e5 - Superstore
