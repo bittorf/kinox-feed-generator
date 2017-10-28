@@ -5739,3 +5739,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509179632 - Sat Oct 28 10:33:52 CEST 2017 - /Stream/Z_Nation_german_subbed.html,s4e4 - Z Nation *german subbed*
 1509179640 - Sat Oct 28 10:34:00 CEST 2017 - /Stream/Chicago_Fire_german_subbed.html,s6 - Chicago Fire *german subbed*
 1509179649 - Sat Oct 28 10:34:09 CEST 2017 - /Stream/Greys_Anatomy_german_subbed.html,s14e1 - Grey's Anatomy *german subbed*
+1509179670 - Sat Oct 28 10:34:30 CEST 2017 - /Stream/Gotham_german_subbed-1.html,s4e5 - Gotham *german subbed*
