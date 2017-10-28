@@ -5725,3 +5725,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509143460 - Sat Oct 28 00:31:00 CEST 2017 - /Stream/Berlin_Station-1.html,s2e2 - Berlin Station
 1509179496 - Sat Oct 28 10:31:36 CEST 2017 - /Stream/iZombie-1.html,s3e2 - iZombie
 1509179507 - Sat Oct 28 10:31:47 CEST 2017 - /Stream/The_Magicians-1.html,s2 - The Magicians
+1509179516 - Sat Oct 28 10:31:56 CEST 2017 - /Stream/The_Shannara_Chronicles-1.html,s2e3 - The Shannara Chronicles
