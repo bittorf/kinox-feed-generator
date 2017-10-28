@@ -5728,3 +5728,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509179516 - Sat Oct 28 10:31:56 CEST 2017 - /Stream/The_Shannara_Chronicles-1.html,s2e3 - The Shannara Chronicles
 1509179528 - Sat Oct 28 10:32:08 CEST 2017 - /Stream/Neo_Magazin-1.html,s6e7 - Neo Magazin
 1509179538 - Sat Oct 28 10:32:18 CEST 2017 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s40e6 - Alarm für Cobra 11 - Die Autobahnpolizei
+1509179548 - Sat Oct 28 10:32:28 CEST 2017 - /Stream/Die_Simpsons.html,s28e8 - Die Simpsons
