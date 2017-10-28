@@ -5733,3 +5733,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509179574 - Sat Oct 28 10:32:54 CEST 2017 - /Stream/Riverdale-1.html,s2e3 - Riverdale
 1509179581 - Sat Oct 28 10:33:01 CEST 2017 - /Stream/Agents_of_S-H-I-E-L-D-1.html,s4e16 - Agents of S.H.I.E.L.D.
 1509179596 - Sat Oct 28 10:33:16 CEST 2017 - /Stream/Kingdom-2.html,s3 - Kingdom
+1509179604 - Sat Oct 28 10:33:24 CEST 2017 - /Stream/Stranger_Things-1.html,s2e4 - Stranger Things
