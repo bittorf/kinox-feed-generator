@@ -5736,3 +5736,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509179604 - Sat Oct 28 10:33:24 CEST 2017 - /Stream/Stranger_Things-1.html,s2e4 - Stranger Things
 1509179614 - Sat Oct 28 10:33:34 CEST 2017 - /Stream/Quantico-1.html,s2e19 - Quantico
 1509179624 - Sat Oct 28 10:33:44 CEST 2017 - /Stream/Lucifer_german_subbed.html,s3e4 - Lucifer *german subbed*
+1509179632 - Sat Oct 28 10:33:52 CEST 2017 - /Stream/Z_Nation_german_subbed.html,s4e4 - Z Nation *german subbed*
