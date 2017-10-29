@@ -5774,3 +5774,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509309699 - Sun Oct 29 21:41:39 CET 2017 - /Stream/The_Equalizer.html - The Equalizer
 1509309715 - Sun Oct 29 21:41:55 CET 2017 - /Stream/Bring_It_On_Worldwide_Cheersmack.html - Bring It On: Worldwide #Cheersmack
 1509309720 - Sun Oct 29 21:42:00 CET 2017 - /Stream/Colony-2.html,s1 - Colony
+1509309729 - Sun Oct 29 21:42:09 CET 2017 - /Stream/Bad_Cop_Kriminell_gut.html,s1e7 - Bad Cop: Kriminell gut
