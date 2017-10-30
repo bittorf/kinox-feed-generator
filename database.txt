@@ -5780,3 +5780,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509309755 - Sun Oct 29 21:42:35 CET 2017 - /Stream/Hawaii_Five-0.html,s7e22 - Hawaii Five-0
 1509309767 - Sun Oct 29 21:42:47 CET 2017 - /Stream/The_Mick.html,s1e17 - The Mick
 1509389021 - Mon Oct 30 19:43:41 CET 2017 - /Stream/Elementary-1.html,s5e10 - Elementary
+1509389037 - Mon Oct 30 19:43:57 CET 2017 - /Stream/He-Man-Tal_der_Macht.html,s2 - He-Man - Tal der Macht
