@@ -5796,3 +5796,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509389154 - Mon Oct 30 19:45:54 CET 2017 - /Stream/Channel_Zero_german_subbed.html,s2e6 - Channel Zero *german subbed*
 1509389160 - Mon Oct 30 19:46:00 CET 2017 - /Stream/Star_Trek_Discovery.html,s1e7 - Star Trek: Discovery
 1509389167 - Mon Oct 30 19:46:07 CET 2017 - /Stream/The_Walking_Dead.html,s8e2 - The Walking Dead
+1509389188 - Mon Oct 30 19:46:28 CET 2017 - /Stream/Wisdom_of_the_Crowd.html,s1e5 - Wisdom of the Crowd
