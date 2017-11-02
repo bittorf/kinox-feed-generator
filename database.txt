@@ -5839,3 +5839,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509663819 - Fri Nov  3 00:03:39 CET 2017 - /Stream/Youre_the_Worst.html,s4e10 - You're the Worst
 1509663826 - Fri Nov  3 00:03:46 CET 2017 - /Stream/Chicago_PD.html,s5e6 - Chicago PD
 1509663836 - Fri Nov  3 00:03:56 CET 2017 - /Stream/Supergirl_german_subbed.html,s3e1 - Supergirl *german subbed*
+1509663848 - Fri Nov  3 00:04:08 CET 2017 - /Stream/Z_Nation_german_subbed.html,s4e5 - Z Nation *german subbed*
