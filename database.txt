@@ -5804,3 +5804,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509656246 - Thu Nov  2 21:57:26 CET 2017 - /Stream/Aftermath-5.html,s1e9 - Aftermath
 1509656253 - Thu Nov  2 21:57:33 CET 2017 - /Stream/Velvet.html,s4e6 - Velvet
 1509656261 - Thu Nov  2 21:57:41 CET 2017 - /Stream/Dice-2.html,s2e3 - Dice
+1509656268 - Thu Nov  2 21:57:48 CET 2017 - /Stream/The_Deuce.html,s1e8 - The Deuce
