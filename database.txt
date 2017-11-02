@@ -5827,3 +5827,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509663698 - Fri Nov  3 00:01:38 CET 2017 - /Stream/Colony-2.html,s1e7 - Colony
 1509663707 - Fri Nov  3 00:01:47 CET 2017 - /Stream/2_Broke_Girls-1.html,s6e18 - 2 Broke Girls
 1509663717 - Fri Nov  3 00:01:57 CET 2017 - /Stream/Star_Wars_Rebels-1.html,s4 - Star Wars Rebels
+1509663727 - Fri Nov  3 00:02:07 CET 2017 - /Stream/Kingdom-1.html,s3e2 - Kingdom
