@@ -5841,3 +5841,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509663836 - Fri Nov  3 00:03:56 CET 2017 - /Stream/Supergirl_german_subbed.html,s3e1 - Supergirl *german subbed*
 1509663848 - Fri Nov  3 00:04:08 CET 2017 - /Stream/Z_Nation_german_subbed.html,s4e5 - Z Nation *german subbed*
 1509663856 - Fri Nov  3 00:04:16 CET 2017 - /Stream/The_Flash_german_subbed.html,s4e1 - The Flash *german subbed*
+1509663871 - Fri Nov  3 00:04:31 CET 2017 - /Stream/The_Big_Bang_Theory_german_subbed.html,s11e5 - The Big Bang Theory *german subbed*
