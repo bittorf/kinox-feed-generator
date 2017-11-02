@@ -5815,3 +5815,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509656345 - Thu Nov  2 21:59:05 CET 2017 - /Stream/Berlin_Station-1.html,s2e4 - Berlin Station
 1509656353 - Thu Nov  2 21:59:13 CET 2017 - /Stream/Bones-Die_Knochenjaegerin.html,s12e10 - Bones - Die Knochenjägerin
 1509656371 - Thu Nov  2 21:59:31 CET 2017 - /Stream/Dynasty-1.html,s1e4 - Dynasty
+1509656378 - Thu Nov  2 21:59:38 CET 2017 - /Stream/Riverdale.html,s2e4 - Riverdale
