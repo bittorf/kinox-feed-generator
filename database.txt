@@ -5862,3 +5862,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509728903 - Fri Nov  3 18:08:23 CET 2017 - /Stream/Arrow.html,s6e4 - Arrow
 1509728921 - Fri Nov  3 18:08:41 CET 2017 - /Stream/Scandal.html,s7e5 - Scandal
 1509728932 - Fri Nov  3 18:08:52 CET 2017 - /Stream/Ice_Road_Truckers.html,s11e9 - Ice Road Truckers
+1509728941 - Fri Nov  3 18:09:01 CET 2017 - /Stream/The_Big_Bang_Theory-1.html,s11e6 - The Big Bang Theory
