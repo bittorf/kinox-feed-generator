@@ -5866,3 +5866,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509728958 - Fri Nov  3 18:09:18 CET 2017 - /Stream/Will-Grace.html,s9e6 - Will & Grace
 1509728966 - Fri Nov  3 18:09:26 CET 2017 - /Stream/Supernatural-1.html,s13e4 - Supernatural
 1509728988 - Fri Nov  3 18:09:48 CET 2017 - /Stream/Greys_Anatomy.html,s14e6 - Grey's Anatomy
+1509750631 - Sat Nov  4 00:10:31 CET 2017 - /Stream/Thor_Tag_der_Entscheidung.html - Thor: Tag der Entscheidung
