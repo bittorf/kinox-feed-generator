@@ -5878,3 +5878,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509981279 - Mon Nov  6 16:14:39 CET 2017 - /Stream/Riverdale-1.html,s2e4 - Riverdale
 1509981288 - Mon Nov  6 16:14:48 CET 2017 - /Stream/iZombie-1.html,s3e3 - iZombie
 1509981298 - Mon Nov  6 16:14:58 CET 2017 - /Stream/Star_Trek_Discovery.html,s1e8 - Star Trek: Discovery
+1509981308 - Mon Nov  6 16:15:08 CET 2017 - /Stream/Rosewood-1.html,s2 - Rosewood
