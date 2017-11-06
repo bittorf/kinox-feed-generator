@@ -5886,3 +5886,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509981373 - Mon Nov  6 16:16:13 CET 2017 - /Stream/The_Shannara_Chronicles-1.html,s2 - The Shannara Chronicles
 1509981380 - Mon Nov  6 16:16:20 CET 2017 - /Stream/Lucifer_german_subbed.html,s3e5 - Lucifer *german subbed*
 1509981390 - Mon Nov  6 16:16:30 CET 2017 - /Stream/Mr-Robot_german_subbed.html,s3e1 - Mr. Robot *german subbed*
+1509981399 - Mon Nov  6 16:16:39 CET 2017 - /Stream/The_Walking_Dead.html,s8e3 - The Walking Dead
