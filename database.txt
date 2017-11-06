@@ -5882,3 +5882,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1509981317 - Mon Nov  6 16:15:17 CET 2017 - /Stream/Once_Upon_a_Time-Es_war_einmal.html,s6 - Once Upon a Time - Es war einmal ...
 1509981334 - Mon Nov  6 16:15:34 CET 2017 - /Stream/Dynasty-2.html,s1e4 - Dynasty
 1509981339 - Mon Nov  6 16:15:39 CET 2017 - /Stream/Supernatural.html,s12 - Supernatural
+1509981360 - Mon Nov  6 16:16:00 CET 2017 - /Stream/Gotham_german_subbed-1.html,s4e6 - Gotham *german subbed*
