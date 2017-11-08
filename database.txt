@@ -5903,3 +5903,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510096806 - Wed Nov  8 00:20:06 CET 2017 - /Stream/Fack_ju_Goehte_3.html - Fack ju Göhte 3
 1510132837 - Wed Nov  8 10:20:37 CET 2017 - /Stream/2_Broke_Girls-1.html,s6e19 - 2 Broke Girls
 1510132847 - Wed Nov  8 10:20:47 CET 2017 - /Stream/Major_Crimes.html,s6e2 - Major Crimes
+1510132855 - Wed Nov  8 10:20:55 CET 2017 - /Stream/Legends_of_Tomorrow.html,s3e5 - Legends of Tomorrow
