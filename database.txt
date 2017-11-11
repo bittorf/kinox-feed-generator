@@ -5949,3 +5949,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510385474 - Sat Nov 11 08:31:14 CET 2017 - /Stream/The_Exorcist-2.html,s2e6 - The Exorcist
 1510385483 - Sat Nov 11 08:31:23 CET 2017 - /Stream/MacGyver-2.html,s2e7 - MacGyver
 1510385490 - Sat Nov 11 08:31:30 CET 2017 - /Stream/Crazy_Ex-Girlfriend.html,s3e5 - Crazy Ex-Girlfriend
+1510385498 - Sat Nov 11 08:31:38 CET 2017 - /Stream/Blindspot.html,s3e3 - Blindspot
