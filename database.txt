@@ -5937,3 +5937,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510385357 - Sat Nov 11 08:29:17 CET 2017 - /Stream/Spider-Man-3.html,s1e13 - Spider-Man
 1510385362 - Sat Nov 11 08:29:22 CET 2017 - /Stream/Supernatural_german_subbed.html,s13e4 - Supernatural *german subbed*
 1510385386 - Sat Nov 11 08:29:46 CET 2017 - /Stream/Neo_Magazin-1.html,s6e9 - Neo Magazin
+1510385392 - Sat Nov 11 08:29:52 CET 2017 - /Stream/Dynasty-2.html,s1e5 - Dynasty
