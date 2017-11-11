@@ -5944,3 +5944,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510385435 - Sat Nov 11 08:30:35 CET 2017 - /Stream/South_of_Hell-2.html,s1 - South of Hell
 1510385442 - Sat Nov 11 08:30:42 CET 2017 - /Stream/Bad_Cop_Kriminell_gut.html,s1e9 - Bad Cop: Kriminell gut
 1510385448 - Sat Nov 11 08:30:48 CET 2017 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5e15 - Teenage Mutant Ninja Turtles
+1510385455 - Sat Nov 11 08:30:55 CET 2017 - /Stream/Lucifer_german_subbed.html,s3e6 - Lucifer *german subbed*
