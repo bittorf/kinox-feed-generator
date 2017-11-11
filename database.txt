@@ -5946,3 +5946,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510385448 - Sat Nov 11 08:30:48 CET 2017 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5e15 - Teenage Mutant Ninja Turtles
 1510385455 - Sat Nov 11 08:30:55 CET 2017 - /Stream/Lucifer_german_subbed.html,s3e6 - Lucifer *german subbed*
 1510385467 - Sat Nov 11 08:31:07 CET 2017 - /Stream/Inhumans.html,s1e8 - Inhumans
+1510385474 - Sat Nov 11 08:31:14 CET 2017 - /Stream/The_Exorcist-2.html,s2e6 - The Exorcist
