@@ -5977,3 +5977,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510472199 - Sun Nov 12 08:36:39 CET 2017 - /Stream/The_Walking_Dead-1.html,s2e11 - The Walking Dead
 1510472223 - Sun Nov 12 08:37:03 CET 2017 - /Stream/Soy_Luna.html,s2e55 - Soy Luna
 1510472233 - Sun Nov 12 08:37:13 CET 2017 - /Stream/The_Walking_Dead-1.html,s5 - The Walking Dead
+1510472254 - Sun Nov 12 08:37:34 CET 2017 - /Stream/Elena_of_Avalor.html,s1e13 - Elena of Avalor
