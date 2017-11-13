@@ -5984,3 +5984,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510580352 - Mon Nov 13 14:39:12 CET 2017 - /Stream/Willkommen_bei_Mario_Barth.html,s16e2 - Willkommen bei Mario Barth
 1510580359 - Mon Nov 13 14:39:19 CET 2017 - /Stream/Twin_Peaks-1.html,s1 - Twin Peaks
 1510580372 - Mon Nov 13 14:39:32 CET 2017 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s8e1 - Die Schatzsucher - Goldrausch in Alaska
+1510580382 - Mon Nov 13 14:39:42 CET 2017 - /Stream/Der_Hundeprofi.html,s10e5 - Der Hundeprofi
