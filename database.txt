@@ -5986,3 +5986,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510580372 - Mon Nov 13 14:39:32 CET 2017 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s8e1 - Die Schatzsucher - Goldrausch in Alaska
 1510580382 - Mon Nov 13 14:39:42 CET 2017 - /Stream/Der_Hundeprofi.html,s10e5 - Der Hundeprofi
 1510580387 - Mon Nov 13 14:39:47 CET 2017 - /Stream/My_Little_Pony_Freundschaft_ist_Magie.html,s7e16 - My Little Pony: Freundschaft ist Magie
+1510580396 - Mon Nov 13 14:39:56 CET 2017 - /Stream/Lucha_Underground.html,s3e33 - Lucha Underground
