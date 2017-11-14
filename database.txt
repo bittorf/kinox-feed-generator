@@ -5998,3 +5998,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510580500 - Mon Nov 13 14:41:40 CET 2017 - /Stream/NCIS_Los_Angeles.html,s9e7 - NCIS: Los Angeles
 1510580512 - Mon Nov 13 14:41:52 CET 2017 - /Stream/The_Simpsons.html,s29e6 - The Simpsons
 1510703003 - Wed Nov 15 00:43:23 CET 2017 - /Stream/Sterben_fuer_Anfaenger.html - Sterben für Anfänger
+1510703013 - Wed Nov 15 00:43:33 CET 2017 - /Stream/Stoker-Die_Unschuld_endet.html - Stoker - Die Unschuld endet
