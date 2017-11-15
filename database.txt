@@ -6014,3 +6014,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510731934 - Wed Nov 15 08:45:34 CET 2017 - /Stream/Berlin_Station-1.html,s2e6 - Berlin Station
 1510731941 - Wed Nov 15 08:45:41 CET 2017 - /Stream/Outlander-3.html,s3e9 - Outlander
 1510731951 - Wed Nov 15 08:45:51 CET 2017 - /Stream/Colony-2.html,s1e10 - Colony
+1510731959 - Wed Nov 15 08:45:59 CET 2017 - /Stream/Elementary-1.html,s5 - Elementary
