@@ -6033,3 +6033,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510732111 - Wed Nov 15 08:48:31 CET 2017 - /Stream/The_Mick-1.html,s2e6 - The Mick
 1510732118 - Wed Nov 15 08:48:38 CET 2017 - /Stream/Law-Order_True_Crime.html,s1e8 - Law & Order True Crime
 1510732124 - Wed Nov 15 08:48:44 CET 2017 - /Stream/Lethal_Weapon-1.html,s2e6 - Lethal Weapon
+1510732132 - Wed Nov 15 08:48:52 CET 2017 - /Stream/Legends_of_Tomorrow.html,s3e6 - Legends of Tomorrow
