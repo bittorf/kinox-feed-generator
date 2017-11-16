@@ -6057,3 +6057,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510818819 - Thu Nov 16 08:53:39 CET 2017 - /Stream/The_Goldbergs.html,s5e7 - The Goldbergs
 1510818830 - Thu Nov 16 08:53:50 CET 2017 - /Stream/South_Park-1.html,s21e8 - South Park
 1510818842 - Thu Nov 16 08:54:02 CET 2017 - /Stream/Modern_Family.html,s9e7 - Modern Family
+1510818860 - Thu Nov 16 08:54:20 CET 2017 - /Stream/Criminal_Minds.html,s13e7 - Criminal Minds
