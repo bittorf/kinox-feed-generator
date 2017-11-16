@@ -6070,3 +6070,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510826148 - Thu Nov 16 10:55:48 CET 2017 - /Stream/Dynasty-1.html,s1e6 - Dynasty
 1510826154 - Thu Nov 16 10:55:54 CET 2017 - /Stream/SEAL_Team.html,s1e7 - SEAL Team
 1510826161 - Thu Nov 16 10:56:01 CET 2017 - /Stream/Star-1.html,s2e6 - Star
+1510826167 - Thu Nov 16 10:56:07 CET 2017 - /Stream/Designated_Survivor.html,s2e7 - Designated Survivor
