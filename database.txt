@@ -6074,3 +6074,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510854996 - Thu Nov 16 18:56:36 CET 2017 - /Stream/Rueckkehr_nach_Montauk.html - Rückkehr nach Montauk
 1510855005 - Thu Nov 16 18:56:45 CET 2017 - /Stream/Z_Nation_german_subbed.html,s4 - Z Nation *german subbed*
 1510855015 - Thu Nov 16 18:56:55 CET 2017 - /Stream/Supernatural_german_subbed.html,s13e5 - Supernatural *german subbed*
+1510855037 - Thu Nov 16 18:57:17 CET 2017 - /Stream/Supergirl_german_subbed.html,s3e2 - Supergirl *german subbed*
