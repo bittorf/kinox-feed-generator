@@ -6073,3 +6073,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1510826167 - Thu Nov 16 10:56:07 CET 2017 - /Stream/Designated_Survivor.html,s2e7 - Designated Survivor
 1510854996 - Thu Nov 16 18:56:36 CET 2017 - /Stream/Rueckkehr_nach_Montauk.html - Rückkehr nach Montauk
 1510855005 - Thu Nov 16 18:56:45 CET 2017 - /Stream/Z_Nation_german_subbed.html,s4 - Z Nation *german subbed*
+1510855015 - Thu Nov 16 18:56:55 CET 2017 - /Stream/Supernatural_german_subbed.html,s13e5 - Supernatural *german subbed*
