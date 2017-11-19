@@ -6089,3 +6089,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511071345 - Sun Nov 19 07:02:25 CET 2017 - /Stream/Brooklyn_Nine-Nine-1.html,s1 - Brooklyn Nine-Nine
 1511071354 - Sun Nov 19 07:02:34 CET 2017 - /Stream/Bunsen_Is_a_Beast.html,s1 - Bunsen Is a Beast
 1511071361 - Sun Nov 19 07:02:41 CET 2017 - /Stream/Brooklyn_Nine-Nine-1.html,s2 - Brooklyn Nine-Nine
+1511071370 - Sun Nov 19 07:02:50 CET 2017 - /Stream/Hawaii_Five-0-1.html,s8 - Hawaii Five-0
