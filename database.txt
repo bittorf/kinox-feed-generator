@@ -6113,3 +6113,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511215665 - Mon Nov 20 23:07:45 CET 2017 - /Stream/Detektiv_Conan.html,s9 - Detektiv Conan
 1511215672 - Mon Nov 20 23:07:52 CET 2017 - /Stream/Detektiv_Conan.html,s10 - Detektiv Conan
 1511215680 - Mon Nov 20 23:08:00 CET 2017 - /Stream/Detektiv_Conan.html,s8 - Detektiv Conan
+1511215687 - Mon Nov 20 23:08:07 CET 2017 - /Stream/BraveStarr.html,s1 - BraveStarr
