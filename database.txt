@@ -6132,3 +6132,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511309487 - Wed Nov 22 01:11:27 CET 2017 - /Stream/Barry_Seal_Only_in_America.html - Barry Seal: Only in America
 1511309499 - Wed Nov 22 01:11:39 CET 2017 - /Stream/Elena_of_Avalor.html,s1 - Elena of Avalor
 1511309505 - Wed Nov 22 01:11:45 CET 2017 - /Stream/The_Walking_Dead-1.html,s8e5 - The Walking Dead
+1511309530 - Wed Nov 22 01:12:10 CET 2017 - /Stream/Lucha_Underground.html,s3e36 - Lucha Underground
