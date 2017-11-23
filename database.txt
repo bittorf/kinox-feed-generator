@@ -6275,3 +6275,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511454925 - Thu Nov 23 17:35:25 CET 2017 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s14 - DsdS - Deutschland sucht den Superstar
 1511454932 - Thu Nov 23 17:35:32 CET 2017 - /Stream/Drake-Josh.html,s1e1 - Drake & Josh
 1511454940 - Thu Nov 23 17:35:40 CET 2017 - /Stream/Der_Lehrer.html,s4 - Der Lehrer
+1511454947 - Thu Nov 23 17:35:47 CET 2017 - /Stream/Der_Lehrer.html,s2 - Der Lehrer
