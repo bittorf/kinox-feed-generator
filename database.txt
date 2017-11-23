@@ -6247,3 +6247,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511454626 - Thu Nov 23 17:30:26 CET 2017 - /Stream/Amelia.html - Amelia
 1511454639 - Thu Nov 23 17:30:39 CET 2017 - /Stream/American_High_School.html - American High School
 1511454644 - Thu Nov 23 17:30:44 CET 2017 - /Stream/Der_tierisch_verrueckte_Bauernhof.html - Der tierisch verrückte Bauernhof
+1511454652 - Thu Nov 23 17:30:52 CET 2017 - /Stream/Batmans_Rueckkehr.html - Batmans Rückkehr
