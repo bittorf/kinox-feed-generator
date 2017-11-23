@@ -6262,3 +6262,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511454773 - Thu Nov 23 17:32:53 CET 2017 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s8e2 - Die Schatzsucher - Goldrausch in Alaska
 1511454780 - Thu Nov 23 17:33:00 CET 2017 - /Stream/Das_Supertalent.html,s11e10 - Das Supertalent
 1511454786 - Thu Nov 23 17:33:06 CET 2017 - /Stream/2_Broke_Girls-1.html,s6e21 - 2 Broke Girls
+1511454797 - Thu Nov 23 17:33:17 CET 2017 - /Stream/SOKO_5113.html,s43e11 - SOKO 5113
