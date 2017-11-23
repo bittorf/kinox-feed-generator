@@ -6148,3 +6148,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511453768 - Thu Nov 23 17:16:08 CET 2017 - /Stream/Bonanza_Ride_the_Wind_Part_1.html - " Bonanza" Ride the Wind: Part 1
 1511453774 - Thu Nov 23 17:16:14 CET 2017 - /Stream/Hickok.html - Hickok
 1511453781 - Thu Nov 23 17:16:21 CET 2017 - /Stream/Veszettek.html - Veszettek
+1511453786 - Thu Nov 23 17:16:26 CET 2017 - /Stream/George-Der_aus_dem_Dschungel_kam_Auf_nach_Las_Vegas.html - George - Der aus dem Dschungel kam: Auf nach Las Vegas
