@@ -6260,3 +6260,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511454750 - Thu Nov 23 17:32:30 CET 2017 - /Stream/Sweeney_Todd.html - Sweeney Todd
 1511454759 - Thu Nov 23 17:32:39 CET 2017 - /Stream/Green_Lantern.html - Green Lantern
 1511454773 - Thu Nov 23 17:32:53 CET 2017 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s8e2 - Die Schatzsucher - Goldrausch in Alaska
+1511454780 - Thu Nov 23 17:33:00 CET 2017 - /Stream/Das_Supertalent.html,s11e10 - Das Supertalent
