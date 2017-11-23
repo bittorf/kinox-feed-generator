@@ -6280,3 +6280,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511454961 - Thu Nov 23 17:36:01 CET 2017 - /Stream/Der_Lehrer.html,s5 - Der Lehrer
 1511454968 - Thu Nov 23 17:36:08 CET 2017 - /Stream/Smallville.html,s1e1 - Smallville
 1511454982 - Thu Nov 23 17:36:22 CET 2017 - /Stream/Avatar-Der_Herr_der_Elemente.html,s1e1 - Avatar - Der Herr der Elemente
+1511454992 - Thu Nov 23 17:36:32 CET 2017 - /Stream/CSI_Miami.html,s1e1 - CSI: Miami
