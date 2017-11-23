@@ -6192,3 +6192,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511454116 - Thu Nov 23 17:21:56 CET 2017 - /Stream/Party_Animals_3-Willkommen_auf_der_Uni.html - Party Animals 3 - Willkommen auf der Uni
 1511454124 - Thu Nov 23 17:22:04 CET 2017 - /Stream/Up_in_the_Air-1.html - Up in the Air
 1511454133 - Thu Nov 23 17:22:13 CET 2017 - /Stream/Mutants-Du_wirst_sie_toeten_muessen.html - Mutants - Du wirst sie töten müssen!
+1511454140 - Thu Nov 23 17:22:20 CET 2017 - /Stream/Halloween_II-2.html - Halloween II
