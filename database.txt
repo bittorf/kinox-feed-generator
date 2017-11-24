@@ -6295,3 +6295,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511548767 - Fri Nov 24 19:39:27 CET 2017 - /Stream/American_Horror_Story-Die_dunkle_Seite_in_dir-1.html,s7e3 - American Horror Story - Die dunkle Seite in dir
 1511548781 - Fri Nov 24 19:39:41 CET 2017 - /Stream/Marry_Me-2.html,s1e17 - Marry Me
 1511548788 - Fri Nov 24 19:39:48 CET 2017 - /Stream/Arrow.html,s6e7 - Arrow
+1511548809 - Fri Nov 24 19:40:09 CET 2017 - /Stream/Young_Sheldon.html,s1e5 - Young Sheldon
