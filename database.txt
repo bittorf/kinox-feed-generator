@@ -6289,3 +6289,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511548711 - Fri Nov 24 19:38:31 CET 2017 - /Stream/Baghban-Und_am_Abend_wartet_das_Glueck.html - Baghban - Und am Abend wartet das Glück
 1511548717 - Fri Nov 24 19:38:37 CET 2017 - /Stream/Wish_for_Christmas-Glaube_an_Weihnachten.html - Wish for Christmas - Glaube an Weihnachten
 1511548723 - Fri Nov 24 19:38:43 CET 2017 - /Stream/Supernatural-1.html,s13e7 - Supernatural
+1511548748 - Fri Nov 24 19:39:08 CET 2017 - /Stream/Vera-Ein_ganz_spezieller_Fall.html,s3e1 - Vera - Ein ganz spezieller Fall
