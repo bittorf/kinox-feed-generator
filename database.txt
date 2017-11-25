@@ -6314,3 +6314,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511649798 - Sat Nov 25 23:43:18 CET 2017 - /Stream/Wynonna_Earp-1.html,s2 - Wynonna Earp
 1511649805 - Sat Nov 25 23:43:25 CET 2017 - /Stream/Agents_of_S-H-I-E-L-D-1.html,s4 - Agents of S.H.I.E.L.D.
 1511649820 - Sat Nov 25 23:43:40 CET 2017 - /Stream/SMILF.html,s1e1 - SMILF
+1511649826 - Sat Nov 25 23:43:46 CET 2017 - /Stream/Die_Simpsons.html,s28e10 - Die Simpsons
