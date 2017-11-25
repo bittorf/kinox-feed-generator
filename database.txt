@@ -6304,3 +6304,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511620905 - Sat Nov 25 15:41:45 CET 2017 - /Stream/Frontier-1.html,s2 - Frontier
 1511620912 - Sat Nov 25 15:41:52 CET 2017 - /Stream/Life_in_Pieces-1.html,s3e2 - Life in Pieces
 1511620919 - Sat Nov 25 15:41:59 CET 2017 - /Stream/Vice_Principals-1.html,s2e6 - Vice Principals
+1511620928 - Sat Nov 25 15:42:08 CET 2017 - /Stream/Designated_Survivor-1.html,s2e7 - Designated Survivor
