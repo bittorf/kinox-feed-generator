@@ -6316,3 +6316,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511649820 - Sat Nov 25 23:43:40 CET 2017 - /Stream/SMILF.html,s1e1 - SMILF
 1511649826 - Sat Nov 25 23:43:46 CET 2017 - /Stream/Die_Simpsons.html,s28e10 - Die Simpsons
 1511657054 - Sun Nov 26 01:44:14 CET 2017 - /Stream/Frontier-1.html,s2e6 - Frontier
+1511729104 - Sun Nov 26 21:45:04 CET 2017 - /Stream/Kingsman_Cercul_de_aur.html - Kingsman: Cercul de aur
