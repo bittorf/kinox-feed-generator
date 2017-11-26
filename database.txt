@@ -6337,3 +6337,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511729279 - Sun Nov 26 21:47:59 CET 2017 - /Stream/Agatha_Christie_Moerderische_Spiele.html,s1e1 - Agatha Christie: Mörderische Spiele
 1511729286 - Sun Nov 26 21:48:06 CET 2017 - /Stream/Akte_X-Die_unheimlichen_Faelle_des_FBI.html,s5e20 - Akte X - Die unheimlichen Fälle des FBI
 1511729308 - Sun Nov 26 21:48:28 CET 2017 - /Stream/Anne-1.html,s1e1 - Anne
+1511729316 - Sun Nov 26 21:48:36 CET 2017 - /Stream/Dirk_Gentlys_Holistic_Detective_Agency.html,s2e7 - Dirk Gently's Holistic Detective Agency
