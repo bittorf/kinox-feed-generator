@@ -6334,3 +6334,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511729256 - Sun Nov 26 21:47:36 CET 2017 - /Stream/Polizeiarzt_Dangerfield.html,s2 - Polizeiarzt Dangerfield
 1511729262 - Sun Nov 26 21:47:42 CET 2017 - /Stream/Kantai_Collection_Kan_Colle-1.html,s1 - Kantai Collection: Kan Colle
 1511729267 - Sun Nov 26 21:47:47 CET 2017 - /Stream/24.html,s6 - 24
+1511729279 - Sun Nov 26 21:47:59 CET 2017 - /Stream/Agatha_Christie_Moerderische_Spiele.html,s1e1 - Agatha Christie: Mörderische Spiele
