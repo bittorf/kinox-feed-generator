@@ -6344,3 +6344,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511772580 - Mon Nov 27 09:49:40 CET 2017 - /Stream/Das_Supertalent.html,s11e11 - Das Supertalent
 1511772586 - Mon Nov 27 09:49:46 CET 2017 - /Stream/Kantai_Collection_Kan_Colle-1.html,s1e10 - Kantai Collection: Kan Colle
 1511772591 - Mon Nov 27 09:49:51 CET 2017 - /Stream/Yu-Gi-Oh_Arc-V.html,s3e1 - Yu-Gi-Oh! Arc-V
+1511772597 - Mon Nov 27 09:49:57 CET 2017 - /Stream/Miraculous-Geschichten_von_Ladybug_und_Cat_Noir.html,s2e2 - Miraculous - Geschichten von Ladybug und Cat Noir
