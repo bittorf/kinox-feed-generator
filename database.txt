@@ -6341,3 +6341,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511772559 - Mon Nov 27 09:49:19 CET 2017 - /Stream/American_Assassin.html - American Assassin
 1511772569 - Mon Nov 27 09:49:29 CET 2017 - /Stream/Where_the_Road_Runs_Out.html - Where the Road Runs Out
 1511772575 - Mon Nov 27 09:49:35 CET 2017 - /Stream/Apropos_Glueck.html - Apropos Glück
+1511772580 - Mon Nov 27 09:49:40 CET 2017 - /Stream/Das_Supertalent.html,s11e11 - Das Supertalent
