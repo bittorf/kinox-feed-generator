@@ -6377,3 +6377,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511866577 - Tue Nov 28 11:56:17 CET 2017 - /Stream/Travelers.html,s2e7 - Travelers
 1511866584 - Tue Nov 28 11:56:24 CET 2017 - /Stream/Kevin_Can_Wait.html,s2e10 - Kevin Can Wait
 1511866590 - Tue Nov 28 11:56:30 CET 2017 - /Stream/Chicago_Med.html,s3e2 - Chicago Med
+1511866598 - Tue Nov 28 11:56:38 CET 2017 - /Stream/Scorpion.html,s4e10 - Scorpion
