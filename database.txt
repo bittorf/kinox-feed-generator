@@ -6369,3 +6369,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511852059 - Tue Nov 28 07:54:19 CET 2017 - /Stream/I_Am_Ali.html - I Am Ali
 1511852065 - Tue Nov 28 07:54:25 CET 2017 - /Stream/Hawaii_Five-0.html,s7e25 - Hawaii Five-0
 1511852077 - Tue Nov 28 07:54:37 CET 2017 - /Stream/The_Walking_Dead-1.html,s8e6 - The Walking Dead
+1511852099 - Tue Nov 28 07:54:59 CET 2017 - /Stream/The_Good_Doctor-1.html,s1e9 - The Good Doctor
