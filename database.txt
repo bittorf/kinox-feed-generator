@@ -6358,3 +6358,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511808721 - Mon Nov 27 19:52:01 CET 2017 - /Stream/Rosewood-1.html,s2e17 - Rosewood
 1511808729 - Mon Nov 27 19:52:09 CET 2017 - /Stream/Shameless-1.html,s8e4 - Shameless
 1511830357 - Tue Nov 28 01:52:37 CET 2017 - /Stream/Soul_Eater.html,s1 - Soul Eater
+1511830365 - Tue Nov 28 01:52:46 CET 2017 - /Stream/Elementary-1.html,s5e14 - Elementary
