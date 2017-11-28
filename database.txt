@@ -6384,3 +6384,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511888243 - Tue Nov 28 17:57:23 CET 2017 - /Stream/Babylon_Berlin.html,s1 - Babylon Berlin
 1511888250 - Tue Nov 28 17:57:30 CET 2017 - /Stream/Godless.html,s1 - Godless
 1511888257 - Tue Nov 28 17:57:37 CET 2017 - /Stream/Babylon_Berlin.html,s2 - Babylon Berlin
+1511888264 - Tue Nov 28 17:57:44 CET 2017 - /Stream/Outlander-3.html,s3e10 - Outlander
