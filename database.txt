@@ -6407,3 +6407,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511989272 - Wed Nov 29 22:01:12 CET 2017 - /Stream/Outlander-3.html,s3 - Outlander
 1511989282 - Wed Nov 29 22:01:22 CET 2017 - /Stream/Aftermath-5.html,s1e13 - Aftermath
 1511989288 - Wed Nov 29 22:01:28 CET 2017 - /Stream/Gotham_german_subbed-1.html,s4 - Gotham *german subbed*
+1511989301 - Wed Nov 29 22:01:41 CET 2017 - /Stream/Vera-Ein_ganz_spezieller_Fall.html,s2 - Vera - Ein ganz spezieller Fall
