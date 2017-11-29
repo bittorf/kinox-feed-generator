@@ -6424,3 +6424,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511989407 - Wed Nov 29 22:03:27 CET 2017 - /Stream/American_Horror_Story-Die_dunkle_Seite_in_dir.html,s7e9 - American Horror Story - Die dunkle Seite in dir
 1511989425 - Wed Nov 29 22:03:45 CET 2017 - /Stream/SOKO_5113.html,s43e12 - SOKO 5113
 1511989434 - Wed Nov 29 22:03:54 CET 2017 - /Stream/Graceland-2.html,s3e13 - Graceland
+1511989444 - Wed Nov 29 22:04:04 CET 2017 - /Stream/Batman_and_Harley_Quinn.html,s1e1 - Batman and Harley Quinn
