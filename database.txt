@@ -6396,3 +6396,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511989192 - Wed Nov 29 21:59:52 CET 2017 - /Stream/The_Party-1.html - The Party
 1511989199 - Wed Nov 29 21:59:59 CET 2017 - /Stream/Zum_Verwechseln_aehnlich.html - Zum Verwechseln ähnlich
 1511989207 - Wed Nov 29 22:00:07 CET 2017 - /Stream/Phantom_Halo-Brueder_am_Abgrund.html - Phantom Halo - Brüder am Abgrund
+1511989214 - Wed Nov 29 22:00:14 CET 2017 - /Stream/Ein_Mord_fuer_Quandt.html,s1 - Ein Mord für Quandt
