@@ -6409,3 +6409,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511989288 - Wed Nov 29 22:01:28 CET 2017 - /Stream/Gotham_german_subbed-1.html,s4 - Gotham *german subbed*
 1511989301 - Wed Nov 29 22:01:41 CET 2017 - /Stream/Vera-Ein_ganz_spezieller_Fall.html,s2 - Vera - Ein ganz spezieller Fall
 1511989308 - Wed Nov 29 22:01:48 CET 2017 - /Stream/Supergirl_german_subbed.html,s3e3 - Supergirl *german subbed*
+1511989318 - Wed Nov 29 22:01:58 CET 2017 - /Stream/Good_Behavior.html,s2e7 - Good Behavior
