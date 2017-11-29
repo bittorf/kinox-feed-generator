@@ -6414,3 +6414,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511989334 - Wed Nov 29 22:02:14 CET 2017 - /Stream/Dice-2.html,s2e7 - Dice
 1511989339 - Wed Nov 29 22:02:19 CET 2017 - /Stream/Kevin_Can_Wait-1.html,s2e7 - Kevin Can Wait
 1511989346 - Wed Nov 29 22:02:26 CET 2017 - /Stream/Lucifer_german_subbed.html,s3e8 - Lucifer *german subbed*
+1511989356 - Wed Nov 29 22:02:36 CET 2017 - /Stream/Masterchef-1.html,s2 - Masterchef
