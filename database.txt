@@ -6416,3 +6416,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511989346 - Wed Nov 29 22:02:26 CET 2017 - /Stream/Lucifer_german_subbed.html,s3e8 - Lucifer *german subbed*
 1511989356 - Wed Nov 29 22:02:36 CET 2017 - /Stream/Masterchef-1.html,s2 - Masterchef
 1511989365 - Wed Nov 29 22:02:45 CET 2017 - /Stream/Yu-Gi-Oh_Arc-V.html,s3e2 - Yu-Gi-Oh! Arc-V
+1511989371 - Wed Nov 29 22:02:51 CET 2017 - /Stream/2_Broke_Girls-1.html,s6e22 - 2 Broke Girls
