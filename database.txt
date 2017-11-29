@@ -6420,3 +6420,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1511989380 - Wed Nov 29 22:03:00 CET 2017 - /Stream/Madam_Secretary-1.html,s3e21 - Madam Secretary
 1511989388 - Wed Nov 29 22:03:08 CET 2017 - /Stream/Baby_Daddy-1.html,s5e20 - Baby Daddy
 1511989395 - Wed Nov 29 22:03:15 CET 2017 - /Stream/Berlin_Station-1.html,s2e8 - Berlin Station
+1511989402 - Wed Nov 29 22:03:22 CET 2017 - /Stream/Young_Sheldon_german_subbed.html,s1e4 - Young Sheldon *german subbed*
