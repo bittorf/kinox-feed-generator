@@ -6442,3 +6442,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512018387 - Thu Nov 30 06:06:27 CET 2017 - /Stream/Stille_Reserven.html - Stille Reserven
 1512018394 - Thu Nov 30 06:06:34 CET 2017 - /Stream/PJ_Masks.html,s1 - PJ Masks
 1512018401 - Thu Nov 30 06:06:41 CET 2017 - /Stream/The_Girlfriend_Experience-2.html,s2 - The Girlfriend Experience
+1512018408 - Thu Nov 30 06:06:48 CET 2017 - /Stream/Le_Bureau_des_Legendes.html,s2 - Le Bureau des Légendes
