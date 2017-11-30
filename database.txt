@@ -6445,3 +6445,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512018408 - Thu Nov 30 06:06:48 CET 2017 - /Stream/Le_Bureau_des_Legendes.html,s2 - Le Bureau des Légendes
 1512018416 - Thu Nov 30 06:06:56 CET 2017 - /Stream/Glitch-2.html,s2e6 - Glitch
 1512018424 - Thu Nov 30 06:07:04 CET 2017 - /Stream/Sleepy_Hollow-3.html,s4e13 - Sleepy Hollow
+1512018437 - Thu Nov 30 06:07:17 CET 2017 - /Stream/Rellik.html,s1 - Rellik
