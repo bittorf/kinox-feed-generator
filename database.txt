@@ -6463,3 +6463,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512018547 - Thu Nov 30 06:09:07 CET 2017 - /Stream/Modern_Family.html,s9e8 - Modern Family
 1512018564 - Thu Nov 30 06:09:24 CET 2017 - /Stream/Law-Order_Special_Victims_Unit.html,s19e7 - Law & Order: Special Victims Unit
 1512018580 - Thu Nov 30 06:09:40 CET 2017 - /Stream/Designated_Survivor.html,s2e8 - Designated Survivor
+1512018589 - Thu Nov 30 06:09:49 CET 2017 - /Stream/The_Goldbergs.html,s5e8 - The Goldbergs
