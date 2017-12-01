@@ -6482,3 +6482,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512105170 - Fri Dec  1 06:12:50 CET 2017 - /Stream/Gotham.html,s4e10 - Gotham
 1512105182 - Fri Dec  1 06:13:02 CET 2017 - /Stream/Mom.html,s5e5 - Mom
 1512105188 - Fri Dec  1 06:13:08 CET 2017 - /Stream/The_Big_Bang_Theory-1.html,s11e9 - The Big Bang Theory
+1512105206 - Fri Dec  1 06:13:26 CET 2017 - /Stream/Supernatural-1.html,s13e8 - Supernatural
