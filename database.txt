@@ -6492,3 +6492,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512206165 - Sat Dec  2 10:16:05 CET 2017 - /Stream/Girls_Trip.html - Girls Trip
 1512206174 - Sat Dec  2 10:16:14 CET 2017 - /Stream/Das_kleine_Einhorn.html - Das kleine Einhorn
 1512206180 - Sat Dec  2 10:16:20 CET 2017 - /Stream/Angriff_der_leichten_Brigade.html - Angriff der leichten Brigade
+1512206186 - Sat Dec  2 10:16:26 CET 2017 - /Stream/Oscars_Oasis.html,s1 - Oscar's Oasis
