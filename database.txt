@@ -6516,3 +6516,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512386460 - Mon Dec  4 12:21:00 CET 2017 - /Stream/Cirque_du_Soleil_Luna_Petunia.html,s1 - Cirque du Soleil: Luna Petunia
 1512386465 - Mon Dec  4 12:21:05 CET 2017 - /Stream/Peanuts_Motion_Comics.html,s1 - Peanuts Motion Comics
 1512386470 - Mon Dec  4 12:21:10 CET 2017 - /Stream/Blue_Bloods-Crime_Scene_New_York.html,s6 - Blue Bloods - Crime Scene New York
+1512386480 - Mon Dec  4 12:21:20 CET 2017 - /Stream/Elena_of_Avalor.html,s1e11 - Elena of Avalor
