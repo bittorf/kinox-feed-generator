@@ -6527,3 +6527,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512386567 - Mon Dec  4 12:22:47 CET 2017 - /Stream/The_Last_Man_on_Earth-2.html,s4e8 - The Last Man on Earth
 1512386574 - Mon Dec  4 12:22:54 CET 2017 - /Stream/Family_Guy-1.html,s16e8 - Family Guy
 1512386588 - Mon Dec  4 12:23:08 CET 2017 - /Stream/Mr-Robot_german_subbed.html,s1e1 - Mr. Robot *german subbed*
+1512386598 - Mon Dec  4 12:23:18 CET 2017 - /Stream/The_Simpsons.html,s29e8 - The Simpsons
