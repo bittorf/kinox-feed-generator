@@ -6520,3 +6520,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512386486 - Mon Dec  4 12:21:26 CET 2017 - /Stream/Die_Jetsons.html,s2e42 - Die Jetsons
 1512386493 - Mon Dec  4 12:21:33 CET 2017 - /Stream/The_Walking_Dead.html,s8e7 - The Walking Dead
 1512386514 - Mon Dec  4 12:21:54 CET 2017 - /Stream/Blindspot.html,s3e5 - Blindspot
+1512386527 - Mon Dec  4 12:22:07 CET 2017 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5e7 - Teenage Mutant Ninja Turtles
