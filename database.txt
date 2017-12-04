@@ -6518,3 +6518,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512386470 - Mon Dec  4 12:21:10 CET 2017 - /Stream/Blue_Bloods-Crime_Scene_New_York.html,s6 - Blue Bloods - Crime Scene New York
 1512386480 - Mon Dec  4 12:21:20 CET 2017 - /Stream/Elena_of_Avalor.html,s1e11 - Elena of Avalor
 1512386486 - Mon Dec  4 12:21:26 CET 2017 - /Stream/Die_Jetsons.html,s2e42 - Die Jetsons
+1512386493 - Mon Dec  4 12:21:33 CET 2017 - /Stream/The_Walking_Dead.html,s8e7 - The Walking Dead
