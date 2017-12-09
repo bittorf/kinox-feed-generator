@@ -6563,3 +6563,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512837289 - Sat Dec  9 17:34:49 CET 2017 - /Stream/The_Walking_Dead_german_subbed.html,s8e7 - The Walking Dead *german subbed*
 1512837312 - Sat Dec  9 17:35:12 CET 2017 - /Stream/Criminal_Intent-Verbrechen_im_Visier.html,s4e9 - Criminal Intent - Verbrechen im Visier
 1512837320 - Sat Dec  9 17:35:20 CET 2017 - /Stream/American_Horror_Story-Die_dunkle_Seite_in_dir-1.html,s7e5 - American Horror Story - Die dunkle Seite in dir
+1512837336 - Sat Dec  9 17:35:36 CET 2017 - /Stream/Good_Behavior.html,s2e8 - Good Behavior
