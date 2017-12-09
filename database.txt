@@ -6541,3 +6541,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512837067 - Sat Dec  9 17:31:07 CET 2017 - /Stream/The_100-1.html,s4 - The 100
 1512837077 - Sat Dec  9 17:31:17 CET 2017 - /Stream/Van_Helsing-2.html,s2e9 - Van Helsing
 1512837084 - Sat Dec  9 17:31:24 CET 2017 - /Stream/The_Shannara_Chronicles-1.html,s2e9 - The Shannara Chronicles
+1512837091 - Sat Dec  9 17:31:31 CET 2017 - /Stream/Criminal_Minds_german_subbed.html,s13 - Criminal Minds *german subbed*
