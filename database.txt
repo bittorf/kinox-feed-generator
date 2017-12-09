@@ -6561,3 +6561,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512837275 - Sat Dec  9 17:34:35 CET 2017 - /Stream/Lethal_Weapon_german_subbed.html,s2e5 - Lethal Weapon *german subbed*
 1512837282 - Sat Dec  9 17:34:42 CET 2017 - /Stream/Dynasty-2.html,s1e8 - Dynasty
 1512837289 - Sat Dec  9 17:34:49 CET 2017 - /Stream/The_Walking_Dead_german_subbed.html,s8e7 - The Walking Dead *german subbed*
+1512837312 - Sat Dec  9 17:35:12 CET 2017 - /Stream/Criminal_Intent-Verbrechen_im_Visier.html,s4e9 - Criminal Intent - Verbrechen im Visier
