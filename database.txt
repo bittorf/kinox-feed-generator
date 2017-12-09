@@ -6558,3 +6558,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512837238 - Sat Dec  9 17:33:58 CET 2017 - /Stream/The_Big_Bang_Theory_german_subbed.html,s11e8 - The Big Bang Theory *german subbed*
 1512837256 - Sat Dec  9 17:34:16 CET 2017 - /Stream/Blindspot.html,s3e6 - Blindspot
 1512837268 - Sat Dec  9 17:34:28 CET 2017 - /Stream/Crossing_Jordan-1.html,s2e17 - Crossing Jordan
+1512837275 - Sat Dec  9 17:34:35 CET 2017 - /Stream/Lethal_Weapon_german_subbed.html,s2e5 - Lethal Weapon *german subbed*
