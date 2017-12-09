@@ -6537,3 +6537,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512837022 - Sat Dec  9 17:30:22 CET 2017 - /Stream/The_Grand_Tour-1.html,s2e1 - The Grand Tour
 1512837028 - Sat Dec  9 17:30:28 CET 2017 - /Stream/Neo_Magazin-1.html,s6e13 - Neo Magazin
 1512837035 - Sat Dec  9 17:30:35 CET 2017 - /Stream/Arrow.html,s6e9 - Arrow
+1512837052 - Sat Dec  9 17:30:52 CET 2017 - /Stream/Criminal_Minds-1.html,s11 - Criminal Minds
