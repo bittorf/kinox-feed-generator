@@ -6531,3 +6531,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512541560 - Wed Dec  6 07:26:00 CET 2017 - /Stream/Detroit.html - Detroit
 1512606425 - Thu Dec  7 01:27:05 CET 2017 - /Stream/Daddys_Home_2_Mehr_Vaeter_mehr_Probleme.html - Daddy's Home 2: Mehr Väter, mehr Probleme!
 1512692910 - Fri Dec  8 01:28:30 CET 2017 - /Stream/The_LEGO_Ninjago_Movie.html - The LEGO Ninjago Movie
+1512837001 - Sat Dec  9 17:30:01 CET 2017 - /Stream/Der_Wein_und_der_Wind.html - Der Wein und der Wind
