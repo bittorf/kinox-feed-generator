@@ -6552,3 +6552,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512837175 - Sat Dec  9 17:32:55 CET 2017 - /Stream/Young_Sheldon_german_subbed.html,s1e6 - Young Sheldon *german subbed*
 1512837181 - Sat Dec  9 17:33:01 CET 2017 - /Stream/The_Flash_german_subbed.html,s4e2 - The Flash *german subbed*
 1512837195 - Sat Dec  9 17:33:15 CET 2017 - /Stream/Criminal_Minds-1.html,s10e7 - Criminal Minds
+1512837210 - Sat Dec  9 17:33:30 CET 2017 - /Stream/Elementary-1.html,s5e15 - Elementary
