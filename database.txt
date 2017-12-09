@@ -6535,3 +6535,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512837009 - Sat Dec  9 17:30:09 CET 2017 - /Stream/El_Camino_Christmas.html - El Camino Christmas
 1512837016 - Sat Dec  9 17:30:16 CET 2017 - /Stream/Ouvert_la_nuit.html - Ouvert la nuit
 1512837022 - Sat Dec  9 17:30:22 CET 2017 - /Stream/The_Grand_Tour-1.html,s2e1 - The Grand Tour
+1512837028 - Sat Dec  9 17:30:28 CET 2017 - /Stream/Neo_Magazin-1.html,s6e13 - Neo Magazin
