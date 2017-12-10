@@ -6567,3 +6567,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512837342 - Sat Dec  9 17:35:42 CET 2017 - /Stream/Supergirl_german_subbed.html,s3e4 - Supergirl *german subbed*
 1512837354 - Sat Dec  9 17:35:54 CET 2017 - /Stream/Supernatural_german_subbed.html,s13e8 - Supernatural *german subbed*
 1512837376 - Sat Dec  9 17:36:16 CET 2017 - /Stream/Hawaii_Five-0-1.html,s8e9 - Hawaii Five-0
+1512923839 - Sun Dec 10 17:37:19 CET 2017 - /Stream/Skinner-1.html - Skinner
