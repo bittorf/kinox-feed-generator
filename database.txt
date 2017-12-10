@@ -6572,3 +6572,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1512923854 - Sun Dec 10 17:37:34 CET 2017 - /Stream/Zig-Sharko-Meerjungfrauen_frisst_man_nicht.html,s1 - Zig & Sharko - Meerjungfrauen frisst man nicht!
 1512923860 - Sun Dec 10 17:37:40 CET 2017 - /Stream/Heiter_bis_toedlich-Hubert_und_Staller.html,s6 - Heiter bis tödlich - Hubert und Staller
 1512923870 - Sun Dec 10 17:37:50 CET 2017 - /Stream/Z_Nation-1.html,s4 - Z Nation
+1512923878 - Sun Dec 10 17:37:58 CET 2017 - /Stream/Die_Simpsons.html,s28 - Die Simpsons
