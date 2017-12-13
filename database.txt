@@ -6586,3 +6586,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513183339 - Wed Dec 13 17:42:19 CET 2017 - /Stream/Outlander-3.html,s3e12 - Outlander
 1513183350 - Wed Dec 13 17:42:30 CET 2017 - /Stream/Navy_CIS.html,s15e2 - Navy CIS
 1513183365 - Wed Dec 13 17:42:45 CET 2017 - /Stream/The_Quest-Die_Serie.html,s3 - The Quest - Die Serie
+1513183372 - Wed Dec 13 17:42:52 CET 2017 - /Stream/The_Good_Fight-2.html,s1e6 - The Good Fight
