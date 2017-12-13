@@ -6589,3 +6589,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513183372 - Wed Dec 13 17:42:52 CET 2017 - /Stream/The_Good_Fight-2.html,s1e6 - The Good Fight
 1513183378 - Wed Dec 13 17:42:58 CET 2017 - /Stream/Suits_german_subbed.html,s7e10 - Suits *german subbed*
 1513183390 - Wed Dec 13 17:43:10 CET 2017 - /Stream/Lethal_Weapon_german_subbed.html,s2e9 - Lethal Weapon *german subbed*
+1513183396 - Wed Dec 13 17:43:16 CET 2017 - /Stream/Z_Nation_german_subbed.html,s4e11 - Z Nation *german subbed*
