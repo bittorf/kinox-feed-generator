@@ -6584,3 +6584,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513183326 - Wed Dec 13 17:42:06 CET 2017 - /Stream/Manhunt_Unabomber.html,s1e1 - Manhunt: Unabomber
 1513183332 - Wed Dec 13 17:42:12 CET 2017 - /Stream/Rosewood-1.html,s2e19 - Rosewood
 1513183339 - Wed Dec 13 17:42:19 CET 2017 - /Stream/Outlander-3.html,s3e12 - Outlander
+1513183350 - Wed Dec 13 17:42:30 CET 2017 - /Stream/Navy_CIS.html,s15e2 - Navy CIS
