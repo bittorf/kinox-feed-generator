@@ -6611,3 +6611,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513298825 - Fri Dec 15 01:47:05 CET 2017 - /Stream/Dynasty-1.html,s1e9 - Dynasty
 1513298831 - Fri Dec 15 01:47:11 CET 2017 - /Stream/Kevin_Probably_Saves_the_World.html,s1e9 - Kevin (Probably) Saves the World
 1513298836 - Fri Dec 15 01:47:16 CET 2017 - /Stream/The_Mayor.html,s1e9 - The Mayor
+1513298843 - Fri Dec 15 01:47:23 CET 2017 - /Stream/Riverdale.html,s2e9 - Riverdale
