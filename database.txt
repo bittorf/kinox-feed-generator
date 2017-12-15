@@ -6607,3 +6607,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513298785 - Fri Dec 15 01:46:25 CET 2017 - /Stream/How_I_Met_Your_Mother.html,s8 - How I Met Your Mother
 1513298796 - Fri Dec 15 01:46:36 CET 2017 - /Stream/Arrow_german_subbed.html,s6e6 - Arrow *german subbed*
 1513298812 - Fri Dec 15 01:46:52 CET 2017 - /Stream/White_Famous.html,s1e6 - White Famous
+1513298818 - Fri Dec 15 01:46:58 CET 2017 - /Stream/Die_Thundermans.html,s4e15 - Die Thundermans
