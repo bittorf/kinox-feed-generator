@@ -6616,3 +6616,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513298856 - Fri Dec 15 01:47:36 CET 2017 - /Stream/American_Housewife.html,s2e10 - American Housewife
 1513298862 - Fri Dec 15 01:47:42 CET 2017 - /Stream/Designated_Survivor.html,s2e10 - Designated Survivor
 1513298871 - Fri Dec 15 01:47:51 CET 2017 - /Stream/Lethal_Weapon-1.html,s2e10 - Lethal Weapon
+1513298878 - Fri Dec 15 01:47:58 CET 2017 - /Stream/Bull.html,s2e10 - Bull
