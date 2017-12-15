@@ -6623,3 +6623,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513298913 - Fri Dec 15 01:48:33 CET 2017 - /Stream/Empire-3.html,s4e9 - Empire
 1513298924 - Fri Dec 15 01:48:44 CET 2017 - /Stream/NCIS_New_Orleans.html,s4e10 - NCIS: New Orleans
 1513298932 - Fri Dec 15 01:48:52 CET 2017 - /Stream/Brooklyn_Nine-Nine.html,s5 - Brooklyn Nine-Nine
+1513298941 - Fri Dec 15 01:49:01 CET 2017 - /Stream/The_Goldbergs.html,s5e10 - The Goldbergs
