@@ -6625,3 +6625,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513298932 - Fri Dec 15 01:48:52 CET 2017 - /Stream/Brooklyn_Nine-Nine.html,s5 - Brooklyn Nine-Nine
 1513298941 - Fri Dec 15 01:49:01 CET 2017 - /Stream/The_Goldbergs.html,s5e10 - The Goldbergs
 1513298950 - Fri Dec 15 01:49:10 CET 2017 - /Stream/Vikings.html,s5e4 - Vikings
+1513298961 - Fri Dec 15 01:49:21 CET 2017 - /Stream/Major_Crimes.html,s6e7 - Major Crimes
