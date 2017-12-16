@@ -6654,3 +6654,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513385651 - Sat Dec 16 01:54:11 CET 2017 - /Stream/Manhunt_Unabomber.html,s1e2 - Manhunt: Unabomber
 1513385657 - Sat Dec 16 01:54:17 CET 2017 - /Stream/Neo_Magazin-1.html,s6e14 - Neo Magazin
 1513385663 - Sat Dec 16 01:54:23 CET 2017 - /Stream/Lucifer_german_subbed.html,s3e9 - Lucifer *german subbed*
+1513385672 - Sat Dec 16 01:54:32 CET 2017 - /Stream/Gotham_german_subbed-1.html,s4e11 - Gotham *german subbed*
