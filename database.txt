@@ -6691,3 +6691,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513400371 - Sat Dec 16 05:59:31 CET 2017 - /Stream/Agents_of_S-H-I-E-L-D.html,s5e4 - Agents of S.H.I.E.L.D.
 1513400386 - Sat Dec 16 05:59:46 CET 2017 - /Stream/The_Walking_Dead-1.html,s1 - The Walking Dead
 1513400414 - Sat Dec 16 06:00:14 CET 2017 - /Stream/The_Walking_Dead-1.html,s2e1 - The Walking Dead
+1513400441 - Sat Dec 16 06:00:41 CET 2017 - /Stream/Berlin-Tag-Nacht.html,s18 - Berlin - Tag & Nacht
