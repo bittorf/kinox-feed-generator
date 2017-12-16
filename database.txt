@@ -6667,3 +6667,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513400200 - Sat Dec 16 05:56:40 CET 2017 - /Stream/Nightmare_on_Elm_Street_4.html - Nightmare on Elm Street 4
 1513400207 - Sat Dec 16 05:56:47 CET 2017 - /Stream/6_Below_Verschollen_im_Schnee.html - 6 Below: Verschollen im Schnee
 1513400213 - Sat Dec 16 05:56:53 CET 2017 - /Stream/Draussen_wartet_der_Tod.html - Drauﬂen wartet der Tod
+1513400218 - Sat Dec 16 05:56:58 CET 2017 - /Stream/Manchmal_kommen_sie_wieder_3.html - Manchmal kommen sie wieder 3
