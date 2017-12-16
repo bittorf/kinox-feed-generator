@@ -6649,3 +6649,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513385612 - Sat Dec 16 01:53:32 CET 2017 - /Stream/Queen_of_the_South-1.html,s2 - Queen of the South
 1513385620 - Sat Dec 16 01:53:40 CET 2017 - /Stream/Riverdale-1.html,s2e9 - Riverdale
 1513385628 - Sat Dec 16 01:53:48 CET 2017 - /Stream/Elementary-1.html,s5e18 - Elementary
+1513385638 - Sat Dec 16 01:53:58 CET 2017 - /Stream/Dynasty-2.html,s1e9 - Dynasty
