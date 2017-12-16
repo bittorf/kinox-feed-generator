@@ -6656,3 +6656,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513385663 - Sat Dec 16 01:54:23 CET 2017 - /Stream/Lucifer_german_subbed.html,s3e9 - Lucifer *german subbed*
 1513385672 - Sat Dec 16 01:54:32 CET 2017 - /Stream/Gotham_german_subbed-1.html,s4e11 - Gotham *german subbed*
 1513385684 - Sat Dec 16 01:54:44 CET 2017 - /Stream/The_Flash_german_subbed.html,s4e8 - The Flash *german subbed*
+1513385706 - Sat Dec 16 01:55:06 CET 2017 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e1 - Agents of S.H.I.E.L.D. *german subbed*
