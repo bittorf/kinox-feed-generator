@@ -6689,3 +6689,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513400352 - Sat Dec 16 05:59:12 CET 2017 - /Stream/Top_of_the_Lake-2.html,s2 - Top of the Lake
 1513400361 - Sat Dec 16 05:59:21 CET 2017 - /Stream/The_Exorcist-2.html,s2e10 - The Exorcist
 1513400371 - Sat Dec 16 05:59:31 CET 2017 - /Stream/Agents_of_S-H-I-E-L-D.html,s5e4 - Agents of S.H.I.E.L.D.
+1513400386 - Sat Dec 16 05:59:46 CET 2017 - /Stream/The_Walking_Dead-1.html,s1 - The Walking Dead
