@@ -6647,3 +6647,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513385593 - Sat Dec 16 01:53:13 CET 2017 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s40e12 - Alarm für Cobra 11 - Die Autobahnpolizei
 1513385605 - Sat Dec 16 01:53:25 CET 2017 - /Stream/Vice_Principals-1.html,s2e9 - Vice Principals
 1513385612 - Sat Dec 16 01:53:32 CET 2017 - /Stream/Queen_of_the_South-1.html,s2 - Queen of the South
+1513385620 - Sat Dec 16 01:53:40 CET 2017 - /Stream/Riverdale-1.html,s2e9 - Riverdale
