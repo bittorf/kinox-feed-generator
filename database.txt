@@ -6677,3 +6677,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513400266 - Sat Dec 16 05:57:46 CET 2017 - /Stream/Krieg_der_Goetter.html - Krieg der Götter
 1513400276 - Sat Dec 16 05:57:56 CET 2017 - /Stream/Beutolomaeus_und_der_wahre_Weihnachtsmann.html,s1 - Beutolomäus und der wahre Weihnachtsmann
 1513400281 - Sat Dec 16 05:58:01 CET 2017 - /Stream/Skylanders_Academy.html,s2 - Skylanders Academy
+1513400287 - Sat Dec 16 05:58:07 CET 2017 - /Stream/Criminal_Minds-1.html,s12e21 - Criminal Minds
