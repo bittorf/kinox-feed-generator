@@ -6693,3 +6693,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513400414 - Sat Dec 16 06:00:14 CET 2017 - /Stream/The_Walking_Dead-1.html,s2e1 - The Walking Dead
 1513400441 - Sat Dec 16 06:00:41 CET 2017 - /Stream/Berlin-Tag-Nacht.html,s18 - Berlin - Tag & Nacht
 1513400446 - Sat Dec 16 06:00:46 CET 2017 - /Stream/Fear_the_Walking_Dead.html,s3e17 - Fear the Walking Dead
+1513400459 - Sat Dec 16 06:00:59 CET 2017 - /Stream/Supergirl_german_subbed.html,s3e5 - Supergirl *german subbed*
