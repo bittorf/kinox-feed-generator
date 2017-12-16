@@ -6644,3 +6644,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513335128 - Fri Dec 15 11:52:08 CET 2017 - /Stream/Van_Helsing-2.html,s2e10 - Van Helsing
 1513335134 - Fri Dec 15 11:52:14 CET 2017 - /Stream/Life_in_Pieces.html,s3e7 - Life in Pieces
 1513335140 - Fri Dec 15 11:52:20 CET 2017 - /Stream/The_Big_Bang_Theory-1.html,s11e11 - The Big Bang Theory
+1513385593 - Sat Dec 16 01:53:13 CET 2017 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s40e12 - Alarm für Cobra 11 - Die Autobahnpolizei
