@@ -6675,3 +6675,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513400252 - Sat Dec 16 05:57:32 CET 2017 - /Stream/Tulpenfieber.html - Tulpenfieber
 1513400260 - Sat Dec 16 05:57:40 CET 2017 - /Stream/Der_schweigsame_Fremde.html - Der schweigsame Fremde
 1513400266 - Sat Dec 16 05:57:46 CET 2017 - /Stream/Krieg_der_Goetter.html - Krieg der Götter
+1513400276 - Sat Dec 16 05:57:56 CET 2017 - /Stream/Beutolomaeus_und_der_wahre_Weihnachtsmann.html,s1 - Beutolomäus und der wahre Weihnachtsmann
