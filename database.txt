@@ -6710,3 +6710,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513523065 - Sun Dec 17 16:04:25 CET 2017 - /Stream/The_100-1.html,s1e9 - The 100
 1513523076 - Sun Dec 17 16:04:36 CET 2017 - /Stream/The_Handmaids_Tale_Der_Report_der_Magd.html,s1e7 - The Handmaid's Tale: Der Report der Magd
 1513523083 - Sun Dec 17 16:04:43 CET 2017 - /Stream/SMILF.html,s1e4 - SMILF
+1513551910 - Mon Dec 18 00:05:10 CET 2017 - /Stream/Beutolomaeus_und_der_wahre_Weihnachtsmann.html,s1e14 - Beutolomäus und der wahre Weihnachtsmann
