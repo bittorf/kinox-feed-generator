@@ -6734,3 +6734,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513638528 - Tue Dec 19 00:08:48 CET 2017 - /Stream/Rosewood-1.html,s2e20 - Rosewood
 1513638536 - Tue Dec 19 00:08:56 CET 2017 - /Stream/The_100-1.html,s4e8 - The 100
 1513638546 - Tue Dec 19 00:09:06 CET 2017 - /Stream/Supergirl_german_subbed.html,s3e6 - Supergirl *german subbed*
+1513638557 - Tue Dec 19 00:09:17 CET 2017 - /Stream/The_Orville_german_subbed.html,s1e1 - The Orville *german subbed*
