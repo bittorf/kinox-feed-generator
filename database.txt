@@ -6739,3 +6739,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513638572 - Tue Dec 19 00:09:32 CET 2017 - /Stream/Stan_Against_Evil_german_subbed.html,s2 - Stan Against Evil *german subbed*
 1513638577 - Tue Dec 19 00:09:37 CET 2017 - /Stream/Lethal_Weapon_german_subbed.html,s2e10 - Lethal Weapon *german subbed*
 1513638585 - Tue Dec 19 00:09:45 CET 2017 - /Stream/Navy_CIS_L-A-german_subbed.html,s9 - Navy CIS: L.A. *german subbed*
+1513638594 - Tue Dec 19 00:09:54 CET 2017 - /Stream/Valkyrien_german_subbed.html,s1e8 - Valkyrien *german subbed*
