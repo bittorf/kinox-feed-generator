@@ -6731,3 +6731,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513588065 - Mon Dec 18 10:07:45 CET 2017 - /Stream/Valkyrien_german_subbed.html,s1 - Valkyrien *german subbed*
 1513638508 - Tue Dec 19 00:08:28 CET 2017 - /Stream/The_Grand_Tour.html,s2e2 - The Grand Tour
 1513638515 - Tue Dec 19 00:08:35 CET 2017 - /Stream/Outlander-3.html,s3e13 - Outlander
+1513638528 - Tue Dec 19 00:08:48 CET 2017 - /Stream/Rosewood-1.html,s2e20 - Rosewood
