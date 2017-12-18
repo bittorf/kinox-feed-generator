@@ -6728,3 +6728,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513588039 - Mon Dec 18 10:07:19 CET 2017 - /Stream/NCIS_Los_Angeles.html,s9e11 - NCIS: Los Angeles
 1513588050 - Mon Dec 18 10:07:30 CET 2017 - /Stream/Wisdom_of_the_Crowd.html,s1e11 - Wisdom of the Crowd
 1513588056 - Mon Dec 18 10:07:36 CET 2017 - /Stream/iZombie-1.html,s3e9 - iZombie
+1513588065 - Mon Dec 18 10:07:45 CET 2017 - /Stream/Valkyrien_german_subbed.html,s1 - Valkyrien *german subbed*
