@@ -6747,3 +6747,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513674721 - Tue Dec 19 10:12:01 CET 2017 - /Stream/Wacky_Races.html,s1 - Wacky Races
 1513674726 - Tue Dec 19 10:12:06 CET 2017 - /Stream/A-N-T-Achtung_Natur_Talente.html,s2 - A.N.T. Achtung Natur Talente
 1513674734 - Tue Dec 19 10:12:14 CET 2017 - /Stream/Im_fremden_Koerper.html,s1 - Im fremden Körper
+1513674739 - Tue Dec 19 10:12:19 CET 2017 - /Stream/Sonic_Boom.html,s1 - Sonic Boom
