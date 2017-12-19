@@ -6757,3 +6757,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513674782 - Tue Dec 19 10:13:02 CET 2017 - /Stream/Travelers.html,s2e11 - Travelers
 1513674787 - Tue Dec 19 10:13:07 CET 2017 - /Stream/Kevin_Can_Wait.html,s2e12 - Kevin Can Wait
 1513674793 - Tue Dec 19 10:13:13 CET 2017 - /Stream/Superior_Donuts.html,s2e8 - Superior Donuts
+1513674799 - Tue Dec 19 10:13:19 CET 2017 - /Stream/Scorpion.html,s4e12 - Scorpion
