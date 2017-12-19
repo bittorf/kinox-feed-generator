@@ -6750,3 +6750,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513674739 - Tue Dec 19 10:12:19 CET 2017 - /Stream/Sonic_Boom.html,s1 - Sonic Boom
 1513674745 - Tue Dec 19 10:12:25 CET 2017 - /Stream/Nola_Darling-1.html,s1 - Nola Darling
 1513674751 - Tue Dec 19 10:12:31 CET 2017 - /Stream/Aaron_Stone-1.html,s1e20 - Aaron Stone
+1513674757 - Tue Dec 19 10:12:37 CET 2017 - /Stream/Detroiters-1.html,s1 - Detroiters
