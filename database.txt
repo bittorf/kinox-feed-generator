@@ -6766,3 +6766,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513725367 - Wed Dec 20 00:16:07 CET 2017 - /Stream/Supernatural_german_subbed.html,s13e9 - Supernatural *german subbed*
 1513725410 - Wed Dec 20 00:16:50 CET 2017 - /Stream/Travelers.html,s2e12 - Travelers
 1513725420 - Wed Dec 20 00:17:00 CET 2017 - /Stream/Valkyrien_german_subbed.html,s1e7 - Valkyrien *german subbed*
+1513747042 - Wed Dec 20 06:17:22 CET 2017 - /Stream/Madam_Secretary-1.html,s2 - Madam Secretary
