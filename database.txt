@@ -6782,3 +6782,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513761621 - Wed Dec 20 10:20:21 CET 2017 - /Stream/Major_Crimes.html,s6 - Major Crimes
 1513848098 - Thu Dec 21 10:21:38 CET 2017 - /Stream/Der_Millionenfinger.html - Der Millionenfinger
 1513848105 - Thu Dec 21 10:21:45 CET 2017 - /Stream/Tulpen_aus_Amsterdam.html - Tulpen aus Amsterdam
+1513848111 - Thu Dec 21 10:21:51 CET 2017 - /Stream/In_aller_Freundschaft.html,s20 - In aller Freundschaft
