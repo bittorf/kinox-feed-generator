@@ -6796,3 +6796,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513898714 - Fri Dec 22 00:25:14 CET 2017 - /Stream/The_Good_Fight-2.html,s1e7 - The Good Fight
 1513898723 - Fri Dec 22 00:25:23 CET 2017 - /Stream/Doctor_Who-2.html,s1e5 - Doctor Who
 1513898757 - Fri Dec 22 00:25:57 CET 2017 - /Stream/Inspector_Barnaby.html,s1e5 - Inspector Barnaby
+1513898788 - Fri Dec 22 00:26:28 CET 2017 - /Stream/Young_Sheldon_german_subbed.html,s1e7 - Young Sheldon *german subbed*
