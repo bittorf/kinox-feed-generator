@@ -6800,3 +6800,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1513898795 - Fri Dec 22 00:26:35 CET 2017 - /Stream/Z_Nation_german_subbed.html,s4e13 - Z Nation *german subbed*
 1513913217 - Fri Dec 22 04:26:57 CET 2017 - /Stream/Haende_wie_Samt.html - Hände wie Samt
 1513913226 - Fri Dec 22 04:27:06 CET 2017 - /Stream/Die_Reste_meines_Lebens.html - Die Reste meines Lebens
+1513913233 - Fri Dec 22 04:27:13 CET 2017 - /Stream/Willkommen_im_Wayne.html,s1 - Willkommen im Wayne
