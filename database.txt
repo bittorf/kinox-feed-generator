@@ -6844,3 +6844,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514029002 - Sat Dec 23 12:36:42 CET 2017 - /Stream/iZombie-1.html,s3e10 - iZombie
 1514029018 - Sat Dec 23 12:36:58 CET 2017 - /Stream/Life_in_Pieces-1.html,s3e6 - Life in Pieces
 1514029029 - Sat Dec 23 12:37:09 CET 2017 - /Stream/Yu-Gi-Oh_Arc-V.html,s3e17 - Yu-Gi-Oh! Arc-V
+1514029036 - Sat Dec 23 12:37:16 CET 2017 - /Stream/Blindspot.html,s3e8 - Blindspot
