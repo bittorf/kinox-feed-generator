@@ -6827,3 +6827,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514028851 - Sat Dec 23 12:34:11 CET 2017 - /Stream/Geronimo_Stilton.html,s3 - Geronimo Stilton
 1514028857 - Sat Dec 23 12:34:17 CET 2017 - /Stream/King_Julien.html,s4 - King Julien
 1514028864 - Sat Dec 23 12:34:24 CET 2017 - /Stream/My_Little_Pony_Freundschaft_ist_Magie.html,s5 - My Little Pony: Freundschaft ist Magie
+1514028876 - Sat Dec 23 12:34:36 CET 2017 - /Stream/Babar_und_die_Abenteuer_von_Badou.html,s1 - Babar und die Abenteuer von Badou
