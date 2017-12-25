@@ -6851,3 +6851,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514158777 - Mon Dec 25 00:39:37 CET 2017 - /Stream/Paddington_2.html - Paddington 2
 1514158789 - Mon Dec 25 00:39:49 CET 2017 - /Stream/Plan_B_Scheiss_auf_Plan_A.html - Plan B: Scheiﬂ auf Plan A
 1514158795 - Mon Dec 25 00:39:55 CET 2017 - /Stream/The_Secret_Man.html - The Secret Man
+1514245266 - Tue Dec 26 00:41:06 CET 2017 - /Stream/Jumanji_Willkommen_im_Dschungel.html - Jumanji: Willkommen im Dschungel
