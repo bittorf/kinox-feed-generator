@@ -6875,3 +6875,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514310292 - Tue Dec 26 18:44:52 CET 2017 - /Stream/Berlin-Tag-Nacht.html,s20e1 - Berlin - Tag & Nacht
 1514310299 - Tue Dec 26 18:44:59 CET 2017 - /Stream/Rosewood-1.html,s2e21 - Rosewood
 1514310355 - Tue Dec 26 18:45:55 CET 2017 - /Stream/Willkommen_im_Wayne.html,s1e11 - Willkommen im Wayne
+1514310362 - Tue Dec 26 18:46:02 CET 2017 - /Stream/Young_Sheldon_german_subbed.html,s1e8 - Young Sheldon *german subbed*
