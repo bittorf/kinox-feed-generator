@@ -6868,3 +6868,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514310214 - Tue Dec 26 18:43:34 CET 2017 - /Stream/Kedi_Von_Katzen_und_Menschen.html - Kedi: Von Katzen und Menschen
 1514310220 - Tue Dec 26 18:43:40 CET 2017 - /Stream/Lola_gegen_den_Rest_der_Welt.html - Lola gegen den Rest der Welt
 1514310227 - Tue Dec 26 18:43:47 CET 2017 - /Stream/Nicht_von_dieser_Welt.html - Nicht von dieser Welt
+1514310234 - Tue Dec 26 18:43:54 CET 2017 - /Stream/Die_Powerpuff_Girls.html,s1 - Die Powerpuff Girls
