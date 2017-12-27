@@ -6893,3 +6893,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514389757 - Wed Dec 27 16:49:17 CET 2017 - /Stream/Haus_des_Geldes.html,s1 - Haus des Geldes
 1514389764 - Wed Dec 27 16:49:24 CET 2017 - /Stream/SOKO_Leipzig.html,s17e10 - SOKO Leipzig
 1514389797 - Wed Dec 27 16:49:57 CET 2017 - /Stream/Fabio_Montale.html,s1 - Fabio Montale
+1514389807 - Wed Dec 27 16:50:07 CET 2017 - /Stream/Berlin-Tag-Nacht.html,s20 - Berlin - Tag & Nacht
