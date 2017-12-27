@@ -6891,3 +6891,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514389739 - Wed Dec 27 16:48:59 CET 2017 - /Stream/Yakari.html,s4 - Yakari
 1514389750 - Wed Dec 27 16:49:10 CET 2017 - /Stream/Binny_si_Fantoma.html,s1 - Binny si Fantoma
 1514389757 - Wed Dec 27 16:49:17 CET 2017 - /Stream/Haus_des_Geldes.html,s1 - Haus des Geldes
+1514389764 - Wed Dec 27 16:49:24 CET 2017 - /Stream/SOKO_Leipzig.html,s17e10 - SOKO Leipzig
