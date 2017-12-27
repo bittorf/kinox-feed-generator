@@ -6882,3 +6882,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514389643 - Wed Dec 27 16:47:23 CET 2017 - /Stream/Yakari.html,s1 - Yakari
 1514389650 - Wed Dec 27 16:47:30 CET 2017 - /Stream/Goode_besser_am_besten.html,s1 - Goode, besser, am besten
 1514389658 - Wed Dec 27 16:47:38 CET 2017 - /Stream/Las_chicas_del_cable.html,s2 - Las chicas del cable
+1514389665 - Wed Dec 27 16:47:45 CET 2017 - /Stream/Yakari.html,s5 - Yakari
