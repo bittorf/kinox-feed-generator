@@ -6902,3 +6902,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514389865 - Wed Dec 27 16:51:05 CET 2017 - /Stream/SOKO_Stuttgart.html,s9e14 - SOKO Stuttgart
 1514389894 - Wed Dec 27 16:51:34 CET 2017 - /Stream/Victoria-2.html,s2 - Victoria
 1514389903 - Wed Dec 27 16:51:43 CET 2017 - /Stream/Willkommen_im_Wayne.html,s1e12 - Willkommen im Wayne
+1514389910 - Wed Dec 27 16:51:50 CET 2017 - /Stream/Damnation_german_subbed.html,s1 - Damnation *german subbed*
