@@ -6889,3 +6889,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514389720 - Wed Dec 27 16:48:40 CET 2017 - /Stream/Binny_si_Fantoma.html,s2 - Binny si Fantoma
 1514389727 - Wed Dec 27 16:48:47 CET 2017 - /Stream/Travelers-1.html,s2 - Travelers
 1514389739 - Wed Dec 27 16:48:59 CET 2017 - /Stream/Yakari.html,s4 - Yakari
+1514389750 - Wed Dec 27 16:49:10 CET 2017 - /Stream/Binny_si_Fantoma.html,s1 - Binny si Fantoma
