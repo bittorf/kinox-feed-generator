@@ -6877,3 +6877,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514310355 - Tue Dec 26 18:45:55 CET 2017 - /Stream/Willkommen_im_Wayne.html,s1e11 - Willkommen im Wayne
 1514310362 - Tue Dec 26 18:46:02 CET 2017 - /Stream/Young_Sheldon_german_subbed.html,s1e8 - Young Sheldon *german subbed*
 1514389616 - Wed Dec 27 16:46:56 CET 2017 - /Stream/Step_Up_All_In.html - Step Up All In
+1514389628 - Wed Dec 27 16:47:08 CET 2017 - /Stream/Camp_Kikiwaka.html,s1 - Camp Kikiwaka
