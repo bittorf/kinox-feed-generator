@@ -6922,3 +6922,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514455007 - Thu Dec 28 10:56:47 CET 2017 - /Stream/The_Grand_Tour-1.html,s2e2 - The Grand Tour
 1514455015 - Thu Dec 28 10:56:55 CET 2017 - /Stream/Vikings.html,s5e6 - Vikings
 1514455034 - Thu Dec 28 10:57:14 CET 2017 - /Stream/The_Adventures_of_Puss_in_Boots.html,s2 - The Adventures of Puss in Boots
+1514455043 - Thu Dec 28 10:57:23 CET 2017 - /Stream/The_Adventures_of_Puss_in_Boots.html,s1 - The Adventures of Puss in Boots
