@@ -6921,3 +6921,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514454994 - Thu Dec 28 10:56:34 CET 2017 - /Stream/The_Quest-Die_Serie_german_subbed.html,s4e3 - The Quest - Die Serie *german subbed*
 1514455007 - Thu Dec 28 10:56:47 CET 2017 - /Stream/The_Grand_Tour-1.html,s2e2 - The Grand Tour
 1514455015 - Thu Dec 28 10:56:55 CET 2017 - /Stream/Vikings.html,s5e6 - Vikings
+1514455034 - Thu Dec 28 10:57:14 CET 2017 - /Stream/The_Adventures_of_Puss_in_Boots.html,s2 - The Adventures of Puss in Boots
