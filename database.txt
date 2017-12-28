@@ -6918,3 +6918,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514454968 - Thu Dec 28 10:56:08 CET 2017 - /Stream/The_Frankenstein_Chronicles.html,s2 - The Frankenstein Chronicles
 1514454979 - Thu Dec 28 10:56:19 CET 2017 - /Stream/Knightfall.html,s1 - Knightfall
 1514454987 - Thu Dec 28 10:56:27 CET 2017 - /Stream/Damnation-1.html,s1 - Damnation
+1514454994 - Thu Dec 28 10:56:34 CET 2017 - /Stream/The_Quest-Die_Serie_german_subbed.html,s4e3 - The Quest - Die Serie *german subbed*
