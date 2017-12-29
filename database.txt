@@ -6946,3 +6946,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514587946 - Fri Dec 29 23:52:26 CET 2017 - /Stream/Scrubs-Die_Anfaenger.html,s8 - Scrubs - Die Anfänger
 1514587975 - Fri Dec 29 23:52:55 CET 2017 - /Stream/Vikings-1.html,s5e6 - Vikings
 1514587992 - Fri Dec 29 23:53:12 CET 2017 - /Stream/The_Handmaids_Tale_Der_Report_der_Magd.html,s1e10 - The Handmaid's Tale: Der Report der Magd
+1514588002 - Fri Dec 29 23:53:22 CET 2017 - /Stream/Tatort-1.html,s37e28 - Tatort
