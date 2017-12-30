@@ -6961,3 +6961,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514667638 - Sat Dec 30 22:00:38 CET 2017 - /Stream/Tatort-1.html,s46 - Tatort
 1514667886 - Sat Dec 30 22:04:46 CET 2017 - /Stream/Empire-2.html,s1e2 - Empire
 1514675114 - Sun Dec 31 00:05:14 CET 2017 - /Stream/The_Grand_Tour.html,s2e4 - The Grand Tour
+1514675124 - Sun Dec 31 00:05:24 CET 2017 - /Stream/Gilmore_Girls_Ein_neues_Jahr.html,s1e3 - Gilmore Girls: Ein neues Jahr
