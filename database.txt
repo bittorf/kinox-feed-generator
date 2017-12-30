@@ -6953,3 +6953,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514595508 - Sat Dec 30 01:58:28 CET 2017 - /Stream/Black_Mirror-1.html,s4e1 - Black Mirror
 1514595528 - Sat Dec 30 01:58:48 CET 2017 - /Stream/Jamai_Raja.html,s1e66 - Jamai Raja
 1514595533 - Sat Dec 30 01:58:53 CET 2017 - /Stream/Ghost_Wars.html,s1e12 - Ghost Wars
+1514595542 - Sat Dec 30 01:59:02 CET 2017 - /Stream/Van_Helsing-2.html,s2e12 - Van Helsing
