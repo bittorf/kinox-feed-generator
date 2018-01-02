@@ -6994,3 +6994,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514927658 - Tue Jan  2 22:14:18 CET 2018 - /Stream/SOKO_Stuttgart.html,s9e15 - SOKO Stuttgart
 1514927680 - Tue Jan  2 22:14:40 CET 2018 - /Stream/X-Die_Serie.html,s1e25 - X - Die Serie
 1514927688 - Tue Jan  2 22:14:48 CET 2018 - /Stream/DuckTales-Neues_aus_Entenhausen-2.html,s1e3 - DuckTales - Neues aus Entenhausen
+1514927696 - Tue Jan  2 22:14:56 CET 2018 - /Stream/Elementary-1.html,s5e20 - Elementary
