@@ -6978,3 +6978,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514819350 - Mon Jan  1 16:09:10 CET 2018 - /Stream/Summer_City-1.html - Summer City
 1514819356 - Mon Jan  1 16:09:16 CET 2018 - /Stream/Peaky_Blinders-Gangs_of_Birmingham.html,s4 - Peaky Blinders - Gangs of Birmingham
 1514884216 - Tue Jan  2 10:10:16 CET 2018 - /Stream/The_Gifted.html,s1e11 - The Gifted
+1514884231 - Tue Jan  2 10:10:31 CET 2018 - /Stream/Lucifer-1.html,s3e11 - Lucifer
