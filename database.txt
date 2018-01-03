@@ -7012,3 +7012,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514978348 - Wed Jan  3 12:19:08 CET 2018 - /Stream/LA_to_Vegas.html,s1e1 - LA to Vegas
 1514978354 - Wed Jan  3 12:19:14 CET 2018 - /Stream/Kevin_Probably_Saves_the_World.html,s1e10 - Kevin (Probably) Saves the World
 1514978363 - Wed Jan  3 12:19:23 CET 2018 - /Stream/The_Mick-1.html,s2e10 - The Mick
+1514978373 - Wed Jan  3 12:19:33 CET 2018 - /Stream/The_Quest-Die_Serie_german_subbed.html,s4 - The Quest - Die Serie *german subbed*
