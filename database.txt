@@ -7008,3 +7008,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514978269 - Wed Jan  3 12:17:49 CET 2018 - /Stream/Family_Guy.html,s15e1 - Family Guy
 1514978293 - Wed Jan  3 12:18:13 CET 2018 - /Stream/Velvet.html,s4e13 - Velvet
 1514978303 - Wed Jan  3 12:18:23 CET 2018 - /Stream/Die_Simpsons.html,s28e12 - Die Simpsons
+1514978336 - Wed Jan  3 12:18:56 CET 2018 - /Stream/The_Good_Fight-2.html,s1e9 - The Good Fight
