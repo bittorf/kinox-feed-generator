@@ -6997,3 +6997,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1514927696 - Tue Jan  2 22:14:56 CET 2018 - /Stream/Elementary-1.html,s5e20 - Elementary
 1514927737 - Tue Jan  2 22:15:37 CET 2018 - /Stream/Father_Brown-1.html,s6e2 - Father Brown
 1514978187 - Wed Jan  3 12:16:27 CET 2018 - /Stream/Tai-Pan.html - Tai-Pan
+1514978195 - Wed Jan  3 12:16:35 CET 2018 - /Stream/Der_Hobbit-Eine_unerwartete_Reise.html - Der Hobbit - Eine unerwartete Reise
