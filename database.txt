@@ -7038,3 +7038,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515036366 - Thu Jan  4 04:26:06 CET 2018 - /Stream/The_X_Files.html,s11e1 - The X Files
 1515036402 - Thu Jan  4 04:26:42 CET 2018 - /Stream/Speechless-1.html,s2e11 - Speechless
 1515036412 - Thu Jan  4 04:26:52 CET 2018 - /Stream/The_Blacklist.html,s5e9 - The Blacklist
+1515036446 - Thu Jan  4 04:27:26 CET 2018 - /Stream/Criminal_Minds.html,s13e10 - Criminal Minds
