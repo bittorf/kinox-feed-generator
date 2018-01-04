@@ -7030,3 +7030,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515036273 - Thu Jan  4 04:24:33 CET 2018 - /Stream/Emerald_City-1.html,s1e1 - Emerald City
 1515036287 - Thu Jan  4 04:24:47 CET 2018 - /Stream/The_Heart_Guy.html,s2e1 - The Heart Guy
 1515036298 - Thu Jan  4 04:24:58 CET 2018 - /Stream/The_Good_Doctor-2.html,s1e1 - The Good Doctor
+1515036311 - Thu Jan  4 04:25:11 CET 2018 - /Stream/Willkommen_im_Wayne.html,s1e17 - Willkommen im Wayne
