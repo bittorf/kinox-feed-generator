@@ -7066,3 +7066,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515145040 - Fri Jan  5 10:37:20 CET 2018 - /Stream/Speechless-2.html,s2e11 - Speechless
 1515145056 - Fri Jan  5 10:37:36 CET 2018 - /Stream/Death_in_Paradise.html,s7e1 - Death in Paradise
 1515145089 - Fri Jan  5 10:38:09 CET 2018 - /Stream/Damnation-1.html,s1e8 - Damnation
+1515145098 - Fri Jan  5 10:38:18 CET 2018 - /Stream/Young_Sheldon.html,s1e10 - Young Sheldon
