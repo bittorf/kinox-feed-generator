@@ -7080,3 +7080,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515202875 - Sat Jan  6 02:41:15 CET 2018 - /Stream/Life_in_Pieces-1.html,s3e8 - Life in Pieces
 1515202889 - Sat Jan  6 02:41:29 CET 2018 - /Stream/The_Grand_Tour.html,s2e5 - The Grand Tour
 1515202898 - Sat Jan  6 02:41:38 CET 2018 - /Stream/DEVILMAN_crybaby.html,s1 - DEVILMAN: crybaby
+1515202904 - Sat Jan  6 02:41:44 CET 2018 - /Stream/Delicious-2.html,s2e2 - Delicious
