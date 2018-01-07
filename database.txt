@@ -7088,3 +7088,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515354293 - Sun Jan  7 20:44:53 CET 2018 - /Stream/Auf_der_anderen_Seite_ist_das_Gras_viel_gruener-1.html - Auf der anderen Seite ist das Gras viel grüner
 1515354301 - Sun Jan  7 20:45:01 CET 2018 - /Stream/Oh_Tannenbaum.html - Oh Tannenbaum
 1515354308 - Sun Jan  7 20:45:08 CET 2018 - /Stream/Bleach.html,s1 - Bleach
+1515354320 - Sun Jan  7 20:45:20 CET 2018 - /Stream/DEVILMAN_crybaby-1.html,s1 - DEVILMAN: crybaby
