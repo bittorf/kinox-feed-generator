@@ -7091,3 +7091,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515354320 - Sun Jan  7 20:45:20 CET 2018 - /Stream/DEVILMAN_crybaby-1.html,s1 - DEVILMAN: crybaby
 1515354326 - Sun Jan  7 20:45:26 CET 2018 - /Stream/SMILF.html,s1e6 - SMILF
 1515354335 - Sun Jan  7 20:45:35 CET 2018 - /Stream/DuckTales-Neues_aus_Entenhausen-2.html,s1e7 - DuckTales - Neues aus Entenhausen
+1515354343 - Sun Jan  7 20:45:43 CET 2018 - /Stream/The_End_of_the_Fing_World.html,s1e1 - The End of the F***ing World
