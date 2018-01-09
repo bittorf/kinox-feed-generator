@@ -7112,3 +7112,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515520503 - Tue Jan  9 18:55:03 CET 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e5 - Agents of S.H.I.E.L.D. *german subbed*
 1515520532 - Tue Jan  9 18:55:32 CET 2018 - /Stream/Guyane.html,s1e3 - Guyane
 1515520540 - Tue Jan  9 18:55:40 CET 2018 - /Stream/Lucifer_german_subbed.html,s3e11 - Lucifer *german subbed*
+1515520558 - Tue Jan  9 18:55:58 CET 2018 - /Stream/DuckTales-Neues_aus_Entenhausen-2.html,s1e8 - DuckTales - Neues aus Entenhausen
