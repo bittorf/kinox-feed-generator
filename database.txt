@@ -7121,3 +7121,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515621542 - Wed Jan 10 22:59:02 CET 2018 - /Stream/Die_Simpsons.html,s28e13 - Die Simpsons
 1515621583 - Wed Jan 10 22:59:43 CET 2018 - /Stream/Scorpion-1.html,s4e2 - Scorpion
 1515621614 - Wed Jan 10 23:00:14 CET 2018 - /Stream/The_Good_Fight-2.html,s1e10 - The Good Fight
+1515621627 - Wed Jan 10 23:00:27 CET 2018 - /Stream/The_Big_Bang_Theory.html,s1 - The Big Bang Theory
