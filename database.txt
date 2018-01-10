@@ -7117,3 +7117,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515520578 - Tue Jan  9 18:56:18 CET 2018 - /Stream/Lethal_Weapon_german_subbed.html,s2e11 - Lethal Weapon *german subbed*
 1515520593 - Tue Jan  9 18:56:33 CET 2018 - /Stream/Father_Brown-1.html,s6 - Father Brown
 1515621519 - Wed Jan 10 22:58:39 CET 2018 - /Stream/Sergeant_Rex_Nicht_ohne_meinen_Hund.html - Sergeant Rex: Nicht ohne meinen Hund
+1515621531 - Wed Jan 10 22:58:51 CET 2018 - /Stream/Crimson_Peak-1.html - Crimson Peak
