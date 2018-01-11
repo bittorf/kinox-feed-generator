@@ -7123,3 +7123,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515621614 - Wed Jan 10 23:00:14 CET 2018 - /Stream/The_Good_Fight-2.html,s1e10 - The Good Fight
 1515621627 - Wed Jan 10 23:00:27 CET 2018 - /Stream/The_Big_Bang_Theory.html,s1 - The Big Bang Theory
 1515636054 - Thu Jan 11 03:00:54 CET 2018 - /Stream/Zoo-2.html,s3e1 - Zoo
+1515700903 - Thu Jan 11 21:01:43 CET 2018 - /Stream/Der_Brummbaer.html - Der Brummbär
