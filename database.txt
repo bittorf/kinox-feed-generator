@@ -7156,3 +7156,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515780391 - Fri Jan 12 19:06:31 CET 2018 - /Stream/Mom.html,s5e10 - Mom
 1515780400 - Fri Jan 12 19:06:40 CET 2018 - /Stream/The_Goldbergs.html,s5e12 - The Goldbergs
 1515780407 - Fri Jan 12 19:06:47 CET 2018 - /Stream/Chicago_Fire.html,s6e8 - Chicago Fire
+1515780415 - Fri Jan 12 19:06:55 CET 2018 - /Stream/Vikings.html,s8e8 - Vikings
