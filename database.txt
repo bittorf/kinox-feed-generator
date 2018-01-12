@@ -7159,3 +7159,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515780415 - Fri Jan 12 19:06:55 CET 2018 - /Stream/Vikings.html,s8e8 - Vikings
 1515780422 - Fri Jan 12 19:07:02 CET 2018 - /Stream/Modern_Family.html,s9e12 - Modern Family
 1515780432 - Fri Jan 12 19:07:12 CET 2018 - /Stream/Law-Order_Special_Victims_Unit.html,s19e10 - Law & Order: Special Victims Unit
+1515780442 - Fri Jan 12 19:07:22 CET 2018 - /Stream/The_Big_Bang_Theory-1.html,s11e13 - The Big Bang Theory
