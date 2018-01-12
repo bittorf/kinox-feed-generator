@@ -7129,3 +7129,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515715338 - Fri Jan 12 01:02:18 CET 2018 - /Stream/Dragon_Ball_Z_Doragon_boru_zetto.html,s1e2 - Dragon Ball Z: Doragon bôru zetto
 1515736960 - Fri Jan 12 07:02:40 CET 2018 - /Stream/Dragon_Ball_Z_Doragon_boru_zetto.html,s7 - Dragon Ball Z: Doragon bôru zetto
 1515736969 - Fri Jan 12 07:02:49 CET 2018 - /Stream/Dragon_Ball_Z_Doragon_boru_zetto.html,s3 - Dragon Ball Z: Doragon bôru zetto
+1515736975 - Fri Jan 12 07:02:55 CET 2018 - /Stream/Dragon_Ball_Z_Doragon_boru_zetto.html,s2 - Dragon Ball Z: Doragon bôru zetto
