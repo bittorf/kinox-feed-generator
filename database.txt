@@ -7215,3 +7215,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515961041 - Sun Jan 14 21:17:21 CET 2018 - /Stream/Gang_Related-2.html,s1e6 - Gang Related
 1515961048 - Sun Jan 14 21:17:28 CET 2018 - /Stream/Delicious-2.html,s2e3 - Delicious
 1515961056 - Sun Jan 14 21:17:36 CET 2018 - /Stream/Taken-5.html,s2e1 - Taken
+1515961063 - Sun Jan 14 21:17:43 CET 2018 - /Stream/MacGyver-2.html,s2e13 - MacGyver
