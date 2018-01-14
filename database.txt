@@ -7196,3 +7196,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515960888 - Sun Jan 14 21:14:48 CET 2018 - /Stream/The_Polka_King.html - The Polka King
 1515960898 - Sun Jan 14 21:14:58 CET 2018 - /Stream/Disjointed.html,s1 - Disjointed
 1515960907 - Sun Jan 14 21:15:07 CET 2018 - /Stream/Frequency-3.html,s1e3 - Frequency
+1515960917 - Sun Jan 14 21:15:17 CET 2018 - /Stream/Magda_macht_das_schon.html,s2 - Magda macht das schon!
