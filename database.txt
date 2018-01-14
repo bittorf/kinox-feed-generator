@@ -7199,3 +7199,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515960917 - Sun Jan 14 21:15:17 CET 2018 - /Stream/Magda_macht_das_schon.html,s2 - Magda macht das schon!
 1515960926 - Sun Jan 14 21:15:26 CET 2018 - /Stream/Inspector_Barnaby.html,s18e4 - Inspector Barnaby
 1515960935 - Sun Jan 14 21:15:35 CET 2018 - /Stream/Vikings-1.html,s5e8 - Vikings
+1515960943 - Sun Jan 14 21:15:43 CET 2018 - /Stream/Emerald_City-1.html,s1e2 - Emerald City
