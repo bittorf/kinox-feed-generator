@@ -7226,3 +7226,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1515982746 - Mon Jan 15 03:19:06 CET 2018 - /Stream/Insidious_The_Last_Key.html - Insidious: The Last Key
 1516054800 - Mon Jan 15 23:20:00 CET 2018 - /Stream/Lucky_Loser.html - Lucky Loser
 1516054811 - Mon Jan 15 23:20:11 CET 2018 - /Stream/Frozen_Money.html - Frozen Money
+1516054817 - Mon Jan 15 23:20:17 CET 2018 - /Stream/Star_Trek_Discovery.html,s1e11 - Star Trek: Discovery
