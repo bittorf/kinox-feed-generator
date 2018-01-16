@@ -7252,3 +7252,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516134247 - Tue Jan 16 21:24:07 CET 2018 - /Stream/Ripper_Street-1.html,s5e1 - Ripper Street
 1516134255 - Tue Jan 16 21:24:15 CET 2018 - /Stream/Navy_CIS.html,s15e5 - Navy CIS
 1516134267 - Tue Jan 16 21:24:27 CET 2018 - /Stream/Star_Trek_Discovery-1.html,s1e11 - Star Trek: Discovery
+1516134274 - Tue Jan 16 21:24:34 CET 2018 - /Stream/Slasher-2.html,s2 - Slasher
