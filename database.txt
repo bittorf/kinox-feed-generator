@@ -7257,3 +7257,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516134291 - Tue Jan 16 21:24:51 CET 2018 - /Stream/SOKO_Stuttgart.html,s9e16 - SOKO Stuttgart
 1516134300 - Tue Jan 16 21:25:00 CET 2018 - /Stream/McMafia.html,s1e4 - McMafia
 1516134308 - Tue Jan 16 21:25:08 CET 2018 - /Stream/The_Gifted.html,s1e12 - The Gifted
+1516134316 - Tue Jan 16 21:25:16 CET 2018 - /Stream/The_Brave-2.html,s1e11 - The Brave
