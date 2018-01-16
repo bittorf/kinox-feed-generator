@@ -7260,3 +7260,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516134316 - Tue Jan 16 21:25:16 CET 2018 - /Stream/The_Brave-2.html,s1e11 - The Brave
 1516134324 - Tue Jan 16 21:25:24 CET 2018 - /Stream/Super_Girl.html,s3e10 - Super Girl
 1516134332 - Tue Jan 16 21:25:32 CET 2018 - /Stream/The_Good_Doctor-1.html,s1e12 - The Good Doctor
+1516134339 - Tue Jan 16 21:25:39 CET 2018 - /Stream/Superior_Donuts.html,s2e9 - Superior Donuts
