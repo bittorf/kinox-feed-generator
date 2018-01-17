@@ -7279,3 +7279,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516177700 - Wed Jan 17 09:28:20 CET 2018 - /Stream/Lethal_Weapon-1.html,s2e13 - Lethal Weapon
 1516177708 - Wed Jan 17 09:28:28 CET 2018 - /Stream/Kevin_Probably_Saves_the_World.html,s1e12 - Kevin (Probably) Saves the World
 1516177715 - Wed Jan 17 09:28:35 CET 2018 - /Stream/Ink_Master.html,s10e2 - Ink Master
+1516177723 - Wed Jan 17 09:28:43 CET 2018 - /Stream/Chicago_Med.html,s3e7 - Chicago Med
