@@ -7273,3 +7273,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516177653 - Wed Jan 17 09:27:33 CET 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e6 - Agents of S.H.I.E.L.D. *german subbed*
 1516177661 - Wed Jan 17 09:27:41 CET 2018 - /Stream/Young_Sheldon-1.html,s1 - Young Sheldon
 1516177669 - Wed Jan 17 09:27:49 CET 2018 - /Stream/The_Flash_german_subbed.html,s4e4 - The Flash *german subbed*
+1516177677 - Wed Jan 17 09:27:57 CET 2018 - /Stream/The_Fosters.html,s5e11 - The Fosters
