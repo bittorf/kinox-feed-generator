@@ -7300,3 +7300,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516242716 - Thu Jan 18 03:31:56 CET 2018 - /Stream/Moonlight_Mile-Eine_Familiengeschichte.html - Moonlight Mile - Eine Familiengeschichte
 1516278748 - Thu Jan 18 13:32:28 CET 2018 - /Stream/E-T-Der_Ausserirdische.html - E.T. - Der Auﬂerirdische
 1516278761 - Thu Jan 18 13:32:41 CET 2018 - /Stream/Cars_2-1.html - Cars 2
+1516278770 - Thu Jan 18 13:32:50 CET 2018 - /Stream/Die_Versuchung_des_Padre_Amaro.html - Die Versuchung des Padre Amaro
