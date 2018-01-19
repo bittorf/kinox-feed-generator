@@ -7328,3 +7328,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516307792 - Thu Jan 18 21:36:32 CET 2018 - /Stream/DArtagnan_und_die_drei_Musketiere.html,s1e1 - D'Artagnan und die drei Musketiere
 1516387048 - Fri Jan 19 19:37:28 CET 2018 - /Stream/The_Open_House.html - The Open House
 1516387056 - Fri Jan 19 19:37:36 CET 2018 - /Stream/Gefuehle_im_Sturm.html - Gefühle im Sturm
+1516387063 - Fri Jan 19 19:37:43 CET 2018 - /Stream/In_guten_wie_in_schweren_Tagen.html - In guten wie in schweren Tagen
