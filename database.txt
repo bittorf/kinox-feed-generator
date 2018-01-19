@@ -7337,3 +7337,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516387114 - Fri Jan 19 19:38:34 CET 2018 - /Stream/Halbmond.html - Halbmond
 1516387121 - Fri Jan 19 19:38:41 CET 2018 - /Stream/Riverdale-1.html,s2e10 - Riverdale
 1516387130 - Fri Jan 19 19:38:50 CET 2018 - /Stream/Violet_Evergarden.html,s1 - Violet Evergarden
+1516387137 - Fri Jan 19 19:38:57 CET 2018 - /Stream/Superior_Donuts-1.html,s1 - Superior Donuts
