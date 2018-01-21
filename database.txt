@@ -7349,3 +7349,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516408848 - Sat Jan 20 01:40:48 CET 2018 - /Stream/The_Exorcist-3.html,s2e2 - The Exorcist
 1516408855 - Sat Jan 20 01:40:55 CET 2018 - /Stream/Navy_CIS.html,s4e1 - Navy CIS
 1516408865 - Sat Jan 20 01:41:05 CET 2018 - /Stream/Vikings-1.html,s5e7 - Vikings
+1516545757 - Sun Jan 21 15:42:37 CET 2018 - /Stream/Stirb_oder_toete.html - Stirb oder töte!
