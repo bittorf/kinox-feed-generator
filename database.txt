@@ -7361,3 +7361,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516711529 - Tue Jan 23 13:45:29 CET 2018 - /Stream/Young_Sheldon-1.html,s1e3 - Young Sheldon
 1516711537 - Tue Jan 23 13:45:37 CET 2018 - /Stream/The_Big_Bang_Theory.html,s11e3 - The Big Bang Theory
 1516711544 - Tue Jan 23 13:45:44 CET 2018 - /Stream/Criminal_Minds-1.html,s13e2 - Criminal Minds
+1516711554 - Tue Jan 23 13:45:54 CET 2018 - /Stream/Star_Trek_Discovery-1.html,s1e12 - Star Trek: Discovery
