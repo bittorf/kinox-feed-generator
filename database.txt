@@ -7367,3 +7367,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516711578 - Tue Jan 23 13:46:18 CET 2018 - /Stream/Kevin_Can_Wait.html,s2e14 - Kevin Can Wait
 1516711584 - Tue Jan 23 13:46:24 CET 2018 - /Stream/Superior_Donuts.html,s2e10 - Superior Donuts
 1516711591 - Tue Jan 23 13:46:31 CET 2018 - /Stream/Lucifer-1.html,s3e12 - Lucifer
+1516711599 - Tue Jan 23 13:46:39 CET 2018 - /Stream/Chicago_Med.html,s3e8 - Chicago Med
