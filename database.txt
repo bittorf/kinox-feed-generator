@@ -7390,3 +7390,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516783800 - Wed Jan 24 09:50:00 CET 2018 - /Stream/Workin_Moms.html,s2e3 - Workin' Moms
 1516783808 - Wed Jan 24 09:50:08 CET 2018 - /Stream/This_Is_Us.html,s2e13 - This Is Us
 1516783816 - Wed Jan 24 09:50:16 CET 2018 - /Stream/Black_Lightning-1.html,s1 - Black Lightning
+1516783823 - Wed Jan 24 09:50:23 CET 2018 - /Stream/The_Detour.html,s3e1 - The Detour
