@@ -7396,3 +7396,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516783847 - Wed Jan 24 09:50:47 CET 2018 - /Stream/The_Mick-1.html,s2e13 - The Mick
 1516783854 - Wed Jan 24 09:50:54 CET 2018 - /Stream/The_Good_Doctor-1.html,s1e13 - The Good Doctor
 1516783862 - Wed Jan 24 09:51:02 CET 2018 - /Stream/Lethal_Weapon-1.html,s2e14 - Lethal Weapon
+1516783870 - Wed Jan 24 09:51:10 CET 2018 - /Stream/Bull.html,s2e13 - Bull
