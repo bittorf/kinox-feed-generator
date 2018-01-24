@@ -7381,3 +7381,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516783733 - Wed Jan 24 09:48:53 CET 2018 - /Stream/Black_Lightning-2.html,s1e1 - Black Lightning
 1516783739 - Wed Jan 24 09:48:59 CET 2018 - /Stream/Der_Staatsanwalt.html,s13e2 - Der Staatsanwalt
 1516783748 - Wed Jan 24 09:49:08 CET 2018 - /Stream/Frequency-3.html,s1e5 - Frequency
+1516783754 - Wed Jan 24 09:49:14 CET 2018 - /Stream/ABC_Baer.html,s1 - ABC Bär
