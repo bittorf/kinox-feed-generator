@@ -7384,3 +7384,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1516783754 - Wed Jan 24 09:49:14 CET 2018 - /Stream/ABC_Baer.html,s1 - ABC Bär
 1516783762 - Wed Jan 24 09:49:22 CET 2018 - /Stream/Das_Dschungelcamp.html,s12 - Das Dschungelcamp
 1516783769 - Wed Jan 24 09:49:29 CET 2018 - /Stream/Supernatural.html,s12e20 - Supernatural
+1516783777 - Wed Jan 24 09:49:37 CET 2018 - /Stream/Navy_CIS.html,s15e6 - Navy CIS
