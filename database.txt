@@ -7436,3 +7436,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519241635 - Wed Feb 21 20:33:55 CET 2018 - /Stream/The_Blacklist-1.html,s5e2 - The Blacklist
 1519241642 - Wed Feb 21 20:34:02 CET 2018 - /Stream/Billions-1.html,s3 - Billions
 1519241649 - Wed Feb 21 20:34:09 CET 2018 - /Stream/TURN-1.html,s4e1 - TURN
+1519241657 - Wed Feb 21 20:34:17 CET 2018 - /Stream/Cyborg_009_Call_of_Justice.html,s1e1 - Cyborg 009: Call of Justice
