@@ -13,7 +13,8 @@ IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
 
 [ "$ARG1" = '--cron' ] && while :; do git pull; ./"$0" ; git push; date; sleep $(( 2 * 3600 )); done
 
-WGET='wget --no-check-certificate'	# works best with v1.15+ (needed when http is redirected to https
+# works best with v1.15+ (needed when http is redirected to https
+WGET='wget --user-agent=AmigaVoyager --content-on-error --no-check-certificate'
 
 # dependencies:
 # POSIX-sh, wget, git, recode, imdbpy
@@ -75,7 +76,7 @@ underliner()
 # <td class="Title"><a href="/Stream/Die_Geheimnisse_der_Spiderwicks.html" onclick="return false;">Die Geheimnisse der Spiderwicks</a> <span class="Year">2008</span></td>
 
 PATTERN='<td class="Title img_preview" rel='
-{ $WGET -qO - "$URL" || logger -s "[ERROR:$?] wget '$URL'"; printf '\n%s' "$PATTERN - EOF"; } |
+{ $WGET -O - "$URL" || logger -s "[ERROR:$?] $WGET -O - '$URL'"; printf '\n%s' "$PATTERN - EOF"; } |
  grep ^"$PATTERN" | recode 'UTF8..ISO-8859-15' | while read -r LINE; do {
 	LINK=
 	TITLE=
