@@ -7431,3 +7431,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519241598 - Wed Feb 21 20:33:18 CET 2018 - /Stream/Fifty_Shades_of_Grey-Befreite_Lust.html - Fifty Shades of Grey - Befreite Lust
 1519241607 - Wed Feb 21 20:33:27 CET 2018 - /Stream/The_Ritual.html - The Ritual
 1519241614 - Wed Feb 21 20:33:34 CET 2018 - /Stream/Sarah-Duck.html,s3 - Sarah & Duck
+1519241621 - Wed Feb 21 20:33:41 CET 2018 - /Stream/Black_Lightning-2.html,s1e5 - Black Lightning
