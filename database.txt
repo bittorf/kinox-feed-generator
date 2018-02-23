@@ -7475,3 +7475,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519393539 - Fri Feb 23 14:45:39 CET 2018 - /Stream/Gone-3.html,s1 - Gone
 1519393544 - Fri Feb 23 14:45:44 CET 2018 - /Stream/Die_Medici_Herrscher_von_Florenz.html,s2e12 - Die Medici: Herrscher von Florenz
 1519393551 - Fri Feb 23 14:45:51 CET 2018 - /Stream/Bull-1.html,s2e3 - Bull
+1519393556 - Fri Feb 23 14:45:56 CET 2018 - /Stream/SOKO_5113.html,s43e22 - SOKO 5113
