@@ -7465,3 +7465,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519393469 - Fri Feb 23 14:44:29 CET 2018 - /Stream/The_Originals-1.html,s6e10 - The Originals
 1519393475 - Fri Feb 23 14:44:35 CET 2018 - /Stream/Die_Medici_Herrscher_von_Florenz.html,s3 - Die Medici: Herrscher von Florenz
 1519393482 - Fri Feb 23 14:44:42 CET 2018 - /Stream/Marseille-1.html,s2e1 - Marseille
+1519393489 - Fri Feb 23 14:44:49 CET 2018 - /Stream/Supergirl-2.html,s5 - Supergirl
