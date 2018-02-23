@@ -7477,3 +7477,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519393551 - Fri Feb 23 14:45:51 CET 2018 - /Stream/Bull-1.html,s2e3 - Bull
 1519393556 - Fri Feb 23 14:45:56 CET 2018 - /Stream/SOKO_5113.html,s43e22 - SOKO 5113
 1519393566 - Fri Feb 23 14:46:06 CET 2018 - /Stream/Marseille-2.html,s2 - Marseille
+1519393571 - Fri Feb 23 14:46:11 CET 2018 - /Stream/Strike_Back.html,s6e9 - Strike Back
