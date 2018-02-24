@@ -7485,3 +7485,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519400810 - Fri Feb 23 16:46:50 CET 2018 - /Stream/Divorce.html,s2e4 - Divorce
 1519465658 - Sat Feb 24 10:47:38 CET 2018 - /Stream/Batman-Raetsel_um_Batwoman.html - Batman - Rätsel um Batwoman
 1519465668 - Sat Feb 24 10:47:48 CET 2018 - /Stream/Prison_Break_Sequel.html,s5 - Prison Break: Sequel
+1519465675 - Sat Feb 24 10:47:55 CET 2018 - /Stream/Stan_Lees_Lucky_Man-1.html,s3e2 - Stan Lee's Lucky Man
