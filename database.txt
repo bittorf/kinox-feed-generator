@@ -7496,3 +7496,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519516172 - Sun Feb 25 00:49:32 CET 2018 - /Stream/Criminal_Minds-1.html,s13e7 - Criminal Minds
 1519516183 - Sun Feb 25 00:49:43 CET 2018 - /Stream/Der_Staatsanwalt.html,s13e6 - Der Staatsanwalt
 1519516192 - Sun Feb 25 00:49:52 CET 2018 - /Stream/Doctor_Who-2.html,s10e4 - Doctor Who
+1519516200 - Sun Feb 25 00:50:00 CET 2018 - /Stream/Der_Lehrer.html,s6e8 - Der Lehrer
