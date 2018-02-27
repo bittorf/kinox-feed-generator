@@ -7556,3 +7556,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519747205 - Tue Feb 27 17:00:05 CET 2018 - /Stream/UnReal.html,s3e1 - UnReal
 1519747217 - Tue Feb 27 17:00:17 CET 2018 - /Stream/iZombie.html,s4e1 - iZombie
 1519747218 - Tue Feb 27 17:00:18 CET 2018 - /Stream/The_Good_Doctor-1.html,s1e15 - The Good Doctor
+1519747219 - Tue Feb 27 17:00:19 CET 2018 - /Stream/Superior_Donuts.html,s2e13 - Superior Donuts
