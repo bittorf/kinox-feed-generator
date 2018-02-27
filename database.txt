@@ -7546,3 +7546,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519747155 - Tue Feb 27 16:59:15 CET 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e1 - Shameless - Nicht ganz nüchtern
 1519747163 - Tue Feb 27 16:59:23 CET 2018 - /Stream/Back_in_the_Game-2.html,s1e13 - Back in the Game
 1519747169 - Tue Feb 27 16:59:29 CET 2018 - /Stream/The_Good_Doctor-2.html,s1e8 - The Good Doctor
+1519747175 - Tue Feb 27 16:59:35 CET 2018 - /Stream/S-W-A-T-1.html,s1 - S.W.A.T.
