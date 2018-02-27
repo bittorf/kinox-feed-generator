@@ -58,7 +58,18 @@ imdb_get_rating()
 	} done
 
 	# e.g. 'Rating: 7.7 (148196 votes).'
-	$IMDBPY_GETMOVIE "$id" | grep ^'Rating: ' || echo 'Rating: ?'
+	$IMDBPY_GETMOVIE "$id" | grep ^'Rating: ' || {
+		imdb_getmovie_rating "$link" | grep ^'Rating: ' || {
+			echo 'Rating: ?'
+		}
+	}
+}
+
+imdb_getmovie_rating()
+{
+	local link="$1"
+
+	$WGET -O - "$link" | sed -n 's|.*span itemprop="ratingValue">\([0-9\.]*\)</span>.*|Rating: \1|p'
 }
 
 underliner()
