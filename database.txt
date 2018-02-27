@@ -7550,3 +7550,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519747180 - Tue Feb 27 16:59:40 CET 2018 - /Stream/NCIS_New_Orleans-1.html,s3e15 - NCIS: New Orleans
 1519747186 - Tue Feb 27 16:59:46 CET 2018 - /Stream/The_Quest-3.html,s4e7 - The Quest
 1519747192 - Tue Feb 27 16:59:52 CET 2018 - /Stream/The_Big_Bang_Theory.html,s11e8 - The Big Bang Theory
+1519747201 - Tue Feb 27 17:00:01 CET 2018 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s8e14 - Die Schatzsucher - Goldrausch in Alaska
