@@ -7538,3 +7538,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519689458 - Tue Feb 27 00:57:38 CET 2018 - /Stream/Channel_Zero-1.html,s3e2 - Channel Zero
 1519689465 - Tue Feb 27 00:57:45 CET 2018 - /Stream/Chris_Ryans_Strike_Back_german_subbed.html,s6e8 - Chris Ryan's Strike Back *german subbed*
 1519725496 - Tue Feb 27 10:58:16 CET 2018 - /Stream/Winchester_Das_Haus_der_Verdammten.html - Winchester: Das Haus der Verdammten
+1519725507 - Tue Feb 27 10:58:27 CET 2018 - /Stream/Signos_Under_the_Sign_of_Vengeance.html,s7 - Signos: Under the Sign of Vengeance
