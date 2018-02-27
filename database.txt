@@ -7559,3 +7559,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519747219 - Tue Feb 27 17:00:19 CET 2018 - /Stream/Superior_Donuts.html,s2e13 - Superior Donuts
 1519747220 - Tue Feb 27 17:00:20 CET 2018 - /Stream/Kevin_Can_Wait.html,s2e17 - Kevin Can Wait
 1519747221 - Tue Feb 27 17:00:21 CET 2018 - /Stream/Legends_of_Tomorrow.html,s3e12 - Legends of Tomorrow
+1519747222 - Tue Feb 27 17:00:22 CET 2018 - /Stream/Chicago_Med.html,s3e10 - Chicago Med
