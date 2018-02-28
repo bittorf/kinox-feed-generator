@@ -7579,3 +7579,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519812182 - Wed Feb 28 11:03:02 CET 2018 - /Stream/Jane_the_Virgin-1.html,s3 - Jane the Virgin
 1519812190 - Wed Feb 28 11:03:10 CET 2018 - /Stream/Fairy_Tail_german_subbed.html,s2 - Fairy Tail *german subbed*
 1519812198 - Wed Feb 28 11:03:18 CET 2018 - /Stream/The_Next_Step.html,s2 - The Next Step
+1519812207 - Wed Feb 28 11:03:27 CET 2018 - /Stream/Blaze_und_die_Monster_Maschinen.html,s2 - Blaze und die Monster Maschinen
