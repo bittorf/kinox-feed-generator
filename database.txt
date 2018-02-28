@@ -7608,3 +7608,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519812411 - Wed Feb 28 11:06:51 CET 2018 - /Stream/American_Crime_Story.html,s2e5 - American Crime Story
 1519812419 - Wed Feb 28 11:06:59 CET 2018 - /Stream/SOKO_Stuttgart.html,s9e23 - SOKO Stuttgart
 1519812429 - Wed Feb 28 11:07:09 CET 2018 - /Stream/RIN-Daughters_of_Mnemosyne.html,s1 - RIN - Daughters of Mnemosyne
+1519812438 - Wed Feb 28 11:07:18 CET 2018 - /Stream/Hawaii_Five-0.html,s8e5 - Hawaii Five-0
