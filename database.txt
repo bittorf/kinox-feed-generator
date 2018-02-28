@@ -7587,3 +7587,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519812248 - Wed Feb 28 11:04:08 CET 2018 - /Stream/Voll_verrueckte_Viecher.html,s1 - Voll verrückte Viecher
 1519812255 - Wed Feb 28 11:04:15 CET 2018 - /Stream/Getting_On-1.html,s3 - Getting On
 1519812262 - Wed Feb 28 11:04:22 CET 2018 - /Stream/Die_Kirche_bleibt_im_Dorf-Die_Serie.html,s3 - Die Kirche bleibt im Dorf - Die Serie
+1519812270 - Wed Feb 28 11:04:30 CET 2018 - /Stream/Shimmer_and_Shine.html,s1 - Shimmer and Shine
