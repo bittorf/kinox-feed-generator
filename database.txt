@@ -7620,3 +7620,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519812506 - Wed Feb 28 11:08:26 CET 2018 - /Stream/Lethal_Weapon-1.html,s2e16 - Lethal Weapon
 1519812515 - Wed Feb 28 11:08:35 CET 2018 - /Stream/LA_to_Vegas.html,s1e6 - LA to Vegas
 1519812523 - Wed Feb 28 11:08:43 CET 2018 - /Stream/Kevin_Probably_Saves_the_World.html,s1e15 - Kevin (Probably) Saves the World
+1519812531 - Wed Feb 28 11:08:51 CET 2018 - /Stream/Bull.html,s2e15 - Bull
