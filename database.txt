@@ -7617,3 +7617,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519812482 - Wed Feb 28 11:08:02 CET 2018 - /Stream/Another_Period.html,s3e6 - Another Period
 1519812490 - Wed Feb 28 11:08:10 CET 2018 - /Stream/American_Dad-1.html,s15e3 - American Dad!
 1519812498 - Wed Feb 28 11:08:18 CET 2018 - /Stream/Black_Lightning-1.html,s1e6 - Black Lightning
+1519812506 - Wed Feb 28 11:08:26 CET 2018 - /Stream/Lethal_Weapon-1.html,s2e16 - Lethal Weapon
