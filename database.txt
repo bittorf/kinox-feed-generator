@@ -7622,3 +7622,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519812523 - Wed Feb 28 11:08:43 CET 2018 - /Stream/Kevin_Probably_Saves_the_World.html,s1e15 - Kevin (Probably) Saves the World
 1519812531 - Wed Feb 28 11:08:51 CET 2018 - /Stream/Bull.html,s2e15 - Bull
 1519812538 - Wed Feb 28 11:08:58 CET 2018 - /Stream/This_Is_Us.html,s2e16 - This Is Us
+1519812548 - Wed Feb 28 11:09:08 CET 2018 - /Stream/Better_Things-2.html,s1e2 - Better Things
