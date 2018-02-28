@@ -7610,3 +7610,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519812429 - Wed Feb 28 11:07:09 CET 2018 - /Stream/RIN-Daughters_of_Mnemosyne.html,s1 - RIN - Daughters of Mnemosyne
 1519812438 - Wed Feb 28 11:07:18 CET 2018 - /Stream/Hawaii_Five-0.html,s8e5 - Hawaii Five-0
 1519812446 - Wed Feb 28 11:07:26 CET 2018 - /Stream/Patchwork_Family.html,s1e17 - Patchwork Family
+1519812452 - Wed Feb 28 11:07:32 CET 2018 - /Stream/Navy_CIS_L-A.html,s9e3 - Navy CIS: L.A.
