@@ -7603,3 +7603,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519812372 - Wed Feb 28 11:06:12 CET 2018 - /Stream/Poldark-1.html,s3e2 - Poldark
 1519812379 - Wed Feb 28 11:06:19 CET 2018 - /Stream/Heartless-4.html,s1e3 - Heartless
 1519812387 - Wed Feb 28 11:06:27 CET 2018 - /Stream/UnREAL-1.html,s3e1 - UnREAL
+1519812395 - Wed Feb 28 11:06:35 CET 2018 - /Stream/Arrow_german_subbed.html,s6e13 - Arrow *german subbed*
