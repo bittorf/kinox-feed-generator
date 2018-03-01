@@ -7655,3 +7655,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519892064 - Thu Mar  1 09:14:24 CET 2018 - /Stream/Shetland.html,s4e3 - Shetland
 1519892072 - Thu Mar  1 09:14:32 CET 2018 - /Stream/Chicago_PD.html,s5e15 - Chicago PD
 1519892080 - Thu Mar  1 09:14:40 CET 2018 - /Stream/The_Blacklist.html,s5e14 - The Blacklist
+1519892089 - Thu Mar  1 09:14:49 CET 2018 - /Stream/The_Goldbergs.html,s5e14 - The Goldbergs
