@@ -7657,3 +7657,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519892080 - Thu Mar  1 09:14:40 CET 2018 - /Stream/The_Blacklist.html,s5e14 - The Blacklist
 1519892089 - Thu Mar  1 09:14:49 CET 2018 - /Stream/The_Goldbergs.html,s5e14 - The Goldbergs
 1519892097 - Thu Mar  1 09:14:57 CET 2018 - /Stream/Benidorm.html,s10e1 - Benidorm
+1519892107 - Thu Mar  1 09:15:07 CET 2018 - /Stream/Strike_Back.html,s6e10 - Strike Back
