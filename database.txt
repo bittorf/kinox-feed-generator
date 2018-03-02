@@ -7674,3 +7674,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519978713 - Fri Mar  2 09:18:33 CET 2018 - /Stream/How_to_Get_Away_with_Murder.html,s4e13 - How to Get Away with Murder
 1519978722 - Fri Mar  2 09:18:42 CET 2018 - /Stream/Gotham.html,s4e12 - Gotham
 1519978731 - Fri Mar  2 09:18:51 CET 2018 - /Stream/Chicago_Fire.html,s6e12 - Chicago Fire
+1519978739 - Fri Mar  2 09:18:59 CET 2018 - /Stream/Arrow.html,s6e14 - Arrow
