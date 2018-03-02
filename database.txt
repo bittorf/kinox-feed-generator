@@ -7668,3 +7668,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519978654 - Fri Mar  2 09:17:34 CET 2018 - /Stream/Chance-2.html,s2e1 - Chance
 1519978662 - Fri Mar  2 09:17:42 CET 2018 - /Stream/SOKO_5113.html,s43e23 - SOKO 5113
 1519978677 - Fri Mar  2 09:17:57 CET 2018 - /Stream/Der_Lehrer.html,s6e9 - Der Lehrer
+1519978687 - Fri Mar  2 09:18:07 CET 2018 - /Stream/Young_Sheldon.html,s1e14 - Young Sheldon
