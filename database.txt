@@ -7685,3 +7685,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520065288 - Sat Mar  3 09:21:28 CET 2018 - /Stream/Beste_Schwestern.html,s1e7 - Beste Schwestern
 1520065297 - Sat Mar  3 09:21:37 CET 2018 - /Stream/Lethal_Weapon-2.html,s2e7 - Lethal Weapon
 1520065307 - Sat Mar  3 09:21:47 CET 2018 - /Stream/Magda_macht_das_schon.html,s2e11 - Magda macht das schon!
+1520065314 - Sat Mar  3 09:21:54 CET 2018 - /Stream/Taken-5.html,s2e5 - Taken
