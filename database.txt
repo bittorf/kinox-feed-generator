@@ -7683,3 +7683,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1519978795 - Fri Mar  2 09:19:55 CET 2018 - /Stream/Greys_Anatomy.html,s14e13 - Grey's Anatomy
 1520065279 - Sat Mar  3 09:21:19 CET 2018 - /Stream/B_The_Beginning-1.html,s1 - B: The Beginning
 1520065288 - Sat Mar  3 09:21:28 CET 2018 - /Stream/Beste_Schwestern.html,s1e7 - Beste Schwestern
+1520065297 - Sat Mar  3 09:21:37 CET 2018 - /Stream/Lethal_Weapon-2.html,s2e7 - Lethal Weapon
