@@ -7699,3 +7699,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520101459 - Sat Mar  3 19:24:19 CET 2018 - /Stream/Blindspot.html,s3e13 - Blindspot
 1520101467 - Sat Mar  3 19:24:27 CET 2018 - /Stream/Hawaii_Five-0-1.html,s8e16 - Hawaii Five-0
 1520115893 - Sat Mar  3 23:24:53 CET 2018 - /Stream/Voltron_Legendaerer_Verteidiger.html,s5e2 - Voltron: Legendärer Verteidiger
+1520115902 - Sat Mar  3 23:25:02 CET 2018 - /Stream/Scorpion-1.html,s4e9 - Scorpion
