@@ -7689,3 +7689,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520065322 - Sat Mar  3 09:22:02 CET 2018 - /Stream/Agents_of_S-H-I-E-L-D.html,s5e11 - Agents of S.H.I.E.L.D.
 1520065331 - Sat Mar  3 09:22:11 CET 2018 - /Stream/Blue_Bloods.html,s8e15 - Blue Bloods
 1520101367 - Sat Mar  3 19:22:47 CET 2018 - /Stream/Game_Night.html - Game Night
+1520101382 - Sat Mar  3 19:23:02 CET 2018 - /Stream/The_Midnight_Man-1.html - The Midnight Man
