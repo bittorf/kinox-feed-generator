@@ -7718,3 +7718,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520202541 - Sun Mar  4 23:29:01 CET 2018 - /Stream/Um_Himmels_Willen.html,s17e7 - Um Himmels Willen
 1520202551 - Sun Mar  4 23:29:11 CET 2018 - /Stream/Die_Drachenreiter_von_Berk.html,s1 - Die Drachenreiter von Berk
 1520202562 - Sun Mar  4 23:29:22 CET 2018 - /Stream/Ghost_Wars-1.html,s1 - Ghost Wars
+1520202573 - Sun Mar  4 23:29:33 CET 2018 - /Stream/Die_Drachenreiter_von_Berk.html,s2 - Die Drachenreiter von Berk
