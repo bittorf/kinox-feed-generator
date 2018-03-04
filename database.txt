@@ -7707,3 +7707,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520166402 - Sun Mar  4 13:26:42 CET 2018 - /Stream/Scorpion-1.html,s4 - Scorpion
 1520166411 - Sun Mar  4 13:26:51 CET 2018 - /Stream/Der_Traumstein.html,s1 - Der Traumstein
 1520166421 - Sun Mar  4 13:27:01 CET 2018 - /Stream/21_Thunder.html,s1 - 21 Thunder
+1520166429 - Sun Mar  4 13:27:09 CET 2018 - /Stream/Germanys_Next_Topmodel.html,s13e4 - Germany's Next Topmodel
