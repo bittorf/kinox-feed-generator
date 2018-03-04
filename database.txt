@@ -7711,3 +7711,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520166439 - Sun Mar  4 13:27:19 CET 2018 - /Stream/Ghost_Wars-1.html,s1e1 - Ghost Wars
 1520166448 - Sun Mar  4 13:27:28 CET 2018 - /Stream/Famous_in_Love-1.html,s1e4 - Famous in Love
 1520166459 - Sun Mar  4 13:27:39 CET 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e2 - Ash vs Evil Dead
+1520166470 - Sun Mar  4 13:27:50 CET 2018 - /Stream/The_Good_Fight-1.html,s2e1 - The Good Fight
