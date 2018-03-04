@@ -7724,3 +7724,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520202613 - Sun Mar  4 23:30:13 CET 2018 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5e19 - Teenage Mutant Ninja Turtles
 1520202629 - Sun Mar  4 23:30:29 CET 2018 - /Stream/21_Thunder.html,s1e3 - 21 Thunder
 1520202638 - Sun Mar  4 23:30:38 CET 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e10 - DsdS - Deutschland sucht den Superstar
+1520202649 - Sun Mar  4 23:30:49 CET 2018 - /Stream/Super_4.html,s2e11 - Super 4
