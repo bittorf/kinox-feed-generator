@@ -7727,3 +7727,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520202649 - Sun Mar  4 23:30:49 CET 2018 - /Stream/Super_4.html,s2e11 - Super 4
 1520238689 - Mon Mar  5 09:31:29 CET 2018 - /Stream/The_Quest-Die_Serie-1.html,s4e8 - The Quest - Die Serie
 1520238697 - Mon Mar  5 09:31:37 CET 2018 - /Stream/Scorpion-1.html,s4e7 - Scorpion
+1520238705 - Mon Mar  5 09:31:45 CET 2018 - /Stream/Lucifer_german_subbed.html,s3e15 - Lucifer *german subbed*
