@@ -7739,3 +7739,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520289219 - Mon Mar  5 23:33:39 CET 2018 - /Stream/Channel_Zero_german_subbed.html,s3e4 - Channel Zero *german subbed*
 1520289227 - Mon Mar  5 23:33:47 CET 2018 - /Stream/Supernatural_german_subbed.html,s13e14 - Supernatural *german subbed*
 1520325262 - Tue Mar  6 09:34:22 CET 2018 - /Stream/Young_Sheldon-1.html,s1e9 - Young Sheldon
+1520325271 - Tue Mar  6 09:34:31 CET 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e2 - Shameless - Nicht ganz nüchtern
