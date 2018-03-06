@@ -7769,3 +7769,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520375948 - Tue Mar  6 23:39:08 CET 2018 - /Stream/Gomorrha-Die_Serie.html,s3e1 - Gomorrha - Die Serie
 1520375955 - Tue Mar  6 23:39:15 CET 2018 - /Stream/Another_Period.html,s3e7 - Another Period
 1520375963 - Tue Mar  6 23:39:23 CET 2018 - /Stream/UnReal.html,s3e2 - UnReal
+1520375970 - Tue Mar  6 23:39:30 CET 2018 - /Stream/American_Dad-1.html,s15e4 - American Dad!
