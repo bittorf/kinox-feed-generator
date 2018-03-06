@@ -7751,3 +7751,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520339765 - Tue Mar  6 13:36:05 CET 2018 - /Stream/Parks-Recreation-Das_Gruenflaechenamt-1.html,s6 - Parks & Recreation - Das Grünflächenamt
 1520339774 - Tue Mar  6 13:36:14 CET 2018 - /Stream/Animal_Kingdom-2.html,s2e8 - Animal Kingdom
 1520339782 - Tue Mar  6 13:36:22 CET 2018 - /Stream/Criminal_Minds-1.html,s13e8 - Criminal Minds
+1520339793 - Tue Mar  6 13:36:33 CET 2018 - /Stream/Superior_Donuts.html,s2e14 - Superior Donuts
