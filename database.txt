@@ -7754,3 +7754,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520339793 - Tue Mar  6 13:36:33 CET 2018 - /Stream/Superior_Donuts.html,s2e14 - Superior Donuts
 1520339800 - Tue Mar  6 13:36:40 CET 2018 - /Stream/Kevin_Can_Wait.html,s2e18 - Kevin Can Wait
 1520339808 - Tue Mar  6 13:36:48 CET 2018 - /Stream/Marcella.html,s2e3 - Marcella
+1520339815 - Tue Mar  6 13:36:55 CET 2018 - /Stream/Lucifer-1.html,s3e16 - Lucifer
