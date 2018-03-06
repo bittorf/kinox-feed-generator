@@ -7760,3 +7760,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520339839 - Tue Mar  6 13:37:19 CET 2018 - /Stream/iZombie.html,s4e2 - iZombie
 1520339846 - Tue Mar  6 13:37:26 CET 2018 - /Stream/Scorpion.html,s4e18 - Scorpion
 1520375882 - Tue Mar  6 23:38:02 CET 2018 - /Stream/Hawaii_Five-0.html,s8e6 - Hawaii Five-0
+1520375898 - Tue Mar  6 23:38:18 CET 2018 - /Stream/Black_Lightning-2.html,s1e6 - Black Lightning
