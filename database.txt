@@ -7783,3 +7783,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520440911 - Wed Mar  7 17:41:51 CET 2018 - /Stream/The_Detour.html,s3e7 - The Detour
 1520440918 - Wed Mar  7 17:41:58 CET 2018 - /Stream/The_Fosters.html,s5e17 - The Fosters
 1520440927 - Wed Mar  7 17:42:07 CET 2018 - /Stream/Black_Lightning-1.html,s1e7 - Black Lightning
+1520440934 - Wed Mar  7 17:42:14 CET 2018 - /Stream/Bull.html,s2e16 - Bull
