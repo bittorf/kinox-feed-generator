@@ -7772,3 +7772,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520375970 - Tue Mar  6 23:39:30 CET 2018 - /Stream/American_Dad-1.html,s15e4 - American Dad!
 1520412003 - Wed Mar  7 09:40:03 CET 2018 - /Stream/Lethal_Weapon-1.html,s2e17 - Lethal Weapon
 1520412012 - Wed Mar  7 09:40:12 CET 2018 - /Stream/The_Quest-Die_Serie-1.html,s4e10 - The Quest - Die Serie
+1520412020 - Wed Mar  7 09:40:20 CET 2018 - /Stream/Lethal_Weapon_german_subbed.html,s2e16 - Lethal Weapon *german subbed*
