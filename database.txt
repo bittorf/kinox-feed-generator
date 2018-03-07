@@ -7781,3 +7781,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520440894 - Wed Mar  7 17:41:34 CET 2018 - /Stream/The_Mick-1.html,s2e16 - The Mick
 1520440902 - Wed Mar  7 17:41:42 CET 2018 - /Stream/This_Is_Us.html,s2e17 - This Is Us
 1520440911 - Wed Mar  7 17:41:51 CET 2018 - /Stream/The_Detour.html,s3e7 - The Detour
+1520440918 - Wed Mar  7 17:41:58 CET 2018 - /Stream/The_Fosters.html,s5e17 - The Fosters
