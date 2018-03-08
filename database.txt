@@ -7840,3 +7840,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520513468 - Thu Mar  8 13:51:08 CET 2018 - /Stream/Channel_Zero.html,s3e5 - Channel Zero
 1520513476 - Thu Mar  8 13:51:16 CET 2018 - /Stream/Law-Order_Special_Victims_Unit.html,s19e15 - Law & Order: Special Victims Unit
 1520527900 - Thu Mar  8 17:51:40 CET 2018 - /Stream/Marvels_Jessica_Jones.html,s2e1 - Marvel's Jessica Jones
+1520549524 - Thu Mar  8 23:52:04 CET 2018 - /Stream/Ash_vs_Evil_Dead-1.html,s3e2 - Ash vs Evil Dead
