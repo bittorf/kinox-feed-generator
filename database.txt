@@ -7815,3 +7815,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520477223 - Thu Mar  8 03:47:03 CET 2018 - /Stream/Die_Simpsons.html,s28e21 - Die Simpsons
 1520484440 - Thu Mar  8 05:47:20 CET 2018 - /Stream/American_Housewife.html,s2e17 - American Housewife
 1520484449 - Thu Mar  8 05:47:29 CET 2018 - /Stream/Designated_Survivor.html,s2e12 - Designated Survivor
+1520484457 - Thu Mar  8 05:47:37 CET 2018 - /Stream/The_Quad.html,s2e6 - The Quad
