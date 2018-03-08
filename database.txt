@@ -7808,3 +7808,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520477159 - Thu Mar  8 03:45:59 CET 2018 - /Stream/Tesis-Faszination_des_Grauens.html - Tesis - Faszination des Grauens
 1520477168 - Thu Mar  8 03:46:08 CET 2018 - /Stream/The_Heart_Guy.html,s2e10 - The Heart Guy
 1520477176 - Thu Mar  8 03:46:16 CET 2018 - /Stream/Gomorrha-Die_Serie.html,s3 - Gomorrha - Die Serie
+1520477184 - Thu Mar  8 03:46:24 CET 2018 - /Stream/The_Good_Doctor-2.html,s1e10 - The Good Doctor
