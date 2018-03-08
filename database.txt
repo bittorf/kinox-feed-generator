@@ -7795,3 +7795,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520469826 - Thu Mar  8 01:43:46 CET 2018 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s8e15 - Die Schatzsucher - Goldrausch in Alaska
 1520469834 - Thu Mar  8 01:43:54 CET 2018 - /Stream/Blood_Drive-1.html,s1e5 - Blood Drive
 1520469842 - Thu Mar  8 01:44:02 CET 2018 - /Stream/Z_Nation-1.html,s4e1 - Z Nation
+1520469850 - Thu Mar  8 01:44:10 CET 2018 - /Stream/The_Gifted-1.html,s1e8 - The Gifted
