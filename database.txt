@@ -7843,3 +7843,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520549524 - Thu Mar  8 23:52:04 CET 2018 - /Stream/Ash_vs_Evil_Dead-1.html,s3e2 - Ash vs Evil Dead
 1520549534 - Thu Mar  8 23:52:14 CET 2018 - /Stream/The_Magicians-1.html,s2e3 - The Magicians
 1520549543 - Thu Mar  8 23:52:23 CET 2018 - /Stream/UnREAL-1.html,s3e2 - UnREAL
+1520549550 - Thu Mar  8 23:52:30 CET 2018 - /Stream/Die_Goldbergs.html,s4e1 - Die Goldbergs
