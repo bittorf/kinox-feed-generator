@@ -7837,3 +7837,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520499031 - Thu Mar  8 09:50:31 CET 2018 - /Stream/The_X_Files.html,s11e8 - The X Files
 1520499041 - Thu Mar  8 09:50:41 CET 2018 - /Stream/Criminal_Minds.html,s13e15 - Criminal Minds
 1520513461 - Thu Mar  8 13:51:01 CET 2018 - /Stream/Riverdale.html,s2e14 - Riverdale
+1520513468 - Thu Mar  8 13:51:08 CET 2018 - /Stream/Channel_Zero.html,s3e5 - Channel Zero
