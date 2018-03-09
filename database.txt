@@ -7888,3 +7888,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520636371 - Fri Mar  9 23:59:31 CET 2018 - /Stream/Aquarius-1.html,s2e9 - Aquarius
 1520636379 - Fri Mar  9 23:59:39 CET 2018 - /Stream/Brotherhood-5.html,s2e3 - Brotherhood
 1520636387 - Fri Mar  9 23:59:47 CET 2018 - /Stream/The_Tick-1.html,s1 - The Tick
+1520636395 - Fri Mar  9 23:59:55 CET 2018 - /Stream/Neo_Magazin-1.html,s6e20 - Neo Magazin
