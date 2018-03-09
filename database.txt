@@ -7882,3 +7882,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520614709 - Fri Mar  9 17:58:29 CET 2018 - /Stream/Transformers_5_The_Last_Knight.html - Transformers 5: The Last Knight
 1520614716 - Fri Mar  9 17:58:36 CET 2018 - /Stream/Couscous_mit_Fisch.html - Couscous mit Fisch
 1520614724 - Fri Mar  9 17:58:44 CET 2018 - /Stream/S-W-A-T-2.html,s1e14 - S.W.A.T.
+1520614731 - Fri Mar  9 17:58:51 CET 2018 - /Stream/Brotherhood-5.html,s2 - Brotherhood
