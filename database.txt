@@ -7881,3 +7881,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520614699 - Fri Mar  9 17:58:19 CET 2018 - /Stream/Bloodright_in_Texas-The_Texas_Chain_Saw_Massacre.html - Bloodright in Texas - The Texas Chain Saw Massacre
 1520614709 - Fri Mar  9 17:58:29 CET 2018 - /Stream/Transformers_5_The_Last_Knight.html - Transformers 5: The Last Knight
 1520614716 - Fri Mar  9 17:58:36 CET 2018 - /Stream/Couscous_mit_Fisch.html - Couscous mit Fisch
+1520614724 - Fri Mar  9 17:58:44 CET 2018 - /Stream/S-W-A-T-2.html,s1e14 - S.W.A.T.
