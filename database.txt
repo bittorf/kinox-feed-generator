@@ -7884,3 +7884,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520614724 - Fri Mar  9 17:58:44 CET 2018 - /Stream/S-W-A-T-2.html,s1e14 - S.W.A.T.
 1520614731 - Fri Mar  9 17:58:51 CET 2018 - /Stream/Brotherhood-5.html,s2 - Brotherhood
 1520614740 - Fri Mar  9 17:59:00 CET 2018 - /Stream/Sneaky_Pete-1.html,s2e1 - Sneaky Pete
+1520636362 - Fri Mar  9 23:59:22 CET 2018 - /Stream/Magda_macht_das_schon.html,s2e12 - Magda macht das schon!
