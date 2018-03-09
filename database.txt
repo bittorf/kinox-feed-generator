@@ -7878,3 +7878,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520614671 - Fri Mar  9 17:57:51 CET 2018 - /Stream/High_Society-1.html - High Society
 1520614678 - Fri Mar  9 17:57:58 CET 2018 - /Stream/Der_Mann_vom_Alamo.html - Der Mann vom Alamo
 1520614689 - Fri Mar  9 17:58:09 CET 2018 - /Stream/Brigsby_Bear.html - Brigsby Bear
+1520614699 - Fri Mar  9 17:58:19 CET 2018 - /Stream/Bloodright_in_Texas-The_Texas_Chain_Saw_Massacre.html - Bloodright in Texas - The Texas Chain Saw Massacre
