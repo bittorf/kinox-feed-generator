@@ -7858,3 +7858,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520592881 - Fri Mar  9 11:54:41 CET 2018 - /Stream/Atlanta.html,s2e2 - Atlanta
 1520592889 - Fri Mar  9 11:54:49 CET 2018 - /Stream/Superstore.html,s3e14 - Superstore
 1520592896 - Fri Mar  9 11:54:56 CET 2018 - /Stream/How_to_Get_Away_with_Murder.html,s4e14 - How to Get Away with Murder
+1520592905 - Fri Mar  9 11:55:05 CET 2018 - /Stream/Gotham.html,s4e13 - Gotham
