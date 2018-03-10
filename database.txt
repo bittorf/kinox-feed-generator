@@ -7908,3 +7908,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520679783 - Sat Mar 10 12:03:03 CET 2018 - /Stream/Once_Upon_a_Time.html,s7e12 - Once Upon a Time
 1520708612 - Sat Mar 10 20:03:32 CET 2018 - /Stream/Suburbicon.html - Suburbicon
 1520708625 - Sat Mar 10 20:03:45 CET 2018 - /Stream/Traum_meines_Lebens.html - Traum meines Lebens
+1520708633 - Sat Mar 10 20:03:53 CET 2018 - /Stream/Bull-1.html,s2e5 - Bull
