@@ -7910,3 +7910,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520708625 - Sat Mar 10 20:03:45 CET 2018 - /Stream/Traum_meines_Lebens.html - Traum meines Lebens
 1520708633 - Sat Mar 10 20:03:53 CET 2018 - /Stream/Bull-1.html,s2e5 - Bull
 1520708642 - Sat Mar 10 20:04:02 CET 2018 - /Stream/Lethal_Weapon-2.html,s2e8 - Lethal Weapon
+1520708650 - Sat Mar 10 20:04:10 CET 2018 - /Stream/Chance-2.html,s2 - Chance
