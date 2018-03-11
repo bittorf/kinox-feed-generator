@@ -7919,3 +7919,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520759153 - Sun Mar 11 10:05:53 CET 2018 - /Stream/Falling_Water.html,s2e10 - Falling Water
 1520759166 - Sun Mar 11 10:06:06 CET 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e3 - Ash vs Evil Dead
 1520780790 - Sun Mar 11 16:06:30 CET 2018 - /Stream/Rosewood-1.html,s2e15 - Rosewood
+1520795214 - Sun Mar 11 20:06:54 CET 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e11 - DsdS - Deutschland sucht den Superstar
