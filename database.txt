@@ -7928,3 +7928,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520795293 - Sun Mar 11 20:08:13 CET 2018 - /Stream/Caught-2.html,s1e1 - Caught
 1520809722 - Mon Mar 12 00:08:42 CET 2018 - /Stream/Parks-Recreation-Das_Gruenflaechenamt-1.html,s6e16 - Parks & Recreation - Das Grünflächenamt
 1520809736 - Mon Mar 12 00:08:56 CET 2018 - /Stream/The_Good_Fight-1.html,s2e2 - The Good Fight
+1520809744 - Mon Mar 12 00:09:04 CET 2018 - /Stream/The_Oath-1.html,s1e1 - The Oath
