@@ -7945,3 +7945,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520845905 - Mon Mar 12 10:11:45 CET 2018 - /Stream/Homeland.html,s7e5 - Homeland
 1520845913 - Mon Mar 12 10:11:53 CET 2018 - /Stream/Madam_Secretary.html,s4e13 - Madam Secretary
 1520845922 - Mon Mar 12 10:12:02 CET 2018 - /Stream/Timeless-1.html,s2e1 - Timeless
+1520845930 - Mon Mar 12 10:12:10 CET 2018 - /Stream/Counterpart_german_subbed.html,s1 - Counterpart *german subbed*
