@@ -7932,3 +7932,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520809754 - Mon Mar 12 00:09:14 CET 2018 - /Stream/Counterpart.html,s1e8 - Counterpart
 1520809764 - Mon Mar 12 00:09:24 CET 2018 - /Stream/Stargate_Origins.html,s1 - Stargate Origins
 1520809772 - Mon Mar 12 00:09:32 CET 2018 - /Stream/American_Dad-1.html,s14e5 - American Dad!
+1520845820 - Mon Mar 12 10:10:20 CET 2018 - /Stream/MacGyver-3.html,s1e16 - MacGyver
