@@ -7947,3 +7947,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520845922 - Mon Mar 12 10:12:02 CET 2018 - /Stream/Timeless-1.html,s2e1 - Timeless
 1520845930 - Mon Mar 12 10:12:10 CET 2018 - /Stream/Counterpart_german_subbed.html,s1 - Counterpart *german subbed*
 1520896371 - Tue Mar 13 00:12:51 CET 2018 - /Stream/Knallerfrauen.html,s3 - Knallerfrauen
+1520896382 - Tue Mar 13 00:13:02 CET 2018 - /Stream/The_Walking_Dead-1.html,s8e11 - The Walking Dead
