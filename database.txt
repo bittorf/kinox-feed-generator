@@ -7938,3 +7938,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520845848 - Mon Mar 12 10:10:48 CET 2018 - /Stream/Deception-4.html,s1e1 - Deception
 1520845855 - Mon Mar 12 10:10:55 CET 2018 - /Stream/The_Royals-1.html,s4e1 - The Royals
 1520845863 - Mon Mar 12 10:11:03 CET 2018 - /Stream/Here_and_Now.html,s1e5 - Here and Now
+1520845872 - Mon Mar 12 10:11:12 CET 2018 - /Stream/The_Chi.html,s1e9 - The Chi
