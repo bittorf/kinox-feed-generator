@@ -7959,3 +7959,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520932490 - Tue Mar 13 10:14:50 CET 2018 - /Stream/The_Resident-3.html,s1e7 - The Resident
 1520932498 - Tue Mar 13 10:14:58 CET 2018 - /Stream/Good_Girls.html,s1e3 - Good Girls
 1520932507 - Tue Mar 13 10:15:07 CET 2018 - /Stream/The_Good_Doctor-1.html,s1e16 - The Good Doctor
+1520932516 - Tue Mar 13 10:15:16 CET 2018 - /Stream/Lucifer-1.html,s3e17 - Lucifer
