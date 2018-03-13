@@ -7954,3 +7954,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520896417 - Tue Mar 13 00:13:37 CET 2018 - /Stream/Dynasty-2.html,s1e14 - Dynasty
 1520896424 - Tue Mar 13 00:13:44 CET 2018 - /Stream/Channel_Zero_german_subbed.html,s3e5 - Channel Zero *german subbed*
 1520932459 - Tue Mar 13 10:14:19 CET 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s5e3 - Shameless - Nicht ganz nüchtern
+1520932469 - Tue Mar 13 10:14:29 CET 2018 - /Stream/The_Big_Bang_Theory.html,s11e10 - The Big Bang Theory
