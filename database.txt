@@ -7978,3 +7978,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521019129 - Wed Mar 14 10:18:49 CET 2018 - /Stream/Jab_Harry_Met_Sejal.html - Jab Harry Met Sejal
 1521019138 - Wed Mar 14 10:18:58 CET 2018 - /Stream/Bad_Banks.html,s1 - Bad Banks
 1521019147 - Wed Mar 14 10:19:07 CET 2018 - /Stream/The_Orville-1.html,s1e4 - The Orville
+1521019154 - Wed Mar 14 10:19:14 CET 2018 - /Stream/Black_Lightning-1.html,s1e8 - Black Lightning
