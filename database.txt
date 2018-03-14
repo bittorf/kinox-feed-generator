@@ -7976,3 +7976,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521019111 - Wed Mar 14 10:18:31 CET 2018 - /Stream/Book_of_Fire.html - Book of Fire
 1521019120 - Wed Mar 14 10:18:40 CET 2018 - /Stream/Barfuss_in_Paris.html - Barfuss in Paris
 1521019129 - Wed Mar 14 10:18:49 CET 2018 - /Stream/Jab_Harry_Met_Sejal.html - Jab Harry Met Sejal
+1521019138 - Wed Mar 14 10:18:58 CET 2018 - /Stream/Bad_Banks.html,s1 - Bad Banks
