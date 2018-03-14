@@ -7972,3 +7972,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1520983052 - Wed Mar 14 00:17:32 CET 2018 - /Stream/American_Crime_Story.html,s2 - American Crime Story
 1520983060 - Wed Mar 14 00:17:40 CET 2018 - /Stream/The_Quest-Die_Serie-1.html,s4e12 - The Quest - Die Serie
 1521019092 - Wed Mar 14 10:18:12 CET 2018 - /Stream/Hiroshima_mon_amour-1.html - Hiroshima, mon amour
+1521019103 - Wed Mar 14 10:18:23 CET 2018 - /Stream/Auf_der_Suche_nach_Mr-Right.html - Auf der Suche nach Mr. Right
