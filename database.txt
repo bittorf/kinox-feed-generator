@@ -8019,3 +8019,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521098745 - Thu Mar 15 08:25:45 CET 2018 - /Stream/Channel_Zero.html,s3e6 - Channel Zero
 1521098752 - Thu Mar 15 08:25:52 CET 2018 - /Stream/Speechless-1.html,s2 - Speechless
 1521098760 - Thu Mar 15 08:26:00 CET 2018 - /Stream/The_People_v-O-J-Simpson_American_Crime_Story.html,s2e8 - The People v. O.J. Simpson: American Crime Story
+1521098768 - Thu Mar 15 08:26:08 CET 2018 - /Stream/The_Magicians.html,s3e10 - The Magicians
