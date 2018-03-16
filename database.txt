@@ -8047,3 +8047,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521192663 - Fri Mar 16 10:31:03 CET 2018 - /Stream/Divorce.html,s2e7 - Divorce
 1521192670 - Fri Mar 16 10:31:10 CET 2018 - /Stream/UnREAL-1.html,s3e3 - UnREAL
 1521192678 - Fri Mar 16 10:31:18 CET 2018 - /Stream/Designated_Survivor-1.html,s2e12 - Designated Survivor
+1521192685 - Fri Mar 16 10:31:25 CET 2018 - /Stream/Arrow_german_subbed.html,s6e14 - Arrow *german subbed*
