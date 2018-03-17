@@ -8068,3 +8068,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521243310 - Sat Mar 17 00:35:10 CET 2018 - /Stream/Liar.html,s1e2 - Liar
 1521243319 - Sat Mar 17 00:35:19 CET 2018 - /Stream/New_Girl-1.html,s6e13 - New Girl
 1521243328 - Sat Mar 17 00:35:28 CET 2018 - /Stream/Supernatural_german_subbed.html,s13e15 - Supernatural *german subbed*
+1521293770 - Sat Mar 17 14:36:10 CET 2018 - /Stream/Atlanta-1.html,s2e2 - Atlanta
