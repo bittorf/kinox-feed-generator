@@ -8072,3 +8072,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521293780 - Sat Mar 17 14:36:20 CET 2018 - /Stream/Neo_Magazin-1.html,s6e21 - Neo Magazin
 1521293792 - Sat Mar 17 14:36:32 CET 2018 - /Stream/Young_Sheldon_german_subbed.html,s1 - Young Sheldon *german subbed*
 1521293800 - Sat Mar 17 14:36:40 CET 2018 - /Stream/Jane_the_Virgin.html,s4e13 - Jane the Virgin
+1521293809 - Sat Mar 17 14:36:49 CET 2018 - /Stream/The_Flash_german_subbed.html,s4e5 - The Flash *german subbed*
