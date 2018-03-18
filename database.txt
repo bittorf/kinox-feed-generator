@@ -8090,3 +8090,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521329980 - Sun Mar 18 00:39:40 CET 2018 - /Stream/Second_Chance-2.html,s1e9 - Second Chance
 1521329989 - Sun Mar 18 00:39:49 CET 2018 - /Stream/Britannia-1.html,s1e6 - Britannia
 1521329998 - Sun Mar 18 00:39:58 CET 2018 - /Stream/A-P-Bio.html,s1e6 - A.P. Bio
+1521358831 - Sun Mar 18 08:40:31 CET 2018 - /Stream/Criminal_Minds-1.html,s13e10 - Criminal Minds
