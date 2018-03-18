@@ -8096,3 +8096,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521358861 - Sun Mar 18 08:41:01 CET 2018 - /Stream/Happy_german_subbed.html,s1 - Happy! *german subbed*
 1521358869 - Sun Mar 18 08:41:09 CET 2018 - /Stream/iZombie_german_subbed.html,s4e3 - iZombie *german subbed*
 1521358877 - Sun Mar 18 08:41:17 CET 2018 - /Stream/The_Walking_Dead_german_subbed.html,s8 - The Walking Dead *german subbed*
+1521358889 - Sun Mar 18 08:41:29 CET 2018 - /Stream/Casualty.html,s32e28 - Casualty
