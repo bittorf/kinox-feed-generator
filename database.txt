@@ -8108,3 +8108,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521416618 - Mon Mar 19 00:43:38 CET 2018 - /Stream/Neben_der_Spur-Adrenalin.html,s1e5 - Neben der Spur - Adrenalin
 1521416627 - Mon Mar 19 00:43:47 CET 2018 - /Stream/Rosewood-1.html,s2e16 - Rosewood
 1521416637 - Mon Mar 19 00:43:57 CET 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e12 - DsdS - Deutschland sucht den Superstar
+1521416649 - Mon Mar 19 00:44:09 CET 2018 - /Stream/Lucifer_german_subbed.html,s3 - Lucifer *german subbed*
