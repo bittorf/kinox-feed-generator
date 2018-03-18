@@ -8092,3 +8092,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521329998 - Sun Mar 18 00:39:58 CET 2018 - /Stream/A-P-Bio.html,s1e6 - A.P. Bio
 1521358831 - Sun Mar 18 08:40:31 CET 2018 - /Stream/Criminal_Minds-1.html,s13e10 - Criminal Minds
 1521358843 - Sun Mar 18 08:40:43 CET 2018 - /Stream/Counterpart.html,s1e9 - Counterpart
+1521358852 - Sun Mar 18 08:40:52 CET 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e4 - Ash vs Evil Dead
