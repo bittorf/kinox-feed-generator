@@ -8103,3 +8103,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521416568 - Mon Mar 19 00:42:48 CET 2018 - /Stream/Teenage_Mutant_Ninja_Turtles-5.html,s5e11 - Teenage Mutant Ninja Turtles
 1521416580 - Mon Mar 19 00:43:00 CET 2018 - /Stream/On_My_Block.html,s1 - On My Block
 1521416588 - Mon Mar 19 00:43:08 CET 2018 - /Stream/Die_Goldbergs.html,s4e3 - Die Goldbergs
+1521416597 - Mon Mar 19 00:43:17 CET 2018 - /Stream/Germanys_Next_Topmodel.html,s13e5 - Germany's Next Topmodel
