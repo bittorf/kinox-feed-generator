@@ -8118,3 +8118,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521445538 - Mon Mar 19 08:45:38 CET 2018 - /Stream/The_Arrangement-1.html,s2e2 - The Arrangement
 1521445547 - Mon Mar 19 08:45:47 CET 2018 - /Stream/Deception-4.html,s1e2 - Deception
 1521445558 - Mon Mar 19 08:45:58 CET 2018 - /Stream/The_Chi.html,s1e10 - The Chi
+1521445567 - Mon Mar 19 08:46:07 CET 2018 - /Stream/The_Royals-1.html,s4e2 - The Royals
