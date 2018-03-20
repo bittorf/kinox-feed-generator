@@ -8142,3 +8142,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521510624 - Tue Mar 20 02:50:24 CET 2018 - /Stream/Chicago_Fire-1.html,s6e1 - Chicago Fire
 1521510634 - Tue Mar 20 02:50:34 CET 2018 - /Stream/The_Walking_Dead-1.html,s8e12 - The Walking Dead
 1521510646 - Tue Mar 20 02:50:46 CET 2018 - /Stream/Young_Sheldon-1.html,s1e11 - Young Sheldon
+1521510656 - Tue Mar 20 02:50:56 CET 2018 - /Stream/Kevin_Can_Wait.html,s2e19 - Kevin Can Wait
