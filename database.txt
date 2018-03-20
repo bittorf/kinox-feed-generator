@@ -8144,3 +8144,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521510646 - Tue Mar 20 02:50:46 CET 2018 - /Stream/Young_Sheldon-1.html,s1e11 - Young Sheldon
 1521510656 - Tue Mar 20 02:50:56 CET 2018 - /Stream/Kevin_Can_Wait.html,s2e19 - Kevin Can Wait
 1521546793 - Tue Mar 20 12:53:13 CET 2018 - /Stream/The_Big_Bang_Theory.html,s11e11 - The Big Bang Theory
+1521546804 - Tue Mar 20 12:53:24 CET 2018 - /Stream/S-W-A-T-1.html,s1e10 - S.W.A.T.
