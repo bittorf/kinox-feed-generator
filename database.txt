@@ -8147,3 +8147,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521546804 - Tue Mar 20 12:53:24 CET 2018 - /Stream/S-W-A-T-1.html,s1e10 - S.W.A.T.
 1521546813 - Tue Mar 20 12:53:33 CET 2018 - /Stream/Black_Lightning-2.html,s1e8 - Black Lightning
 1521546822 - Tue Mar 20 12:53:42 CET 2018 - /Stream/The_Resident-3.html,s1e8 - The Resident
+1521546831 - Tue Mar 20 12:53:51 CET 2018 - /Stream/Good_Girls.html,s1e4 - Good Girls
