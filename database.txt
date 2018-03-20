@@ -8140,3 +8140,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521510602 - Tue Mar 20 02:50:02 CET 2018 - /Stream/14_Blades.html - 14 Blades
 1521510612 - Tue Mar 20 02:50:12 CET 2018 - /Stream/2010-Das_Jahr_in_dem_wir_Kontakt_aufnehmen.html - 2010 - Das Jahr, in dem wir Kontakt aufnehmen
 1521510624 - Tue Mar 20 02:50:24 CET 2018 - /Stream/Chicago_Fire-1.html,s6e1 - Chicago Fire
+1521510634 - Tue Mar 20 02:50:34 CET 2018 - /Stream/The_Walking_Dead-1.html,s8e12 - The Walking Dead
