@@ -8151,3 +8151,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521546840 - Tue Mar 20 12:54:00 CET 2018 - /Stream/Superior_Donuts.html,s2e15 - Superior Donuts
 1521546859 - Tue Mar 20 12:54:19 CET 2018 - /Stream/Legends_of_Tomorrow.html,s3e15 - Legends of Tomorrow
 1521546868 - Tue Mar 20 12:54:28 CET 2018 - /Stream/Scorpion.html,s4e19 - Scorpion
+1521546878 - Tue Mar 20 12:54:38 CET 2018 - /Stream/American_Dad-1.html,s14e7 - American Dad!
