@@ -8183,3 +8183,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521619202 - Wed Mar 21 09:00:02 CET 2018 - /Stream/The_Detour.html,s3e9 - The Detour
 1521619205 - Wed Mar 21 09:00:05 CET 2018 - /Stream/Baskets.html,s3e9 - Baskets
 1521619214 - Wed Mar 21 09:00:14 CET 2018 - /Stream/Shadowhunters.html,s3e1 - Shadowhunters
+1521619224 - Wed Mar 21 09:00:24 CET 2018 - /Stream/Chicago_Med.html,s3e12 - Chicago Med
