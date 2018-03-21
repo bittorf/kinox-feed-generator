@@ -8182,3 +8182,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521619191 - Wed Mar 21 08:59:51 CET 2018 - /Stream/Ink_Master.html,s10e11 - Ink Master
 1521619202 - Wed Mar 21 09:00:02 CET 2018 - /Stream/The_Detour.html,s3e9 - The Detour
 1521619205 - Wed Mar 21 09:00:05 CET 2018 - /Stream/Baskets.html,s3e9 - Baskets
+1521619214 - Wed Mar 21 09:00:14 CET 2018 - /Stream/Shadowhunters.html,s3e1 - Shadowhunters
