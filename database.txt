@@ -8175,3 +8175,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521619115 - Wed Mar 21 08:58:35 CET 2018 - /Stream/Counterpart_german_subbed.html,s1e5 - Counterpart *german subbed*
 1521619124 - Wed Mar 21 08:58:44 CET 2018 - /Stream/For_the_People.html,s1e2 - For the People
 1521619136 - Wed Mar 21 08:58:56 CET 2018 - /Stream/Rise-1.html,s1e2 - Rise
+1521619146 - Wed Mar 21 08:59:06 CET 2018 - /Stream/Black_Lightning-1.html,s1e9 - Black Lightning
