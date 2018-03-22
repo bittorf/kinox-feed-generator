@@ -8202,3 +8202,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521713076 - Thu Mar 22 11:04:36 CET 2018 - /Stream/The_Gifted-1.html,s1e11 - The Gifted
 1521713086 - Thu Mar 22 11:04:46 CET 2018 - /Stream/Akte_X-Die_unheimlichen_Faelle_des_FBI.html,s11e5 - Akte X - Die unheimlichen Fälle des FBI
 1521713098 - Thu Mar 22 11:04:58 CET 2018 - /Stream/Blood_Drive-1.html,s1e7 - Blood Drive
+1521713107 - Thu Mar 22 11:05:07 CET 2018 - /Stream/Krypton.html,s1e1 - Krypton
