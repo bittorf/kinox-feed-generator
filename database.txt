@@ -8196,3 +8196,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521698605 - Thu Mar 22 07:03:25 CET 2018 - /Stream/Die_Dschungelhelden-Das_grosse_Kinoabenteuer.html - Die Dschungelhelden - Das grosse Kinoabenteuer
 1521698614 - Thu Mar 22 07:03:34 CET 2018 - /Stream/The_Good_Doctor-2.html,s1e12 - The Good Doctor
 1521698628 - Thu Mar 22 07:03:48 CET 2018 - /Stream/Robot_Chicken-2.html,s9 - Robot Chicken
+1521698637 - Thu Mar 22 07:03:57 CET 2018 - /Stream/Shadowhunters-2.html,s3e1 - Shadowhunters
