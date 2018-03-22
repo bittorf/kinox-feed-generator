@@ -8193,3 +8193,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521648139 - Wed Mar 21 17:02:19 CET 2018 - /Stream/Hawaii_Five-0.html,s8e8 - Hawaii Five-0
 1521648148 - Wed Mar 21 17:02:28 CET 2018 - /Stream/Fresh_Off_the_Boat.html,s4e19 - Fresh Off the Boat
 1521698589 - Thu Mar 22 07:03:09 CET 2018 - /Stream/Operation_12_Strong.html - Operation: 12 Strong
+1521698605 - Thu Mar 22 07:03:25 CET 2018 - /Stream/Die_Dschungelhelden-Das_grosse_Kinoabenteuer.html - Die Dschungelhelden - Das grosse Kinoabenteuer
