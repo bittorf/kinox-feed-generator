@@ -8205,3 +8205,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521713107 - Thu Mar 22 11:05:07 CET 2018 - /Stream/Krypton.html,s1e1 - Krypton
 1521713116 - Thu Mar 22 11:05:16 CET 2018 - /Stream/The_People_v-O-J-Simpson_American_Crime_Story.html,s2e9 - The People v. O.J. Simpson: American Crime Story
 1521713126 - Thu Mar 22 11:05:26 CET 2018 - /Stream/The_Magicians.html,s3e11 - The Magicians
+1521713136 - Thu Mar 22 11:05:36 CET 2018 - /Stream/Chicago_PD.html,s5e18 - Chicago PD
