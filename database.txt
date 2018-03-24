@@ -8237,3 +8237,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521792648 - Fri Mar 23 09:10:48 CET 2018 - /Stream/Greys_Anatomy.html,s14e16 - Grey's Anatomy
 1521886320 - Sat Mar 24 11:12:00 CET 2018 - /Stream/Cowboy_Zombies-1.html - Cowboy Zombies
 1521886331 - Sat Mar 24 11:12:11 CET 2018 - /Stream/Die_Killer-Brigade.html - Die Killer-Brigade
+1521886341 - Sat Mar 24 11:12:21 CET 2018 - /Stream/Santa_Clarita_Diet.html,s2 - Santa Clarita Diet
