@@ -8253,3 +8253,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521886447 - Sat Mar 24 11:14:07 CET 2018 - /Stream/Jane_the_Virgin.html,s4e14 - Jane the Virgin
 1521886455 - Sat Mar 24 11:14:15 CET 2018 - /Stream/Agents_of_S-H-I-E-L-D.html,s5e14 - Agents of S.H.I.E.L.D.
 1521886465 - Sat Mar 24 11:14:25 CET 2018 - /Stream/Once_Upon_a_Time.html,s7e14 - Once Upon a Time
+1521893680 - Sat Mar 24 13:14:40 CET 2018 - /Stream/Der_Lehrer.html,s6e12 - Der Lehrer
