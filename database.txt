@@ -8247,3 +8247,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521886402 - Sat Mar 24 11:13:22 CET 2018 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s8e17 - Die Schatzsucher - Goldrausch in Alaska
 1521886409 - Sat Mar 24 11:13:29 CET 2018 - /Stream/Bull-1.html,s2e7 - Bull
 1521886418 - Sat Mar 24 11:13:38 CET 2018 - /Stream/Chance-2.html,s2e7 - Chance
+1521886425 - Sat Mar 24 11:13:45 CET 2018 - /Stream/Atlanta-1.html,s2e3 - Atlanta
