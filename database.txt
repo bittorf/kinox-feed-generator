@@ -8269,3 +8269,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521994688 - Sun Mar 25 18:18:08 CEST 2018 - /Stream/Chance-2.html,s2e8 - Chance
 1522016310 - Mon Mar 26 00:18:30 CEST 2018 - /Stream/Super_4.html,s2 - Super 4
 1522016319 - Mon Mar 26 00:18:39 CEST 2018 - /Stream/Jessie-1.html,s2e26 - Jessie
+1522016327 - Mon Mar 26 00:18:47 CEST 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e13 - DsdS - Deutschland sucht den Superstar
