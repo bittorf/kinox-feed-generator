@@ -8258,3 +8258,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521972970 - Sun Mar 25 12:16:10 CEST 2018 - /Stream/Radiance-1.html - Radiance
 1521972977 - Sun Mar 25 12:16:17 CEST 2018 - /Stream/Aufstand_in_Peking.html - Aufstand in Peking
 1521972985 - Sun Mar 25 12:16:25 CEST 2018 - /Stream/Heiter_bis_toedlich-Hubert_und_Staller.html,s7e1 - Heiter bis tödlich - Hubert und Staller
+1521972996 - Sun Mar 25 12:16:36 CEST 2018 - /Stream/New_Girl-1.html,s6e14 - New Girl
