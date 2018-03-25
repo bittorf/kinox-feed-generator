@@ -8266,3 +8266,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521973036 - Sun Mar 25 12:17:16 CEST 2018 - /Stream/Casualty.html,s32e29 - Casualty
 1521994660 - Sun Mar 25 18:17:40 CEST 2018 - /Stream/Pacific_Rim_2_Uprising.html - Pacific Rim 2: Uprising
 1521994678 - Sun Mar 25 18:17:58 CEST 2018 - /Stream/Die_Teufelspiraten_von_Kau-Lun.html - Die Teufelspiraten von Kau-Lun
+1521994688 - Sun Mar 25 18:18:08 CEST 2018 - /Stream/Chance-2.html,s2e8 - Chance
