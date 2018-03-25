@@ -8264,3 +8264,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1521973020 - Sun Mar 25 12:17:00 CEST 2018 - /Stream/Billions.html,s3e1 - Billions
 1521973028 - Sun Mar 25 12:17:08 CEST 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e5 - Ash vs Evil Dead
 1521973036 - Sun Mar 25 12:17:16 CEST 2018 - /Stream/Casualty.html,s32e29 - Casualty
+1521994660 - Sun Mar 25 18:17:40 CEST 2018 - /Stream/Pacific_Rim_2_Uprising.html - Pacific Rim 2: Uprising
