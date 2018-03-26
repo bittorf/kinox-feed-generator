@@ -8282,3 +8282,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522052443 - Mon Mar 26 10:20:43 CEST 2018 - /Stream/Instinct-1.html,s1e2 - Instinct
 1522052450 - Mon Mar 26 10:20:50 CEST 2018 - /Stream/Deception-4.html,s1e3 - Deception
 1522052457 - Mon Mar 26 10:20:57 CEST 2018 - /Stream/Timeless-1.html,s2e3 - Timeless
+1522052465 - Mon Mar 26 10:21:05 CEST 2018 - /Stream/Lucifer-1.html,s3e19 - Lucifer
