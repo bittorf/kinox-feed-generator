@@ -8293,3 +8293,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522052536 - Mon Mar 26 10:22:16 CEST 2018 - /Stream/NCIS_Los_Angeles.html,s9e16 - NCIS: Los Angeles
 1522052544 - Mon Mar 26 10:22:24 CEST 2018 - /Stream/The_Simpsons.html,s29e13 - The Simpsons
 1522074167 - Mon Mar 26 16:22:47 CEST 2018 - /Stream/Atlanta-1.html,s2 - Atlanta
+1522074176 - Mon Mar 26 16:22:56 CEST 2018 - /Stream/Dynasty-2.html,s1 - Dynasty
