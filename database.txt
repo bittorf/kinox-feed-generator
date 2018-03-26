@@ -8287,3 +8287,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522052481 - Mon Mar 26 10:21:21 CEST 2018 - /Stream/Madam_Secretary.html,s4e15 - Madam Secretary
 1522052489 - Mon Mar 26 10:21:29 CEST 2018 - /Stream/Brooklyn_Nine-Nine.html,s5e13 - Brooklyn Nine-Nine
 1522052499 - Mon Mar 26 10:21:39 CEST 2018 - /Stream/Homeland.html,s7e7 - Homeland
+1522052509 - Mon Mar 26 10:21:49 CEST 2018 - /Stream/Family_Guy-1.html,s16e13 - Family Guy
