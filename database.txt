@@ -8295,3 +8295,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522074167 - Mon Mar 26 16:22:47 CEST 2018 - /Stream/Atlanta-1.html,s2 - Atlanta
 1522074176 - Mon Mar 26 16:22:56 CEST 2018 - /Stream/Dynasty-2.html,s1 - Dynasty
 1522088595 - Mon Mar 26 20:23:15 CEST 2018 - /Stream/The_Florida_Project.html - The Florida Project
+1522103017 - Tue Mar 27 00:23:37 CEST 2018 - /Stream/The_Adventures_of_Super_Mario_Bros-3.html,s1 - The Adventures of Super Mario Bros. 3
