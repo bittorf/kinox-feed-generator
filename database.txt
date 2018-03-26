@@ -8298,3 +8298,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522103017 - Tue Mar 27 00:23:37 CEST 2018 - /Stream/The_Adventures_of_Super_Mario_Bros-3.html,s1 - The Adventures of Super Mario Bros. 3
 1522103026 - Tue Mar 27 00:23:46 CEST 2018 - /Stream/Geschichten_aus_der_Gruft_Zeichentrick.html,s1 - Geschichten aus der Gruft (Zeichentrick)
 1522103034 - Tue Mar 27 00:23:54 CEST 2018 - /Stream/Super_Mario_World.html,s1 - Super Mario World
+1522103041 - Tue Mar 27 00:24:01 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e13 - Agents of S.H.I.E.L.D. *german subbed*
