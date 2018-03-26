@@ -8304,3 +8304,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522103072 - Tue Mar 27 00:24:32 CEST 2018 - /Stream/Captain_N_The_Game_Master.html,s1e7 - Captain N: The Game Master
 1522103079 - Tue Mar 27 00:24:39 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e2 - Chicago Fire
 1522103088 - Tue Mar 27 00:24:48 CEST 2018 - /Stream/The_Big_Bang_Theory.html,s11e12 - The Big Bang Theory
+1522103096 - Tue Mar 27 00:24:56 CEST 2018 - /Stream/The_Royals-1.html,s4e3 - The Royals
