@@ -8289,3 +8289,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522052499 - Mon Mar 26 10:21:39 CEST 2018 - /Stream/Homeland.html,s7e7 - Homeland
 1522052509 - Mon Mar 26 10:21:49 CEST 2018 - /Stream/Family_Guy-1.html,s16e13 - Family Guy
 1522052517 - Mon Mar 26 10:21:57 CEST 2018 - /Stream/Bobs_Burgers.html,s8e11 - Bob's Burgers
+1522052527 - Mon Mar 26 10:22:07 CEST 2018 - /Stream/The_Walking_Dead.html,s8e13 - The Walking Dead
