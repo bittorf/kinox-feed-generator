@@ -8301,3 +8301,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522103041 - Tue Mar 27 00:24:01 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e13 - Agents of S.H.I.E.L.D. *german subbed*
 1522103051 - Tue Mar 27 00:24:11 CEST 2018 - /Stream/The_Walking_Dead-1.html,s8e13 - The Walking Dead
 1522103063 - Tue Mar 27 00:24:23 CEST 2018 - /Stream/South_Park.html,s21e8 - South Park
+1522103072 - Tue Mar 27 00:24:32 CEST 2018 - /Stream/Captain_N_The_Game_Master.html,s1e7 - Captain N: The Game Master
