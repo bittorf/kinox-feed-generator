@@ -8302,3 +8302,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522103051 - Tue Mar 27 00:24:11 CEST 2018 - /Stream/The_Walking_Dead-1.html,s8e13 - The Walking Dead
 1522103063 - Tue Mar 27 00:24:23 CEST 2018 - /Stream/South_Park.html,s21e8 - South Park
 1522103072 - Tue Mar 27 00:24:32 CEST 2018 - /Stream/Captain_N_The_Game_Master.html,s1e7 - Captain N: The Game Master
+1522103079 - Tue Mar 27 00:24:39 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e2 - Chicago Fire
