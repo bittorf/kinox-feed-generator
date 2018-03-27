@@ -8319,3 +8319,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522139220 - Tue Mar 27 10:27:00 CEST 2018 - /Stream/UnReal.html,s3e5 - UnReal
 1522139227 - Tue Mar 27 10:27:07 CEST 2018 - /Stream/iZombie.html,s4e5 - iZombie
 1522139236 - Tue Mar 27 10:27:16 CEST 2018 - /Stream/Scorpion.html,s4e20 - Scorpion
+1522168062 - Tue Mar 27 18:27:42 CEST 2018 - /Stream/S-W-A-T-1.html,s1e11 - S.W.A.T.
