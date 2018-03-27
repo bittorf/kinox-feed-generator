@@ -8310,3 +8310,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522139149 - Tue Mar 27 10:25:49 CEST 2018 - /Stream/American_Crime_Story.html,s2e9 - American Crime Story
 1522139158 - Tue Mar 27 10:25:58 CEST 2018 - /Stream/Good_Girls.html,s1e5 - Good Girls
 1522139168 - Tue Mar 27 10:26:08 CEST 2018 - /Stream/Chicago_Med.html,s3e13 - Chicago Med
+1522139176 - Tue Mar 27 10:26:16 CEST 2018 - /Stream/Superior_Donuts.html,s2e16 - Superior Donuts
