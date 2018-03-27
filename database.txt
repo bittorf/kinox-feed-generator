@@ -8313,3 +8313,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522139176 - Tue Mar 27 10:26:16 CEST 2018 - /Stream/Superior_Donuts.html,s2e16 - Superior Donuts
 1522139183 - Tue Mar 27 10:26:23 CEST 2018 - /Stream/The_Alienist.html,s1e10 - The Alienist
 1522139190 - Tue Mar 27 10:26:30 CEST 2018 - /Stream/The_Resident-3.html,s1e9 - The Resident
+1522139197 - Tue Mar 27 10:26:37 CEST 2018 - /Stream/The_Good_Doctor-1.html,s1e18 - The Good Doctor
