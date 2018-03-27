@@ -8315,3 +8315,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522139190 - Tue Mar 27 10:26:30 CEST 2018 - /Stream/The_Resident-3.html,s1e9 - The Resident
 1522139197 - Tue Mar 27 10:26:37 CEST 2018 - /Stream/The_Good_Doctor-1.html,s1e18 - The Good Doctor
 1522139204 - Tue Mar 27 10:26:44 CEST 2018 - /Stream/Kevin_Can_Wait.html,s2e20 - Kevin Can Wait
+1522139212 - Tue Mar 27 10:26:52 CEST 2018 - /Stream/Legends_of_Tomorrow.html,s3e16 - Legends of Tomorrow
