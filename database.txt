@@ -8334,3 +8334,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522218597 - Wed Mar 28 08:29:57 CEST 2018 - /Stream/For_the_People.html,s1e3 - For the People
 1522218609 - Wed Mar 28 08:30:09 CEST 2018 - /Stream/Rise-1.html,s1e3 - Rise
 1522218618 - Wed Mar 28 08:30:18 CEST 2018 - /Stream/Black_Lightning-1.html,s1e10 - Black Lightning
+1522218627 - Wed Mar 28 08:30:27 CEST 2018 - /Stream/LA_to_Vegas.html,s1e10 - LA to Vegas
