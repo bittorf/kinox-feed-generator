@@ -8355,3 +8355,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522240417 - Wed Mar 28 14:33:37 CEST 2018 - /Stream/Counterpart_german_subbed.html,s1e6 - Counterpart *german subbed*
 1522240425 - Wed Mar 28 14:33:45 CEST 2018 - /Stream/The_Orville-1.html,s1e6 - The Orville
 1522240433 - Wed Mar 28 14:33:53 CEST 2018 - /Stream/Arrow_german_subbed.html,s6e15 - Arrow *german subbed*
+1522240443 - Wed Mar 28 14:34:03 CEST 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e5 - Shameless - Nicht ganz nüchtern
