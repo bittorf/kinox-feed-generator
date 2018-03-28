@@ -8339,3 +8339,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522218643 - Wed Mar 28 08:30:43 CEST 2018 - /Stream/Bull.html,s2e18 - Bull
 1522218653 - Wed Mar 28 08:30:53 CEST 2018 - /Stream/The_Detour.html,s3e10 - The Detour
 1522218660 - Wed Mar 28 08:31:00 CEST 2018 - /Stream/Baskets.html,s3e10 - Baskets
+1522218668 - Wed Mar 28 08:31:08 CEST 2018 - /Stream/Shadowhunters.html,s3e2 - Shadowhunters
