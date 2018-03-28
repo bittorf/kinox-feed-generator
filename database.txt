@@ -8358,3 +8358,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522240443 - Wed Mar 28 14:34:03 CEST 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e5 - Shameless - Nicht ganz nüchtern
 1522240451 - Wed Mar 28 14:34:11 CEST 2018 - /Stream/Ink_Master.html,s10e12 - Ink Master
 1522276482 - Thu Mar 29 00:34:42 CEST 2018 - /Stream/Heiter_bis_toedlich-Hubert_und_Staller.html,s7e5 - Heiter bis tödlich - Hubert und Staller
+1522276494 - Thu Mar 29 00:34:54 CEST 2018 - /Stream/Dead_of_Summer_german_subbed.html,s1 - Dead of Summer *german subbed*
