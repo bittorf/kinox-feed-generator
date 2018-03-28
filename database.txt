@@ -8330,3 +8330,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522218565 - Wed Mar 28 08:29:25 CEST 2018 - /Stream/Ash_vs_Evil_Dead-1.html,s3e5 - Ash vs Evil Dead
 1522218573 - Wed Mar 28 08:29:33 CEST 2018 - /Stream/UnREAL-1.html,s3e5 - UnREAL
 1522218581 - Wed Mar 28 08:29:41 CEST 2018 - /Stream/Chicago_Med-1.html,s3e2 - Chicago Med
+1522218590 - Wed Mar 28 08:29:50 CEST 2018 - /Stream/Roseanne-1.html,s10 - Roseanne
