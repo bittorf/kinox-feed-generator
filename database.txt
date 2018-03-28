@@ -8336,3 +8336,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522218618 - Wed Mar 28 08:30:18 CEST 2018 - /Stream/Black_Lightning-1.html,s1e10 - Black Lightning
 1522218627 - Wed Mar 28 08:30:27 CEST 2018 - /Stream/LA_to_Vegas.html,s1e10 - LA to Vegas
 1522218635 - Wed Mar 28 08:30:35 CEST 2018 - /Stream/The_Mick-1.html,s2e19 - The Mick
+1522218643 - Wed Mar 28 08:30:43 CEST 2018 - /Stream/Bull.html,s2e18 - Bull
