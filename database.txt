@@ -8361,3 +8361,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522276494 - Thu Mar 29 00:34:54 CEST 2018 - /Stream/Dead_of_Summer_german_subbed.html,s1 - Dead of Summer *german subbed*
 1522276502 - Thu Mar 29 00:35:02 CEST 2018 - /Stream/Supergirl_german_subbed.html,s3e12 - Supergirl *german subbed*
 1522305333 - Thu Mar 29 08:35:33 CEST 2018 - /Stream/Maze_Runner-Die_Auserwaehlten_in_der_Todeszone.html - Maze Runner - Die Auserwählten in der Todeszone
+1522305345 - Thu Mar 29 08:35:45 CEST 2018 - /Stream/The_Gifted-1.html,s1e12 - The Gifted
