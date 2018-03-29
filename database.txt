@@ -8374,3 +8374,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522305437 - Thu Mar 29 08:37:17 CEST 2018 - /Stream/SEAL_Team.html,s1e17 - SEAL Team
 1522305445 - Thu Mar 29 08:37:25 CEST 2018 - /Stream/Riverdale.html,s2e17 - Riverdale
 1522305453 - Thu Mar 29 08:37:33 CEST 2018 - /Stream/Star-1.html,s2e10 - Star
+1522305461 - Thu Mar 29 08:37:41 CEST 2018 - /Stream/Designated_Survivor.html,s2e15 - Designated Survivor
