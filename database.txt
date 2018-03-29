@@ -8368,3 +8368,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522305384 - Thu Mar 29 08:36:24 CEST 2018 - /Stream/Blood_Drive-1.html,s1e8 - Blood Drive
 1522305394 - Thu Mar 29 08:36:34 CEST 2018 - /Stream/The_Blacklist-1.html,s5e7 - The Blacklist
 1522305404 - Thu Mar 29 08:36:44 CEST 2018 - /Stream/Shadowhunters-1.html,s3e2 - Shadowhunters
+1522305413 - Thu Mar 29 08:36:53 CEST 2018 - /Stream/Krypton.html,s1e2 - Krypton
