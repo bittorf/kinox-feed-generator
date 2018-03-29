@@ -8377,3 +8377,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522305461 - Thu Mar 29 08:37:41 CEST 2018 - /Stream/Designated_Survivor.html,s2e15 - Designated Survivor
 1522305469 - Thu Mar 29 08:37:49 CEST 2018 - /Stream/The_Magicians.html,s3e12 - The Magicians
 1522305476 - Thu Mar 29 08:37:56 CEST 2018 - /Stream/Empire-3.html,s4e10 - Empire
+1522305485 - Thu Mar 29 08:38:05 CEST 2018 - /Stream/The_Goldbergs.html,s5e17 - The Goldbergs
