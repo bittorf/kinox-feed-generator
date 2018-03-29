@@ -8386,3 +8386,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522363176 - Fri Mar 30 00:39:36 CEST 2018 - /Stream/Designated_Survivor-1.html,s2e14 - Designated Survivor
 1522363184 - Fri Mar 30 00:39:44 CEST 2018 - /Stream/Blockbustaz.html,s2e1 - Blockbustaz
 1522363194 - Fri Mar 30 00:39:54 CEST 2018 - /Stream/Riverdale-1.html,s2e17 - Riverdale
+1522363202 - Fri Mar 30 00:40:02 CEST 2018 - /Stream/The_Path.html,s3e12 - The Path
