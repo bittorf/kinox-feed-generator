@@ -8400,3 +8400,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522399316 - Fri Mar 30 10:41:56 CEST 2018 - /Stream/Gotham.html,s4e16 - Gotham
 1522399327 - Fri Mar 30 10:42:07 CEST 2018 - /Stream/Chicago_Fire.html,s6e16 - Chicago Fire
 1522399336 - Fri Mar 30 10:42:16 CEST 2018 - /Stream/Arrow.html,s6e16 - Arrow
+1522399344 - Fri Mar 30 10:42:24 CEST 2018 - /Stream/Scandal.html,s7e15 - Scandal
