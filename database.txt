@@ -8428,3 +8428,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522486034 - Sat Mar 31 10:47:14 CEST 2018 - /Stream/Atlanta-1.html,s2e4 - Atlanta
 1522486042 - Sat Mar 31 10:47:22 CEST 2018 - /Stream/Blindspot.html,s3e17 - Blindspot
 1522486052 - Sat Mar 31 10:47:32 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e23 - Neo Magazin
+1522486062 - Sat Mar 31 10:47:42 CEST 2018 - /Stream/Gotham_german_subbed-1.html,s4e14 - Gotham *german subbed*
