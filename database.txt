@@ -8432,3 +8432,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522486070 - Sat Mar 31 10:47:50 CEST 2018 - /Stream/Lethal_Weapon-2.html,s2e10 - Lethal Weapon
 1522486079 - Sat Mar 31 10:47:59 CEST 2018 - /Stream/New_Girl-1.html,s6e15 - New Girl
 1522486089 - Sat Mar 31 10:48:09 CEST 2018 - /Stream/MasterChef_Junior.html,s6e6 - MasterChef Junior
+1522486098 - Sat Mar 31 10:48:18 CEST 2018 - /Stream/Dynasty-1.html,s1e17 - Dynasty
