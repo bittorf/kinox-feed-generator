@@ -8422,3 +8422,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522485983 - Sat Mar 31 10:46:23 CEST 2018 - /Stream/MacGyver-2.html,s2e18 - MacGyver
 1522485990 - Sat Mar 31 10:46:30 CEST 2018 - /Stream/Eine_Reihe_betrueblicher_Ereignisse.html,s2 - Eine Reihe betrüblicher Ereignisse
 1522485998 - Sat Mar 31 10:46:38 CEST 2018 - /Stream/The_Walking_Dead_german_subbed.html,s8e13 - The Walking Dead *german subbed*
+1522486010 - Sat Mar 31 10:46:50 CEST 2018 - /Stream/A_Series_of_Unfortunate_Events.html,s2 - A Series of Unfortunate Events
