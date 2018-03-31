@@ -8440,3 +8440,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522500557 - Sat Mar 31 14:49:17 CEST 2018 - /Stream/Novitiate.html - Novitiate
 1522500567 - Sat Mar 31 14:49:27 CEST 2018 - /Stream/Maze_Runner_The_Death_Cure.html - Maze Runner: The Death Cure
 1522514988 - Sat Mar 31 18:49:48 CEST 2018 - /Stream/Germanys_Next_Topmodel.html,s13 - Germany's Next Topmodel
+1522514997 - Sat Mar 31 18:49:57 CEST 2018 - /Stream/Bull-1.html,s2e8 - Bull
