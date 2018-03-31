@@ -8419,3 +8419,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522485954 - Sat Mar 31 10:45:54 CEST 2018 - /Stream/Dunkirk-Die_Schlacht_von_Duenkirchen.html - Dunkirk - Die Schlacht von Dünkirchen
 1522485962 - Sat Mar 31 10:46:02 CEST 2018 - /Stream/Happy_Anniversary-1.html - Happy Anniversary
 1522485971 - Sat Mar 31 10:46:11 CEST 2018 - /Stream/Mollys_Game.html - Molly's Game
+1522485983 - Sat Mar 31 10:46:23 CEST 2018 - /Stream/MacGyver-2.html,s2e18 - MacGyver
