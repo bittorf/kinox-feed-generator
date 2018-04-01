@@ -8455,3 +8455,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522587146 - Sun Apr  1 14:52:26 CEST 2018 - /Stream/Who_Killed_Tupac.html - Who Killed Tupac?
 1522587148 - Sun Apr  1 14:52:28 CEST 2018 - /Stream/Escaping_the_Rock_Alcatraz_Flucht_aus_dem_Hochsicherheitsgefaengnis.html - Escaping the Rock: Alcatraz, Flucht aus dem Hochsicherheitsgefängnis
 1522601559 - Sun Apr  1 18:52:39 CEST 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e14 - DsdS - Deutschland sucht den Superstar
+1522601568 - Sun Apr  1 18:52:49 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e14 - Agents of S.H.I.E.L.D. *german subbed*
