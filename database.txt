@@ -8460,3 +8460,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522623204 - Mon Apr  2 00:53:24 CEST 2018 - /Stream/Jessie-1.html,s2e28 - Jessie
 1522623214 - Mon Apr  2 00:53:34 CEST 2018 - /Stream/Super_4.html,s2e17 - Super 4
 1522623223 - Mon Apr  2 00:53:43 CEST 2018 - /Stream/Donna_Leon.html,s1e24 - Donna Leon
+1522623232 - Mon Apr  2 00:53:52 CEST 2018 - /Stream/The_Detour-1.html,s3e2 - The Detour
