@@ -8491,3 +8491,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522673923 - Mon Apr  2 14:58:43 CEST 2018 - /Stream/Der_Campus.html - Der Campus
 1522673931 - Mon Apr  2 14:58:51 CEST 2018 - /Stream/Venus_im_vierten_Haus.html - Venus im vierten Haus
 1522673938 - Mon Apr  2 14:58:58 CEST 2018 - /Stream/Im_Schatten_der_toedlichen_Peitsche.html - Im Schatten der tödlichen Peitsche
+1522673946 - Mon Apr  2 14:59:06 CEST 2018 - /Stream/Dynasty-2.html,s1e17 - Dynasty
