@@ -8463,3 +8463,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522623232 - Mon Apr  2 00:53:52 CEST 2018 - /Stream/The_Detour-1.html,s3e2 - The Detour
 1522623241 - Mon Apr  2 00:54:01 CEST 2018 - /Stream/Willkommen_bei_Mario_Barth.html,s17e1 - Willkommen bei Mario Barth
 1522652070 - Mon Apr  2 08:54:30 CEST 2018 - /Stream/South_Park.html,s21e7 - South Park
+1522652082 - Mon Apr  2 08:54:42 CEST 2018 - /Stream/The_Terror-1.html,s1 - The Terror
