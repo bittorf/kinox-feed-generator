@@ -8495,3 +8495,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522673954 - Mon Apr  2 14:59:14 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e2 - Shades of Blue
 1522673961 - Mon Apr  2 14:59:21 CEST 2018 - /Stream/The_Great_Indoors-1.html,s1e1 - The Great Indoors
 1522673969 - Mon Apr  2 14:59:29 CEST 2018 - /Stream/Timeless_german_subbed.html,s2 - Timeless *german subbed*
+1522673977 - Mon Apr  2 14:59:37 CEST 2018 - /Stream/Gotham_german_subbed-1.html,s4e15 - Gotham *german subbed*
