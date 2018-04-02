@@ -8497,3 +8497,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522673969 - Mon Apr  2 14:59:29 CEST 2018 - /Stream/Timeless_german_subbed.html,s2 - Timeless *german subbed*
 1522673977 - Mon Apr  2 14:59:37 CEST 2018 - /Stream/Gotham_german_subbed-1.html,s4e15 - Gotham *german subbed*
 1522673986 - Mon Apr  2 14:59:46 CEST 2018 - /Stream/The_Royals-1.html,s4e4 - The Royals
+1522710030 - Tue Apr  3 01:00:30 CEST 2018 - /Stream/The_Walking_Dead-1.html,s8e14 - The Walking Dead
