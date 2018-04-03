@@ -8510,3 +8510,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522738948 - Tue Apr  3 09:02:28 CEST 2018 - /Stream/The_Terror-2.html,s1 - The Terror
 1522738955 - Tue Apr  3 09:02:35 CEST 2018 - /Stream/UnReal.html,s3e6 - UnReal
 1522738964 - Tue Apr  3 09:02:44 CEST 2018 - /Stream/Good_Girls.html,s1e6 - Good Girls
+1522738971 - Tue Apr  3 09:02:51 CEST 2018 - /Stream/Legends_of_Tomorrow.html,s3e17 - Legends of Tomorrow
