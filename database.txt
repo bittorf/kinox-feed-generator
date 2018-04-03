@@ -8509,3 +8509,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522738938 - Tue Apr  3 09:02:18 CEST 2018 - /Stream/iZombie_german_subbed.html,s4e5 - iZombie *german subbed*
 1522738948 - Tue Apr  3 09:02:28 CEST 2018 - /Stream/The_Terror-2.html,s1 - The Terror
 1522738955 - Tue Apr  3 09:02:35 CEST 2018 - /Stream/UnReal.html,s3e6 - UnReal
+1522738964 - Tue Apr  3 09:02:44 CEST 2018 - /Stream/Good_Girls.html,s1e6 - Good Girls
