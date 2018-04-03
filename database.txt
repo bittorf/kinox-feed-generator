@@ -8504,3 +8504,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522738896 - Tue Apr  3 09:01:36 CEST 2018 - /Stream/White_Ghost-1.html - White Ghost
 1522738906 - Tue Apr  3 09:01:46 CEST 2018 - /Stream/The_Prisoner-2.html - The Prisoner
 1522738914 - Tue Apr  3 09:01:54 CEST 2018 - /Stream/Arme_Ritter.html - Arme Ritter
+1522738922 - Tue Apr  3 09:02:02 CEST 2018 - /Stream/Counterpart_german_subbed.html,s1e7 - Counterpart *german subbed*
