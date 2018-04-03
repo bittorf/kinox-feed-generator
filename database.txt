@@ -8514,3 +8514,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522738980 - Tue Apr  3 09:03:00 CEST 2018 - /Stream/Chicago_Med.html,s3e14 - Chicago Med
 1522753398 - Tue Apr  3 13:03:18 CEST 2018 - /Stream/Iga_ninpocho.html - Iga ninpôchô
 1522782226 - Tue Apr  3 21:03:46 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e3 - Chicago Fire
+1522796650 - Wed Apr  4 01:04:10 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e3 - Shades of Blue
