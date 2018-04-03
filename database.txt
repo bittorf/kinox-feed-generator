@@ -8513,3 +8513,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522738971 - Tue Apr  3 09:02:51 CEST 2018 - /Stream/Legends_of_Tomorrow.html,s3e17 - Legends of Tomorrow
 1522738980 - Tue Apr  3 09:03:00 CEST 2018 - /Stream/Chicago_Med.html,s3e14 - Chicago Med
 1522753398 - Tue Apr  3 13:03:18 CEST 2018 - /Stream/Iga_ninpocho.html - Iga ninpôchô
+1522782226 - Tue Apr  3 21:03:46 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e3 - Chicago Fire
