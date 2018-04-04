@@ -8536,3 +8536,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522832858 - Wed Apr  4 11:07:38 CEST 2018 - /Stream/The_Terror-2.html,s1e5 - The Terror
 1522832865 - Wed Apr  4 11:07:45 CEST 2018 - /Stream/For_the_People.html,s1e4 - For the People
 1522832872 - Wed Apr  4 11:07:52 CEST 2018 - /Stream/Rise-1.html,s1e6 - Rise
+1522832879 - Wed Apr  4 11:07:59 CEST 2018 - /Stream/LA_to_Vegas.html,s1e11 - LA to Vegas
