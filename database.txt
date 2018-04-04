@@ -8523,3 +8523,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522825536 - Wed Apr  4 09:05:36 CEST 2018 - /Stream/Billions-1.html,s3e2 - Billions
 1522825545 - Wed Apr  4 09:05:45 CEST 2018 - /Stream/Zone_Blanche.html,s1e1 - Zone Blanche
 1522825552 - Wed Apr  4 09:05:52 CEST 2018 - /Stream/Hawaii_Five-0.html,s8e9 - Hawaii Five-0
+1522825562 - Wed Apr  4 09:06:02 CEST 2018 - /Stream/Black_Lightning-2.html,s1e10 - Black Lightning
