@@ -8531,3 +8531,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522825605 - Wed Apr  4 09:06:45 CEST 2018 - /Stream/Legion-2.html,s2e1 - Legion
 1522832820 - Wed Apr  4 11:07:00 CEST 2018 - /Stream/The_Blacklist-1.html,s5e8 - The Blacklist
 1522832831 - Wed Apr  4 11:07:11 CEST 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e6 - Shameless - Nicht ganz nüchtern
+1522832840 - Wed Apr  4 11:07:20 CEST 2018 - /Stream/Gomorrha-Die_Serie.html,s3e9 - Gomorrha - Die Serie
