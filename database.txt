@@ -8517,3 +8517,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522796650 - Wed Apr  4 01:04:10 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e3 - Shades of Blue
 1522796660 - Wed Apr  4 01:04:20 CEST 2018 - /Stream/South_Park.html,s21e9 - South Park
 1522825489 - Wed Apr  4 09:04:49 CEST 2018 - /Stream/Ticker.html - Ticker
+1522825500 - Wed Apr  4 09:05:00 CEST 2018 - /Stream/Thank_You_for_Bombing.html - Thank You for Bombing
