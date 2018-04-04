@@ -8538,3 +8538,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522832872 - Wed Apr  4 11:07:52 CEST 2018 - /Stream/Rise-1.html,s1e6 - Rise
 1522832879 - Wed Apr  4 11:07:59 CEST 2018 - /Stream/LA_to_Vegas.html,s1e11 - LA to Vegas
 1522832887 - Wed Apr  4 11:08:07 CEST 2018 - /Stream/The_Mick-1.html,s2e20 - The Mick
+1522832895 - Wed Apr  4 11:08:15 CEST 2018 - /Stream/Bull.html,s2e19 - Bull
