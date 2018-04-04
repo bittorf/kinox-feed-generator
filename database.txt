@@ -8550,3 +8550,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522876212 - Wed Apr  4 23:10:12 CEST 2018 - /Stream/The_Orville-1.html,s1e7 - The Orville
 1522876220 - Wed Apr  4 23:10:20 CEST 2018 - /Stream/Ash_vs_Evil_Dead-1.html,s3e6 - Ash vs Evil Dead
 1522876229 - Wed Apr  4 23:10:29 CEST 2018 - /Stream/Roseanne_german_subbed.html,s10e1 - Roseanne *german subbed*
+1522876238 - Wed Apr  4 23:10:38 CEST 2018 - /Stream/Supernatural_german_subbed.html,s13e16 - Supernatural *german subbed*
