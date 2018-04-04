@@ -8519,3 +8519,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522825489 - Wed Apr  4 09:04:49 CEST 2018 - /Stream/Ticker.html - Ticker
 1522825500 - Wed Apr  4 09:05:00 CEST 2018 - /Stream/Thank_You_for_Bombing.html - Thank You for Bombing
 1522825509 - Wed Apr  4 09:05:09 CEST 2018 - /Stream/Der_Hobbit_Die_Schlacht_der_fuenf_Heere.html - Der Hobbit: Die Schlacht der fünf Heere
+1522825529 - Wed Apr  4 09:05:29 CEST 2018 - /Stream/Shadowhunters-1.html,s2e1 - Shadowhunters
