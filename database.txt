@@ -8560,3 +8560,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522926748 - Thu Apr  5 13:12:28 CEST 2018 - /Stream/Shadowhunters-1.html,s2 - Shadowhunters
 1522926756 - Thu Apr  5 13:12:36 CEST 2018 - /Stream/Blood_Drive-1.html,s1e9 - Blood Drive
 1522926765 - Thu Apr  5 13:12:45 CEST 2018 - /Stream/Ash_vs_Evil_Dead-1.html,s1e6 - Ash vs Evil Dead
+1522926773 - Thu Apr  5 13:12:53 CEST 2018 - /Stream/Krypton.html,s1e3 - Krypton
