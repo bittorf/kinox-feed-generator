@@ -8574,3 +8574,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522941280 - Thu Apr  5 17:14:40 CEST 2018 - /Stream/Amsterdam-1.html - Amsterdam
 1522941289 - Thu Apr  5 17:14:49 CEST 2018 - /Stream/Die_Unsichtbaren-Wir_wollen_leben.html - Die Unsichtbaren - Wir wollen leben
 1522941296 - Thu Apr  5 17:14:56 CEST 2018 - /Stream/Meine_Cousine_Rachel-1.html - Meine Cousine Rachel
+1522941305 - Thu Apr  5 17:15:05 CEST 2018 - /Stream/The_Good_Doctor-2.html,s1e14 - The Good Doctor
