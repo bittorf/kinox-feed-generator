@@ -8564,3 +8564,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522926781 - Thu Apr  5 13:13:01 CEST 2018 - /Stream/Life_Sentence.html,s1e5 - Life Sentence
 1522926787 - Thu Apr  5 13:13:07 CEST 2018 - /Stream/Star-1.html,s2e11 - Star
 1522926795 - Thu Apr  5 13:13:15 CEST 2018 - /Stream/American_Housewife.html,s2e20 - American Housewife
+1522926802 - Thu Apr  5 13:13:22 CEST 2018 - /Stream/The_Magicians.html,s3e13 - The Magicians
