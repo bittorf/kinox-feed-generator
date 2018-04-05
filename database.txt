@@ -8576,3 +8576,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522941296 - Thu Apr  5 17:14:56 CEST 2018 - /Stream/Meine_Cousine_Rachel-1.html - Meine Cousine Rachel
 1522941305 - Thu Apr  5 17:15:05 CEST 2018 - /Stream/The_Good_Doctor-2.html,s1e14 - The Good Doctor
 1522941315 - Thu Apr  5 17:15:15 CEST 2018 - /Stream/Arrow_german_subbed.html,s6e16 - Arrow *german subbed*
+1522941325 - Thu Apr  5 17:15:25 CEST 2018 - /Stream/The_Americans.html,s6e2 - The Americans
