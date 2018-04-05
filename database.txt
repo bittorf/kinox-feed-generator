@@ -8570,3 +8570,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522926829 - Thu Apr  5 13:13:49 CEST 2018 - /Stream/The_Goldbergs.html,s5e18 - The Goldbergs
 1522926838 - Thu Apr  5 13:13:58 CEST 2018 - /Stream/Suits.html,s7e12 - Suits
 1522926848 - Thu Apr  5 13:14:08 CEST 2018 - /Stream/Modern_Family.html,s9e18 - Modern Family
+1522926857 - Thu Apr  5 13:14:17 CEST 2018 - /Stream/Criminal_Minds.html,s13e19 - Criminal Minds
