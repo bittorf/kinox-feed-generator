@@ -8554,3 +8554,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522876248 - Wed Apr  4 23:10:48 CEST 2018 - /Stream/Gotham_german_subbed-1.html,s4e16 - Gotham *german subbed*
 1522912285 - Thu Apr  5 09:11:25 CEST 2018 - /Stream/Akte_X-Die_unheimlichen_Faelle_des_FBI.html,s11e7 - Akte X - Die unheimlichen Fälle des FBI
 1522912301 - Thu Apr  5 09:11:41 CEST 2018 - /Stream/Legion-3.html,s2e1 - Legion
+1522912309 - Thu Apr  5 09:11:49 CEST 2018 - /Stream/Designated_Survivor-1.html,s2e15 - Designated Survivor
