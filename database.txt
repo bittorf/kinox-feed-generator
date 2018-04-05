@@ -8567,3 +8567,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522926802 - Thu Apr  5 13:13:22 CEST 2018 - /Stream/The_Magicians.html,s3e13 - The Magicians
 1522926810 - Thu Apr  5 13:13:30 CEST 2018 - /Stream/Empire-3.html,s4e11 - Empire
 1522926818 - Thu Apr  5 13:13:38 CEST 2018 - /Stream/The_Blacklist.html,s5e17 - The Blacklist
+1522926829 - Thu Apr  5 13:13:49 CEST 2018 - /Stream/The_Goldbergs.html,s5e18 - The Goldbergs
