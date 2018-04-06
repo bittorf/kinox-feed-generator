@@ -8603,3 +8603,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523006422 - Fri Apr  6 11:20:22 CEST 2018 - /Stream/Wo_die_wilden_Menschen_jagen.html - Wo die wilden Menschen jagen
 1523006431 - Fri Apr  6 11:20:31 CEST 2018 - /Stream/Amerikanisches_Idyll.html - Amerikanisches Idyll
 1523006441 - Fri Apr  6 11:20:41 CEST 2018 - /Stream/Viel_zu_nah.html - Viel zu nah
+1523049684 - Fri Apr  6 23:21:24 CEST 2018 - /Stream/Jimi_Hendrix_The_Guitar_Hero.html - Jimi Hendrix: The Guitar Hero
