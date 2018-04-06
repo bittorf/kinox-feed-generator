@@ -8579,3 +8579,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522941325 - Thu Apr  5 17:15:25 CEST 2018 - /Stream/The_Americans.html,s6e2 - The Americans
 1522962950 - Thu Apr  5 23:15:50 CEST 2018 - /Stream/The_Terror-1.html,s1e3 - The Terror
 1522998991 - Fri Apr  6 09:16:31 CEST 2018 - /Stream/Ready_Player_One-1.html - Ready Player One
+1522999017 - Fri Apr  6 09:16:57 CEST 2018 - /Stream/Bull-1.html,s2e9 - Bull
