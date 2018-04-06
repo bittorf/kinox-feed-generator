@@ -8598,3 +8598,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522999162 - Fri Apr  6 09:19:22 CEST 2018 - /Stream/Arrow.html,s6e17 - Arrow
 1522999173 - Fri Apr  6 09:19:33 CEST 2018 - /Stream/Atlanta.html,s2e6 - Atlanta
 1522999181 - Fri Apr  6 09:19:41 CEST 2018 - /Stream/The_Path.html,s3e13 - The Path
+1522999190 - Fri Apr  6 09:19:50 CEST 2018 - /Stream/Shadowhunters.html,s2 - Shadowhunters
