@@ -8584,3 +8584,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522999036 - Fri Apr  6 09:17:16 CEST 2018 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s41e2 - Alarm für Cobra 11 - Die Autobahnpolizei
 1522999045 - Fri Apr  6 09:17:25 CEST 2018 - /Stream/Supernatural_german_subbed.html,s13 - Supernatural *german subbed*
 1522999056 - Fri Apr  6 09:17:36 CEST 2018 - /Stream/Chicago_Fire.html,s6e17 - Chicago Fire
+1522999065 - Fri Apr  6 09:17:45 CEST 2018 - /Stream/Gotham.html,s4e17 - Gotham
