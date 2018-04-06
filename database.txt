@@ -8593,3 +8593,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1522999117 - Fri Apr  6 09:18:37 CEST 2018 - /Stream/Siren-2.html,s1e3 - Siren
 1522999125 - Fri Apr  6 09:18:45 CEST 2018 - /Stream/Supernatural-1.html,s13e17 - Supernatural
 1522999136 - Fri Apr  6 09:18:56 CEST 2018 - /Stream/Superstore.html,s3e18 - Superstore
+1522999144 - Fri Apr  6 09:19:04 CEST 2018 - /Stream/The_Big_Bang_Theory-1.html,s11e19 - The Big Bang Theory
