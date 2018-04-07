@@ -8632,3 +8632,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523136368 - Sat Apr  7 23:26:08 CEST 2018 - /Stream/Jerks.html,s2 - Jerks
 1523136377 - Sat Apr  7 23:26:17 CEST 2018 - /Stream/In_aller_Freundschaft-Die_jungen_Aerzte.html,s4 - In aller Freundschaft - Die jungen Ärzte
 1523136386 - Sat Apr  7 23:26:26 CEST 2018 - /Stream/Atlanta-1.html,s2e5 - Atlanta
+1523136394 - Sat Apr  7 23:26:34 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e24 - Neo Magazin
