@@ -8627,3 +8627,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523093092 - Sat Apr  7 11:24:52 CEST 2018 - /Stream/The_City_and_the_City.html,s1e1 - The City and the City
 1523093101 - Sat Apr  7 11:25:01 CEST 2018 - /Stream/Taken-5.html,s2e10 - Taken
 1523093109 - Sat Apr  7 11:25:09 CEST 2018 - /Stream/Imposters.html,s2e1 - Imposters
+1523093118 - Sat Apr  7 11:25:18 CEST 2018 - /Stream/Hawaii_Five-0-1.html,s8e19 - Hawaii Five-0
