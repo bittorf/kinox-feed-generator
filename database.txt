@@ -8615,3 +8615,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523092959 - Sat Apr  7 11:22:39 CEST 2018 - /Stream/The_Last_Face.html - The Last Face
 1523092971 - Sat Apr  7 11:22:51 CEST 2018 - /Stream/Sergeant_York.html - Sergeant York
 1523092981 - Sat Apr  7 11:23:01 CEST 2018 - /Stream/Das_fuenfte_Element.html - Das fünfte Element
+1523092998 - Sat Apr  7 11:23:18 CEST 2018 - /Stream/Eclipse-Kampf_der_Magier.html - Eclipse - Kampf der Magier
