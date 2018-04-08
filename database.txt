@@ -8650,3 +8650,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523222995 - Sun Apr  8 23:29:55 CEST 2018 - /Stream/Here_and_Now-1.html,s1e3 - Here and Now
 1523223004 - Sun Apr  8 23:30:04 CEST 2018 - /Stream/New_Girl-1.html,s6e16 - New Girl
 1523223014 - Sun Apr  8 23:30:14 CEST 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e15 - DsdS - Deutschland sucht den Superstar
+1523223023 - Sun Apr  8 23:30:23 CEST 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e7 - Ash vs Evil Dead
