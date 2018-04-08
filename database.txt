@@ -8646,3 +8646,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523194140 - Sun Apr  8 15:29:00 CEST 2018 - /Stream/The_Good_Fight-1.html,s2e6 - The Good Fight
 1523222968 - Sun Apr  8 23:29:28 CEST 2018 - /Stream/The_Detour-1.html,s3 - The Detour
 1523222977 - Sun Apr  8 23:29:37 CEST 2018 - /Stream/Chicago_Med-1.html,s3e3 - Chicago Med
+1523222986 - Sun Apr  8 23:29:46 CEST 2018 - /Stream/Rosewood-1.html,s2e18 - Rosewood
