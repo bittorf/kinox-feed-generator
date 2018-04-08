@@ -8643,3 +8643,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523194114 - Sun Apr  8 15:28:34 CEST 2018 - /Stream/Die_Zuercher_Verlobung.html - Die Zürcher Verlobung
 1523194122 - Sun Apr  8 15:28:42 CEST 2018 - /Stream/Star-2.html,s2 - Star
 1523194131 - Sun Apr  8 15:28:51 CEST 2018 - /Stream/Baskets-1.html,s1 - Baskets
+1523194140 - Sun Apr  8 15:29:00 CEST 2018 - /Stream/The_Good_Fight-1.html,s2e6 - The Good Fight
