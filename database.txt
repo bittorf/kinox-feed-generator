@@ -8653,3 +8653,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523223023 - Sun Apr  8 23:30:23 CEST 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e7 - Ash vs Evil Dead
 1523259056 - Mon Apr  9 09:30:56 CEST 2018 - /Stream/In_der_Hoelle.html - In der Hölle
 1523259065 - Mon Apr  9 09:31:05 CEST 2018 - /Stream/Rebecka_Martinsson.html,s1 - Rebecka Martinsson
+1523259072 - Mon Apr  9 09:31:12 CEST 2018 - /Stream/S-W-A-T-1.html,s2e15 - S.W.A.T.
