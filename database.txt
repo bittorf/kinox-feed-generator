@@ -8687,3 +8687,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523309780 - Mon Apr  9 23:36:20 CEST 2018 - /Stream/Heiter_bis_toedlich-Morden_im_Norden.html,s5e1 - Heiter bis tödlich - Morden im Norden
 1523309789 - Mon Apr  9 23:36:29 CEST 2018 - /Stream/Dittsche.html,s27e1 - Dittsche
 1523309798 - Mon Apr  9 23:36:38 CEST 2018 - /Stream/The_Middle-1.html,s8e1 - The Middle.
+1523309807 - Mon Apr  9 23:36:47 CEST 2018 - /Stream/Young_Sheldon-1.html,s1e13 - Young Sheldon
