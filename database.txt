@@ -8655,3 +8655,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523259065 - Mon Apr  9 09:31:05 CEST 2018 - /Stream/Rebecka_Martinsson.html,s1 - Rebecka Martinsson
 1523259072 - Mon Apr  9 09:31:12 CEST 2018 - /Stream/S-W-A-T-1.html,s2e15 - S.W.A.T.
 1523259080 - Mon Apr  9 09:31:20 CEST 2018 - /Stream/Maggie-Bianca_Fashion_Friends.html,s3 - Maggie & Bianca Fashion Friends
+1523259088 - Mon Apr  9 09:31:28 CEST 2018 - /Stream/Lethal_Weapon-2.html,s2e11 - Lethal Weapon
