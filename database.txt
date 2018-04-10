@@ -8690,3 +8690,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523309807 - Mon Apr  9 23:36:47 CEST 2018 - /Stream/Young_Sheldon-1.html,s1e13 - Young Sheldon
 1523309815 - Mon Apr  9 23:36:55 CEST 2018 - /Stream/The_Flash_german_subbed.html,s4e6 - The Flash *german subbed*
 1523309826 - Mon Apr  9 23:37:06 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e15 - Agents of S.H.I.E.L.D. *german subbed*
+1523374690 - Tue Apr 10 17:38:10 CEST 2018 - /Stream/Criminal_Squad.html - Criminal Squad
