@@ -8695,3 +8695,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523374713 - Tue Apr 10 17:38:33 CEST 2018 - /Stream/Ash_vs_Evil_Dead_german_subbed.html,s3e7 - Ash vs Evil Dead *german subbed*
 1523374721 - Tue Apr 10 17:38:41 CEST 2018 - /Stream/S-W-A-T-1.html,s1e12 - S.W.A.T.
 1523374729 - Tue Apr 10 17:38:49 CEST 2018 - /Stream/The_Big_Bang_Theory.html,s11e13 - The Big Bang Theory
+1523374738 - Tue Apr 10 17:38:58 CEST 2018 - /Stream/Legends_of_Tomorrow.html,s3e18 - Legends of Tomorrow
