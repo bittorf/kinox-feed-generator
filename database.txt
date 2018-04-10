@@ -8707,3 +8707,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523396441 - Tue Apr 10 23:40:41 CEST 2018 - /Stream/Dynasty-2.html,s1e18 - Dynasty
 1523396449 - Tue Apr 10 23:40:49 CEST 2018 - /Stream/South_Park.html,s21e10 - South Park
 1523396459 - Tue Apr 10 23:40:59 CEST 2018 - /Stream/Good_Girls.html,s1e7 - Good Girls
+1523396467 - Tue Apr 10 23:41:07 CEST 2018 - /Stream/Navy_CIS_L-A.html,s9e8 - Navy CIS: L.A.
