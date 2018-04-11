@@ -8712,3 +8712,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523432511 - Wed Apr 11 09:41:51 CEST 2018 - /Stream/Robot_Chicken-2.html,s9e7 - Robot Chicken
 1523432520 - Wed Apr 11 09:42:00 CEST 2018 - /Stream/Deep_State.html,s1e1 - Deep State
 1523432527 - Wed Apr 11 09:42:07 CEST 2018 - /Stream/Roseanne_german_subbed.html,s10e2 - Roseanne *german subbed*
+1523432535 - Wed Apr 11 09:42:15 CEST 2018 - /Stream/Roseanne-1.html,s10e4 - Roseanne
