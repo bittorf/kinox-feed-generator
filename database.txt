@@ -8716,3 +8716,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523432543 - Wed Apr 11 09:42:23 CEST 2018 - /Stream/Counterpart_german_subbed.html,s1e8 - Counterpart *german subbed*
 1523432551 - Wed Apr 11 09:42:31 CEST 2018 - /Stream/Black_Lightning-1.html,s1e12 - Black Lightning
 1523432559 - Wed Apr 11 09:42:39 CEST 2018 - /Stream/LA_to_Vegas.html,s1e12 - LA to Vegas
+1523432567 - Wed Apr 11 09:42:47 CEST 2018 - /Stream/Lethal_Weapon-1.html,s2e18 - Lethal Weapon
