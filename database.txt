@@ -8723,3 +8723,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523461422 - Wed Apr 11 17:43:42 CEST 2018 - /Stream/Shadowhunters-1.html,s3e4 - Shadowhunters
 1523461436 - Wed Apr 11 17:43:56 CEST 2018 - /Stream/For_the_People.html,s1e5 - For the People
 1523461443 - Wed Apr 11 17:44:03 CEST 2018 - /Stream/Rise-1.html,s1e5 - Rise
+1523461452 - Wed Apr 11 17:44:12 CEST 2018 - /Stream/Legion-2.html,s2e2 - Legion
