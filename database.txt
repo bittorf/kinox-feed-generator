@@ -8739,3 +8739,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523519211 - Thu Apr 12 09:46:51 CEST 2018 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s8e19 - Die Schatzsucher - Goldrausch in Alaska
 1523519219 - Thu Apr 12 09:46:59 CEST 2018 - /Stream/Billions-1.html,s3e3 - Billions
 1523526433 - Thu Apr 12 11:47:13 CEST 2018 - /Stream/Krypton.html,s1e4 - Krypton
+1523526445 - Thu Apr 12 11:47:25 CEST 2018 - /Stream/SEAL_Team.html,s1e18 - SEAL Team
