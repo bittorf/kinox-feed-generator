@@ -8768,3 +8768,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523620352 - Fri Apr 13 13:52:32 CEST 2018 - /Stream/Young_Sheldon.html,s1e18 - Young Sheldon
 1523620360 - Fri Apr 13 13:52:40 CEST 2018 - /Stream/Bull-1.html,s2e10 - Bull
 1523620369 - Fri Apr 13 13:52:49 CEST 2018 - /Stream/Bosch-1.html,s4 - Bosch
+1523620377 - Fri Apr 13 13:52:57 CEST 2018 - /Stream/Superstore.html,s3e19 - Superstore
