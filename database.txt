@@ -8770,3 +8770,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523620369 - Fri Apr 13 13:52:49 CEST 2018 - /Stream/Bosch-1.html,s4 - Bosch
 1523620377 - Fri Apr 13 13:52:57 CEST 2018 - /Stream/Superstore.html,s3e19 - Superstore
 1523620385 - Fri Apr 13 13:53:05 CEST 2018 - /Stream/Mom.html,s5e17 - Mom
+1523620393 - Fri Apr 13 13:53:13 CEST 2018 - /Stream/Chicago_Fire.html,s6e18 - Chicago Fire
