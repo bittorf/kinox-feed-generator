@@ -8762,3 +8762,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523577063 - Fri Apr 13 01:51:03 CEST 2018 - /Stream/The_Blacklist-1.html,s5e9 - The Blacklist
 1523620311 - Fri Apr 13 13:51:51 CEST 2018 - /Stream/Bushwick.html - Bushwick
 1523620320 - Fri Apr 13 13:52:00 CEST 2018 - /Stream/Ein_starkes_Team.html,s1e54 - Ein starkes Team
+1523620330 - Fri Apr 13 13:52:10 CEST 2018 - /Stream/Champions.html,s1e5 - Champions
