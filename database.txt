@@ -8774,3 +8774,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523620401 - Fri Apr 13 13:53:21 CEST 2018 - /Stream/Arrow.html,s6e18 - Arrow
 1523620410 - Fri Apr 13 13:53:30 CEST 2018 - /Stream/Scandal.html,s7e17 - Scandal
 1523620420 - Fri Apr 13 13:53:40 CEST 2018 - /Stream/Not_Going_Out.html,s9e6 - Not Going Out
+1523620428 - Fri Apr 13 13:53:48 CEST 2018 - /Stream/The_Big_Bang_Theory-1.html,s11e20 - The Big Bang Theory
