@@ -8778,3 +8778,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523620438 - Fri Apr 13 13:53:58 CEST 2018 - /Stream/Supernatural-1.html,s13e18 - Supernatural
 1523620448 - Fri Apr 13 13:54:08 CEST 2018 - /Stream/Greys_Anatomy.html,s14e19 - Grey's Anatomy
 1523620458 - Fri Apr 13 13:54:18 CEST 2018 - /Stream/Lupta_perfecta_german_subbed-2.html,s2 - Lupta perfecta *german subbed*
+1523620465 - Fri Apr 13 13:54:25 CEST 2018 - /Stream/Dead_of_Summer_german_subbed.html,s1e5 - Dead of Summer *german subbed*
