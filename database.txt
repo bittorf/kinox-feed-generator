@@ -8789,3 +8789,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523656572 - Fri Apr 13 23:56:12 CEST 2018 - /Stream/Lost_in_Space-3.html,s1 - Lost in Space
 1523656580 - Fri Apr 13 23:56:20 CEST 2018 - /Stream/Blockbustaz.html,s2 - Blockbustaz
 1523656589 - Fri Apr 13 23:56:29 CEST 2018 - /Stream/Lost_in_Space_Verschollen_zwischen_fremden_Welten.html,s1 - Lost in Space: Verschollen zwischen fremden Welten
+1523743052 - Sat Apr 14 23:57:32 CEST 2018 - /Stream/New_Girl-1.html,s6e17 - New Girl
