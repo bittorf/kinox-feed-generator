@@ -8797,3 +8797,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523743096 - Sat Apr 14 23:58:16 CEST 2018 - /Stream/MacGyver-2.html,s2e20 - MacGyver
 1523743104 - Sat Apr 14 23:58:24 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D.html,s5e17 - Agents of S.H.I.E.L.D.
 1523743113 - Sat Apr 14 23:58:33 CEST 2018 - /Stream/Once_Upon_a_Time.html,s7e17 - Once Upon a Time
+1523743126 - Sat Apr 14 23:58:46 CEST 2018 - /Stream/Hawaii_Five-0-1.html,s8e20 - Hawaii Five-0
