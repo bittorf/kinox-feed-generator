@@ -8809,3 +8809,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523872899 - Mon Apr 16 12:01:39 CEST 2018 - /Stream/Life_in_Pieces-1.html,s3e15 - Life in Pieces
 1523872907 - Mon Apr 16 12:01:47 CEST 2018 - /Stream/The_Good_Doctor-2.html,s1e15 - The Good Doctor
 1523872915 - Mon Apr 16 12:01:55 CEST 2018 - /Stream/Supergirl_german_subbed.html,s3e13 - Supergirl *german subbed*
+1523872924 - Mon Apr 16 12:02:04 CEST 2018 - /Stream/Lucifer-1.html,s3e20 - Lucifer
