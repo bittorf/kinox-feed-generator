@@ -8811,3 +8811,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523872915 - Mon Apr 16 12:01:55 CEST 2018 - /Stream/Supergirl_german_subbed.html,s3e13 - Supergirl *german subbed*
 1523872924 - Mon Apr 16 12:02:04 CEST 2018 - /Stream/Lucifer-1.html,s3e20 - Lucifer
 1523872932 - Mon Apr 16 12:02:12 CEST 2018 - /Stream/The_Walking_Dead.html,s8e16 - The Walking Dead
+1523872941 - Mon Apr 16 12:02:21 CEST 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e16 - DsdS - Deutschland sucht den Superstar
