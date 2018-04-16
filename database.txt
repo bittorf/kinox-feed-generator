@@ -8814,3 +8814,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523872941 - Mon Apr 16 12:02:21 CEST 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e16 - DsdS - Deutschland sucht den Superstar
 1523872950 - Mon Apr 16 12:02:30 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e4 - Shades of Blue
 1523872958 - Mon Apr 16 12:02:38 CEST 2018 - /Stream/iZombie_german_subbed.html,s4e6 - iZombie *german subbed*
+1523872967 - Mon Apr 16 12:02:47 CEST 2018 - /Stream/Fear_the_Walking_Dead.html,s4e1 - Fear the Walking Dead
