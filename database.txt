@@ -8822,3 +8822,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523873010 - Mon Apr 16 12:03:30 CEST 2018 - /Stream/Timeless-1.html,s2e5 - Timeless
 1523873017 - Mon Apr 16 12:03:37 CEST 2018 - /Stream/NCIS_New_Orleans-1.html,s3e17 - NCIS: New Orleans
 1523873025 - Mon Apr 16 12:03:45 CEST 2018 - /Stream/Ordeal_by_Innocence-1.html,s1e3 - Ordeal by Innocence
+1523873033 - Mon Apr 16 12:03:53 CEST 2018 - /Stream/The_Detail.html,s1e4 - The Detail
