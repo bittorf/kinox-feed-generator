@@ -8805,3 +8805,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523872865 - Mon Apr 16 12:01:05 CEST 2018 - /Stream/Designated_Survivor-1.html,s2e16 - Designated Survivor
 1523872873 - Mon Apr 16 12:01:13 CEST 2018 - /Stream/Bosch.html,s4 - Bosch
 1523872881 - Mon Apr 16 12:01:21 CEST 2018 - /Stream/Heiter_bis_toedlich-Morden_im_Norden.html,s4 - Heiter bis tödlich - Morden im Norden
+1523872890 - Mon Apr 16 12:01:30 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e16 - Agents of S.H.I.E.L.D. *german subbed*
