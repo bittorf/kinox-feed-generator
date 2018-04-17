@@ -8847,3 +8847,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523945311 - Tue Apr 17 08:08:31 CEST 2018 - /Stream/Chicago_Med.html,s3e16 - Chicago Med
 1523945320 - Tue Apr 17 08:08:40 CEST 2018 - /Stream/The_Royals-1.html,s4e6 - The Royals
 1523945330 - Tue Apr 17 08:08:50 CEST 2018 - /Stream/Billions.html,s3e4 - Billions
+1523945339 - Tue Apr 17 08:08:59 CEST 2018 - /Stream/The_Resident-3.html,s1e10 - The Resident
