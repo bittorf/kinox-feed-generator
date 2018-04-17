@@ -8836,3 +8836,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523945197 - Tue Apr 17 08:06:37 CEST 2018 - /Stream/The_Big_Bang_Theory.html,s11e14 - The Big Bang Theory
 1523945208 - Tue Apr 17 08:06:48 CEST 2018 - /Stream/Heiter_bis_toedlich-Morden_im_Norden.html,s4e11 - Heiter bis tödlich - Morden im Norden
 1523945219 - Tue Apr 17 08:06:59 CEST 2018 - /Stream/The_Middle-1.html,s8e2 - The Middle.
+1523945231 - Tue Apr 17 08:07:11 CEST 2018 - /Stream/Fear_the_Walking_Dead-1.html,s4e1 - Fear the Walking Dead
