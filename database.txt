@@ -8861,3 +8861,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524003106 - Wed Apr 18 00:11:46 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e5 - Chicago Fire
 1524003116 - Wed Apr 18 00:11:56 CEST 2018 - /Stream/Black_Lightning-2.html,s1e12 - Black Lightning
 1524003125 - Wed Apr 18 00:12:05 CEST 2018 - /Stream/Chicago_Med-1.html,s3e5 - Chicago Med
+1524003135 - Wed Apr 18 00:12:15 CEST 2018 - /Stream/Ash_vs_Evil_Dead-1.html,s3e8 - Ash vs Evil Dead
