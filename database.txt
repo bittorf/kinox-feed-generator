@@ -8845,3 +8845,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523945291 - Tue Apr 17 08:08:11 CEST 2018 - /Stream/How_to_Get_Away_with_Murder-1.html,s4e2 - How to Get Away with Murder
 1523945302 - Tue Apr 17 08:08:22 CEST 2018 - /Stream/Good_Girls.html,s1e8 - Good Girls
 1523945311 - Tue Apr 17 08:08:31 CEST 2018 - /Stream/Chicago_Med.html,s3e16 - Chicago Med
+1523945320 - Tue Apr 17 08:08:40 CEST 2018 - /Stream/The_Royals-1.html,s4e6 - The Royals
