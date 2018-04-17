@@ -8829,3 +8829,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523873065 - Mon Apr 16 12:04:25 CEST 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e8 - Ash vs Evil Dead
 1523873074 - Mon Apr 16 12:04:34 CEST 2018 - /Stream/Casualty.html,s32e32 - Casualty
 1523945150 - Tue Apr 17 08:05:50 CEST 2018 - /Stream/The_Darkest_Dawn-1.html - The Darkest Dawn
+1523945160 - Tue Apr 17 08:06:00 CEST 2018 - /Stream/Stunde_der_Entscheidung-1.html - Stunde der Entscheidung
