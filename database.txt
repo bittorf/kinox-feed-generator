@@ -8843,3 +8843,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1523945268 - Tue Apr 17 08:07:48 CEST 2018 - /Stream/Um_Himmels_Willen.html,s17e13 - Um Himmels Willen
 1523945278 - Tue Apr 17 08:07:58 CEST 2018 - /Stream/The_Walking_Dead-1.html,s8e16 - The Walking Dead
 1523945291 - Tue Apr 17 08:08:11 CEST 2018 - /Stream/How_to_Get_Away_with_Murder-1.html,s4e2 - How to Get Away with Murder
+1523945302 - Tue Apr 17 08:08:22 CEST 2018 - /Stream/Good_Girls.html,s1e8 - Good Girls
