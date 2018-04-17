@@ -8859,3 +8859,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524003087 - Wed Apr 18 00:11:27 CEST 2018 - /Stream/How_to_Live_with_Your_Parents_For_the_Rest_of_Your_Life-1.html,s1 - How to Live with Your Parents (For the Rest of Your Life)
 1524003097 - Wed Apr 18 00:11:37 CEST 2018 - /Stream/S-W-A-T-1.html,s1e13 - S.W.A.T.
 1524003106 - Wed Apr 18 00:11:46 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e5 - Chicago Fire
+1524003116 - Wed Apr 18 00:11:56 CEST 2018 - /Stream/Black_Lightning-2.html,s1e12 - Black Lightning
