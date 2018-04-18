@@ -8866,3 +8866,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524003152 - Wed Apr 18 00:12:32 CEST 2018 - /Stream/UnREAL-1.html,s3e8 - UnREAL
 1524003160 - Wed Apr 18 00:12:40 CEST 2018 - /Stream/Kevin_Can_Wait.html,s2e22 - Kevin Can Wait
 1524010376 - Wed Apr 18 02:12:56 CEST 2018 - /Stream/Auguste_Rodin.html - Auguste Rodin
+1524089636 - Thu Apr 19 00:13:56 CEST 2018 - /Stream/Shadowhunters-1.html,s3e5 - Shadowhunters
