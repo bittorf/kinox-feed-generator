@@ -8868,3 +8868,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524010376 - Wed Apr 18 02:12:56 CEST 2018 - /Stream/Auguste_Rodin.html - Auguste Rodin
 1524089636 - Thu Apr 19 00:13:56 CEST 2018 - /Stream/Shadowhunters-1.html,s3e5 - Shadowhunters
 1524089648 - Thu Apr 19 00:14:08 CEST 2018 - /Stream/The_Blacklist-1.html,s5e10 - The Blacklist
+1524089658 - Thu Apr 19 00:14:18 CEST 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e7 - Shameless - Nicht ganz nüchtern
