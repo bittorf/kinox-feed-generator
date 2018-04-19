@@ -8872,3 +8872,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524089668 - Thu Apr 19 00:14:28 CEST 2018 - /Stream/Lethal_Weapon-1.html,s2e19 - Lethal Weapon
 1524104087 - Thu Apr 19 04:14:47 CEST 2018 - /Stream/Peter_Hase.html - Peter Hase
 1524104103 - Thu Apr 19 04:15:03 CEST 2018 - /Stream/Gun_Shy-1.html - Gun Shy
+1524118536 - Thu Apr 19 08:15:36 CEST 2018 - /Stream/Criminal_Minds.html,s13 - Criminal Minds
