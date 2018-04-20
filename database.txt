@@ -8891,3 +8891,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524233957 - Fri Apr 20 16:19:17 CEST 2018 - /Stream/Supernatural-1.html,s13e19 - Supernatural
 1524233968 - Fri Apr 20 16:19:28 CEST 2018 - /Stream/ABC_Baer.html,s1e32 - ABC Bär
 1524233976 - Fri Apr 20 16:19:36 CEST 2018 - /Stream/Here_and_Now-1.html,s1e5 - Here and Now
+1524233985 - Fri Apr 20 16:19:45 CEST 2018 - /Stream/Ein_starkes_Team.html,s1e56 - Ein starkes Team
