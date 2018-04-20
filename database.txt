@@ -8886,3 +8886,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524233914 - Fri Apr 20 16:18:34 CEST 2018 - /Stream/Bosch.html,s2 - Bosch
 1524233922 - Fri Apr 20 16:18:42 CEST 2018 - /Stream/The_Big_Bang_Theory-1.html,s11e21 - The Big Bang Theory
 1524233932 - Fri Apr 20 16:18:52 CEST 2018 - /Stream/Blood_Drive-1.html,s1e11 - Blood Drive
+1524233940 - Fri Apr 20 16:19:00 CEST 2018 - /Stream/Navy_CIS_L-A.html,s9e9 - Navy CIS: L.A.
