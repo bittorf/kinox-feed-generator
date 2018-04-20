@@ -8880,3 +8880,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524140199 - Thu Apr 19 14:16:39 CEST 2018 - /Stream/Robot_Chicken-2.html,s9e8 - Robot Chicken
 1524140209 - Thu Apr 19 14:16:49 CEST 2018 - /Stream/Blockbustaz.html,s2e4 - Blockbustaz
 1524233879 - Fri Apr 20 16:17:59 CEST 2018 - /Stream/Young_Sheldon.html,s1e19 - Young Sheldon
+1524233887 - Fri Apr 20 16:18:07 CEST 2018 - /Stream/Arrow.html,s6e19 - Arrow
