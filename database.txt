@@ -8902,3 +8902,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524234073 - Fri Apr 20 16:21:13 CEST 2018 - /Stream/Designated_Survivor.html,s2e18 - Designated Survivor
 1524234082 - Fri Apr 20 16:21:22 CEST 2018 - /Stream/Superstore.html,s3e20 - Superstore
 1524234091 - Fri Apr 20 16:21:31 CEST 2018 - /Stream/Life_in_Pieces.html,s3e18 - Life in Pieces
+1524234100 - Fri Apr 20 16:21:40 CEST 2018 - /Stream/Chicago_PD.html,s5e20 - Chicago PD
