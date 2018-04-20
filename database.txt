@@ -8884,3 +8884,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524233897 - Fri Apr 20 16:18:17 CEST 2018 - /Stream/The_Orville-1.html,s1e9 - The Orville
 1524233905 - Fri Apr 20 16:18:25 CEST 2018 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s41e4 - Alarm für Cobra 11 - Die Autobahnpolizei
 1524233914 - Fri Apr 20 16:18:34 CEST 2018 - /Stream/Bosch.html,s2 - Bosch
+1524233922 - Fri Apr 20 16:18:42 CEST 2018 - /Stream/The_Big_Bang_Theory-1.html,s11e21 - The Big Bang Theory
