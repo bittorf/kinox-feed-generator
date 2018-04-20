@@ -8900,3 +8900,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524234054 - Fri Apr 20 16:20:54 CEST 2018 - /Stream/A-P-Bio.html,s1e11 - A.P. Bio
 1524234063 - Fri Apr 20 16:21:03 CEST 2018 - /Stream/Riverdale.html,s2e18 - Riverdale
 1524234073 - Fri Apr 20 16:21:13 CEST 2018 - /Stream/Designated_Survivor.html,s2e18 - Designated Survivor
+1524234082 - Fri Apr 20 16:21:22 CEST 2018 - /Stream/Superstore.html,s3e20 - Superstore
