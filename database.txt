@@ -8922,3 +8922,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524327939 - Sat Apr 21 18:25:39 CEST 2018 - /Stream/Greys_Anatomy.html,s14e20 - Grey's Anatomy
 1524327954 - Sat Apr 21 18:25:54 CEST 2018 - /Stream/Deep_State-1.html,s1e3 - Deep State
 1524327961 - Sat Apr 21 18:26:01 CEST 2018 - /Stream/Not_Going_Out.html,s9e7 - Not Going Out
+1524385607 - Sun Apr 22 10:26:47 CEST 2018 - /Stream/iZombie_german_subbed.html,s4e7 - iZombie *german subbed*
