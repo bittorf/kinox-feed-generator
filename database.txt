@@ -8928,3 +8928,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524385637 - Sun Apr 22 10:27:17 CEST 2018 - /Stream/Z_Nation-1.html,s4e7 - Z Nation
 1524385646 - Sun Apr 22 10:27:26 CEST 2018 - /Stream/The_Good_Fight-1.html,s2e8 - The Good Fight
 1524385655 - Sun Apr 22 10:27:35 CEST 2018 - /Stream/Ransom-1.html,s2e3 - Ransom
+1524385663 - Sun Apr 22 10:27:43 CEST 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e9 - Ash vs Evil Dead
