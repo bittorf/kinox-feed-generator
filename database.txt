@@ -8926,3 +8926,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524385620 - Sun Apr 22 10:27:00 CEST 2018 - /Stream/SEAL_Team-1.html,s1e11 - SEAL Team
 1524385628 - Sun Apr 22 10:27:08 CEST 2018 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s8e20 - Die Schatzsucher - Goldrausch in Alaska
 1524385637 - Sun Apr 22 10:27:17 CEST 2018 - /Stream/Z_Nation-1.html,s4e7 - Z Nation
+1524385646 - Sun Apr 22 10:27:26 CEST 2018 - /Stream/The_Good_Fight-1.html,s2e8 - The Good Fight
