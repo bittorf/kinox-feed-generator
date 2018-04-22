@@ -8937,3 +8937,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524436160 - Mon Apr 23 00:29:20 CEST 2018 - /Stream/Designated_Survivor-1.html,s2e17 - Designated Survivor
 1524436169 - Mon Apr 23 00:29:29 CEST 2018 - /Stream/Freaks-1.html,s1 - Freaks
 1524436176 - Mon Apr 23 00:29:36 CEST 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e17 - DsdS - Deutschland sucht den Superstar
+1524436186 - Mon Apr 23 00:29:46 CEST 2018 - /Stream/The_Heart_Guy.html,s2e9 - The Heart Guy
