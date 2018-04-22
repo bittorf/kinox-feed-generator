@@ -8932,3 +8932,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524400088 - Sun Apr 22 14:28:08 CEST 2018 - /Stream/Us_and_Them.html,s1e1 - Us and Them
 1524400097 - Sun Apr 22 14:28:17 CEST 2018 - /Stream/Gone-3.html,s1e1 - Gone
 1524400106 - Sun Apr 22 14:28:26 CEST 2018 - /Stream/Home_from_Home.html,s1e1 - Home from Home
+1524400113 - Sun Apr 22 14:28:33 CEST 2018 - /Stream/Aggretsuko.html,s1e1 - Aggretsuko
