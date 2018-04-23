@@ -8965,3 +8965,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524472448 - Mon Apr 23 10:34:08 CEST 2018 - /Stream/NCIS_Los_Angeles.html,s9e19 - NCIS: Los Angeles
 1524472457 - Mon Apr 23 10:34:17 CEST 2018 - /Stream/The_Simpsons.html,s29e17 - The Simpsons
 1524522903 - Tue Apr 24 00:35:03 CEST 2018 - /Stream/Befreiung.html - Befreiung
+1524522914 - Tue Apr 24 00:35:14 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e26 - Neo Magazin
