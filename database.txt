@@ -8959,3 +8959,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524472390 - Mon Apr 23 10:33:10 CEST 2018 - /Stream/Timeless-1.html,s2e6 - Timeless
 1524472399 - Mon Apr 23 10:33:19 CEST 2018 - /Stream/Westworld-2.html,s2e1 - Westworld
 1524472409 - Mon Apr 23 10:33:29 CEST 2018 - /Stream/Lucifer-1.html,s3e21 - Lucifer
+1524472419 - Mon Apr 23 10:33:39 CEST 2018 - /Stream/Billions.html,s3e5 - Billions
