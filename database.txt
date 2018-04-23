@@ -8968,3 +8968,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524522914 - Tue Apr 24 00:35:14 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e26 - Neo Magazin
 1524522926 - Tue Apr 24 00:35:26 CEST 2018 - /Stream/Westworld-3.html,s2e1 - Westworld
 1524522939 - Tue Apr 24 00:35:39 CEST 2018 - /Stream/Law-Order_True_Crime-1.html,s1e1 - Law & Order True Crime
+1524522950 - Tue Apr 24 00:35:50 CEST 2018 - /Stream/How_to_Get_Away_with_Murder-1.html,s4e3 - How to Get Away with Murder
