@@ -8980,3 +8980,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524523030 - Tue Apr 24 00:37:10 CEST 2018 - /Stream/Fear_the_Walking_Dead-1.html,s4e2 - Fear the Walking Dead
 1524523039 - Tue Apr 24 00:37:19 CEST 2018 - /Stream/Scorpion-1.html,s8e21 - Scorpion
 1524523048 - Tue Apr 24 00:37:28 CEST 2018 - /Stream/The_Great_Indoors-1.html,s1e5 - The Great Indoors
+1524523057 - Tue Apr 24 00:37:37 CEST 2018 - /Stream/The_Good_Doctor-2.html,s1e16 - The Good Doctor
