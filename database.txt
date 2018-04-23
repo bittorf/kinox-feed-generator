@@ -8975,3 +8975,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524522987 - Tue Apr 24 00:36:27 CEST 2018 - /Stream/Die_Einkreisung.html,s1 - Die Einkreisung
 1524522995 - Tue Apr 24 00:36:35 CEST 2018 - /Stream/The_Odd_Couple-1.html,s3e4 - The Odd Couple
 1524523003 - Tue Apr 24 00:36:43 CEST 2018 - /Stream/The_Royals.html,s4e1 - The Royals
+1524523012 - Tue Apr 24 00:36:52 CEST 2018 - /Stream/Claws-1.html,s1e4 - Claws
