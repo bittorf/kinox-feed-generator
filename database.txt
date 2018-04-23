@@ -8970,3 +8970,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524522939 - Tue Apr 24 00:35:39 CEST 2018 - /Stream/Law-Order_True_Crime-1.html,s1e1 - Law & Order True Crime
 1524522950 - Tue Apr 24 00:35:50 CEST 2018 - /Stream/How_to_Get_Away_with_Murder-1.html,s4e3 - How to Get Away with Murder
 1524522960 - Tue Apr 24 00:36:00 CEST 2018 - /Stream/Legion-3.html,s2e3 - Legion
+1524522969 - Tue Apr 24 00:36:09 CEST 2018 - /Stream/Son_of_Zorn-1.html,s1e8 - Son of Zorn
