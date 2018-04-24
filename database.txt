@@ -9013,3 +9013,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524609835 - Wed Apr 25 00:43:55 CEST 2018 - /Stream/Come_Sunday.html - Come Sunday
 1524609851 - Wed Apr 25 00:44:11 CEST 2018 - /Stream/Dangal-Die_Hoffnung_auf_den_grossen_Sieg.html - Dangal - Die Hoffnung auf den groﬂen Sieg
 1524609862 - Wed Apr 25 00:44:22 CEST 2018 - /Stream/Contract_to_Kill.html - Contract to Kill
+1524609874 - Wed Apr 25 00:44:34 CEST 2018 - /Stream/Dangerous_Minds-Wilde_Gedanken.html - Dangerous Minds - Wilde Gedanken
