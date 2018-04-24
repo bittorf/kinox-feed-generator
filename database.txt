@@ -8991,3 +8991,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524559164 - Tue Apr 24 10:39:24 CEST 2018 - /Stream/Beyond_Reality-Das_Casino_der_Magier.html - Beyond Reality - Das Casino der Magier
 1524559173 - Tue Apr 24 10:39:33 CEST 2018 - /Stream/Basmati_Blues.html - Basmati Blues
 1524559184 - Tue Apr 24 10:39:44 CEST 2018 - /Stream/Borg_McEnroe-Duell_zweier_Gladiatoren.html - Borg McEnroe - Duell zweier Gladiatoren
+1524559197 - Tue Apr 24 10:39:57 CEST 2018 - /Stream/Blitz-Cop_Killer_vs-Killer_Cop.html - Blitz - Cop Killer vs. Killer Cop
