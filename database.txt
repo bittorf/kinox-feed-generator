@@ -9007,3 +9007,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524559336 - Tue Apr 24 10:42:16 CEST 2018 - /Stream/American_Dad-1.html,s14e11 - American Dad!
 1524566553 - Tue Apr 24 12:42:33 CEST 2018 - /Stream/The_Middle-1.html,s8e3 - The Middle.
 1524566566 - Tue Apr 24 12:42:46 CEST 2018 - /Stream/School_of_Rock-2.html,s3 - School of Rock
+1524566576 - Tue Apr 24 12:42:56 CEST 2018 - /Stream/Siren_german_subbed.html,s1e1 - Siren *german subbed*
