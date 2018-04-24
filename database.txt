@@ -9029,3 +9029,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524610013 - Wed Apr 25 00:46:53 CEST 2018 - /Stream/Family_Guy.html,s15 - Family Guy
 1524610024 - Wed Apr 25 00:47:04 CEST 2018 - /Stream/UnREAL-1.html,s3e9 - UnREAL
 1524610032 - Wed Apr 25 00:47:12 CEST 2018 - /Stream/Taken-5.html,s2 - Taken
+1524610042 - Wed Apr 25 00:47:22 CEST 2018 - /Stream/The_Alienist.html,s1 - The Alienist
