@@ -8983,3 +8983,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524523057 - Tue Apr 24 00:37:37 CEST 2018 - /Stream/The_Good_Doctor-2.html,s1e16 - The Good Doctor
 1524523065 - Tue Apr 24 00:37:45 CEST 2018 - /Stream/Aggretsuko-1.html,s1 - Aggretsuko
 1524551896 - Tue Apr 24 08:38:16 CEST 2018 - /Stream/Gone-3.html,s1e6 - Gone
+1524551907 - Tue Apr 24 08:38:27 CEST 2018 - /Stream/Good_Girls.html,s1e9 - Good Girls
