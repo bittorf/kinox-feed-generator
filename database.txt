@@ -9019,3 +9019,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524609910 - Wed Apr 25 00:45:10 CEST 2018 - /Stream/Camp-1.html - Camp
 1524609920 - Wed Apr 25 00:45:20 CEST 2018 - /Stream/Carnera-Der_Groesste_Boxer_Aller_Zeiten.html - Carnera - Der Grösste Boxer Aller Zeiten!
 1524609931 - Wed Apr 25 00:45:31 CEST 2018 - /Stream/Commando_2.html - Commando 2
+1524609941 - Wed Apr 25 00:45:41 CEST 2018 - /Stream/Das_Camp_des_Grauens_3.html - Das Camp des Grauens 3
