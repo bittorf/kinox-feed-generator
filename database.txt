@@ -8986,3 +8986,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524551907 - Tue Apr 24 08:38:27 CEST 2018 - /Stream/Good_Girls.html,s1e9 - Good Girls
 1524551915 - Tue Apr 24 08:38:35 CEST 2018 - /Stream/iZombie.html,s4e8 - iZombie
 1524551925 - Tue Apr 24 08:38:45 CEST 2018 - /Stream/Cops.html,s30e29 - Cops
+1524551933 - Tue Apr 24 08:38:53 CEST 2018 - /Stream/Super_Girl.html,s3e15 - Super Girl
