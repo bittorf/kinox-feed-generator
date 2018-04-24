@@ -9028,3 +9028,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524610003 - Wed Apr 25 00:46:43 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e6 - Chicago Fire
 1524610013 - Wed Apr 25 00:46:53 CEST 2018 - /Stream/Family_Guy.html,s15 - Family Guy
 1524610024 - Wed Apr 25 00:47:04 CEST 2018 - /Stream/UnREAL-1.html,s3e9 - UnREAL
+1524610032 - Wed Apr 25 00:47:12 CEST 2018 - /Stream/Taken-5.html,s2 - Taken
