@@ -9025,3 +9025,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524609971 - Wed Apr 25 00:46:11 CEST 2018 - /Stream/Line_of_Duty-1.html,s4 - Line of Duty
 1524609983 - Wed Apr 25 00:46:23 CEST 2018 - /Stream/Black_Lightning-2.html,s1 - Black Lightning
 1524609993 - Wed Apr 25 00:46:33 CEST 2018 - /Stream/Billions-1.html,s3e5 - Billions
+1524610003 - Wed Apr 25 00:46:43 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e6 - Chicago Fire
