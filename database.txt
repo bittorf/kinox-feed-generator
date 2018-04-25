@@ -9034,3 +9034,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524646089 - Wed Apr 25 10:48:09 CEST 2018 - /Stream/Bubba_the_Redneck_Werewolf-1.html - Bubba the Redneck Werewolf
 1524646097 - Wed Apr 25 10:48:17 CEST 2018 - /Stream/LA_to_Vegas.html,s1e14 - LA to Vegas
 1524646106 - Wed Apr 25 10:48:26 CEST 2018 - /Stream/Genius-1.html,s2 - Genius.
+1524646114 - Wed Apr 25 10:48:34 CEST 2018 - /Stream/Lethal_Weapon-1.html,s2e20 - Lethal Weapon
