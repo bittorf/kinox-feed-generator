@@ -9041,3 +9041,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524646153 - Wed Apr 25 10:49:13 CEST 2018 - /Stream/New_Girl.html,s7e3 - New Girl
 1524646163 - Wed Apr 25 10:49:23 CEST 2018 - /Stream/Rise-1.html,s1e7 - Rise
 1524646171 - Wed Apr 25 10:49:31 CEST 2018 - /Stream/Deception-4.html,s1e7 - Deception
+1524646180 - Wed Apr 25 10:49:40 CEST 2018 - /Stream/Legion-2.html,s2e4 - Legion
