@@ -9039,3 +9039,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524646133 - Wed Apr 25 10:48:53 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e17 - Agents of S.H.I.E.L.D. *german subbed*
 1524646143 - Wed Apr 25 10:49:03 CEST 2018 - /Stream/Arrow_german_subbed.html,s6e18 - Arrow *german subbed*
 1524646153 - Wed Apr 25 10:49:13 CEST 2018 - /Stream/New_Girl.html,s7e3 - New Girl
+1524646163 - Wed Apr 25 10:49:23 CEST 2018 - /Stream/Rise-1.html,s1e7 - Rise
