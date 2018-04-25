@@ -9036,3 +9036,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524646106 - Wed Apr 25 10:48:26 CEST 2018 - /Stream/Genius-1.html,s2 - Genius.
 1524646114 - Wed Apr 25 10:48:34 CEST 2018 - /Stream/Lethal_Weapon-1.html,s2e20 - Lethal Weapon
 1524646122 - Wed Apr 25 10:48:42 CEST 2018 - /Stream/Shadowhunters.html,s3e6 - Shadowhunters
+1524646133 - Wed Apr 25 10:48:53 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e17 - Agents of S.H.I.E.L.D. *german subbed*
