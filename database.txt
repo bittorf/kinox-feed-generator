@@ -9088,3 +9088,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524733063 - Thu Apr 26 10:57:43 CEST 2018 - /Stream/SEAL_Team.html,s1e19 - SEAL Team
 1524733071 - Thu Apr 26 10:57:51 CEST 2018 - /Stream/Alex_Inc.html,s1 - Alex, Inc.
 1524733079 - Thu Apr 26 10:57:59 CEST 2018 - /Stream/Riverdale.html,s2e19 - Riverdale
+1524733089 - Thu Apr 26 10:58:09 CEST 2018 - /Stream/Designated_Survivor.html,s2e19 - Designated Survivor
