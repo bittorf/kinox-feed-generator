@@ -9068,3 +9068,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524732881 - Thu Apr 26 10:54:41 CEST 2018 - /Stream/A_Christmas_Cruise.html - A Christmas Cruise
 1524732891 - Thu Apr 26 10:54:51 CEST 2018 - /Stream/Long_Time_Running.html - Long Time Running
 1524732900 - Thu Apr 26 10:55:00 CEST 2018 - /Stream/Sound_of_Christmas.html - Sound of Christmas
+1524732910 - Thu Apr 26 10:55:10 CEST 2018 - /Stream/Christmas_Getaway.html - Christmas Getaway
