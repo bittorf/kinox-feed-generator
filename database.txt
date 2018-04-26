@@ -9104,3 +9104,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524776443 - Thu Apr 26 23:00:43 CEST 2018 - /Stream/Dead_Lucky.html - Dead Lucky
 1524776451 - Thu Apr 26 23:00:51 CEST 2018 - /Stream/Scarecrows-1.html - Scarecrows
 1524776460 - Thu Apr 26 23:01:00 CEST 2018 - /Stream/Ant-Decs_Saturday_Night_Takeaway.html,s1e1 - Ant & Dec's Saturday Night Takeaway
+1524776472 - Thu Apr 26 23:01:12 CEST 2018 - /Stream/Van_Helsing-3.html,s2 - Van Helsing
