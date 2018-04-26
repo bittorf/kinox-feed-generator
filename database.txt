@@ -9095,3 +9095,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524733126 - Thu Apr 26 10:58:46 CEST 2018 - /Stream/The_Blacklist.html,s5e19 - The Blacklist
 1524733135 - Thu Apr 26 10:58:55 CEST 2018 - /Stream/Major_Crimes.html,s8 - Major Crimes
 1524733145 - Thu Apr 26 10:59:05 CEST 2018 - /Stream/Benidorm.html,s10e8 - Benidorm
+1524733154 - Thu Apr 26 10:59:14 CEST 2018 - /Stream/Shameless-1.html,s8 - Shameless
