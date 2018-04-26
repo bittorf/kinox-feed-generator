@@ -9082,3 +9082,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524733011 - Thu Apr 26 10:56:51 CEST 2018 - /Stream/Empire-3.html,s4e14 - Empire
 1524733020 - Thu Apr 26 10:57:00 CEST 2018 - /Stream/Krypton.html,s1e6 - Krypton
 1524733028 - Thu Apr 26 10:57:08 CEST 2018 - /Stream/The_Americans.html,s6e5 - The Americans
+1524733037 - Thu Apr 26 10:57:17 CEST 2018 - /Stream/Suits.html,s7 - Suits
