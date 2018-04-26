@@ -9096,3 +9096,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524733135 - Thu Apr 26 10:58:55 CEST 2018 - /Stream/Major_Crimes.html,s8 - Major Crimes
 1524733145 - Thu Apr 26 10:59:05 CEST 2018 - /Stream/Benidorm.html,s10e8 - Benidorm
 1524733154 - Thu Apr 26 10:59:14 CEST 2018 - /Stream/Shameless-1.html,s8 - Shameless
+1524776393 - Thu Apr 26 22:59:53 CEST 2018 - /Stream/Titan-Evolve_or_Die.html - Titan - Evolve or Die
