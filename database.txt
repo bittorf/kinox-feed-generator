@@ -9074,3 +9074,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524732935 - Thu Apr 26 10:55:35 CEST 2018 - /Stream/Des_Teufels_General.html - Des Teufels General
 1524732944 - Thu Apr 26 10:55:44 CEST 2018 - /Stream/Der_schwarze_Reiter-1.html - Der schwarze Reiter
 1524732953 - Thu Apr 26 10:55:53 CEST 2018 - /Stream/Die_Legende_von_Paul_und_Paula.html - Die Legende von Paul und Paula
+1524732961 - Thu Apr 26 10:56:01 CEST 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e8 - Shameless - Nicht ganz nüchtern
