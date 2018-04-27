@@ -9153,3 +9153,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524863387 - Fri Apr 27 23:09:47 CEST 2018 - /Stream/ADDRNOTSETYET-30.html,s2 - 3%
 1524863395 - Fri Apr 27 23:09:55 CEST 2018 - /Stream/Atlanta-1.html,s2e8 - Atlanta
 1524863407 - Fri Apr 27 23:10:07 CEST 2018 - /Stream/School_of_Rock-2.html,s3e5 - School of Rock
+1524863417 - Fri Apr 27 23:10:17 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e27 - Neo Magazin
