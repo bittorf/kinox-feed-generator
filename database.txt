@@ -9128,3 +9128,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524812705 - Fri Apr 27 09:05:05 CEST 2018 - /Stream/Karen_Kingsburys_Maggies_Christmas_Miracle.html - Karen Kingsbury's Maggie's Christmas Miracle
 1524812714 - Fri Apr 27 09:05:14 CEST 2018 - /Stream/Fixer_Upper.html,s5e2 - Fixer Upper
 1524812722 - Fri Apr 27 09:05:22 CEST 2018 - /Stream/Jeremiah_Tower_The_Last_Magnificent.html,s1e1 - Jeremiah Tower: The Last Magnificent
+1524812732 - Fri Apr 27 09:05:32 CEST 2018 - /Stream/Young_Sheldon.html,s1e20 - Young Sheldon
