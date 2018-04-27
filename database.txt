@@ -9138,3 +9138,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524812793 - Fri Apr 27 09:06:33 CEST 2018 - /Stream/Arrow.html,s6e20 - Arrow
 1524812802 - Fri Apr 27 09:06:42 CEST 2018 - /Stream/The_Big_Bang_Theory-1.html,s11e22 - The Big Bang Theory
 1524812812 - Fri Apr 27 09:06:52 CEST 2018 - /Stream/Life_in_Pieces.html,s3e19 - Life in Pieces
+1524812821 - Fri Apr 27 09:07:01 CEST 2018 - /Stream/Supernatural-1.html,s13e20 - Supernatural
