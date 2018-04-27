@@ -9161,3 +9161,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524870690 - Sat Apr 28 01:11:30 CEST 2018 - /Stream/Unfallen.html - Unfallen
 1524870699 - Sat Apr 28 01:11:39 CEST 2018 - /Stream/Jessica_und_das_Rentier.html - Jessica und das Rentier
 1524870708 - Sat Apr 28 01:11:48 CEST 2018 - /Stream/HHhH.html - HHhH
+1524870719 - Sat Apr 28 01:11:59 CEST 2018 - /Stream/California_Typewriter.html - California Typewriter
