@@ -9136,3 +9136,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524812776 - Fri Apr 27 09:06:16 CEST 2018 - /Stream/A-P-Bio.html,s1e12 - A.P. Bio
 1524812784 - Fri Apr 27 09:06:24 CEST 2018 - /Stream/Chicago_Fire.html,s6e20 - Chicago Fire
 1524812793 - Fri Apr 27 09:06:33 CEST 2018 - /Stream/Arrow.html,s6e20 - Arrow
+1524812802 - Fri Apr 27 09:06:42 CEST 2018 - /Stream/The_Big_Bang_Theory-1.html,s11e22 - The Big Bang Theory
