@@ -9282,3 +9282,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524951023 - Sat Apr 28 23:30:23 CEST 2018 - /Stream/Leanders_letzte_Reise.html - Leanders letzte Reise
 1524951034 - Sat Apr 28 23:30:34 CEST 2018 - /Stream/9-1-1-1.html,s1 - 9-1-1
 1524951043 - Sat Apr 28 23:30:43 CEST 2018 - /Stream/The_Dangerous_Book_for_Boys.html,s1e1 - The Dangerous Book for Boys
+1524951052 - Sat Apr 28 23:30:52 CEST 2018 - /Stream/The_New_Legends_of_Monkey.html,s1 - The New Legends of Monkey
