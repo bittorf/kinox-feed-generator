@@ -9252,3 +9252,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524907543 - Sat Apr 28 11:25:43 CEST 2018 - /Stream/Speed_Dragon.html,s1e1 - Speed Dragon
 1524907551 - Sat Apr 28 11:25:51 CEST 2018 - /Stream/Chicago_Med-1.html,s3e6 - Chicago Med
 1524907560 - Sat Apr 28 11:26:00 CEST 2018 - /Stream/SEAL_Team-1.html,s1e12 - SEAL Team
+1524907569 - Sat Apr 28 11:26:09 CEST 2018 - /Stream/S-W-A-T-1.html,s1e14 - S.W.A.T.
