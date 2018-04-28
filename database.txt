@@ -9188,3 +9188,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524870934 - Sat Apr 28 01:15:34 CEST 2018 - /Stream/Melodies_Old_and_New.html,s1e1 - Melodies Old and New
 1524870943 - Sat Apr 28 01:15:43 CEST 2018 - /Stream/The_Thinning.html,s1e1 - The Thinning
 1524906982 - Sat Apr 28 11:16:22 CEST 2018 - /Stream/Song_of_Arizona.html - Song of Arizona
+1524906996 - Sat Apr 28 11:16:36 CEST 2018 - /Stream/El_auge_del_humano.html - El auge del humano
