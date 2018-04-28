@@ -9253,3 +9253,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524907551 - Sat Apr 28 11:25:51 CEST 2018 - /Stream/Chicago_Med-1.html,s3e6 - Chicago Med
 1524907560 - Sat Apr 28 11:26:00 CEST 2018 - /Stream/SEAL_Team-1.html,s1e12 - SEAL Team
 1524907569 - Sat Apr 28 11:26:09 CEST 2018 - /Stream/S-W-A-T-1.html,s1e14 - S.W.A.T.
+1524907577 - Sat Apr 28 11:26:17 CEST 2018 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s41e5 - Alarm für Cobra 11 - Die Autobahnpolizei
