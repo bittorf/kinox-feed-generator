@@ -9256,3 +9256,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524907577 - Sat Apr 28 11:26:17 CEST 2018 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s41e5 - Alarm für Cobra 11 - Die Autobahnpolizei
 1524907588 - Sat Apr 28 11:26:28 CEST 2018 - /Stream/Designated_Survivor-1.html,s2e18 - Designated Survivor
 1524907596 - Sat Apr 28 11:26:36 CEST 2018 - /Stream/Blindspot.html,s3e19 - Blindspot
+1524907604 - Sat Apr 28 11:26:44 CEST 2018 - /Stream/Quantico.html,s3e1 - Quantico
