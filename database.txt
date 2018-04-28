@@ -9260,3 +9260,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524907614 - Sat Apr 28 11:26:54 CEST 2018 - /Stream/Life_Sentence.html,s1e6 - Life Sentence
 1524907622 - Sat Apr 28 11:27:02 CEST 2018 - /Stream/Dynasty-1.html,s1e20 - Dynasty
 1524907631 - Sat Apr 28 11:27:11 CEST 2018 - /Stream/MacGyver-2.html,s2e22 - MacGyver
+1524907639 - Sat Apr 28 11:27:19 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D.html,s5e19 - Agents of S.H.I.E.L.D.
