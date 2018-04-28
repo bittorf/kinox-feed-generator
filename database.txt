@@ -9258,3 +9258,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524907596 - Sat Apr 28 11:26:36 CEST 2018 - /Stream/Blindspot.html,s3e19 - Blindspot
 1524907604 - Sat Apr 28 11:26:44 CEST 2018 - /Stream/Quantico.html,s3e1 - Quantico
 1524907614 - Sat Apr 28 11:26:54 CEST 2018 - /Stream/Life_Sentence.html,s1e6 - Life Sentence
+1524907622 - Sat Apr 28 11:27:02 CEST 2018 - /Stream/Dynasty-1.html,s1e20 - Dynasty
