@@ -9285,3 +9285,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1524951052 - Sat Apr 28 23:30:52 CEST 2018 - /Stream/The_New_Legends_of_Monkey.html,s1 - The New Legends of Monkey
 1524951060 - Sat Apr 28 23:31:00 CEST 2018 - /Stream/ADDRNOTSETYET-30.html,s2e1 - 3%
 1525030319 - Sun Apr 29 21:31:59 CEST 2018 - /Stream/Avengers_Infinity_War-1.html - Avengers: Infinity War
+1525030344 - Sun Apr 29 21:32:24 CEST 2018 - /Stream/Jede_Menge_Kohle.html - Jede Menge Kohle
