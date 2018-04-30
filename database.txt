@@ -9337,3 +9337,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525095638 - Mon Apr 30 15:40:38 CEST 2018 - /Stream/Mein_Bruder_Kain.html - Mein Bruder Kain
 1525095648 - Mon Apr 30 15:40:48 CEST 2018 - /Stream/Mein_Weihnachtstraum.html - Mein Weihnachtstraum
 1525095658 - Mon Apr 30 15:40:58 CEST 2018 - /Stream/Mister_Twister-Eine_Klasse_macht_Camping.html - Mister Twister - Eine Klasse macht Camping
+1525095668 - Mon Apr 30 15:41:08 CEST 2018 - /Stream/Mister_Twister-Maeuse_Laeuse_und_Theater.html - Mister Twister - Mäuse, Läuse und Theater
