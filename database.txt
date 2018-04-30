@@ -9309,3 +9309,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525088177 - Mon Apr 30 13:36:17 CEST 2018 - /Stream/Notruf_Hafenkante.html,s9e19 - Notruf Hafenkante
 1525088187 - Mon Apr 30 13:36:27 CEST 2018 - /Stream/The_Arrangement-1.html,s2e8 - The Arrangement
 1525088194 - Mon Apr 30 13:36:34 CEST 2018 - /Stream/Z_Nation-1.html,s4e8 - Z Nation
+1525088202 - Mon Apr 30 13:36:42 CEST 2018 - /Stream/Madam_Secretary.html,s4e19 - Madam Secretary
