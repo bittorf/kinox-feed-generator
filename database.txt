@@ -9316,3 +9316,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525088241 - Mon Apr 30 13:37:21 CEST 2018 - /Stream/Bobs_Burgers.html,s8e16 - Bob's Burgers
 1525088251 - Mon Apr 30 13:37:31 CEST 2018 - /Stream/Family_Guy-1.html,s16e17 - Family Guy
 1525088260 - Mon Apr 30 13:37:40 CEST 2018 - /Stream/Fear_the_Walking_Dead.html,s4e3 - Fear the Walking Dead
+1525088268 - Mon Apr 30 13:37:48 CEST 2018 - /Stream/Good_Witch.html,s4e1 - Good Witch
