@@ -9354,3 +9354,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525124611 - Mon Apr 30 23:43:31 CEST 2018 - /Stream/Terra_X-Die_Reise_der_Menschheit-Der_Aufbruch.html - Terra X : Die Reise der Menschheit - Der Aufbruch
 1525124613 - Mon Apr 30 23:43:33 CEST 2018 - /Stream/Stan_Lees_Superhumans-Die_Unzerstoerbaren.html - Stan Lee's Superhumans - Die Unzerstörbaren
 1525124615 - Mon Apr 30 23:43:35 CEST 2018 - /Stream/Roar_der_gefaehrlichste_Film_aller_Zeiten.html - Roar: der gefährlichste Film aller Zeiten
+1525124617 - Mon Apr 30 23:43:37 CEST 2018 - /Stream/Hooligans-Der_Kick_der_Gewalt.html - Hooligans - Der Kick der Gewalt
