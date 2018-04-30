@@ -9332,3 +9332,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525088383 - Mon Apr 30 13:39:43 CEST 2018 - /Stream/The_Detail.html,s1e6 - The Detail
 1525088391 - Mon Apr 30 13:39:51 CEST 2018 - /Stream/Billions.html,s3e6 - Billions
 1525088400 - Mon Apr 30 13:40:00 CEST 2018 - /Stream/iZombie_german_subbed.html,s4e8 - iZombie *german subbed*
+1525088411 - Mon Apr 30 13:40:11 CEST 2018 - /Stream/Lucifer_german_subbed.html,s3e21 - Lucifer *german subbed*
