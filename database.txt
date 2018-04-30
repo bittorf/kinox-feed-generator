@@ -9335,3 +9335,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525088411 - Mon Apr 30 13:40:11 CEST 2018 - /Stream/Lucifer_german_subbed.html,s3e21 - Lucifer *german subbed*
 1525088419 - Mon Apr 30 13:40:19 CEST 2018 - /Stream/The_Originals_german_subbed.html,s5e1 - The Originals *german subbed*
 1525095638 - Mon Apr 30 15:40:38 CEST 2018 - /Stream/Mein_Bruder_Kain.html - Mein Bruder Kain
+1525095648 - Mon Apr 30 15:40:48 CEST 2018 - /Stream/Mein_Weihnachtstraum.html - Mein Weihnachtstraum
