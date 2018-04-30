@@ -9330,3 +9330,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525088367 - Mon Apr 30 13:39:27 CEST 2018 - /Stream/Into_the_Badlands.html,s3e2 - Into the Badlands
 1525088375 - Mon Apr 30 13:39:35 CEST 2018 - /Stream/Deception-4.html,s1e8 - Deception
 1525088383 - Mon Apr 30 13:39:43 CEST 2018 - /Stream/The_Detail.html,s1e6 - The Detail
+1525088391 - Mon Apr 30 13:39:51 CEST 2018 - /Stream/Billions.html,s3e6 - Billions
