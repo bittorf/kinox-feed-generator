@@ -9352,3 +9352,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525124600 - Mon Apr 30 23:43:20 CEST 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e18 - DsdS - Deutschland sucht den Superstar
 1525124609 - Mon Apr 30 23:43:29 CEST 2018 - /Stream/Fremdenlegion_Die_haerteste_Elitetruppe_der_Welt.html - Fremdenlegion: Die härteste Elitetruppe der Welt
 1525124611 - Mon Apr 30 23:43:31 CEST 2018 - /Stream/Terra_X-Die_Reise_der_Menschheit-Der_Aufbruch.html - Terra X : Die Reise der Menschheit - Der Aufbruch
+1525124613 - Mon Apr 30 23:43:33 CEST 2018 - /Stream/Stan_Lees_Superhumans-Die_Unzerstoerbaren.html - Stan Lee's Superhumans - Die Unzerstörbaren
