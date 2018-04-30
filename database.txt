@@ -9320,3 +9320,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525088276 - Mon Apr 30 13:37:56 CEST 2018 - /Stream/Brooklyn_Nine-Nine.html,s5e19 - Brooklyn Nine-Nine
 1525088286 - Mon Apr 30 13:38:06 CEST 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e10 - Ash vs Evil Dead
 1525088294 - Mon Apr 30 13:38:14 CEST 2018 - /Stream/The_Good_Fight-1.html,s2e9 - The Good Fight
+1525088302 - Mon Apr 30 13:38:22 CEST 2018 - /Stream/The_Simpsons.html,s29e18 - The Simpsons
