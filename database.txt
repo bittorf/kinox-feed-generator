@@ -9318,3 +9318,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525088260 - Mon Apr 30 13:37:40 CEST 2018 - /Stream/Fear_the_Walking_Dead.html,s4e3 - Fear the Walking Dead
 1525088268 - Mon Apr 30 13:37:48 CEST 2018 - /Stream/Good_Witch.html,s4e1 - Good Witch
 1525088276 - Mon Apr 30 13:37:56 CEST 2018 - /Stream/Brooklyn_Nine-Nine.html,s5e19 - Brooklyn Nine-Nine
+1525088286 - Mon Apr 30 13:38:06 CEST 2018 - /Stream/Ash_vs_Evil_Dead.html,s3e10 - Ash vs Evil Dead
