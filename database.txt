@@ -9349,3 +9349,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525124573 - Mon Apr 30 23:42:53 CEST 2018 - /Stream/Nightmare-Schlaf_nicht_ein.html - Nightmare - Schlaf nicht ein!
 1525124580 - Mon Apr 30 23:43:00 CEST 2018 - /Stream/My_Little_Pony_Der_Film.html - My Little Pony: Der Film
 1525124590 - Mon Apr 30 23:43:10 CEST 2018 - /Stream/Mister_Universum.html - Mister Universum
+1525124600 - Mon Apr 30 23:43:20 CEST 2018 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s15e18 - DsdS - Deutschland sucht den Superstar
