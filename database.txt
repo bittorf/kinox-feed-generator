@@ -9362,3 +9362,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525160681 - Tue May  1 09:44:41 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e7 - Chicago Fire
 1525160690 - Tue May  1 09:44:50 CEST 2018 - /Stream/The_Resident-3.html,s1e12 - The Resident
 1525160699 - Tue May  1 09:44:59 CEST 2018 - /Stream/Good_Girls.html,s1e10 - Good Girls
+1525160707 - Tue May  1 09:45:07 CEST 2018 - /Stream/Superior_Donuts.html,s2e19 - Superior Donuts
