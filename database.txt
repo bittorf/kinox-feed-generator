@@ -9387,3 +9387,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525211349 - Tue May  1 23:49:09 CEST 2018 - /Stream/Wir_lieben_das_Leben-1.html - Wir lieben das Leben
 1525211357 - Tue May  1 23:49:17 CEST 2018 - /Stream/NCIS_New_Orleans-1.html,s3e20 - NCIS: New Orleans
 1525211365 - Tue May  1 23:49:25 CEST 2018 - /Stream/UnREAL-1.html,s3e10 - UnREAL
+1525211373 - Tue May  1 23:49:33 CEST 2018 - /Stream/Lethal_Weapon-2.html,s2e12 - Lethal Weapon
