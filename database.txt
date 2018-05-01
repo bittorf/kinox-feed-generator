@@ -9369,3 +9369,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525160744 - Tue May  1 09:45:44 CEST 2018 - /Stream/Elementary.html,s6e1 - Elementary
 1525175168 - Tue May  1 13:46:08 CEST 2018 - /Stream/Superstition-1.html,s1 - Superstition
 1525175176 - Tue May  1 13:46:16 CEST 2018 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s14e3 - Grey's Anatomy - Die jungen Ärzte
+1525175186 - Tue May  1 13:46:26 CEST 2018 - /Stream/Billions-1.html,s3e6 - Billions
