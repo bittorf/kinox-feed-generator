@@ -9394,3 +9394,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525211408 - Tue May  1 23:50:08 CEST 2018 - /Stream/How_to_Get_Away_with_Murder-1.html,s4e4 - How to Get Away with Murder
 1525211416 - Tue May  1 23:50:16 CEST 2018 - /Stream/Kevin_Can_Wait-1.html,s2e21 - Kevin Can Wait
 1525211425 - Tue May  1 23:50:25 CEST 2018 - /Stream/Blindspot-1.html,s3e1 - Blindspot
+1525211434 - Tue May  1 23:50:34 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e7 - Shades of Blue
