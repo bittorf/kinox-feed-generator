@@ -9390,3 +9390,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525211373 - Tue May  1 23:49:33 CEST 2018 - /Stream/Lethal_Weapon-2.html,s2e12 - Lethal Weapon
 1525211382 - Tue May  1 23:49:42 CEST 2018 - /Stream/The_Royals.html,s4e2 - The Royals
 1525211390 - Tue May  1 23:49:50 CEST 2018 - /Stream/Robot_Chicken-2.html,s9e10 - Robot Chicken
+1525211399 - Tue May  1 23:49:59 CEST 2018 - /Stream/Fear_the_Walking_Dead-1.html,s4e3 - Fear the Walking Dead
