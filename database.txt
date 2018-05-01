@@ -9367,3 +9367,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525160726 - Tue May  1 09:45:26 CEST 2018 - /Stream/Super_Girl.html,s3e16 - Super Girl
 1525160735 - Tue May  1 09:45:35 CEST 2018 - /Stream/iZombie.html,s4e9 - iZombie
 1525160744 - Tue May  1 09:45:44 CEST 2018 - /Stream/Elementary.html,s6e1 - Elementary
+1525175168 - Tue May  1 13:46:08 CEST 2018 - /Stream/Superstition-1.html,s1 - Superstition
