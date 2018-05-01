@@ -9379,3 +9379,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525182457 - Tue May  1 15:47:37 CEST 2018 - /Stream/Pawn_Stars.html,s15e26 - Pawn Stars
 1525189672 - Tue May  1 17:47:52 CEST 2018 - /Stream/Hey_Bunny-1.html - Hey Bunny
 1525189680 - Tue May  1 17:48:00 CEST 2018 - /Stream/Hostile-1.html - Hostile
+1525189689 - Tue May  1 17:48:09 CEST 2018 - /Stream/Tierisch_Cool-Ein_Hund_in_New_York.html - Tierisch Cool - Ein Hund in New York
