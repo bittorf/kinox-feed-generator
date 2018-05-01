@@ -9360,3 +9360,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525160664 - Tue May  1 09:44:24 CEST 2018 - /Stream/Westworld-3.html,s2e2 - Westworld
 1525160672 - Tue May  1 09:44:32 CEST 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e9 - Shameless - Nicht ganz nüchtern
 1525160681 - Tue May  1 09:44:41 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e7 - Chicago Fire
+1525160690 - Tue May  1 09:44:50 CEST 2018 - /Stream/The_Resident-3.html,s1e12 - The Resident
