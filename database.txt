@@ -9358,3 +9358,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525124619 - Mon Apr 30 23:43:39 CEST 2018 - /Stream/Rockerkrieg_Aufstieg_der_Hells_Angels.html - Rockerkrieg: Aufstieg der Hells Angels
 1525160654 - Tue May  1 09:44:14 CEST 2018 - /Stream/Die_Ehre_der_Prizzis.html - Die Ehre der Prizzis
 1525160664 - Tue May  1 09:44:24 CEST 2018 - /Stream/Westworld-3.html,s2e2 - Westworld
+1525160672 - Tue May  1 09:44:32 CEST 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e9 - Shameless - Nicht ganz nüchtern
