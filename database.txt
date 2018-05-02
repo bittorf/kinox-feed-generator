@@ -9414,3 +9414,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525247641 - Wed May  2 09:54:01 CEST 2018 - /Stream/Black-ish-1.html,s4e21 - Black-ish
 1525247650 - Wed May  2 09:54:10 CEST 2018 - /Stream/Legion-2.html,s2e5 - Legion
 1525247659 - Wed May  2 09:54:19 CEST 2018 - /Stream/Bull.html,s2e21 - Bull
+1525247667 - Wed May  2 09:54:27 CEST 2018 - /Stream/Chicago_Med.html,s3e18 - Chicago Med
