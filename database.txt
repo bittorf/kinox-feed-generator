@@ -9420,3 +9420,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525247694 - Wed May  2 09:54:54 CEST 2018 - /Stream/Holby_City.html,s20e18 - Holby City
 1525247705 - Wed May  2 09:55:05 CEST 2018 - /Stream/The_Middle.html,s9e20 - The Middle.
 1525247714 - Wed May  2 09:55:14 CEST 2018 - /Stream/NCIS_Naval_Criminal_Investigative_Service.html,s15e21 - NCIS: Naval Criminal Investigative Service
+1525262135 - Wed May  2 13:55:35 CEST 2018 - /Stream/Gregorys_Two_Girls.html - Gregory's Two Girls
