@@ -9439,3 +9439,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525298316 - Wed May  2 23:58:36 CEST 2018 - /Stream/Gotham_german_subbed-1.html,s4e17 - Gotham *german subbed*
 1525298326 - Wed May  2 23:58:46 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e18 - Agents of S.H.I.E.L.D. *german subbed*
 1525298335 - Wed May  2 23:58:55 CEST 2018 - /Stream/Homeland_german_subbed.html,s7 - Homeland *german subbed*
+1525298348 - Wed May  2 23:59:08 CEST 2018 - /Stream/Supernatural_german_subbed.html,s13e19 - Supernatural *german subbed*
