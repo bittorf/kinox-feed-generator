@@ -9424,3 +9424,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525262146 - Wed May  2 13:55:46 CEST 2018 - /Stream/Kill_Switch-1.html - Kill Switch
 1525283780 - Wed May  2 19:56:20 CEST 2018 - /Stream/Selten_so_gelacht.html - Selten so gelacht
 1525283790 - Wed May  2 19:56:30 CEST 2018 - /Stream/No_Problem-2.html - No Problem
+1525283799 - Wed May  2 19:56:39 CEST 2018 - /Stream/Liebe_mit_Tricks.html - Liebe mit Tricks
