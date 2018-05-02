@@ -9398,3 +9398,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525211443 - Tue May  1 23:50:43 CEST 2018 - /Stream/Ash_vs_Evil_Dead-1.html,s3e10 - Ash vs Evil Dead
 1525247483 - Wed May  2 09:51:23 CEST 2018 - /Stream/Black_Panther-3.html - Black Panther
 1525247510 - Wed May  2 09:51:50 CEST 2018 - /Stream/Darc-1.html - Darc
+1525247519 - Wed May  2 09:51:59 CEST 2018 - /Stream/Herzensbrecher.html - Herzensbrecher
