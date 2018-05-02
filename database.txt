@@ -9428,3 +9428,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525283807 - Wed May  2 19:56:47 CEST 2018 - /Stream/Pudsey-Ein_tierisch_cooler_Held.html - Pudsey - Ein tierisch cooler Held
 1525291025 - Wed May  2 21:57:05 CEST 2018 - /Stream/Batman_Ninja.html - Batman Ninja
 1525291034 - Wed May  2 21:57:14 CEST 2018 - /Stream/Soldiers_of_Fortune.html - Soldiers of Fortune
+1525291042 - Wed May  2 21:57:22 CEST 2018 - /Stream/The_Good_Doctor-2.html,s1e18 - The Good Doctor
