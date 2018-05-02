@@ -9435,3 +9435,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525298284 - Wed May  2 23:58:04 CEST 2018 - /Stream/Siren_german_subbed.html,s1 - Siren *german subbed*
 1525298293 - Wed May  2 23:58:13 CEST 2018 - /Stream/Roseanne_german_subbed.html,s10 - Roseanne *german subbed*
 1525298301 - Wed May  2 23:58:21 CEST 2018 - /Stream/For_the_People.html,s1e7 - For the People
+1525298308 - Wed May  2 23:58:28 CEST 2018 - /Stream/Counterpart_german_subbed.html,s1e10 - Counterpart *german subbed*
