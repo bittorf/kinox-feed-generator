@@ -9437,3 +9437,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525298301 - Wed May  2 23:58:21 CEST 2018 - /Stream/For_the_People.html,s1e7 - For the People
 1525298308 - Wed May  2 23:58:28 CEST 2018 - /Stream/Counterpart_german_subbed.html,s1e10 - Counterpart *german subbed*
 1525298316 - Wed May  2 23:58:36 CEST 2018 - /Stream/Gotham_german_subbed-1.html,s4e17 - Gotham *german subbed*
+1525298326 - Wed May  2 23:58:46 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e18 - Agents of S.H.I.E.L.D. *german subbed*
