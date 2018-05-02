@@ -9426,3 +9426,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525283790 - Wed May  2 19:56:30 CEST 2018 - /Stream/No_Problem-2.html - No Problem
 1525283799 - Wed May  2 19:56:39 CEST 2018 - /Stream/Liebe_mit_Tricks.html - Liebe mit Tricks
 1525283807 - Wed May  2 19:56:47 CEST 2018 - /Stream/Pudsey-Ein_tierisch_cooler_Held.html - Pudsey - Ein tierisch cooler Held
+1525291025 - Wed May  2 21:57:05 CEST 2018 - /Stream/Batman_Ninja.html - Batman Ninja
