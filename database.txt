@@ -9400,3 +9400,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525247510 - Wed May  2 09:51:50 CEST 2018 - /Stream/Darc-1.html - Darc
 1525247519 - Wed May  2 09:51:59 CEST 2018 - /Stream/Herzensbrecher.html - Herzensbrecher
 1525247529 - Wed May  2 09:52:09 CEST 2018 - /Stream/Pottoriginale_Roadmovie.html - Pottoriginale: Roadmovie
+1525247537 - Wed May  2 09:52:17 CEST 2018 - /Stream/Der_Tod_ritt_dienstags.html - Der Tod ritt dienstags
