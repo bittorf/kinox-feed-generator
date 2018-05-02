@@ -9407,3 +9407,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525247576 - Wed May  2 09:52:56 CEST 2018 - /Stream/Deep_State.html,s1e4 - Deep State
 1525247586 - Wed May  2 09:53:06 CEST 2018 - /Stream/The_Middle-1.html,s8e4 - The Middle.
 1525247596 - Wed May  2 09:53:16 CEST 2018 - /Stream/Roseanne-1.html,s10e6 - Roseanne
+1525247606 - Wed May  2 09:53:26 CEST 2018 - /Stream/New_Girl.html,s7e4 - New Girl
