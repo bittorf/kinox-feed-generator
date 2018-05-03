@@ -9441,3 +9441,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525298335 - Wed May  2 23:58:55 CEST 2018 - /Stream/Homeland_german_subbed.html,s7 - Homeland *german subbed*
 1525298348 - Wed May  2 23:59:08 CEST 2018 - /Stream/Supernatural_german_subbed.html,s13e19 - Supernatural *german subbed*
 1525334382 - Thu May  3 09:59:42 CEST 2018 - /Stream/Gomudeppou.html - Gomudeppou
+1525334391 - Thu May  3 09:59:51 CEST 2018 - /Stream/Geister_All_Inclusive.html - Geister: All Inclusive
