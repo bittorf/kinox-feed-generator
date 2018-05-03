@@ -9468,3 +9468,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525334615 - Thu May  3 10:03:35 CEST 2018 - /Stream/Colony-1.html,s3e1 - Colony
 1525334623 - Thu May  3 10:03:43 CEST 2018 - /Stream/Krypton.html,s1e7 - Krypton
 1525334630 - Thu May  3 10:03:50 CEST 2018 - /Stream/Empire-3.html,s4e15 - Empire
+1525334639 - Thu May  3 10:03:59 CEST 2018 - /Stream/Chicago_PD.html,s5e21 - Chicago PD
