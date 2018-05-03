@@ -9465,3 +9465,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525334583 - Thu May  3 10:03:03 CEST 2018 - /Stream/Modern_Family.html,s9e20 - Modern Family
 1525334593 - Thu May  3 10:03:13 CEST 2018 - /Stream/Law-Order_Special_Victims_Unit.html,s19e20 - Law & Order: Special Victims Unit
 1525334605 - Thu May  3 10:03:25 CEST 2018 - /Stream/The_Blacklist.html,s5e20 - The Blacklist
+1525334615 - Thu May  3 10:03:35 CEST 2018 - /Stream/Colony-1.html,s3e1 - Colony
