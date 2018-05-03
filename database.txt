@@ -9458,3 +9458,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525334521 - Thu May  3 10:02:01 CEST 2018 - /Stream/Navy_CIS_L-A.html,s9e11 - Navy CIS: L.A.
 1525334533 - Thu May  3 10:02:13 CEST 2018 - /Stream/SEAL_Team.html,s1e20 - SEAL Team
 1525334542 - Thu May  3 10:02:22 CEST 2018 - /Stream/The_Expanse.html,s3e4 - The Expanse
+1525334550 - Thu May  3 10:02:30 CEST 2018 - /Stream/The_Goldbergs.html,s5e20 - The Goldbergs
