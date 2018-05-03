@@ -9456,3 +9456,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525334501 - Thu May  3 10:01:41 CEST 2018 - /Stream/Blood_Drive-1.html,s1e13 - Blood Drive
 1525334511 - Thu May  3 10:01:51 CEST 2018 - /Stream/Here_and_Now-1.html,s1e7 - Here and Now
 1525334521 - Thu May  3 10:02:01 CEST 2018 - /Stream/Navy_CIS_L-A.html,s9e11 - Navy CIS: L.A.
+1525334533 - Thu May  3 10:02:13 CEST 2018 - /Stream/SEAL_Team.html,s1e20 - SEAL Team
