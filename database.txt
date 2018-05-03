@@ -9461,3 +9461,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525334550 - Thu May  3 10:02:30 CEST 2018 - /Stream/The_Goldbergs.html,s5e20 - The Goldbergs
 1525334558 - Thu May  3 10:02:38 CEST 2018 - /Stream/Star-1.html,s2e15 - Star
 1525334567 - Thu May  3 10:02:47 CEST 2018 - /Stream/The_Originals.html,s5e3 - The Originals
+1525334575 - Thu May  3 10:02:55 CEST 2018 - /Stream/The_Americans.html,s6e6 - The Americans
