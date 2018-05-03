@@ -9471,3 +9471,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525334639 - Thu May  3 10:03:59 CEST 2018 - /Stream/Chicago_PD.html,s5e21 - Chicago PD
 1525334648 - Thu May  3 10:04:08 CEST 2018 - /Stream/Archer-1.html,s9e2 - Archer
 1525334656 - Thu May  3 10:04:16 CEST 2018 - /Stream/American_Housewife.html,s2e22 - American Housewife
+1525385098 - Fri May  4 00:04:58 CEST 2018 - /Stream/Shadowhunters-2.html,s3 - Shadowhunters
