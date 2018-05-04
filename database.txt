@@ -9517,3 +9517,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525457585 - Fri May  4 20:13:05 CEST 2018 - /Stream/The_Flash-1.html,s4e1 - The Flash
 1525457596 - Fri May  4 20:13:16 CEST 2018 - /Stream/Gotham-1.html,s4e1 - Gotham
 1525457607 - Fri May  4 20:13:27 CEST 2018 - /Stream/UFOs_Zwischen_Wahrheit_und_Verschwoerung-Area_52.html - UFOs: Zwischen Wahrheit und Verschwörung - Area 52
+1525457609 - Fri May  4 20:13:29 CEST 2018 - /Stream/Kick_and_Cash_Macht_Geld_den_Fussball_kaputt.html - Kick and Cash: Macht Geld den Fußball kaputt?
