@@ -9488,3 +9488,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525435688 - Fri May  4 14:08:08 CEST 2018 - /Stream/Gran_Casino_Tampico.html - Gran Casino (Tampico)
 1525435697 - Fri May  4 14:08:17 CEST 2018 - /Stream/Gorgo-Die_Superbestie_schlaegt_zu.html - Gorgo - Die Superbestie schlägt zu
 1525435705 - Fri May  4 14:08:25 CEST 2018 - /Stream/Geliebte_Corinna.html - Geliebte Corinna
+1525435714 - Fri May  4 14:08:34 CEST 2018 - /Stream/Elena_of_Avalor.html,s2e1 - Elena of Avalor
