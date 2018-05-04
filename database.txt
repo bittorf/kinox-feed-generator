@@ -9477,3 +9477,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525385130 - Fri May  4 00:05:30 CEST 2018 - /Stream/Lethal_Weapon_german_subbed.html,s2e18 - Lethal Weapon *german subbed*
 1525385140 - Fri May  4 00:05:40 CEST 2018 - /Stream/Arrow_german_subbed.html,s6e19 - Arrow *german subbed*
 1525385148 - Fri May  4 00:05:48 CEST 2018 - /Stream/Supernatural_german_subbed.html,s13e20 - Supernatural *german subbed*
+1525435602 - Fri May  4 14:06:42 CEST 2018 - /Stream/Beast_of_Burden.html - Beast of Burden
