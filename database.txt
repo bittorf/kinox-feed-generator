@@ -9534,3 +9534,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525472131 - Sat May  5 00:15:31 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e28 - Neo Magazin
 1525472142 - Sat May  5 00:15:42 CEST 2018 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s41e6 - Alarm für Cobra 11 - Die Autobahnpolizei
 1525472155 - Sat May  5 00:15:55 CEST 2018 - /Stream/Genius_Einstein.html,s2e3 - Genius: Einstein
+1525472163 - Sat May  5 00:16:03 CEST 2018 - /Stream/Legion-3.html,s2e5 - Legion
