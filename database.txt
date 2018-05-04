@@ -9531,3 +9531,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525472102 - Sat May  5 00:15:02 CEST 2018 - /Stream/Mom-1.html,s5 - Mom
 1525472112 - Sat May  5 00:15:12 CEST 2018 - /Stream/SEAL_Team-1.html,s1e13 - SEAL Team
 1525472122 - Sat May  5 00:15:22 CEST 2018 - /Stream/Bull-1.html,s2e13 - Bull
+1525472131 - Sat May  5 00:15:31 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e28 - Neo Magazin
