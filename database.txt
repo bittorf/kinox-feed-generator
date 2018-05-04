@@ -9495,3 +9495,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525435750 - Fri May  4 14:09:10 CEST 2018 - /Stream/The_100_german_subbed.html,s5e2 - The 100 *german subbed*
 1525435761 - Fri May  4 14:09:21 CEST 2018 - /Stream/Imposters-1.html,s1 - Imposters
 1525435769 - Fri May  4 14:09:29 CEST 2018 - /Stream/Lucifer_german_subbed.html,s3e22 - Lucifer *german subbed*
+1525435780 - Fri May  4 14:09:40 CEST 2018 - /Stream/Lethal_Weapon_german_subbed.html,s2 - Lethal Weapon *german subbed*
