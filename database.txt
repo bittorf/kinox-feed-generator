@@ -9492,3 +9492,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525435722 - Fri May  4 14:08:42 CEST 2018 - /Stream/Gotham_german_subbed-1.html,s4e18 - Gotham *german subbed*
 1525435731 - Fri May  4 14:08:51 CEST 2018 - /Stream/The_Path-1.html,s3e2 - The Path
 1525435740 - Fri May  4 14:09:00 CEST 2018 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s14 - Grey's Anatomy - Die jungen Ärzte
+1525435750 - Fri May  4 14:09:10 CEST 2018 - /Stream/The_100_german_subbed.html,s5e2 - The 100 *german subbed*
