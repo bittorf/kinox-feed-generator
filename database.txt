@@ -9529,3 +9529,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525472079 - Sat May  5 00:14:39 CEST 2018 - /Stream/Der_Exorzist_III.html - Der Exorzist III
 1525472090 - Sat May  5 00:14:50 CEST 2018 - /Stream/Designated_Survivor-1.html,s2e19 - Designated Survivor
 1525472102 - Sat May  5 00:15:02 CEST 2018 - /Stream/Mom-1.html,s5 - Mom
+1525472112 - Sat May  5 00:15:12 CEST 2018 - /Stream/SEAL_Team-1.html,s1e13 - SEAL Team
