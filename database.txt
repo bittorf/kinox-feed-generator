@@ -9520,3 +9520,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525457609 - Fri May  4 20:13:29 CEST 2018 - /Stream/Kick_and_Cash_Macht_Geld_den_Fussball_kaputt.html - Kick and Cash: Macht Geld den Fußball kaputt?
 1525457611 - Fri May  4 20:13:31 CEST 2018 - /Stream/1000_Tage_Angst_Das_Manhattan_Projekt-Teil_2.html - 1000 Tage Angst: Das Manhattan Projekt - Teil 2
 1525457612 - Fri May  4 20:13:32 CEST 2018 - /Stream/Der_unbekannte_Terrorist_Jaber_Albakr_und_das_Versagen_des_Staates.html - Der unbekannte Terrorist: Jaber Albakr und das Versagen des Staates
+1525457615 - Fri May  4 20:13:35 CEST 2018 - /Stream/Loewe_vs_Giraffe.html - Löwe vs Giraffe
