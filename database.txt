@@ -9522,3 +9522,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525457612 - Fri May  4 20:13:32 CEST 2018 - /Stream/Der_unbekannte_Terrorist_Jaber_Albakr_und_das_Versagen_des_Staates.html - Der unbekannte Terrorist: Jaber Albakr und das Versagen des Staates
 1525457615 - Fri May  4 20:13:35 CEST 2018 - /Stream/Loewe_vs_Giraffe.html - Löwe vs Giraffe
 1525457617 - Fri May  4 20:13:37 CEST 2018 - /Stream/Rockerkrieg_Mord_und_Verrat.html - Rockerkrieg: Mord und Verrat
+1525472037 - Sat May  5 00:13:57 CEST 2018 - /Stream/Zombies_Ueberlebe_die_Untoten.html - Zombies! Überlebe die Untoten
