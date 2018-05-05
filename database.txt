@@ -9548,3 +9548,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525501104 - Sat May  5 08:18:24 CEST 2018 - /Stream/Life_Sentence.html,s1e7 - Life Sentence
 1525501112 - Sat May  5 08:18:32 CEST 2018 - /Stream/Dynasty-1.html,s1e21 - Dynasty
 1525501120 - Sat May  5 08:18:40 CEST 2018 - /Stream/Elena_of_Avalor.html,s2e2 - Elena of Avalor
+1525501128 - Sat May  5 08:18:48 CEST 2018 - /Stream/MacGyver-2.html,s2e23 - MacGyver
