@@ -9567,3 +9567,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525623788 - Sun May  6 18:23:08 CEST 2018 - /Stream/High_and_Dry-1.html,s1e1 - High and Dry
 1525623795 - Sun May  6 18:23:15 CEST 2018 - /Stream/Plebs.html,s4e5 - Plebs
 1525623804 - Sun May  6 18:23:24 CEST 2018 - /Stream/Imposters.html,s2e5 - Imposters
+1525623812 - Sun May  6 18:23:32 CEST 2018 - /Stream/American_Dad-1.html,s15e11 - American Dad!
