@@ -9571,3 +9571,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525645440 - Mon May  7 00:24:00 CEST 2018 - /Stream/Voll_verschleiert.html - Voll verschleiert
 1525645457 - Mon May  7 00:24:17 CEST 2018 - /Stream/Burg_Schreckenstein_2.html - Burg Schreckenstein 2
 1525645472 - Mon May  7 00:24:32 CEST 2018 - /Stream/Lady_Frankenstein.html - Lady Frankenstein
+1525645488 - Mon May  7 00:24:48 CEST 2018 - /Stream/Supergirl-2.html,s3e1 - Supergirl
