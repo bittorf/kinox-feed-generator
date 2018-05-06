@@ -9563,3 +9563,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525623754 - Sun May  6 18:22:34 CEST 2018 - /Stream/Life_in_Pieces-1.html,s3e18 - Life in Pieces
 1525623762 - Sun May  6 18:22:42 CEST 2018 - /Stream/The_Crossing-1.html,s1 - The Crossing
 1525623769 - Sun May  6 18:22:49 CEST 2018 - /Stream/Ransom-1.html,s2e5 - Ransom
+1525623779 - Sun May  6 18:22:59 CEST 2018 - /Stream/Supergirl-2.html,s3e2 - Supergirl
