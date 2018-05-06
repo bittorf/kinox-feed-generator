@@ -9569,3 +9569,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525623804 - Sun May  6 18:23:24 CEST 2018 - /Stream/Imposters.html,s2e5 - Imposters
 1525623812 - Sun May  6 18:23:32 CEST 2018 - /Stream/American_Dad-1.html,s15e11 - American Dad!
 1525645440 - Mon May  7 00:24:00 CEST 2018 - /Stream/Voll_verschleiert.html - Voll verschleiert
+1525645457 - Mon May  7 00:24:17 CEST 2018 - /Stream/Burg_Schreckenstein_2.html - Burg Schreckenstein 2
