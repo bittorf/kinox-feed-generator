@@ -9579,3 +9579,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525681595 - Mon May  7 10:26:35 CEST 2018 - /Stream/The_Simpsons.html,s29e19 - The Simpsons
 1525681608 - Mon May  7 10:26:48 CEST 2018 - /Stream/Designated_Survivor-1.html,s2 - Designated Survivor
 1525681619 - Mon May  7 10:26:59 CEST 2018 - /Stream/Supergirl-2.html,s3 - Supergirl
+1525681629 - Mon May  7 10:27:09 CEST 2018 - /Stream/Dynasty-2.html,s1e21 - Dynasty
