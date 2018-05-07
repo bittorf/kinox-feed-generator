@@ -9589,3 +9589,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525681698 - Mon May  7 10:28:18 CEST 2018 - /Stream/The_Royals-1.html,s4e9 - The Royals
 1525681706 - Mon May  7 10:28:26 CEST 2018 - /Stream/Into_the_Badlands.html,s3e3 - Into the Badlands
 1525681718 - Mon May  7 10:28:38 CEST 2018 - /Stream/The_Last_Man_on_Earth-2.html,s4e18 - The Last Man on Earth
+1525681726 - Mon May  7 10:28:46 CEST 2018 - /Stream/Brooklyn_Nine-Nine.html,s5e20 - Brooklyn Nine-Nine
