@@ -9601,3 +9601,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525681813 - Mon May  7 10:30:13 CEST 2018 - /Stream/Timeless-1.html,s2e8 - Timeless
 1525681822 - Mon May  7 10:30:22 CEST 2018 - /Stream/Lucifer-1.html,s3e23 - Lucifer
 1525681830 - Mon May  7 10:30:30 CEST 2018 - /Stream/Billions.html,s3e7 - Billions
+1525681841 - Mon May  7 10:30:41 CEST 2018 - /Stream/Fear_the_Walking_Dead.html,s4e4 - Fear the Walking Dead
