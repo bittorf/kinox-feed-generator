@@ -9576,3 +9576,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525681565 - Mon May  7 10:26:05 CEST 2018 - /Stream/Girls_Club_2-Vorsicht_bissig.html - Girls Club 2 - Vorsicht bissig!
 1525681576 - Mon May  7 10:26:16 CEST 2018 - /Stream/Riverdale-1.html,s2e20 - Riverdale
 1525681585 - Mon May  7 10:26:25 CEST 2018 - /Stream/Ice.html,s1 - Ice
+1525681595 - Mon May  7 10:26:35 CEST 2018 - /Stream/The_Simpsons.html,s29e19 - The Simpsons
