@@ -9582,3 +9582,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525681629 - Mon May  7 10:27:09 CEST 2018 - /Stream/Dynasty-2.html,s1e21 - Dynasty
 1525681639 - Mon May  7 10:27:19 CEST 2018 - /Stream/9-1-1-1.html,s1e7 - 9-1-1
 1525681648 - Mon May  7 10:27:28 CEST 2018 - /Stream/The_Crossing-1.html,s1e2 - The Crossing
+1525681657 - Mon May  7 10:27:37 CEST 2018 - /Stream/Magda_macht_das_schon.html,s2e1 - Magda macht das schon!
