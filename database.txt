@@ -9587,3 +9587,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525681678 - Mon May  7 10:27:58 CEST 2018 - /Stream/The_Detail.html,s1e7 - The Detail
 1525681688 - Mon May  7 10:28:08 CEST 2018 - /Stream/The_Arrangement-1.html,s2e9 - The Arrangement
 1525681698 - Mon May  7 10:28:18 CEST 2018 - /Stream/The_Royals-1.html,s4e9 - The Royals
+1525681706 - Mon May  7 10:28:26 CEST 2018 - /Stream/Into_the_Badlands.html,s3e3 - Into the Badlands
