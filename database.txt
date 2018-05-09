@@ -9618,3 +9618,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525905317 - Thu May 10 00:35:17 CEST 2018 - /Stream/Roseanne-1.html,s10e7 - Roseanne
 1525905326 - Thu May 10 00:35:26 CEST 2018 - /Stream/For_the_People.html,s1e8 - For the People
 1525905334 - Thu May 10 00:35:34 CEST 2018 - /Stream/Rise-1.html,s1e9 - Rise
+1525905342 - Thu May 10 00:35:42 CEST 2018 - /Stream/Legion-2.html,s2e6 - Legion
