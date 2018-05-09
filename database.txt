@@ -9615,3 +9615,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525905293 - Thu May 10 00:34:53 CEST 2018 - /Stream/Deep_State.html,s1e5 - Deep State
 1525905301 - Thu May 10 00:35:01 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e8 - Shades of Blue
 1525905309 - Thu May 10 00:35:09 CEST 2018 - /Stream/The_Last_O-G.html,s1e6 - The Last O.G.
+1525905317 - Thu May 10 00:35:17 CEST 2018 - /Stream/Roseanne-1.html,s10e7 - Roseanne
