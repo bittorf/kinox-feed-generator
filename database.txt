@@ -9613,3 +9613,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525818816 - Wed May  9 00:33:36 CEST 2018 - /Stream/Sherlock_Gnomes-1.html - Sherlock Gnomes
 1525905280 - Thu May 10 00:34:40 CEST 2018 - /Stream/Silicon_Valley-1.html,s5e1 - Silicon Valley
 1525905293 - Thu May 10 00:34:53 CEST 2018 - /Stream/Deep_State.html,s1e5 - Deep State
+1525905301 - Thu May 10 00:35:01 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e8 - Shades of Blue
