@@ -9622,3 +9622,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525905350 - Thu May 10 00:35:50 CEST 2018 - /Stream/Lethal_Weapon-1.html,s2e22 - Lethal Weapon
 1525905358 - Thu May 10 00:35:58 CEST 2018 - /Stream/Bull.html,s2e22 - Bull
 1525905367 - Thu May 10 00:36:07 CEST 2018 - /Stream/Shadowhunters.html,s3e8 - Shadowhunters
+1525905376 - Thu May 10 00:36:16 CEST 2018 - /Stream/Chicago_Med.html,s3e19 - Chicago Med
