@@ -9620,3 +9620,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525905334 - Thu May 10 00:35:34 CEST 2018 - /Stream/Rise-1.html,s1e9 - Rise
 1525905342 - Thu May 10 00:35:42 CEST 2018 - /Stream/Legion-2.html,s2e6 - Legion
 1525905350 - Thu May 10 00:35:50 CEST 2018 - /Stream/Lethal_Weapon-1.html,s2e22 - Lethal Weapon
+1525905358 - Thu May 10 00:35:58 CEST 2018 - /Stream/Bull.html,s2e22 - Bull
