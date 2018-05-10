@@ -9653,3 +9653,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525992092 - Fri May 11 00:41:32 CEST 2018 - /Stream/The_Blacklist.html,s5e21 - The Blacklist
 1525992102 - Fri May 11 00:41:42 CEST 2018 - /Stream/The_Goldbergs.html,s5e21 - The Goldbergs
 1525992112 - Fri May 11 00:41:52 CEST 2018 - /Stream/The_Americans.html,s6e7 - The Americans
+1525992122 - Fri May 11 00:42:02 CEST 2018 - /Stream/Archer-1.html,s9e3 - Archer
