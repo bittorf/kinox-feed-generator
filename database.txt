@@ -9638,3 +9638,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1525991959 - Fri May 11 00:39:19 CEST 2018 - /Stream/The_Orville-1.html,s1 - The Orville
 1525991966 - Fri May 11 00:39:26 CEST 2018 - /Stream/Fear_the_Walking_Dead-1.html,s4e4 - Fear the Walking Dead
 1525991975 - Fri May 11 00:39:35 CEST 2018 - /Stream/iZombie.html,s4e10 - iZombie
+1525991983 - Fri May 11 00:39:43 CEST 2018 - /Stream/Colony-1.html,s3e2 - Colony
