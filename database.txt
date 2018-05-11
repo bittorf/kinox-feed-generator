@@ -9659,3 +9659,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526042589 - Fri May 11 14:43:09 CEST 2018 - /Stream/Feinde-Hostiles.html - Feinde - Hostiles
 1526042601 - Fri May 11 14:43:21 CEST 2018 - /Stream/Es_war_einmal_Indianerland.html - Es war einmal Indianerland
 1526042608 - Fri May 11 14:43:28 CEST 2018 - /Stream/Honey_4_Lebe_Deinen_Traum.html - Honey 4: Lebe Deinen Traum
+1526042617 - Fri May 11 14:43:37 CEST 2018 - /Stream/Kein_Mann_fuer_leichte_Stunden.html - Kein Mann für leichte Stunden
