@@ -9667,3 +9667,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526085892 - Sat May 12 02:44:52 CEST 2018 - /Stream/The_Expanse_german_subbed.html,s3 - The Expanse *german subbed*
 1526085901 - Sat May 12 02:45:01 CEST 2018 - /Stream/Station_19.html,s1e9 - Station 19
 1526085911 - Sat May 12 02:45:11 CEST 2018 - /Stream/Siren-2.html,s1e8 - Siren
+1526085945 - Sat May 12 02:45:45 CEST 2018 - /Stream/S-W-A-T-2.html,s1e21 - S.W.A.T.
