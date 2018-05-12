@@ -9687,3 +9687,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526150953 - Sat May 12 20:49:13 CEST 2018 - /Stream/Das_ist_erst_der_Anfang.html - Das ist erst der Anfang
 1526165373 - Sun May 13 00:49:33 CEST 2018 - /Stream/Supergirl-2.html,s3e3 - Supergirl
 1526165384 - Sun May 13 00:49:44 CEST 2018 - /Stream/Baskets-1.html,s2 - Baskets
+1526165391 - Sun May 13 00:49:51 CEST 2018 - /Stream/Designated_Survivor-1.html,s2e20 - Designated Survivor
