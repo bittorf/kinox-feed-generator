@@ -9663,3 +9663,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526042625 - Fri May 11 14:43:45 CEST 2018 - /Stream/Das_Joshua-Profil.html - Das Joshua-Profil
 1526085863 - Sat May 12 02:44:23 CEST 2018 - /Stream/Elementary_german_subbed.html,s6e1 - Elementary *german subbed*
 1526085873 - Sat May 12 02:44:33 CEST 2018 - /Stream/Lucifer_german_subbed.html,s3e23 - Lucifer *german subbed*
+1526085882 - Sat May 12 02:44:42 CEST 2018 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s5e19 - Agents of S.H.I.E.L.D. *german subbed*
