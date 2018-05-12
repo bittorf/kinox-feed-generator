@@ -9677,3 +9677,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526086011 - Sat May 12 02:46:51 CEST 2018 - /Stream/Arrow.html,s6e22 - Arrow
 1526086021 - Sat May 12 02:47:01 CEST 2018 - /Stream/The_Big_Bang_Theory-1.html,s11e24 - The Big Bang Theory
 1526086031 - Sat May 12 02:47:11 CEST 2018 - /Stream/Greys_Anatomy.html,s14e23 - Grey's Anatomy
+1526136475 - Sat May 12 16:47:55 CEST 2018 - /Stream/Supergirl-2.html,s3e4 - Supergirl
