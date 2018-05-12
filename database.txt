@@ -9661,3 +9661,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526042608 - Fri May 11 14:43:28 CEST 2018 - /Stream/Honey_4_Lebe_Deinen_Traum.html - Honey 4: Lebe Deinen Traum
 1526042617 - Fri May 11 14:43:37 CEST 2018 - /Stream/Kein_Mann_fuer_leichte_Stunden.html - Kein Mann für leichte Stunden
 1526042625 - Fri May 11 14:43:45 CEST 2018 - /Stream/Das_Joshua-Profil.html - Das Joshua-Profil
+1526085863 - Sat May 12 02:44:23 CEST 2018 - /Stream/Elementary_german_subbed.html,s6e1 - Elementary *german subbed*
