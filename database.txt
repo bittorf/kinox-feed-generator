@@ -9696,3 +9696,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526165442 - Sun May 13 00:50:42 CEST 2018 - /Stream/Blindspot-1.html,s3 - Blindspot
 1526165452 - Sun May 13 00:50:52 CEST 2018 - /Stream/Atlanta-1.html,s2e10 - Atlanta
 1526165462 - Sun May 13 00:51:02 CEST 2018 - /Stream/Chicago_Med-1.html,s3e8 - Chicago Med
+1526165471 - Sun May 13 00:51:11 CEST 2018 - /Stream/In_aller_Freundschaft-Die_jungen_Aerzte.html,s4e12 - In aller Freundschaft - Die jungen Ärzte
