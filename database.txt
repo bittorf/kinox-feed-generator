@@ -9700,3 +9700,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526165480 - Sun May 13 00:51:20 CEST 2018 - /Stream/The_Royals.html,s4e3 - The Royals
 1526165489 - Sun May 13 00:51:29 CEST 2018 - /Stream/9-1-1-1.html,s1e8 - 9-1-1
 1526165496 - Sun May 13 00:51:36 CEST 2018 - /Stream/Genius_Einstein.html,s2e4 - Genius: Einstein
+1526165505 - Sun May 13 00:51:45 CEST 2018 - /Stream/Chicago_Fire.html,s6e22 - Chicago Fire
