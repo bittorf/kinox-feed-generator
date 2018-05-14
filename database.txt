@@ -9745,3 +9745,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526281220 - Mon May 14 09:00:20 CEST 2018 - /Stream/Deception-4.html,s1e10 - Deception
 1526281228 - Mon May 14 09:00:28 CEST 2018 - /Stream/Timeless-1.html,s2e9 - Timeless
 1526281239 - Mon May 14 09:00:39 CEST 2018 - /Stream/The_Royals-1.html,s4e10 - The Royals
+1526281248 - Mon May 14 09:00:48 CEST 2018 - /Stream/Fear_the_Walking_Dead.html,s4e5 - Fear the Walking Dead
