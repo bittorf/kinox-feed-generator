@@ -9759,3 +9759,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526331807 - Mon May 14 23:03:27 CEST 2018 - /Stream/The_Walking_Dead.html,s9e22 - The Walking Dead
 1526331816 - Mon May 14 23:03:36 CEST 2018 - /Stream/The_Walking_Dead.html,s2 - The Walking Dead
 1526331827 - Mon May 14 23:03:47 CEST 2018 - /Stream/The_Walking_Dead.html,s1 - The Walking Dead
+1526331837 - Mon May 14 23:03:57 CEST 2018 - /Stream/The_Big_Bang_Theory-1.html,s5 - The Big Bang Theory
