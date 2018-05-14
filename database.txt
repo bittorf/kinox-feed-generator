@@ -9736,3 +9736,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526281140 - Mon May 14 08:59:00 CEST 2018 - /Stream/Lucifer-1.html,s3e24 - Lucifer
 1526281149 - Mon May 14 08:59:09 CEST 2018 - /Stream/Killing_Eve.html,s1e6 - Killing Eve
 1526281157 - Mon May 14 08:59:17 CEST 2018 - /Stream/Brooklyn_Nine-Nine.html,s5e21 - Brooklyn Nine-Nine
+1526281167 - Mon May 14 08:59:27 CEST 2018 - /Stream/Family_Guy-1.html,s16e19 - Family Guy
