@@ -9750,3 +9750,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526331705 - Mon May 14 23:01:45 CEST 2018 - /Stream/Die_unglaubliche_Reise_in_einem_verrueckten_Flugzeug-1.html - Die unglaubliche Reise in einem verrückten Flugzeug
 1526331717 - Mon May 14 23:01:57 CEST 2018 - /Stream/Die_Rueckkehr_zu_den_36_Kammern_der_Shaolin.html - Die Rückkehr zu den 36 Kammern der Shaolin
 1526331725 - Mon May 14 23:02:05 CEST 2018 - /Stream/Die_36_Kammern_der_Schaolin.html - Die 36 Kammern der Schaolin
+1526331733 - Mon May 14 23:02:13 CEST 2018 - /Stream/Blutrausch_des_Teufels.html - Blutrausch des Teufels
