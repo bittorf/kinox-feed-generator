@@ -9738,3 +9738,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526281157 - Mon May 14 08:59:17 CEST 2018 - /Stream/Brooklyn_Nine-Nine.html,s5e21 - Brooklyn Nine-Nine
 1526281167 - Mon May 14 08:59:27 CEST 2018 - /Stream/Family_Guy-1.html,s16e19 - Family Guy
 1526281176 - Mon May 14 08:59:36 CEST 2018 - /Stream/Billions.html,s3e8 - Billions
+1526281185 - Mon May 14 08:59:45 CEST 2018 - /Stream/Bobs_Burgers.html,s8e19 - Bob's Burgers
