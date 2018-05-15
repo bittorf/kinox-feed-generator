@@ -9771,3 +9771,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526367954 - Tue May 15 09:05:54 CEST 2018 - /Stream/Obsesia_Evei_german_subbed.html,s1 - Obsesia Evei *german subbed*
 1526367966 - Tue May 15 09:06:06 CEST 2018 - /Stream/Dittsche.html,s27e6 - Dittsche
 1526367976 - Tue May 15 09:06:16 CEST 2018 - /Stream/Billions-1.html,s3e8 - Billions
+1526367986 - Tue May 15 09:06:26 CEST 2018 - /Stream/Fear_the_Walking_Dead-1.html,s4e5 - Fear the Walking Dead
