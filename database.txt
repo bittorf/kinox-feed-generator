@@ -9794,3 +9794,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526375410 - Tue May 15 11:10:10 CEST 2018 - /Stream/iZombie_german_subbed.html,s4e10 - iZombie *german subbed*
 1526375419 - Tue May 15 11:10:19 CEST 2018 - /Stream/Kevin_Can_Wait-1.html,s2e23 - Kevin Can Wait
 1526375431 - Tue May 15 11:10:31 CEST 2018 - /Stream/Pawn_Stars.html,s15e28 - Pawn Stars
+1526389854 - Tue May 15 15:10:54 CEST 2018 - /Stream/American_Dad.html,s14e2 - American Dad
