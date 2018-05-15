@@ -9775,3 +9775,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526368001 - Tue May 15 09:06:41 CEST 2018 - /Stream/S-W-A-T-1.html,s1e17 - S.W.A.T.
 1526368009 - Tue May 15 09:06:49 CEST 2018 - /Stream/Chicago_Med-1.html,s3e9 - Chicago Med
 1526368018 - Tue May 15 09:06:58 CEST 2018 - /Stream/Profiling_Paris.html,s8e8 - Profiling Paris
+1526368030 - Tue May 15 09:07:10 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e9 - Chicago Fire
