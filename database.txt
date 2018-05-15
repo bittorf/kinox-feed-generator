@@ -9780,3 +9780,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526368049 - Tue May 15 09:07:29 CEST 2018 - /Stream/Westworld-3.html,s2e4 - Westworld
 1526368059 - Tue May 15 09:07:39 CEST 2018 - /Stream/The_Resident-3.html,s1e14 - The Resident
 1526368068 - Tue May 15 09:07:48 CEST 2018 - /Stream/Lethal_Weapon_german_subbed.html,s2e22 - Lethal Weapon *german subbed*
+1526368076 - Tue May 15 09:07:56 CEST 2018 - /Stream/Colony_german_subbed.html,s3e1 - Colony *german subbed*
