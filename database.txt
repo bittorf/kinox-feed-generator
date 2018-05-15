@@ -9779,3 +9779,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526368039 - Tue May 15 09:07:19 CEST 2018 - /Stream/How_to_Get_Away_with_Murder-1.html,s4e6 - How to Get Away with Murder
 1526368049 - Tue May 15 09:07:29 CEST 2018 - /Stream/Westworld-3.html,s2e4 - Westworld
 1526368059 - Tue May 15 09:07:39 CEST 2018 - /Stream/The_Resident-3.html,s1e14 - The Resident
+1526368068 - Tue May 15 09:07:48 CEST 2018 - /Stream/Lethal_Weapon_german_subbed.html,s2e22 - Lethal Weapon *german subbed*
