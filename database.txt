@@ -9791,3 +9791,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526375375 - Tue May 15 11:09:35 CEST 2018 - /Stream/Renegades-Mission_of_Honor.html - Renegades - Mission of Honor
 1526375389 - Tue May 15 11:09:49 CEST 2018 - /Stream/Die_Migrantigen.html - Die Migrantigen
 1526375398 - Tue May 15 11:09:58 CEST 2018 - /Stream/Tad_Jones_und_das_Geheimnis_von_Koeng_Midas.html - Tad Jones und das Geheimnis von Köng Midas
+1526375410 - Tue May 15 11:10:10 CEST 2018 - /Stream/iZombie_german_subbed.html,s4e10 - iZombie *german subbed*
