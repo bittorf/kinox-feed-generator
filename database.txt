@@ -9769,3 +9769,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526331902 - Mon May 14 23:05:02 CEST 2018 - /Stream/The_Handmaids_Tale_german_subbed.html,s2e1 - The Handmaid's Tale *german subbed*
 1526331911 - Mon May 14 23:05:11 CEST 2018 - /Stream/Homeland_german_subbed.html,s7e6 - Homeland *german subbed*
 1526367954 - Tue May 15 09:05:54 CEST 2018 - /Stream/Obsesia_Evei_german_subbed.html,s1 - Obsesia Evei *german subbed*
+1526367966 - Tue May 15 09:06:06 CEST 2018 - /Stream/Dittsche.html,s27e6 - Dittsche
