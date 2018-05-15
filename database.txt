@@ -9783,3 +9783,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526368076 - Tue May 15 09:07:56 CEST 2018 - /Stream/Colony_german_subbed.html,s3e1 - Colony *german subbed*
 1526368085 - Tue May 15 09:08:05 CEST 2018 - /Stream/Gotham_german_subbed-1.html,s4e19 - Gotham *german subbed*
 1526368096 - Tue May 15 09:08:16 CEST 2018 - /Stream/Superior_Donuts.html,s2e21 - Superior Donuts
+1526368105 - Tue May 15 09:08:25 CEST 2018 - /Stream/Super_Girl.html,s3e18 - Super Girl
