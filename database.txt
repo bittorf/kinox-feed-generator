@@ -9786,3 +9786,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526368105 - Tue May 15 09:08:25 CEST 2018 - /Stream/Super_Girl.html,s3e18 - Super Girl
 1526368114 - Tue May 15 09:08:34 CEST 2018 - /Stream/iZombie.html,s4e11 - iZombie
 1526368124 - Tue May 15 09:08:44 CEST 2018 - /Stream/Elementary.html,s6e3 - Elementary
+1526368133 - Tue May 15 09:08:53 CEST 2018 - /Stream/Chicago_Med.html,s3e20 - Chicago Med
