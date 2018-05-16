@@ -9808,3 +9808,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526476430 - Wed May 16 15:13:50 CEST 2018 - /Stream/BollywoodHollywood.html - Bollywood/Hollywood
 1526476440 - Wed May 16 15:14:00 CEST 2018 - /Stream/Independence_Wars-Die_Rueckkehr.html - Independence Wars - Die Rückkehr
 1526476448 - Wed May 16 15:14:08 CEST 2018 - /Stream/Bob_der_Baumeister.html,s1e1 - Bob der Baumeister
+1526476460 - Wed May 16 15:14:20 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e9 - Shades of Blue
