@@ -9827,3 +9827,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526483812 - Wed May 16 17:16:52 CEST 2018 - /Stream/The_Terror-2.html,s1e9 - The Terror
 1526483820 - Wed May 16 17:17:00 CEST 2018 - /Stream/The_Last_O-G.html,s1e7 - The Last O.G.
 1526483829 - Wed May 16 17:17:09 CEST 2018 - /Stream/Shadowhunters.html,s3e10 - Shadowhunters
+1526483838 - Wed May 16 17:17:18 CEST 2018 - /Stream/Roseanne-1.html,s10e8 - Roseanne
