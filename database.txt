@@ -9868,3 +9868,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526556262 - Thu May 17 13:24:22 CEST 2018 - /Stream/Empire-3.html,s4e17 - Empire
 1526556272 - Thu May 17 13:24:32 CEST 2018 - /Stream/Archer-1.html,s9e4 - Archer
 1526556282 - Thu May 17 13:24:42 CEST 2018 - /Stream/Riverdale.html,s2e22 - Riverdale
+1526556291 - Thu May 17 13:24:51 CEST 2018 - /Stream/Elementary_german_subbed.html,s6e2 - Elementary *german subbed*
