@@ -9839,3 +9839,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526505548 - Wed May 16 23:19:08 CEST 2018 - /Stream/Dynasty-2.html,s1e19 - Dynasty
 1526512766 - Thu May 17 01:19:26 CEST 2018 - /Stream/Bloodworth-Was_ist_Blut_wert.html - Bloodworth - Was ist Blut wert?
 1526541597 - Thu May 17 09:19:57 CEST 2018 - /Stream/Auf_der_Jagd_nach_dem_verlorenen_Gold.html - Auf der Jagd nach dem verlorenen Gold
+1526541611 - Thu May 17 09:20:11 CEST 2018 - /Stream/Gotthard.html - Gotthard
