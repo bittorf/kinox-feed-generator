@@ -9872,3 +9872,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526563512 - Thu May 17 15:25:12 CEST 2018 - /Stream/Deadpool_2.html - Deadpool 2
 1526570733 - Thu May 17 17:25:33 CEST 2018 - /Stream/Deadpool_2-1.html - Deadpool 2
 1526570746 - Thu May 17 17:25:46 CEST 2018 - /Stream/Der_Tiger.html - Der Tiger
+1526570756 - Thu May 17 17:25:56 CEST 2018 - /Stream/Jurassic_Monster.html - Jurassic Monster
