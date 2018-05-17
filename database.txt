@@ -9841,3 +9841,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526541597 - Thu May 17 09:19:57 CEST 2018 - /Stream/Auf_der_Jagd_nach_dem_verlorenen_Gold.html - Auf der Jagd nach dem verlorenen Gold
 1526541611 - Thu May 17 09:20:11 CEST 2018 - /Stream/Gotthard.html - Gotthard
 1526541621 - Thu May 17 09:20:21 CEST 2018 - /Stream/Urge-1.html - Urge
+1526541631 - Thu May 17 09:20:31 CEST 2018 - /Stream/Shadowhunters-1.html,s3 - Shadowhunters
