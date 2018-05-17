@@ -9870,3 +9870,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526556282 - Thu May 17 13:24:42 CEST 2018 - /Stream/Riverdale.html,s2e22 - Riverdale
 1526556291 - Thu May 17 13:24:51 CEST 2018 - /Stream/Elementary_german_subbed.html,s6e2 - Elementary *german subbed*
 1526563512 - Thu May 17 15:25:12 CEST 2018 - /Stream/Deadpool_2.html - Deadpool 2
+1526570733 - Thu May 17 17:25:33 CEST 2018 - /Stream/Deadpool_2-1.html - Deadpool 2
