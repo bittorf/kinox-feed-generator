@@ -9858,3 +9858,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526541755 - Thu May 17 09:22:35 CEST 2018 - /Stream/The_Blacklist.html,s5e22 - The Blacklist
 1526541766 - Thu May 17 09:22:46 CEST 2018 - /Stream/The_Goldbergs.html,s5e22 - The Goldbergs
 1526541774 - Thu May 17 09:22:54 CEST 2018 - /Stream/The_Americans.html,s6e8 - The Americans
+1526541784 - Thu May 17 09:23:04 CEST 2018 - /Stream/Arrow_german_subbed.html,s6e21 - Arrow *german subbed*
