@@ -9856,3 +9856,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526541735 - Thu May 17 09:22:15 CEST 2018 - /Stream/Gotham_german_subbed-1.html,s4e20 - Gotham *german subbed*
 1526541746 - Thu May 17 09:22:26 CEST 2018 - /Stream/The_100_german_subbed.html,s5e3 - The 100 *german subbed*
 1526541755 - Thu May 17 09:22:35 CEST 2018 - /Stream/The_Blacklist.html,s5e22 - The Blacklist
+1526541766 - Thu May 17 09:22:46 CEST 2018 - /Stream/The_Goldbergs.html,s5e22 - The Goldbergs
