@@ -9879,3 +9879,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526592436 - Thu May 17 23:27:16 CEST 2018 - /Stream/I_Spy-1.html - I Spy
 1526592449 - Thu May 17 23:27:29 CEST 2018 - /Stream/Was_Maedchen_wollen.html - Was Mädchen wollen
 1526592458 - Thu May 17 23:27:38 CEST 2018 - /Stream/From_Dusk_Till_Dawn-1.html - From Dusk Till Dawn
+1526628494 - Fri May 18 09:28:14 CEST 2018 - /Stream/Z_Nation-1.html,s4e11 - Z Nation
