@@ -9888,3 +9888,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526628551 - Fri May 18 09:29:11 CEST 2018 - /Stream/Ice.html,s1e6 - Ice
 1526628559 - Fri May 18 09:29:19 CEST 2018 - /Stream/New_Girl-1.html,s7 - New Girl
 1526628568 - Fri May 18 09:29:28 CEST 2018 - /Stream/Bull-1.html,s2e15 - Bull
+1526628577 - Fri May 18 09:29:37 CEST 2018 - /Stream/Gotham.html,s4e22 - Gotham
