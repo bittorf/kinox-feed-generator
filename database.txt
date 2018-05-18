@@ -9882,3 +9882,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526628494 - Fri May 18 09:28:14 CEST 2018 - /Stream/Z_Nation-1.html,s4e11 - Z Nation
 1526628505 - Fri May 18 09:28:25 CEST 2018 - /Stream/The_Royals.html,s4 - The Royals
 1526628514 - Fri May 18 09:28:34 CEST 2018 - /Stream/Doctor_Foster.html,s2 - Doctor Foster
+1526628523 - Fri May 18 09:28:43 CEST 2018 - /Stream/Riverdale-1.html,s2e22 - Riverdale
