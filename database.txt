@@ -9902,3 +9902,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526679125 - Fri May 18 23:32:05 CEST 2018 - /Stream/Das_Geheimnis_der_zwei_Schwestern.html - Das Geheimnis der zwei Schwestern
 1526679135 - Fri May 18 23:32:15 CEST 2018 - /Stream/Genius_Einstein.html,s2e5 - Genius: Einstein
 1526679144 - Fri May 18 23:32:24 CEST 2018 - /Stream/You_Are_Wanted.html,s2e1 - You Are Wanted
+1526679152 - Fri May 18 23:32:32 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e30 - Neo Magazin
