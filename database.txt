@@ -9905,3 +9905,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526679152 - Fri May 18 23:32:32 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e30 - Neo Magazin
 1526679162 - Fri May 18 23:32:42 CEST 2018 - /Stream/The_Flash-1.html,s4e3 - The Flash
 1526679171 - Fri May 18 23:32:51 CEST 2018 - /Stream/Designated_Survivor-1.html,s2e21 - Designated Survivor
+1526679180 - Fri May 18 23:33:00 CEST 2018 - /Stream/Elena_of_Avalor.html,s2 - Elena of Avalor
