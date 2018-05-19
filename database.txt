@@ -9917,3 +9917,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526715288 - Sat May 19 09:34:48 CEST 2018 - /Stream/Cargo-6.html - Cargo
 1526715299 - Sat May 19 09:34:59 CEST 2018 - /Stream/Schutzlos.html - Schutzlos
 1526715309 - Sat May 19 09:35:09 CEST 2018 - /Stream/Siegfried.html - Siegfried
+1526715320 - Sat May 19 09:35:20 CEST 2018 - /Stream/Armageddon_der_Seelen.html - Armageddon der Seelen
