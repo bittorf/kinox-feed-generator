@@ -9937,3 +9937,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526751497 - Sat May 19 19:38:17 CEST 2018 - /Stream/Tote_Maedchen_luegen_nicht.html,s2 - Tote Mädchen lügen nicht
 1526751506 - Sat May 19 19:38:26 CEST 2018 - /Stream/Valkyrien.html,s1e1 - Valkyrien
 1526751516 - Sat May 19 19:38:36 CEST 2018 - /Stream/Falk.html,s1e1 - Falk
+1526751524 - Sat May 19 19:38:44 CEST 2018 - /Stream/Der_Wilde_Westen_Die_wahre_Geschichte-Teil_1-Der_Aufbruch.html - Der Wilde Westen: Die wahre Geschichte - Teil 1 - Der Aufbruch
