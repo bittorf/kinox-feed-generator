@@ -9932,3 +9932,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526751450 - Sat May 19 19:37:30 CEST 2018 - /Stream/Quackser_Fortune_hat_nen_Vetter_in_der_Bronx.html - Quackser Fortune hat 'nen Vetter in der Bronx
 1526751461 - Sat May 19 19:37:41 CEST 2018 - /Stream/Mord_am_See.html - Mord am See
 1526751469 - Sat May 19 19:37:49 CEST 2018 - /Stream/Bloody_Beach.html - Bloody Beach
+1526751477 - Sat May 19 19:37:57 CEST 2018 - /Stream/Bruderkrieg-Jeder_Freund_ist_auch_dein_Feind.html - Bruderkrieg - Jeder Freund ist auch dein Feind
