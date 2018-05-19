@@ -9929,3 +9929,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526715401 - Sat May 19 09:36:41 CEST 2018 - /Stream/High_and_Dry-1.html,s1e3 - High and Dry
 1526715407 - Sat May 19 09:36:47 CEST 2018 - /Stream/Friday_Night_Dinner.html,s5e3 - Friday Night Dinner
 1526715415 - Sat May 19 09:36:55 CEST 2018 - /Stream/Hawaii_Five-0-1.html,s8e25 - Hawaii Five-0
+1526751450 - Sat May 19 19:37:30 CEST 2018 - /Stream/Quackser_Fortune_hat_nen_Vetter_in_der_Bronx.html - Quackser Fortune hat 'nen Vetter in der Bronx
