@@ -9962,3 +9962,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526816620 - Sun May 20 13:43:40 CEST 2018 - /Stream/Kung_Fu_Panda_Das_Geheimnis_der_furiosen_Fuenf.html - Kung Fu Panda: Das Geheimnis der furiosen Fünf
 1526816630 - Sun May 20 13:43:50 CEST 2018 - /Stream/Casualty.html,s32e35 - Casualty
 1526852677 - Sun May 20 23:44:37 CEST 2018 - /Stream/1993.html,s1e5 - 1993
+1526888719 - Mon May 21 09:45:19 CEST 2018 - /Stream/Lethal_Weapon-2.html,s2e15 - Lethal Weapon
