@@ -9985,3 +9985,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1526946565 - Tue May 22 01:49:25 CEST 2018 - /Stream/Fear_the_Walking_Dead-1.html,s4e6 - Fear the Walking Dead
 1526946574 - Tue May 22 01:49:34 CEST 2018 - /Stream/Plebs.html,s4e8 - Plebs
 1526975568 - Tue May 22 09:52:48 CEST 2018 - /Stream/Westworld-3.html,s2e5 - Westworld
+1526975578 - Tue May 22 09:52:58 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e10 - Chicago Fire
