@@ -10003,3 +10003,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527026161 - Tue May 22 23:56:01 CEST 2018 - /Stream/The_Big_Bang_Theory-1.html,s6 - The Big Bang Theory
 1527026172 - Tue May 22 23:56:12 CEST 2018 - /Stream/The_Terror-2.html,s1e10 - The Terror
 1527055003 - Wed May 23 07:56:43 CEST 2018 - /Stream/Der_Buchladen_der_Florence_Green.html - Der Buchladen der Florence Green
+1527062220 - Wed May 23 09:57:00 CEST 2018 - /Stream/American_Dad.html,s14e3 - American Dad
