@@ -10007,3 +10007,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527062229 - Wed May 23 09:57:09 CEST 2018 - /Stream/NCIS_New_Orleans-1.html,s3e23 - NCIS: New Orleans
 1527062240 - Wed May 23 09:57:20 CEST 2018 - /Stream/Silicon_Valley-1.html,s5e3 - Silicon Valley
 1527062249 - Wed May 23 09:57:29 CEST 2018 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s8e12 - Shameless - Nicht ganz nüchtern
+1527062258 - Wed May 23 09:57:38 CEST 2018 - /Stream/Legion-3.html,s2e6 - Legion
