@@ -10048,3 +10048,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527199674 - Fri May 25 00:07:54 CEST 2018 - /Stream/Dead_of_Summer_german_subbed.html,s1e10 - Dead of Summer *german subbed*
 1527199683 - Fri May 25 00:08:03 CEST 2018 - /Stream/Lucifer_german_subbed.html,s3e24 - Lucifer *german subbed*
 1527199692 - Fri May 25 00:08:12 CEST 2018 - /Stream/Colony_german_subbed.html,s3e2 - Colony *german subbed*
+1527199700 - Fri May 25 00:08:20 CEST 2018 - /Stream/Into_the_Badlands_german_subbed.html,s3e2 - Into the Badlands *german subbed*
