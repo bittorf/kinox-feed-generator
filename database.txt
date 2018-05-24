@@ -10045,3 +10045,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527199648 - Fri May 25 00:07:28 CEST 2018 - /Stream/Chicago_Med-1.html,s3e10 - Chicago Med
 1527199657 - Fri May 25 00:07:37 CEST 2018 - /Stream/Blindspot-1.html,s3e4 - Blindspot
 1527199665 - Fri May 25 00:07:45 CEST 2018 - /Stream/Pawn_Stars.html,s15e29 - Pawn Stars
+1527199674 - Fri May 25 00:07:54 CEST 2018 - /Stream/Dead_of_Summer_german_subbed.html,s1e10 - Dead of Summer *german subbed*
