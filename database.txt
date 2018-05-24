@@ -10037,3 +10037,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527149117 - Thu May 24 10:05:17 CEST 2018 - /Stream/Kevin_Can_Wait-1.html,s2e24 - Kevin Can Wait
 1527149134 - Thu May 24 10:05:34 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e10 - Shades of Blue
 1527149154 - Thu May 24 10:05:54 CEST 2018 - /Stream/Homeland_german_subbed.html,s7e7 - Homeland *german subbed*
+1527149165 - Thu May 24 10:06:05 CEST 2018 - /Stream/DuckTales-Neues_aus_Entenhausen-2.html,s1e11 - DuckTales - Neues aus Entenhausen
