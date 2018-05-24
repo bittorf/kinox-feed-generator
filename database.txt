@@ -10043,3 +10043,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527199629 - Fri May 25 00:07:09 CEST 2018 - /Stream/Designated_Survivor-1.html,s2e22 - Designated Survivor
 1527199640 - Fri May 25 00:07:20 CEST 2018 - /Stream/Instinct-2.html,s1 - Instinct
 1527199648 - Fri May 25 00:07:28 CEST 2018 - /Stream/Chicago_Med-1.html,s3e10 - Chicago Med
+1527199657 - Fri May 25 00:07:37 CEST 2018 - /Stream/Blindspot-1.html,s3e4 - Blindspot
