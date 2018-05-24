@@ -10039,3 +10039,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527149154 - Thu May 24 10:05:54 CEST 2018 - /Stream/Homeland_german_subbed.html,s7e7 - Homeland *german subbed*
 1527149165 - Thu May 24 10:06:05 CEST 2018 - /Stream/DuckTales-Neues_aus_Entenhausen-2.html,s1e11 - DuckTales - Neues aus Entenhausen
 1527149173 - Thu May 24 10:06:13 CEST 2018 - /Stream/Supernatural_german_subbed.html,s13e22 - Supernatural *german subbed*
+1527199618 - Fri May 25 00:06:58 CEST 2018 - /Stream/Legion-3.html,s2 - Legion
