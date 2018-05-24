@@ -10034,3 +10034,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527141877 - Thu May 24 08:04:37 CEST 2018 - /Stream/Empire-3.html,s4e18 - Empire
 1527141887 - Thu May 24 08:04:47 CEST 2018 - /Stream/The_Americans.html,s6e9 - The Americans
 1527149107 - Thu May 24 10:05:07 CEST 2018 - /Stream/Tote_Maedchen_luegen_nicht.html,s2e13 - Tote Mädchen lügen nicht
+1527149117 - Thu May 24 10:05:17 CEST 2018 - /Stream/Kevin_Can_Wait-1.html,s2e24 - Kevin Can Wait
