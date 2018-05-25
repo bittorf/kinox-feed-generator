@@ -10057,3 +10057,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527228591 - Fri May 25 08:09:51 CEST 2018 - /Stream/Elementary_german_subbed.html,s6e3 - Elementary *german subbed*
 1527250222 - Fri May 25 14:10:22 CEST 2018 - /Stream/Solo_A_Star_Wars_Story-1.html - Solo: A Star Wars Story
 1527250243 - Fri May 25 14:10:43 CEST 2018 - /Stream/The_Flash-1.html,s4e4 - The Flash
+1527250254 - Fri May 25 14:10:54 CEST 2018 - /Stream/Gotham-1.html,s4e4 - Gotham
