@@ -10095,3 +10095,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527401867 - Sun May 27 08:17:47 CEST 2018 - /Stream/Die_geheime_Welt_der_Templer-Teil_2_Tunnel_unter_Akko.html - Die geheime Welt der Templer - Teil 2: Tunnel unter Akko
 1527401869 - Sun May 27 08:17:49 CEST 2018 - /Stream/El_Chapo-Im_Namen_des_Kartells.html - El Chapo - Im Namen des Kartells
 1527459511 - Mon May 28 00:18:31 CEST 2018 - /Stream/Futurama.html,s2 - Futurama
+1527459521 - Mon May 28 00:18:41 CEST 2018 - /Stream/Youre_the_Worst-1.html,s4 - You're the Worst
