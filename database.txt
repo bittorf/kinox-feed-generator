@@ -10087,3 +10087,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527372994 - Sun May 27 00:16:34 CEST 2018 - /Stream/The_Path-1.html,s3e9 - The Path
 1527401823 - Sun May 27 08:17:03 CEST 2018 - /Stream/Professor_T.html,s2e4 - Professor T.
 1527401834 - Sun May 27 08:17:14 CEST 2018 - /Stream/Supergirl-2.html,s3e7 - Supergirl
+1527401845 - Sun May 27 08:17:25 CEST 2018 - /Stream/Taken-5.html,s2e12 - Taken
