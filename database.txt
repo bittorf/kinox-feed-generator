@@ -10100,3 +10100,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527459538 - Mon May 28 00:18:58 CEST 2018 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s14e7 - Grey's Anatomy - Die jungen Ärzte
 1527459549 - Mon May 28 00:19:09 CEST 2018 - /Stream/Navy_CIS_L-A.html,s9e13 - Navy CIS: L.A.
 1527459557 - Mon May 28 00:19:17 CEST 2018 - /Stream/NCIS_New_Orleans-1.html,s3e24 - NCIS: New Orleans
+1527546053 - Tue May 29 00:20:53 CEST 2018 - /Stream/Trolljaeger.html,s3 - Trolljäger
