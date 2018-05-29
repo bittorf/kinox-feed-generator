@@ -10123,3 +10123,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527632739 - Wed May 30 00:25:39 CEST 2018 - /Stream/Der_Mann_mit_der_eisernen_Maske.html - Der Mann mit der eisernen Maske
 1527632747 - Wed May 30 00:25:47 CEST 2018 - /Stream/Futurama.html,s2e19 - Futurama
 1527632756 - Wed May 30 00:25:56 CEST 2018 - /Stream/Billions-1.html,s3e10 - Billions
+1527632766 - Wed May 30 00:26:06 CEST 2018 - /Stream/Arrested_Development.html,s5 - Arrested Development
