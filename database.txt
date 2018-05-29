@@ -10103,3 +10103,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527546053 - Tue May 29 00:20:53 CEST 2018 - /Stream/Trolljaeger.html,s3 - Trolljäger
 1527546068 - Tue May 29 00:21:08 CEST 2018 - /Stream/The_Path-1.html,s3e8 - The Path
 1527574931 - Tue May 29 08:22:11 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e11 - Chicago Fire
+1527574945 - Tue May 29 08:22:25 CEST 2018 - /Stream/Dittsche.html,s27e7 - Dittsche
