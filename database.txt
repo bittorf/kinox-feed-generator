@@ -10146,3 +10146,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527661764 - Wed May 30 08:29:24 CEST 2018 - /Stream/Z_Nation-1.html,s4e12 - Z Nation
 1527661772 - Wed May 30 08:29:32 CEST 2018 - /Stream/Loriot.html,s1e1 - Loriot
 1527661780 - Wed May 30 08:29:40 CEST 2018 - /Stream/Genius-1.html,s2e7 - Genius.
+1527661788 - Wed May 30 08:29:48 CEST 2018 - /Stream/Animal_Kingdom-1.html,s3e1 - Animal Kingdom
