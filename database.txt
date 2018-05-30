@@ -10145,3 +10145,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527661754 - Wed May 30 08:29:14 CEST 2018 - /Stream/DuckTales-Neues_aus_Entenhausen-2.html,s1e13 - DuckTales - Neues aus Entenhausen
 1527661764 - Wed May 30 08:29:24 CEST 2018 - /Stream/Z_Nation-1.html,s4e12 - Z Nation
 1527661772 - Wed May 30 08:29:32 CEST 2018 - /Stream/Loriot.html,s1e1 - Loriot
+1527661780 - Wed May 30 08:29:40 CEST 2018 - /Stream/Genius-1.html,s2e7 - Genius.
