@@ -10172,3 +10172,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527755721 - Thu May 31 10:35:21 CEST 2018 - /Stream/A_Day_in_the_Death_of_Joe_Egg.html - A Day in the Death of Joe Egg
 1527755730 - Thu May 31 10:35:30 CEST 2018 - /Stream/Bruderhass-Ich_will_dein_Leben.html - Bruderhass - Ich will dein Leben!
 1527755739 - Thu May 31 10:35:39 CEST 2018 - /Stream/Rise_of_the_Scythian.html - Rise of the Scythian
+1527755749 - Thu May 31 10:35:49 CEST 2018 - /Stream/Sonntag_in_New_York.html - Sonntag in New York
