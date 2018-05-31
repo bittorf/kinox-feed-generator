@@ -10188,3 +10188,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527755873 - Thu May 31 10:37:53 CEST 2018 - /Stream/Fell_Jumped_or_Pushed.html,s1e1 - Fell, Jumped or Pushed
 1527755882 - Thu May 31 10:38:02 CEST 2018 - /Stream/The_Royals.html,s4e5 - The Royals
 1527755891 - Thu May 31 10:38:11 CEST 2018 - /Stream/The_Expanse.html,s3e8 - The Expanse
+1527755901 - Thu May 31 10:38:21 CEST 2018 - /Stream/Legion-3.html,s2e8 - Legion
