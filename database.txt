@@ -10200,3 +10200,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527755987 - Thu May 31 10:39:47 CEST 2018 - /Stream/Suits_german_subbed.html,s7e11 - Suits *german subbed*
 1527755997 - Thu May 31 10:39:57 CEST 2018 - /Stream/Code_Black.html,s3e5 - Code Black
 1527756007 - Thu May 31 10:40:07 CEST 2018 - /Stream/Archer-1.html,s9e6 - Archer
+1527756015 - Thu May 31 10:40:15 CEST 2018 - /Stream/The_Handmaids_Tale-1.html,s2e7 - The Handmaid's Tale
