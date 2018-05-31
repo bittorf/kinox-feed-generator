@@ -10166,3 +10166,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527755670 - Thu May 31 10:34:30 CEST 2018 - /Stream/Love_Hotel-1.html - Love Hotel
 1527755677 - Thu May 31 10:34:37 CEST 2018 - /Stream/Alles_in_Butter-1.html - Alles in Butter
 1527755684 - Thu May 31 10:34:45 CEST 2018 - /Stream/Tom_Sawyers_Abenteuer.html - Tom Sawyers Abenteuer
+1527755693 - Thu May 31 10:34:53 CEST 2018 - /Stream/Die_weisse_Hoelle_von_Manitoba.html - Die weiße Hölle von Manitoba
