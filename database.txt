@@ -10168,3 +10168,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527755684 - Thu May 31 10:34:45 CEST 2018 - /Stream/Tom_Sawyers_Abenteuer.html - Tom Sawyers Abenteuer
 1527755693 - Thu May 31 10:34:53 CEST 2018 - /Stream/Die_weisse_Hoelle_von_Manitoba.html - Die weiße Hölle von Manitoba
 1527755702 - Thu May 31 10:35:02 CEST 2018 - /Stream/Das_Koenigsmal.html - Das Königsmal
+1527755712 - Thu May 31 10:35:12 CEST 2018 - /Stream/Weekend_Killer.html - Weekend Killer
