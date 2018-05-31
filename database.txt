@@ -10181,3 +10181,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527755809 - Thu May 31 10:36:49 CEST 2018 - /Stream/She-Man_A_Story_of_Fixation-1.html - She-Man: A Story of Fixation
 1527755817 - Thu May 31 10:36:57 CEST 2018 - /Stream/The_Point_of_Regret-1.html - The Point of Regret
 1527755827 - Thu May 31 10:37:07 CEST 2018 - /Stream/Huckleberry_Finn-1.html - Huckleberry Finn
+1527755836 - Thu May 31 10:37:16 CEST 2018 - /Stream/96_Souls.html - 96 Souls
