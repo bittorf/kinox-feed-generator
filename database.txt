@@ -10212,3 +10212,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527871475 - Fri Jun  1 18:44:35 CEST 2018 - /Stream/Fixer_Upper.html,s4e6 - Fixer Upper
 1527871483 - Fri Jun  1 18:44:43 CEST 2018 - /Stream/Supergirl-2.html,s3e8 - Supergirl
 1527871492 - Fri Jun  1 18:44:52 CEST 2018 - /Stream/Call_my_Agent.html,s2e4 - Call my Agent!
+1527871502 - Fri Jun  1 18:45:02 CEST 2018 - /Stream/S-W-A-T-1.html,s1e18 - S.W.A.T.
