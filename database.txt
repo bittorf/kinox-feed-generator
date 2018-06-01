@@ -10214,3 +10214,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527871492 - Fri Jun  1 18:44:52 CEST 2018 - /Stream/Call_my_Agent.html,s2e4 - Call my Agent!
 1527871502 - Fri Jun  1 18:45:02 CEST 2018 - /Stream/S-W-A-T-1.html,s1e18 - S.W.A.T.
 1527871511 - Fri Jun  1 18:45:11 CEST 2018 - /Stream/Neo_Magazin-1.html,s6e32 - Neo Magazin
+1527871521 - Fri Jun  1 18:45:21 CEST 2018 - /Stream/The_100_german_subbed.html,s5e5 - The 100 *german subbed*
