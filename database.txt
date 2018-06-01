@@ -10219,3 +10219,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1527871537 - Fri Jun  1 18:45:37 CEST 2018 - /Stream/Shades_of_Blue-1.html,s2e11 - Shades of Blue
 1527871546 - Fri Jun  1 18:45:46 CEST 2018 - /Stream/Genius_Einstein.html,s2e7 - Genius: Einstein
 1527871557 - Fri Jun  1 18:45:57 CEST 2018 - /Stream/Homeland_german_subbed.html,s7e8 - Homeland *german subbed*
+1527871566 - Fri Jun  1 18:46:06 CEST 2018 - /Stream/Black-ish.html,s2e1 - Black-ish
