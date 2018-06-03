@@ -10239,3 +10239,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528037438 - Sun Jun  3 16:50:38 CEST 2018 - /Stream/Elementary_german_subbed.html,s6e4 - Elementary *german subbed*
 1528037448 - Sun Jun  3 16:50:48 CEST 2018 - /Stream/Vida.html,s1e5 - Vida
 1528037457 - Sun Jun  3 16:50:57 CEST 2018 - /Stream/Sweetbitter.html,s1e5 - Sweetbitter
+1528037466 - Sun Jun  3 16:51:06 CEST 2018 - /Stream/Ransom-1.html,s2e8 - Ransom
