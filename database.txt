@@ -10248,3 +10248,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528044742 - Sun Jun  3 18:52:22 CEST 2018 - /Stream/Life_in_Pieces-1.html,s3 - Life in Pieces
 1528044762 - Sun Jun  3 18:52:42 CEST 2018 - /Stream/The_Crossing-1.html,s1e6 - The Crossing
 1528044769 - Sun Jun  3 18:52:49 CEST 2018 - /Stream/SEAL_Team-1.html,s1e17 - SEAL Team
+1528066393 - Mon Jun  4 00:53:13 CEST 2018 - /Stream/Fack_ju_Goehte.html - Fack ju Göhte
