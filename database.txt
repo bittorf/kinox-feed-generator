@@ -10255,3 +10255,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528066433 - Mon Jun  4 00:53:53 CEST 2018 - /Stream/Law-Order_New_York.html,s3 - Law & Order: New York
 1528066445 - Mon Jun  4 00:54:05 CEST 2018 - /Stream/In_aller_Freundschaft-Die_jungen_Aerzte.html,s4e13 - In aller Freundschaft - Die jungen Ärzte
 1528066454 - Mon Jun  4 00:54:14 CEST 2018 - /Stream/Chicago_Med-1.html,s3e11 - Chicago Med
+1528066461 - Mon Jun  4 00:54:21 CEST 2018 - /Stream/Taken-5.html,s2e13 - Taken
