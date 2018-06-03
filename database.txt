@@ -10250,3 +10250,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528044769 - Sun Jun  3 18:52:49 CEST 2018 - /Stream/SEAL_Team-1.html,s1e17 - SEAL Team
 1528066393 - Mon Jun  4 00:53:13 CEST 2018 - /Stream/Fack_ju_Goehte.html - Fack ju Göhte
 1528066404 - Mon Jun  4 00:53:24 CEST 2018 - /Stream/Rise_of_the_Footsoldier.html - Rise of the Footsoldier
+1528066415 - Mon Jun  4 00:53:35 CEST 2018 - /Stream/Fack_ju_Goehte_2.html - Fack ju Göhte 2
