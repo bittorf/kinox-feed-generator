@@ -10291,3 +10291,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528391026 - Thu Jun  7 19:03:46 CEST 2018 - /Stream/S-W-A-T-1.html,s1e19 - S.W.A.T.
 1528391043 - Thu Jun  7 19:04:03 CEST 2018 - /Stream/The_Originals.html,s5e7 - The Originals
 1528391052 - Thu Jun  7 19:04:12 CEST 2018 - /Stream/Archer-1.html,s9e7 - Archer
+1528391060 - Thu Jun  7 19:04:20 CEST 2018 - /Stream/Queen_Sugar-1.html,s3e3 - Queen Sugar
