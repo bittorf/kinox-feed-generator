@@ -10287,3 +10287,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528390989 - Thu Jun  7 19:03:09 CEST 2018 - /Stream/Kidnapping-ein_Tag_der_Gewalt.html - Kidnapping... ein Tag der Gewalt
 1528390997 - Thu Jun  7 19:03:17 CEST 2018 - /Stream/Legion-3.html,s2e9 - Legion
 1528391007 - Thu Jun  7 19:03:27 CEST 2018 - /Stream/The_Royals.html,s4e6 - The Royals
+1528391015 - Thu Jun  7 19:03:35 CEST 2018 - /Stream/Navy_CIS_L-A.html,s9e15 - Navy CIS: L.A.
