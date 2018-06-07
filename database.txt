@@ -10296,3 +10296,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528391078 - Thu Jun  7 19:04:38 CEST 2018 - /Stream/Code_Black.html,s3e7 - Code Black
 1528391086 - Thu Jun  7 19:04:46 CEST 2018 - /Stream/Colony-1.html,s3e6 - Colony
 1528391093 - Thu Jun  7 19:04:53 CEST 2018 - /Stream/The_Expanse.html,s3e9 - The Expanse
+1528398311 - Thu Jun  7 21:05:11 CEST 2018 - /Stream/Jurassic_World_Das_gefallene_Koenigreich.html - Jurassic World: Das gefallene Königreich
