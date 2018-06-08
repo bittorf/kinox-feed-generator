@@ -10314,3 +10314,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528470492 - Fri Jun  8 17:08:12 CEST 2018 - /Stream/Fixer_Upper.html,s5e9 - Fixer Upper
 1528470500 - Fri Jun  8 17:08:20 CEST 2018 - /Stream/Supergirl-2.html,s3e9 - Supergirl
 1528470510 - Fri Jun  8 17:08:30 CEST 2018 - /Stream/Gotham-1.html,s4e6 - Gotham
+1528470520 - Fri Jun  8 17:08:40 CEST 2018 - /Stream/The_Crossing-1.html,s1e7 - The Crossing
