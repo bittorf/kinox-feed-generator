@@ -10299,3 +10299,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528398311 - Thu Jun  7 21:05:11 CEST 2018 - /Stream/Jurassic_World_Das_gefallene_Koenigreich.html - Jurassic World: Das gefallene Königreich
 1528470385 - Fri Jun  8 17:06:25 CEST 2018 - /Stream/Kid-Einer_gegen_alle.html - Kid - Einer gegen alle
 1528470396 - Fri Jun  8 17:06:36 CEST 2018 - /Stream/Hinter_dem_Rampenlicht-All_that_jazz.html - Hinter dem Rampenlicht - All that jazz
+1528470400 - Fri Jun  8 17:06:40 CEST 2018 - /Stream/Eine_Nacht_in_Campione.html - Eine Nacht in Campione
