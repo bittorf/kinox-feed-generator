@@ -10325,3 +10325,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528485022 - Fri Jun  8 21:10:22 CEST 2018 - /Stream/Marcella-1.html,s2e1 - Marcella
 1528492239 - Fri Jun  8 23:10:39 CEST 2018 - /Stream/Jurassic_World_Fallen_Kingdom.html - Jurassic World: Fallen Kingdom
 1528535495 - Sat Jun  9 11:11:35 CEST 2018 - /Stream/Marvels_Runaways.html,s1e5 - Marvel's Runaways
+1528535505 - Sat Jun  9 11:11:45 CEST 2018 - /Stream/SEAL_Team-1.html,s1e18 - SEAL Team
