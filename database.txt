@@ -10328,3 +10328,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528535505 - Sat Jun  9 11:11:45 CEST 2018 - /Stream/SEAL_Team-1.html,s1e18 - SEAL Team
 1528535514 - Sat Jun  9 11:11:54 CEST 2018 - /Stream/The_Last_O-G-1.html,s1 - The Last O.G.
 1528535522 - Sat Jun  9 11:12:02 CEST 2018 - /Stream/Blindspot-1.html,s3e6 - Blindspot
+1528535531 - Sat Jun  9 11:12:11 CEST 2018 - /Stream/New_Girl-1.html,s7e8 - New Girl
