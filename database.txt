@@ -10330,3 +10330,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528535522 - Sat Jun  9 11:12:02 CEST 2018 - /Stream/Blindspot-1.html,s3e6 - Blindspot
 1528535531 - Sat Jun  9 11:12:11 CEST 2018 - /Stream/New_Girl-1.html,s7e8 - New Girl
 1528535542 - Sat Jun  9 11:12:22 CEST 2018 - /Stream/American_Dad.html,s14e5 - American Dad
+1528535552 - Sat Jun  9 11:12:32 CEST 2018 - /Stream/Baskets-1.html,s2e10 - Baskets
