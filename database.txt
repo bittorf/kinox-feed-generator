@@ -10339,3 +10339,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528578839 - Sat Jun  9 23:13:59 CEST 2018 - /Stream/Call_my_Agent.html,s2e3 - Call my Agent!
 1528578850 - Sat Jun  9 23:14:10 CEST 2018 - /Stream/Midnight_Sun-1.html,s1e1 - Midnight Sun
 1528578860 - Sat Jun  9 23:14:20 CEST 2018 - /Stream/black-ish.html,s2 - black-ish
+1528622108 - Sun Jun 10 11:15:08 CEST 2018 - /Stream/Jurassic_World.html - Jurassic World
