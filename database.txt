@@ -10349,3 +10349,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528622197 - Sun Jun 10 11:16:37 CEST 2018 - /Stream/Taken-5.html,s2e14 - Taken
 1528622205 - Sun Jun 10 11:16:45 CEST 2018 - /Stream/Casualty.html,s32e38 - Casualty
 1528622215 - Sun Jun 10 11:16:55 CEST 2018 - /Stream/Stan_Lees_Superhumans-Der_Mann_mit_den_Feuerhaenden.html - Stan Lee's Superhumans - Der Mann mit den Feuerhänden
+1528622217 - Sun Jun 10 11:16:57 CEST 2018 - /Stream/Black_Panthers-Die_Anfaenge.html - Black Panthers - Die Anfänge
