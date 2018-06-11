@@ -10362,3 +10362,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528701542 - Mon Jun 11 09:19:02 CEST 2018 - /Stream/Teachers-1.html,s3e1 - Teachers
 1528701617 - Mon Jun 11 09:20:17 CEST 2018 - /Stream/Succession.html,s1e2 - Succession
 1528701626 - Mon Jun 11 09:20:26 CEST 2018 - /Stream/Vida.html,s1e6 - Vida
+1528701634 - Mon Jun 11 09:20:34 CEST 2018 - /Stream/Westworld-2.html,s2e8 - Westworld
