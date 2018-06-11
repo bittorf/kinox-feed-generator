@@ -10356,3 +10356,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528665456 - Sun Jun 10 23:17:36 CEST 2018 - /Stream/Futurama.html,s3 - Futurama
 1528665468 - Sun Jun 10 23:17:48 CEST 2018 - /Stream/Death_in_Paradise-1.html,s7e3 - Death in Paradise
 1528701503 - Mon Jun 11 09:18:23 CEST 2018 - /Stream/Im_Kreuzfeuer_der_Gewalt.html - Im Kreuzfeuer der Gewalt
+1528701514 - Mon Jun 11 09:18:34 CEST 2018 - /Stream/Paranormal_Investigations_11-Fear_House.html - Paranormal Investigations 11 - Fear House
