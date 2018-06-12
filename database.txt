@@ -10370,3 +10370,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528709171 - Mon Jun 11 11:26:11 CEST 2018 - /Stream/Into_the_Badlands.html,s3e7 - Into the Badlands
 1528709181 - Mon Jun 11 11:26:21 CEST 2018 - /Stream/Robot_Chicken.html,s9e14 - Robot Chicken
 1528752420 - Mon Jun 11 23:27:00 CEST 2018 - /Stream/The_Walking_Dead.html,s8 - The Walking Dead
+1528817272 - Tue Jun 12 17:27:52 CEST 2018 - /Stream/The_Night_Eats_the_World.html - The Night Eats the World
