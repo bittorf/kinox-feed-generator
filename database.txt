@@ -10384,3 +10384,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528817374 - Tue Jun 12 17:29:34 CEST 2018 - /Stream/How_to_Get_Away_with_Murder-1.html,s4e10 - How to Get Away with Murder
 1528817383 - Tue Jun 12 17:29:43 CEST 2018 - /Stream/Six-2.html,s2e3 - Six
 1528817392 - Tue Jun 12 17:29:52 CEST 2018 - /Stream/Chicago_Med-1.html,s3e13 - Chicago Med
+1528817403 - Tue Jun 12 17:30:03 CEST 2018 - /Stream/Super_Girl.html,s3e22 - Super Girl
