@@ -10394,3 +10394,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1528896731 - Wed Jun 13 15:32:11 CEST 2018 - /Stream/Bulletproof-2.html,s1e5 - Bulletproof
 1528896740 - Wed Jun 13 15:32:20 CEST 2018 - /Stream/Legion-2.html,s2e11 - Legion
 1528896748 - Wed Jun 13 15:32:28 CEST 2018 - /Stream/Our_Girl.html,s4e2 - Our Girl
+1528961603 - Thu Jun 14 09:33:23 CEST 2018 - /Stream/The_Royals.html,s4e7 - The Royals
