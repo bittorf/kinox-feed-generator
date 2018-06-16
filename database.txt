@@ -10419,3 +10419,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529141931 - Sat Jun 16 11:38:51 CEST 2018 - /Stream/This_Is_Us_Das_ist_Leben.html,s2e11 - This Is Us: Das ist Leben
 1529141941 - Sat Jun 16 11:39:01 CEST 2018 - /Stream/Six-2.html,s2e4 - Six
 1529141950 - Sat Jun 16 11:39:10 CEST 2018 - /Stream/The_Flash-1.html,s4e7 - The Flash
+1529141960 - Sat Jun 16 11:39:20 CEST 2018 - /Stream/Cloak-Dagger-2.html,s1e3 - Cloak & Dagger
