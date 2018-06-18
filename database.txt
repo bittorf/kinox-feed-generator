@@ -10454,3 +10454,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529307995 - Mon Jun 18 09:46:35 CEST 2018 - /Stream/Rampage-Big_Meets_Bigger-1.html - Rampage - Big Meets Bigger
 1529308011 - Mon Jun 18 09:46:51 CEST 2018 - /Stream/I_Feel_Pretty.html - I Feel Pretty
 1529308020 - Mon Jun 18 09:47:00 CEST 2018 - /Stream/Ghosted-1.html,s1e12 - Ghosted
+1529308028 - Mon Jun 18 09:47:08 CEST 2018 - /Stream/Claws-1.html,s2e2 - Claws
