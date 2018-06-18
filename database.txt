@@ -10457,3 +10457,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529308028 - Mon Jun 18 09:47:08 CEST 2018 - /Stream/Claws-1.html,s2e2 - Claws
 1529308037 - Mon Jun 18 09:47:17 CEST 2018 - /Stream/Westworld-2.html,s2e9 - Westworld
 1529308046 - Mon Jun 18 09:47:26 CEST 2018 - /Stream/Poldark.html,s4e2 - Poldark
+1529308055 - Mon Jun 18 09:47:35 CEST 2018 - /Stream/Succession.html,s1e3 - Succession
