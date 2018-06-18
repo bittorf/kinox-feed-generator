@@ -10461,3 +10461,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529308063 - Mon Jun 18 09:47:43 CEST 2018 - /Stream/POSE.html,s1e3 - POSE
 1529308070 - Mon Jun 18 09:47:50 CEST 2018 - /Stream/Instinct-1.html,s1e11 - Instinct
 1529308079 - Mon Jun 18 09:47:59 CEST 2018 - /Stream/Shades_of_Blue.html,s3e1 - Shades of Blue
+1529308087 - Mon Jun 18 09:48:07 CEST 2018 - /Stream/Into_the_Badlands.html,s3e8 - Into the Badlands
