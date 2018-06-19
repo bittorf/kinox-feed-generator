@@ -10477,3 +10477,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529409087 - Tue Jun 19 13:51:27 CEST 2018 - /Stream/The_Good_Fight-2.html,s2 - The Good Fight
 1529409095 - Tue Jun 19 13:51:35 CEST 2018 - /Stream/The_Affair-1.html,s4e1 - The Affair
 1529409106 - Tue Jun 19 13:51:46 CEST 2018 - /Stream/Dietland.html,s1e4 - Dietland
+1529409115 - Tue Jun 19 13:51:55 CEST 2018 - /Stream/Homeland_german_subbed.html,s7e10 - Homeland *german subbed*
