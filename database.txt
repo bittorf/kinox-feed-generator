@@ -10472,3 +10472,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529387421 - Tue Jun 19 07:50:21 CEST 2018 - /Stream/Westworld-3.html,s2e9 - Westworld
 1529387430 - Tue Jun 19 07:50:30 CEST 2018 - /Stream/Super_Girl.html,s3e23 - Super Girl
 1529387440 - Tue Jun 19 07:50:40 CEST 2018 - /Stream/Elementary.html,s6e8 - Elementary
+1529409068 - Tue Jun 19 13:51:08 CEST 2018 - /Stream/Dragoste_de_tata.html - Dragoste de tata
