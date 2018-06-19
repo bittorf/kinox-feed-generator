@@ -10474,3 +10474,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529387440 - Tue Jun 19 07:50:40 CEST 2018 - /Stream/Elementary.html,s6e8 - Elementary
 1529409068 - Tue Jun 19 13:51:08 CEST 2018 - /Stream/Dragoste_de_tata.html - Dragoste de tata
 1529409079 - Tue Jun 19 13:51:19 CEST 2018 - /Stream/Unschuldig_schuldig.html - Unschuldig schuldig
+1529409087 - Tue Jun 19 13:51:27 CEST 2018 - /Stream/The_Good_Fight-2.html,s2 - The Good Fight
