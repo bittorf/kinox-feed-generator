@@ -10488,3 +10488,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529488450 - Wed Jun 20 11:54:10 CEST 2018 - /Stream/Wonder_Wheel.html - Wonder Wheel
 1529488464 - Wed Jun 20 11:54:24 CEST 2018 - /Stream/The_100_german_subbed.html,s5e6 - The 100 *german subbed*
 1529488474 - Wed Jun 20 11:54:34 CEST 2018 - /Stream/Dittsche.html,s27e10 - Dittsche
+1529488485 - Wed Jun 20 11:54:45 CEST 2018 - /Stream/The_Oath-2.html,s1 - The Oath
