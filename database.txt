@@ -10515,3 +10515,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529531981 - Wed Jun 20 23:59:41 CEST 2018 - /Stream/Murphys_Gesetz.html - Murphys Gesetz
 1529531992 - Wed Jun 20 23:59:52 CEST 2018 - /Stream/Night_Wars.html - Night Wars
 1529532000 - Thu Jun 21 00:00:00 CEST 2018 - /Stream/Younger.html,s5e3 - Younger
+1529532010 - Thu Jun 21 00:00:10 CEST 2018 - /Stream/Teachers-1.html,s3e3 - Teachers
