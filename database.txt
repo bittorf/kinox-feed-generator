@@ -10490,3 +10490,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529488474 - Wed Jun 20 11:54:34 CEST 2018 - /Stream/Dittsche.html,s27e10 - Dittsche
 1529488485 - Wed Jun 20 11:54:45 CEST 2018 - /Stream/The_Oath-2.html,s1 - The Oath
 1529488495 - Wed Jun 20 11:54:55 CEST 2018 - /Stream/The_Path-1.html,s3e13 - The Path
+1529488505 - Wed Jun 20 11:55:05 CEST 2018 - /Stream/Homeland_german_subbed.html,s7e11 - Homeland *german subbed*
