@@ -10502,3 +10502,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529517431 - Wed Jun 20 19:57:11 CEST 2018 - /Stream/The_Mindy_Project-1.html,s5 - The Mindy Project
 1529517441 - Wed Jun 20 19:57:21 CEST 2018 - /Stream/Genius-1.html,s2e10 - Genius.
 1529517451 - Wed Jun 20 19:57:31 CEST 2018 - /Stream/Chicago_Fire-1.html,s6e14 - Chicago Fire
+1529524669 - Wed Jun 20 21:57:49 CEST 2018 - /Stream/Unsolved.html,s1e1 - Unsolved
