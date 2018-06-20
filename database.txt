@@ -10487,3 +10487,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529445208 - Tue Jun 19 23:53:28 CEST 2018 - /Stream/Tremors_6-Ein_kalter_Tag_in_der_Hoelle.html - Tremors 6 - Ein kalter Tag in der Hölle
 1529488450 - Wed Jun 20 11:54:10 CEST 2018 - /Stream/Wonder_Wheel.html - Wonder Wheel
 1529488464 - Wed Jun 20 11:54:24 CEST 2018 - /Stream/The_100_german_subbed.html,s5e6 - The 100 *german subbed*
+1529488474 - Wed Jun 20 11:54:34 CEST 2018 - /Stream/Dittsche.html,s27e10 - Dittsche
