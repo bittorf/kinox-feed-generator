@@ -10493,3 +10493,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529488505 - Wed Jun 20 11:55:05 CEST 2018 - /Stream/Homeland_german_subbed.html,s7e11 - Homeland *german subbed*
 1529488516 - Wed Jun 20 11:55:16 CEST 2018 - /Stream/Marvels_Cloak-Dagger.html,s1e2 - Marvel's Cloak & Dagger
 1529488525 - Wed Jun 20 11:55:25 CEST 2018 - /Stream/This_Is_Us_Das_ist_Leben.html,s2e12 - This Is Us: Das ist Leben
+1529488536 - Wed Jun 20 11:55:36 CEST 2018 - /Stream/Chicago_Med-1.html,s3e14 - Chicago Med
