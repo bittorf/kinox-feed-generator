@@ -10532,3 +10532,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529589804 - Thu Jun 21 16:03:24 CEST 2018 - /Stream/Legion-3.html,s3e8 - Legion
 1529589812 - Thu Jun 21 16:03:32 CEST 2018 - /Stream/Code_Black.html,s3e9 - Code Black
 1529589820 - Thu Jun 21 16:03:40 CEST 2018 - /Stream/Young-Hungry.html,s5e12 - Young & Hungry
+1529597034 - Thu Jun 21 18:03:54 CEST 2018 - /Stream/Bulletproof-2.html,s1e6 - Bulletproof
