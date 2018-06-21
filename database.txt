@@ -10541,3 +10541,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529604298 - Thu Jun 21 20:04:58 CEST 2018 - /Stream/The_Mindy_Project-1.html,s5e4 - The Mindy Project
 1529611515 - Thu Jun 21 22:05:15 CEST 2018 - /Stream/Jekyll_Island.html - Jekyll Island
 1529611526 - Thu Jun 21 22:05:26 CEST 2018 - /Stream/Stephanie-Das_Boese_in_ihr.html - Stephanie - Das Böse in ihr
+1529618745 - Fri Jun 22 00:05:45 CEST 2018 - /Stream/Bull-1.html,s2e20 - Bull
