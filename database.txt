@@ -10528,3 +10528,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529589762 - Thu Jun 21 16:02:42 CEST 2018 - /Stream/Peace_Pipe.html - Peace Pipe
 1529589772 - Thu Jun 21 16:02:52 CEST 2018 - /Stream/Kisser_Plant.html - Kisser Plant
 1529589781 - Thu Jun 21 16:03:01 CEST 2018 - /Stream/Pearl_Crazy.html - Pearl Crazy
+1529589795 - Thu Jun 21 16:03:15 CEST 2018 - /Stream/The_Royals.html,s4e8 - The Royals
