@@ -10543,3 +10543,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529611526 - Thu Jun 21 22:05:26 CEST 2018 - /Stream/Stephanie-Das_Boese_in_ihr.html - Stephanie - Das Böse in ihr
 1529618745 - Fri Jun 22 00:05:45 CEST 2018 - /Stream/Bull-1.html,s2e20 - Bull
 1529625969 - Fri Jun 22 02:06:09 CEST 2018 - /Stream/How_to_Party_with_Mom.html - How to Party with Mom
+1529647597 - Fri Jun 22 08:06:37 CEST 2018 - /Stream/Marvels_Runaways.html,s1e7 - Marvel's Runaways
