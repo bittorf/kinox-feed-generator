@@ -10558,3 +10558,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529676536 - Fri Jun 22 16:08:56 CEST 2018 - /Stream/Gotham-1.html,s4e8 - Gotham
 1529676551 - Fri Jun 22 16:09:11 CEST 2018 - /Stream/Falk.html,s1e6 - Falk
 1529676559 - Fri Jun 22 16:09:19 CEST 2018 - /Stream/The_Flash-1.html,s4e8 - The Flash
+1529676569 - Fri Jun 22 16:09:29 CEST 2018 - /Stream/Supergirl-2.html,s3e11 - Supergirl
