@@ -10549,3 +10549,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529647627 - Fri Jun 22 08:07:07 CEST 2018 - /Stream/Queen_of_the_South.html,s3e1 - Queen of the South
 1529647635 - Fri Jun 22 08:07:15 CEST 2018 - /Stream/Humans.html,s3e6 - Humans
 1529654850 - Fri Jun 22 10:07:30 CEST 2018 - /Stream/Killing_Eve_german_subbed.html,s1 - Killing Eve *german subbed*
+1529654860 - Fri Jun 22 10:07:40 CEST 2018 - /Stream/12_Monkeys_german_subbed.html,s4e1 - 12 Monkeys *german subbed*
