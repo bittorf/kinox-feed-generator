@@ -10552,3 +10552,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529654860 - Fri Jun 22 10:07:40 CEST 2018 - /Stream/12_Monkeys_german_subbed.html,s4e1 - 12 Monkeys *german subbed*
 1529654869 - Fri Jun 22 10:07:49 CEST 2018 - /Stream/Marvels_Luke_Cage-1.html,s2 - Marvel's Luke Cage
 1529654880 - Fri Jun 22 10:08:00 CEST 2018 - /Stream/Girlfriends_Guide_to_Divorce.html,s5e2 - Girlfriends' Guide to Divorce
+1529654890 - Fri Jun 22 10:08:10 CEST 2018 - /Stream/Nashville.html,s6e11 - Nashville
