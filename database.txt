@@ -10545,3 +10545,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529625969 - Fri Jun 22 02:06:09 CEST 2018 - /Stream/How_to_Party_with_Mom.html - How to Party with Mom
 1529647597 - Fri Jun 22 08:06:37 CEST 2018 - /Stream/Marvels_Runaways.html,s1e7 - Marvel's Runaways
 1529647609 - Fri Jun 22 08:06:49 CEST 2018 - /Stream/The_Americans-1.html,s5e1 - The Americans
+1529647618 - Fri Jun 22 08:06:58 CEST 2018 - /Stream/Shooter-2.html,s3e1 - Shooter
