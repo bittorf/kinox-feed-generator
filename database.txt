@@ -10571,3 +10571,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529712703 - Sat Jun 23 02:11:43 CEST 2018 - /Stream/Die_Fast-Stirb_endlich.html - Die Fast - Stirb endlich!
 1529734333 - Sat Jun 23 08:12:13 CEST 2018 - /Stream/Quantico.html,s3e7 - Quantico
 1529755956 - Sat Jun 23 14:12:36 CEST 2018 - /Stream/The_Call_Up-An_den_Grenzen_der_Wirklichkeit.html - The Call Up - An den Grenzen der Wirklichkeit
+1529755966 - Sat Jun 23 14:12:46 CEST 2018 - /Stream/SEAL_Team-1.html,s1e20 - SEAL Team
