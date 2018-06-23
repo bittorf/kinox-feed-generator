@@ -10579,3 +10579,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529770430 - Sat Jun 23 18:13:50 CEST 2018 - /Stream/Death_in_Paradise-1.html,s7e5 - Death in Paradise
 1529784851 - Sat Jun 23 22:14:11 CEST 2018 - /Stream/Monster_Island-2.html - Monster Island
 1529792065 - Sun Jun 24 00:14:25 CEST 2018 - /Stream/Marvels_Luke_Cage.html,s2 - Marvel's Luke Cage
+1529792075 - Sun Jun 24 00:14:35 CEST 2018 - /Stream/Cooking_on_High-1.html,s1e1 - Cooking on High
