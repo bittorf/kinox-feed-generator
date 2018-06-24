@@ -10584,3 +10584,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529792093 - Sun Jun 24 00:14:53 CEST 2018 - /Stream/The_Expanse_german_subbed.html,s3e5 - The Expanse *german subbed*
 1529792103 - Sun Jun 24 00:15:03 CEST 2018 - /Stream/The_Originals_german_subbed.html,s5 - The Originals *german subbed*
 1529799335 - Sun Jun 24 02:15:35 CEST 2018 - /Stream/Veer-Die_Liebe_eines_Kriegers.html - Veer - Die Liebe eines Kriegers
+1529878607 - Mon Jun 25 00:16:47 CEST 2018 - /Stream/Shooter-3.html,s3e1 - Shooter
