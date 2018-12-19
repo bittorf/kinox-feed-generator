@@ -10640,3 +10640,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545246714 - Wed Dec 19 20:11:54 CET 2018 - /Stream/All_American.html,s1 - All American
 1545246720 - Wed Dec 19 20:12:00 CET 2018 - /Stream/American_Horror_Story.html,s8e3 - American Horror Story
 1545246729 - Wed Dec 19 20:12:09 CET 2018 - /Stream/Z_Nation.html,s5 - Z Nation
+1545246736 - Wed Dec 19 20:12:16 CET 2018 - /Stream/Young_Sheldon.html,s2e10 - Young Sheldon
