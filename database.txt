@@ -10689,3 +10689,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545247136 - Wed Dec 19 20:18:56 CET 2018 - /Stream/The_Neighborhood.html,s1 - The Neighborhood
 1545247142 - Wed Dec 19 20:19:02 CET 2018 - /Stream/Swedish_Dicks.html,s2 - Swedish Dicks
 1545247148 - Wed Dec 19 20:19:08 CET 2018 - /Stream/SEAL_Team.html,s2e9 - SEAL Team
+1545247155 - Wed Dec 19 20:19:15 CET 2018 - /Stream/Suits-1.html,s7 - Suits
