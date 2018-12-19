@@ -10592,3 +10592,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1529936304 - Mon Jun 25 16:18:24 CEST 2018 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s41 - Alarm für Cobra 11 - Die Autobahnpolizei
 1545246275 - Wed Dec 19 20:04:35 CET 2018 - /Stream/Aquaman-1.html - Aquaman
 1545246292 - Wed Dec 19 20:04:52 CET 2018 - /Stream/Unknown_User_2_Dark_Web.html - Unknown User 2: Dark Web
+1545246299 - Wed Dec 19 20:04:59 CET 2018 - /Stream/Teen_Titans_Go_To_the_Movies.html - Teen Titans Go! To the Movies
