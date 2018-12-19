@@ -10681,3 +10681,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545247061 - Wed Dec 19 20:17:41 CET 2018 - /Stream/Ray_Donovan-1.html,s6 - Ray Donovan
 1545247069 - Wed Dec 19 20:17:49 CET 2018 - /Stream/Super_Girl.html,s4 - Super Girl
 1545247077 - Wed Dec 19 20:17:57 CET 2018 - /Stream/The_Gifted.html,s2 - The Gifted
+1545247088 - Wed Dec 19 20:18:08 CET 2018 - /Stream/Die_Bruecke-Transit_in_den_Tod.html,s4 - Die Brücke - Transit in den Tod
