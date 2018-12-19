@@ -10675,3 +10675,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545247008 - Wed Dec 19 20:16:48 CET 2018 - /Stream/Station_19.html,s2e7 - Station 19
 1545247016 - Wed Dec 19 20:16:56 CET 2018 - /Stream/Holby_City.html,s20e51 - Holby City
 1545247028 - Wed Dec 19 20:17:08 CET 2018 - /Stream/Star-1.html,s3 - Star
+1545247036 - Wed Dec 19 20:17:16 CET 2018 - /Stream/The_Originals.html,s5 - The Originals
