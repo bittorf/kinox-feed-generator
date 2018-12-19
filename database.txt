@@ -10679,3 +10679,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545247044 - Wed Dec 19 20:17:24 CET 2018 - /Stream/The_Good_Doctor-1.html,s2e10 - The Good Doctor
 1545247052 - Wed Dec 19 20:17:32 CET 2018 - /Stream/Speechless-1.html,s3 - Speechless
 1545247061 - Wed Dec 19 20:17:41 CET 2018 - /Stream/Ray_Donovan-1.html,s6 - Ray Donovan
+1545247069 - Wed Dec 19 20:17:49 CET 2018 - /Stream/Super_Girl.html,s4 - Super Girl
