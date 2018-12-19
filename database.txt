@@ -10683,3 +10683,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545247077 - Wed Dec 19 20:17:57 CET 2018 - /Stream/The_Gifted.html,s2 - The Gifted
 1545247088 - Wed Dec 19 20:18:08 CET 2018 - /Stream/Die_Bruecke-Transit_in_den_Tod.html,s4 - Die Brücke - Transit in den Tod
 1545247096 - Wed Dec 19 20:18:16 CET 2018 - /Stream/The_Simpsons.html,s30 - The Simpsons
+1545247108 - Wed Dec 19 20:18:28 CET 2018 - /Stream/Supernatural-1.html,s14 - Supernatural
