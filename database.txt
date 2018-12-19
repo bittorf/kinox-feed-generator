@@ -10638,3 +10638,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545246695 - Wed Dec 19 20:11:35 CET 2018 - /Stream/American_Dad.html,s14 - American Dad
 1545246705 - Wed Dec 19 20:11:45 CET 2018 - /Stream/9-1-1.html,s2 - 9-1-1
 1545246714 - Wed Dec 19 20:11:54 CET 2018 - /Stream/All_American.html,s1 - All American
+1545246720 - Wed Dec 19 20:12:00 CET 2018 - /Stream/American_Horror_Story.html,s8e3 - American Horror Story
