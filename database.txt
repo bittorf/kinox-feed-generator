@@ -10685,3 +10685,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545247096 - Wed Dec 19 20:18:16 CET 2018 - /Stream/The_Simpsons.html,s30 - The Simpsons
 1545247108 - Wed Dec 19 20:18:28 CET 2018 - /Stream/Supernatural-1.html,s14 - Supernatural
 1545247120 - Wed Dec 19 20:18:40 CET 2018 - /Stream/Shut_Eye.html,s1 - Shut Eye
+1545247127 - Wed Dec 19 20:18:47 CET 2018 - /Stream/Strike_Back-2.html,s6 - Strike Back
