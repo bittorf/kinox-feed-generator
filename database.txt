@@ -10671,3 +10671,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545246975 - Wed Dec 19 20:16:15 CET 2018 - /Stream/The_Goldbergs.html,s6e9 - The Goldbergs
 1545246984 - Wed Dec 19 20:16:24 CET 2018 - /Stream/The_Handmaids_Tale-1.html,s2e8 - The Handmaid's Tale
 1545246993 - Wed Dec 19 20:16:33 CET 2018 - /Stream/The_Good_Doctor-2.html,s2 - The Good Doctor
+1545247001 - Wed Dec 19 20:16:41 CET 2018 - /Stream/Private_Eyes-1.html,s2 - Private Eyes
