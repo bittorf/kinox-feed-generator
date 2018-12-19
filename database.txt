@@ -10594,3 +10594,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545246292 - Wed Dec 19 20:04:52 CET 2018 - /Stream/Unknown_User_2_Dark_Web.html - Unknown User 2: Dark Web
 1545246299 - Wed Dec 19 20:04:59 CET 2018 - /Stream/Teen_Titans_Go_To_the_Movies.html - Teen Titans Go! To the Movies
 1545246309 - Wed Dec 19 20:05:09 CET 2018 - /Stream/Hunter_Killer.html - Hunter Killer
+1545246322 - Wed Dec 19 20:05:22 CET 2018 - /Stream/Goosebumps_2_Haunted_Halloween.html - Goosebumps 2: Haunted Halloween
