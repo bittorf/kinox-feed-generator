@@ -10692,3 +10692,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545247155 - Wed Dec 19 20:19:15 CET 2018 - /Stream/Suits-1.html,s7 - Suits
 1545247163 - Wed Dec 19 20:19:23 CET 2018 - /Stream/Law-Order_New_York.html,s19 - Law & Order: New York
 1545247175 - Wed Dec 19 20:19:35 CET 2018 - /Stream/South_Park-1.html,s22 - South Park
+1545247182 - Wed Dec 19 20:19:42 CET 2018 - /Stream/The_Big_Bang_Theory-1.html,s12e10 - The Big Bang Theory
