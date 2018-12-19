@@ -10674,3 +10674,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545247001 - Wed Dec 19 20:16:41 CET 2018 - /Stream/Private_Eyes-1.html,s2 - Private Eyes
 1545247008 - Wed Dec 19 20:16:48 CET 2018 - /Stream/Station_19.html,s2e7 - Station 19
 1545247016 - Wed Dec 19 20:16:56 CET 2018 - /Stream/Holby_City.html,s20e51 - Holby City
+1545247028 - Wed Dec 19 20:17:08 CET 2018 - /Stream/Star-1.html,s3 - Star
