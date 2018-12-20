@@ -10710,3 +10710,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545297754 - Thu Dec 20 10:22:34 CET 2018 - /Stream/Rules_of_Engagement-2.html,s6e6 - Rules of Engagement
 1545297761 - Thu Dec 20 10:22:41 CET 2018 - /Stream/Alinas_Traum.html,s1e1 - Alinas Traum
 1545297767 - Thu Dec 20 10:22:47 CET 2018 - /Stream/SEAL_Team.html,s1e6 - SEAL Team
+1545297776 - Thu Dec 20 10:22:56 CET 2018 - /Stream/The_Good_Doctor-2.html,s2e7 - The Good Doctor
