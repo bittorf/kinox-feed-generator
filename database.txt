@@ -10701,3 +10701,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545290476 - Thu Dec 20 08:21:16 CET 2018 - /Stream/Der_Mann_mit_dem_Fagott.html - Der Mann mit dem Fagott
 1545290484 - Thu Dec 20 08:21:24 CET 2018 - /Stream/Mojin-The_Lost_Legend-1.html - Mojin - The Lost Legend
 1545290494 - Thu Dec 20 08:21:34 CET 2018 - /Stream/Criminal_Minds.html,s14e8 - Criminal Minds
+1545297709 - Thu Dec 20 10:21:49 CET 2018 - /Stream/Die_Jagd_nach_dem_Bernsteinzimmer.html - Die Jagd nach dem Bernsteinzimmer
