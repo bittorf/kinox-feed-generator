@@ -10725,3 +10725,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545398746 - Fri Dec 21 14:25:46 CET 2018 - /Stream/The_Guilty-2.html - The Guilty
 1545398754 - Fri Dec 21 14:25:54 CET 2018 - /Stream/Halloween-4.html - Halloween
 1545398764 - Fri Dec 21 14:26:04 CET 2018 - /Stream/Aquaman-2.html - Aquaman
+1545413190 - Fri Dec 21 18:26:30 CET 2018 - /Stream/Frankensteins_Kampf_gegen_die_Teufelsmonster.html - Frankensteins Kampf gegen die Teufelsmonster
