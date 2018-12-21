@@ -10713,3 +10713,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545297776 - Thu Dec 20 10:22:56 CET 2018 - /Stream/The_Good_Doctor-2.html,s2e7 - The Good Doctor
 1545297783 - Thu Dec 20 10:23:03 CET 2018 - /Stream/Vikings.html,s5e14 - Vikings
 1545319405 - Thu Dec 20 16:23:25 CET 2018 - /Stream/Spinning_Man.html - Spinning Man
+1545384261 - Fri Dec 21 10:24:21 CET 2018 - /Stream/Bobs_Burgers-2.html,s8e13 - Bob's Burgers
