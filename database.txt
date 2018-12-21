@@ -10732,3 +10732,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545434849 - Sat Dec 22 00:27:29 CET 2018 - /Stream/Venom-3.html - Venom
 1545434872 - Sat Dec 22 00:27:52 CET 2018 - /Stream/Bad_Times_at_the_El_Royale.html - Bad Times at the El Royale
 1545434880 - Sat Dec 22 00:28:00 CET 2018 - /Stream/The_Happy_Prince.html - The Happy Prince
+1545434888 - Sat Dec 22 00:28:08 CET 2018 - /Stream/Swedish_Dicks.html,s2e8 - Swedish Dicks
