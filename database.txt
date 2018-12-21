@@ -10718,3 +10718,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545384277 - Fri Dec 21 10:24:37 CET 2018 - /Stream/American_Dad.html,s15 - American Dad
 1545384285 - Fri Dec 21 10:24:45 CET 2018 - /Stream/Kidding.html,s1e6 - Kidding
 1545384292 - Fri Dec 21 10:24:52 CET 2018 - /Stream/Killjoys-1.html,s4e4 - Killjoys
+1545384300 - Fri Dec 21 10:25:00 CET 2018 - /Stream/Neo_Magazin-1.html,s7e16 - Neo Magazin
