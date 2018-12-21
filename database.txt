@@ -10723,3 +10723,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545384318 - Fri Dec 21 10:25:18 CET 2018 - /Stream/Code_Black-1.html,s3e12 - Code Black
 1545384326 - Fri Dec 21 10:25:26 CET 2018 - /Stream/The_Gifted-1.html,s2e7 - The Gifted
 1545398746 - Fri Dec 21 14:25:46 CET 2018 - /Stream/The_Guilty-2.html - The Guilty
+1545398754 - Fri Dec 21 14:25:54 CET 2018 - /Stream/Halloween-4.html - Halloween
