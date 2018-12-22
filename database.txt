@@ -10742,3 +10742,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545485394 - Sat Dec 22 14:29:54 CET 2018 - /Stream/Robin_Hood-11.html - Robin Hood
 1545485421 - Sat Dec 22 14:30:21 CET 2018 - /Stream/Ralph_Breaks_the_Internet.html - Ralph Breaks the Internet
 1545485432 - Sat Dec 22 14:30:32 CET 2018 - /Stream/Verschwoerung.html - Verschwörung
+1545485444 - Sat Dec 22 14:30:44 CET 2018 - /Stream/Frankenstein_und_die_Ungeheuer_aus_dem_Meer.html - Frankenstein und die Ungeheuer aus dem Meer
