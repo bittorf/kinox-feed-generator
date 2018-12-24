@@ -10763,3 +10763,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545611554 - Mon Dec 24 01:32:34 CET 2018 - /Stream/The_Untold_Story.html - The Untold Story
 1545611561 - Mon Dec 24 01:32:41 CET 2018 - /Stream/Der_Wolf_und_die_sieben_Geisslein.html - Der Wolf und die sieben Geiﬂlein
 1545611568 - Mon Dec 24 01:32:48 CET 2018 - /Stream/Santa_Clause_3-Eine_frostige_Bescherung.html - Santa Clause 3 - Eine frostige Bescherung
+1545611578 - Mon Dec 24 01:32:58 CET 2018 - /Stream/Das_Supertalent.html,s12e14 - Das Supertalent
