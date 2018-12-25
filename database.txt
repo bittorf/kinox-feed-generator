@@ -10808,3 +10808,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545770512 - Tue Dec 25 21:41:52 CET 2018 - /Stream/Der_Kronprinz.html - Der Kronprinz
 1545770524 - Tue Dec 25 21:42:04 CET 2018 - /Stream/Der_Wilderer_vom_Silberwald.html - Der Wilderer vom Silberwald
 1545770531 - Tue Dec 25 21:42:11 CET 2018 - /Stream/Der_suesse_Brei.html - Der süße Brei
+1545770537 - Tue Dec 25 21:42:17 CET 2018 - /Stream/Charlie-Eine_himmlische_Weihnachtsgeschichte.html - Charlie - Eine himmlische Weihnachtsgeschichte
