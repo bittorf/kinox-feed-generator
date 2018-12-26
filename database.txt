@@ -10830,3 +10830,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1545813969 - Wed Dec 26 09:46:09 CET 2018 - /Stream/Outlander_2014.html,s4e8 - Outlander 2014
 1545850002 - Wed Dec 26 19:46:42 CET 2018 - /Stream/Mary_Poppins_Returns.html - Mary Poppins Returns
 1545850018 - Wed Dec 26 19:46:58 CET 2018 - /Stream/Aufbruch_zum_Mond.html - Aufbruch zum Mond
+1545850032 - Wed Dec 26 19:47:12 CET 2018 - /Stream/The_Equalizer_2-1.html - The Equalizer 2
