@@ -10895,3 +10895,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546073933 - Sat Dec 29 09:58:53 CET 2018 - /Stream/Fortitude.html,s3e1 - Fortitude
 1546073940 - Sat Dec 29 09:59:00 CET 2018 - /Stream/Code_Black-1.html,s3e13 - Code Black
 1546073948 - Sat Dec 29 09:59:08 CET 2018 - /Stream/Van_Helsing-2.html,s3e13 - Van Helsing
+1546073956 - Sat Dec 29 09:59:16 CET 2018 - /Stream/Star_Wars_Resistance.html,s1 - Star Wars Resistance
