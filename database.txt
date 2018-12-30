@@ -10917,3 +10917,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546160616 - Sun Dec 30 10:03:36 CET 2018 - /Stream/Ray_Donovan.html,s6e10 - Ray Donovan
 1546160626 - Sun Dec 30 10:03:46 CET 2018 - /Stream/Counterpart.html,s2e4 - Counterpart
 1546160634 - Sun Dec 30 10:03:54 CET 2018 - /Stream/Outlander_2014.html,s4e9 - Outlander 2014
+1546167850 - Sun Dec 30 12:04:10 CET 2018 - /Stream/Criminal_Minds-1.html,s14e1 - Criminal Minds
