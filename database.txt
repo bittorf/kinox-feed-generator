@@ -10918,3 +10918,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546160626 - Sun Dec 30 10:03:46 CET 2018 - /Stream/Counterpart.html,s2e4 - Counterpart
 1546160634 - Sun Dec 30 10:03:54 CET 2018 - /Stream/Outlander_2014.html,s4e9 - Outlander 2014
 1546167850 - Sun Dec 30 12:04:10 CET 2018 - /Stream/Criminal_Minds-1.html,s14e1 - Criminal Minds
+1546239908 - Mon Dec 31 08:05:08 CET 2018 - /Stream/Star-2.html,s2e13 - Star
