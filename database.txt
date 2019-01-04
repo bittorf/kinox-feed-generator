@@ -11088,3 +11088,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546617972 - Fri Jan  4 17:06:12 CET 2019 - /Stream/Stranger_Things.html,s2e1 - Stranger Things
 1546617981 - Fri Jan  4 17:06:21 CET 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s9e14 - Grey's Anatomy - Die jungen Ärzte
 1546617990 - Fri Jan  4 17:06:30 CET 2019 - /Stream/True_Blood.html,s1 - True Blood
+1546617999 - Fri Jan  4 17:06:39 CET 2019 - /Stream/True_Detective-1.html,s2 - True Detective
