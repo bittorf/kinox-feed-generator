@@ -11226,3 +11226,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546626794 - Fri Jan  4 19:33:14 CET 2019 - /Stream/Better_Call_Saul.html,s4 - Better Call Saul
 1546626807 - Fri Jan  4 19:33:27 CET 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s9 - Grey's Anatomy - Die jungen Ärzte
 1546626817 - Fri Jan  4 19:33:37 CET 2019 - /Stream/Rom.html,s1 - Rom
+1546626825 - Fri Jan  4 19:33:45 CET 2019 - /Stream/Narcos.html,s1 - Narcos
