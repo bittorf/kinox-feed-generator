@@ -11271,3 +11271,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546634373 - Fri Jan  4 21:39:33 CET 2019 - /Stream/The_Ballad_of_Buster_Scruggs.html - The Ballad of Buster Scruggs
 1546634381 - Fri Jan  4 21:39:41 CET 2019 - /Stream/Empoerung.html - Empörung
 1546634389 - Fri Jan  4 21:39:49 CET 2019 - /Stream/Ein_Hologramm_fuer_den_Koenig.html - Ein Hologramm für den König
+1546634398 - Fri Jan  4 21:39:58 CET 2019 - /Stream/Stranger_Things.html,s1 - Stranger Things
