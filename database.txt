@@ -11133,3 +11133,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546625674 - Fri Jan  4 19:14:34 CET 2019 - /Stream/Illuminati.html - Illuminati
 1546625689 - Fri Jan  4 19:14:49 CET 2019 - /Stream/Aliens-Die_Rueckkehr.html - Aliens - Die Rückkehr
 1546625697 - Fri Jan  4 19:14:58 CET 2019 - /Stream/Griessnockerlaffaere.html - Grießnockerlaffäre
+1546625706 - Fri Jan  4 19:15:06 CET 2019 - /Stream/Terminator_2-Tag_der_Abrechnung.html - Terminator 2 - Tag der Abrechnung
