@@ -10994,3 +10994,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546602717 - Fri Jan  4 12:51:57 CET 2019 - /Stream/21.html - 21
 1546602730 - Fri Jan  4 12:52:10 CET 2019 - /Stream/Die_schoenen_Wilden_von_Ibiza.html - Die schönen Wilden von Ibiza
 1546602738 - Fri Jan  4 12:52:18 CET 2019 - /Stream/Lady_Dracula.html - Lady Dracula
+1546602744 - Fri Jan  4 12:52:24 CET 2019 - /Stream/Curse_of_the_Nun.html - Curse of the Nun
