@@ -11327,3 +11327,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546699793 - Sat Jan  5 15:49:53 CET 2019 - /Stream/I_Feel_Pretty-1.html - I Feel Pretty
 1546699809 - Sat Jan  5 15:50:09 CET 2019 - /Stream/King_Kong-3.html - King Kong
 1546699833 - Sat Jan  5 15:50:33 CET 2019 - /Stream/Storm_Hunters.html - Storm Hunters
+1546699849 - Sat Jan  5 15:50:49 CET 2019 - /Stream/Ted_2-1.html - Ted 2
