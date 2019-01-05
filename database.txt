@@ -11346,3 +11346,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546700047 - Sat Jan  5 15:54:07 CET 2019 - /Stream/Denk_wie_ein_Mann_2.html - Denk wie ein Mann 2
 1546700057 - Sat Jan  5 15:54:17 CET 2019 - /Stream/I_Am_Legend-1.html - I Am Legend
 1546700074 - Sat Jan  5 15:54:34 CET 2019 - /Stream/Robot_Chicken_Star_Wars-Episodes_III.html - Robot Chicken: Star Wars - Episodes III
+1546700082 - Sat Jan  5 15:54:42 CET 2019 - /Stream/Der_Kaufhaus_Cop_2.html - Der Kaufhaus Cop 2
