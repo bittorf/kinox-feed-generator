@@ -11620,3 +11620,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546724583 - Sat Jan  5 22:43:03 CET 2019 - /Stream/Aquarius-Theater_des_Todes.html - Aquarius - Theater des Todes
 1546724591 - Sat Jan  5 22:43:11 CET 2019 - /Stream/Spookies-Die_Killermonster.html - Spookies - Die Killermonster
 1546724599 - Sat Jan  5 22:43:19 CET 2019 - /Stream/Der_Club_der_toten_Dichter.html - Der Club der toten Dichter
+1546724608 - Sat Jan  5 22:43:28 CET 2019 - /Stream/American_Samurai-1.html - American Samurai
