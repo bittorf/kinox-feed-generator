@@ -11364,3 +11364,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546700263 - Sat Jan  5 15:57:43 CET 2019 - /Stream/Nicht_ohne_Eltern.html - Nicht ohne Eltern
 1546700270 - Sat Jan  5 15:57:50 CET 2019 - /Stream/Dragon_Ball-Die_Legende_von_Shenlong.html - Dragon Ball - Die Legende von Shenlong
 1546700278 - Sat Jan  5 15:57:58 CET 2019 - /Stream/Genius-Die_tausend_Seiten_einer_Freundschaft.html - Genius - Die tausend Seiten einer Freundschaft
+1546700288 - Sat Jan  5 15:58:08 CET 2019 - /Stream/GoodFellas-Drei_Jahrzehnte_in_der_Mafia.html - GoodFellas - Drei Jahrzehnte in der Mafia
