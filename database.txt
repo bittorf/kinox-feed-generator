@@ -11503,3 +11503,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546708972 - Sat Jan  5 18:22:52 CET 2019 - /Stream/Urge-Rausch_ohne_Limit.html - Urge - Rausch ohne Limit
 1546708981 - Sat Jan  5 18:23:01 CET 2019 - /Stream/The_Scorpion_King_4-Der_verlorene_Thron.html - The Scorpion King 4 - Der verlorene Thron
 1546708988 - Sat Jan  5 18:23:08 CET 2019 - /Stream/The_Trust_Big_Trouble_in_Sin_City.html - The Trust: Big Trouble in Sin City
+1546708996 - Sat Jan  5 18:23:16 CET 2019 - /Stream/Resident_Evil.html - Resident Evil
