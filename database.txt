@@ -11437,3 +11437,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546701070 - Sat Jan  5 16:11:10 CET 2019 - /Stream/Wie_die_Mutter_so_die_Tochter.html - Wie die Mutter, so die Tochter
 1546701078 - Sat Jan  5 16:11:18 CET 2019 - /Stream/Maze_Runner-Die_Auserwaehlten_im_Labyrinth.html - Maze Runner - Die Auserwählten im Labyrinth
 1546701092 - Sat Jan  5 16:11:32 CET 2019 - /Stream/The_Expendables.html - The Expendables
+1546701106 - Sat Jan  5 16:11:46 CET 2019 - /Stream/Vacation-Wir_sind_die_Griswolds.html - Vacation - Wir sind die Griswolds
