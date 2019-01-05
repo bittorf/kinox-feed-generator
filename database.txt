@@ -11532,3 +11532,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546709254 - Sat Jan  5 18:27:34 CET 2019 - /Stream/Wir_sind_die_Neuen.html - Wir sind die Neuen
 1546709261 - Sat Jan  5 18:27:41 CET 2019 - /Stream/The_Darkness-1.html - The Darkness
 1546709269 - Sat Jan  5 18:27:49 CET 2019 - /Stream/Pattaya.html - Pattaya
+1546709278 - Sat Jan  5 18:27:58 CET 2019 - /Stream/Picknick_mit_Baeren.html - Picknick mit Bären
