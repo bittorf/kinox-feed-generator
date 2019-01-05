@@ -11283,3 +11283,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546648892 - Sat Jan  5 01:41:32 CET 2019 - /Stream/The_Amazing_Spider-Man-1.html - The Amazing Spider-Man
 1546648919 - Sat Jan  5 01:41:59 CET 2019 - /Stream/Solis-1.html - Solis
 1546648927 - Sat Jan  5 01:42:07 CET 2019 - /Stream/Breaking_Bad.html,s1e2 - Breaking Bad
+1546648936 - Sat Jan  5 01:42:16 CET 2019 - /Stream/Breaking_Bad.html,s2e10 - Breaking Bad
