@@ -12217,3 +12217,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546766553 - Sun Jan  6 10:22:33 CET 2019 - /Stream/Good_Will_Hunting-Der_gute_Will_Hunting.html - Good Will Hunting - Der gute Will Hunting
 1546766562 - Sun Jan  6 10:22:42 CET 2019 - /Stream/The_Fighters.html - The Fighters
 1546766571 - Sun Jan  6 10:22:51 CET 2019 - /Stream/Kiss-Kill.html - Kiss & Kill
+1546766581 - Sun Jan  6 10:23:01 CET 2019 - /Stream/Die_Abenteuer_von_Tim_und_Struppi.html - Die Abenteuer von Tim und Struppi
