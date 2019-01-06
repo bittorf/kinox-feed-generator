@@ -12332,3 +12332,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546767740 - Sun Jan  6 10:42:20 CET 2019 - /Stream/Attack_from_the_Atlantic_Rim_2.html - Attack from the Atlantic Rim 2
 1546767748 - Sun Jan  6 10:42:28 CET 2019 - /Stream/Eine_zauberhafte_Nanny.html - Eine zauberhafte Nanny
 1546767761 - Sun Jan  6 10:42:41 CET 2019 - /Stream/Iron_Sky.html - Iron Sky
+1546767771 - Sun Jan  6 10:42:51 CET 2019 - /Stream/Der_Diamanten-Cop.html - Der Diamanten-Cop
