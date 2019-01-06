@@ -12061,3 +12061,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546765021 - Sun Jan  6 09:57:01 CET 2019 - /Stream/Tini-Violettas_Zukunft.html - Tini - Violettas Zukunft
 1546765030 - Sun Jan  6 09:57:10 CET 2019 - /Stream/Vaeter_und_Toechter.html - Väter und Töchter
 1546765039 - Sun Jan  6 09:57:19 CET 2019 - /Stream/Cyborgs_Heroes_Never_Die.html - Cyborgs: Heroes Never Die
+1546765046 - Sun Jan  6 09:57:26 CET 2019 - /Stream/Armour_of_God-Chinese_Zodiac.html - Armour of God - Chinese Zodiac
