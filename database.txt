@@ -11719,3 +11719,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546754504 - Sun Jan  6 07:01:44 CET 2019 - /Stream/Cast_away-Verschollen.html - Cast away - Verschollen
 1546754516 - Sun Jan  6 07:01:56 CET 2019 - /Stream/Who_Am_I.html - Who Am I
 1546754525 - Sun Jan  6 07:02:05 CET 2019 - /Stream/Patient_Zero-1.html - Patient Zero
+1546754533 - Sun Jan  6 07:02:13 CET 2019 - /Stream/Der_Diktator.html - Der Diktator
