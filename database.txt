@@ -12519,3 +12519,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546805740 - Sun Jan  6 21:15:40 CET 2019 - /Stream/Snitch-Ein_riskanter_Deal.html - Snitch - Ein riskanter Deal
 1546805751 - Sun Jan  6 21:15:51 CET 2019 - /Stream/Film_Stars_Dont_Die_in_Liverpool.html - Film Stars Don't Die in Liverpool
 1546805763 - Sun Jan  6 21:16:03 CET 2019 - /Stream/Die_Entfuehrung_von_Bus_657.html - Die Entführung von Bus 657
+1546805773 - Sun Jan  6 21:16:13 CET 2019 - /Stream/The_Legend_of_Hercules-1.html - The Legend of Hercules
