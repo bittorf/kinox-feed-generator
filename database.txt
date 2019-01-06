@@ -11902,3 +11902,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546763447 - Sun Jan  6 09:30:47 CET 2019 - /Stream/Seelen.html - Seelen
 1546763460 - Sun Jan  6 09:31:00 CET 2019 - /Stream/Rampage-Rache_ist_unbarmherzig.html - Rampage - Rache ist unbarmherzig
 1546763468 - Sun Jan  6 09:31:08 CET 2019 - /Stream/Ghost_Rider_Spirit_of_Vengeance.html - Ghost Rider: Spirit of Vengeance
+1546763480 - Sun Jan  6 09:31:20 CET 2019 - /Stream/Dallas_Buyers_Club.html - Dallas Buyers Club
