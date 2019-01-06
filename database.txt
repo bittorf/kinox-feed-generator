@@ -11714,3 +11714,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546754462 - Sun Jan  6 07:01:02 CET 2019 - /Stream/Groupies_bleiben_nicht_zum_Fruehstueck-1.html - Groupies bleiben nicht zum Frühstück
 1546754471 - Sun Jan  6 07:01:11 CET 2019 - /Stream/Bad_Samaritan-Im_Visier_des_Killers.html - Bad Samaritan - Im Visier des Killers
 1546754478 - Sun Jan  6 07:01:18 CET 2019 - /Stream/Lion_Der_lange_Weg_nach_Hause.html - Lion: Der lange Weg nach Hause
+1546754487 - Sun Jan  6 07:01:27 CET 2019 - /Stream/Batman_The_Killing_Joke-1.html - Batman: The Killing Joke
