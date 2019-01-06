@@ -12545,3 +12545,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546806016 - Sun Jan  6 21:20:16 CET 2019 - /Stream/Daybreakers.html - Daybreakers
 1546806025 - Sun Jan  6 21:20:25 CET 2019 - /Stream/Lord_of_War-Haendler_des_Todes.html - Lord of War - Händler des Todes
 1546806038 - Sun Jan  6 21:20:38 CET 2019 - /Stream/End_of_Watch.html - End of Watch
+1546806049 - Sun Jan  6 21:20:49 CET 2019 - /Stream/Mindhunter.html,s1 - Mindhunter
