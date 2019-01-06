@@ -11629,3 +11629,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546731867 - Sun Jan  6 00:44:27 CET 2019 - /Stream/Cry_Wolf_You_Lie_You_Die.html - Cry Wolf: You Lie, You Die
 1546731878 - Sun Jan  6 00:44:38 CET 2019 - /Stream/City_of_Life_and_Death-Das_Nanjing_Massaker.html - City of Life and Death - Das Nanjing Massaker
 1546731884 - Sun Jan  6 00:44:44 CET 2019 - /Stream/Criminal_Minds-1.html,s14e2 - Criminal Minds
+1546739101 - Sun Jan  6 02:45:01 CET 2019 - /Stream/Der_Terminator.html - Der Terminator
