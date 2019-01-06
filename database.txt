@@ -11712,3 +11712,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546754444 - Sun Jan  6 07:00:44 CET 2019 - /Stream/Lass_dein_Glueck_nicht_ziehen.html - Lass dein Glück nicht ziehen
 1546754452 - Sun Jan  6 07:00:52 CET 2019 - /Stream/The_Inhabitant.html - The Inhabitant
 1546754462 - Sun Jan  6 07:01:02 CET 2019 - /Stream/Groupies_bleiben_nicht_zum_Fruehstueck-1.html - Groupies bleiben nicht zum Frühstück
+1546754471 - Sun Jan  6 07:01:11 CET 2019 - /Stream/Bad_Samaritan-Im_Visier_des_Killers.html - Bad Samaritan - Im Visier des Killers
