@@ -12172,3 +12172,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546766136 - Sun Jan  6 10:15:36 CET 2019 - /Stream/Ein_goettliches_Paar.html - Ein göttliches Paar
 1546766144 - Sun Jan  6 10:15:44 CET 2019 - /Stream/Kiss_the_Cook_So_schmeckt_das_Leben.html - Kiss the Cook: So schmeckt das Leben
 1546766155 - Sun Jan  6 10:15:55 CET 2019 - /Stream/Hail_Caesar-1.html - Hail, Caesar!
+1546766171 - Sun Jan  6 10:16:11 CET 2019 - /Stream/Friday-1.html - Friday
