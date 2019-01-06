@@ -12350,3 +12350,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546767924 - Sun Jan  6 10:45:24 CET 2019 - /Stream/Frozen-Eiskalter_Abgrund.html - Frozen - Eiskalter Abgrund
 1546767933 - Sun Jan  6 10:45:33 CET 2019 - /Stream/Underworld_Evolution-1.html - Underworld: Evolution
 1546767947 - Sun Jan  6 10:45:47 CET 2019 - /Stream/Die_wilden_Huehner_und_die_Liebe.html - Die wilden Hühner und die Liebe
+1546767955 - Sun Jan  6 10:45:55 CET 2019 - /Stream/Ghost_Rider-2.html - Ghost Rider
