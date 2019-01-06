@@ -11894,3 +11894,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546763366 - Sun Jan  6 09:29:26 CET 2019 - /Stream/Intimacy-1.html - Intimacy
 1546763374 - Sun Jan  6 09:29:34 CET 2019 - /Stream/Maennerherzen-und_die_ganz_ganz_grosse_Liebe.html - Männerherzen ... und die ganz, ganz große Liebe
 1546763382 - Sun Jan  6 09:29:42 CET 2019 - /Stream/Stalingrad-1.html - Stalingrad
+1546763389 - Sun Jan  6 09:29:49 CET 2019 - /Stream/Police_Academy-Duemmer_als_die_Polizei_erlaubt.html - Police Academy - Dümmer als die Polizei erlaubt
