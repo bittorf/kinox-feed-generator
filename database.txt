@@ -12006,3 +12006,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546764491 - Sun Jan  6 09:48:11 CET 2019 - /Stream/Die_Biene_Maja-Der_Film.html - Die Biene Maja - Der Film
 1546764499 - Sun Jan  6 09:48:19 CET 2019 - /Stream/Um_jeden_Preis-At_any_Price.html - Um jeden Preis - At any Price
 1546764508 - Sun Jan  6 09:48:28 CET 2019 - /Stream/Planes_2-Immer_im_Einsatz.html - Planes 2 - Immer im Einsatz
+1546764517 - Sun Jan  6 09:48:37 CET 2019 - /Stream/Die_Croods.html - Die Croods
