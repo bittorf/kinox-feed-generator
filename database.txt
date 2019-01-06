@@ -11845,3 +11845,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546755708 - Sun Jan  6 07:21:48 CET 2019 - /Stream/Dinky_Sinky.html - Dinky Sinky
 1546755715 - Sun Jan  6 07:21:55 CET 2019 - /Stream/Die_Mumie_kehrt_zurueck.html - Die Mumie kehrt zurück
 1546755729 - Sun Jan  6 07:22:09 CET 2019 - /Stream/Karate_Kid.html - Karate Kid
+1546755738 - Sun Jan  6 07:22:18 CET 2019 - /Stream/LEGO_DC_Comics_Super_Heroes_Aquaman-Die_Rache_von_Atlantis.html - LEGO DC Comics Super Heroes: Aquaman - Die Rache von Atlantis
