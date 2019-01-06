@@ -11995,3 +11995,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546764379 - Sun Jan  6 09:46:19 CET 2019 - /Stream/The_First_Time.html - The First Time
 1546764387 - Sun Jan  6 09:46:27 CET 2019 - /Stream/Die_fantastische_Welt_von_Oz.html - Die fantastische Welt von Oz
 1546764406 - Sun Jan  6 09:46:46 CET 2019 - /Stream/Robin_Hood-Koenig_der_Diebe.html - Robin Hood - König der Diebe
+1546764418 - Sun Jan  6 09:46:58 CET 2019 - /Stream/Hellboy_2-Die_goldene_Armee.html - Hellboy 2 - Die goldene Armee
