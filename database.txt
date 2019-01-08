@@ -13748,3 +13748,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546953589 - Tue Jan  8 14:19:49 CET 2019 - /Stream/Dark_Matter-3.html,s1 - Dark Matter
 1546953596 - Tue Jan  8 14:19:56 CET 2019 - /Stream/Tashi.html,s1 - Tashi
 1546953605 - Tue Jan  8 14:20:05 CET 2019 - /Stream/Marvels_Guardians_of_the_Galaxy-1.html,s1 - Marvel's Guardians of the Galaxy
+1546953614 - Tue Jan  8 14:20:14 CET 2019 - /Stream/White_Collar-1.html,s2 - White Collar
