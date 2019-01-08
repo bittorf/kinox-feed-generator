@@ -13184,3 +13184,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546934317 - Tue Jan  8 08:58:37 CET 2019 - /Stream/Beschreibung_eines_Sommers.html - Beschreibung eines Sommers
 1546934323 - Tue Jan  8 08:58:43 CET 2019 - /Stream/Barbershop-Ein_haarscharfes_Viertel.html - Barbershop - Ein haarscharfes Viertel
 1546934332 - Tue Jan  8 08:58:52 CET 2019 - /Stream/Als_der_Wind_den_Sand_beruehrte.html - Als der Wind den Sand berührte
+1546934339 - Tue Jan  8 08:58:59 CET 2019 - /Stream/American_Graffiti-1.html - American Graffiti
