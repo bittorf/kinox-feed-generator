@@ -12718,3 +12718,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546915757 - Tue Jan  8 03:49:17 CET 2019 - /Stream/A_Woman_a_Gun_and_a_Noodle_Shop.html - A Woman, a Gun and a Noodle Shop
 1546915768 - Tue Jan  8 03:49:28 CET 2019 - /Stream/Air_Force_One-2.html - Air Force One
 1546915778 - Tue Jan  8 03:49:38 CET 2019 - /Stream/Der_schwarze_Berg.html - Der schwarze Berg
+1546915784 - Tue Jan  8 03:49:44 CET 2019 - /Stream/Batman_of_the_Future-Der_Joker_kommt_zurueck.html - Batman of the Future - Der Joker kommt zurück
