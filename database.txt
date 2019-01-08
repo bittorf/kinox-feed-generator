@@ -14056,3 +14056,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546963498 - Tue Jan  8 17:04:58 CET 2019 - /Stream/Lucifer-2.html,s3e10 - Lucifer
 1546963507 - Tue Jan  8 17:05:07 CET 2019 - /Stream/.html,s1e9 - Altered Carbon: Das Unsterblichkeitsprogramm
 1546963509 - Tue Jan  8 17:05:09 CET 2019 - /Stream/Supernatural.html,s4 - Supernatural
+1546963519 - Tue Jan  8 17:05:19 CET 2019 - /Stream/Kommissarin_Heller-Querschlaeger.html,s1e8 - Kommissarin Heller - Querschläger
