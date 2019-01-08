@@ -13774,3 +13774,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546953800 - Tue Jan  8 14:23:20 CET 2019 - /Stream/White_Collar-1.html,s6 - White Collar
 1546953809 - Tue Jan  8 14:23:29 CET 2019 - /Stream/Hell_on_Wheels-1.html,s5 - Hell on Wheels
 1546953817 - Tue Jan  8 14:23:37 CET 2019 - /Stream/The_Good_Fight-1.html,s2 - The Good Fight
+1546953824 - Tue Jan  8 14:23:44 CET 2019 - /Stream/Legends_of_Tomorrow.html,s4 - Legends of Tomorrow
