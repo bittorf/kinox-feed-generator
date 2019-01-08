@@ -14267,3 +14267,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546972682 - Tue Jan  8 19:38:02 CET 2019 - /Stream/XIII-Die_Verschwoerung.html,s1e1 - XIII - Die Verschwörung
 1546972689 - Tue Jan  8 19:38:09 CET 2019 - /Stream/Star_Trek_Discovery-1.html,s1 - Star Trek: Discovery
 1546972699 - Tue Jan  8 19:38:19 CET 2019 - /Stream/Die_Pfefferkoerner.html,s15e3 - Die Pfefferkörner
+1546972707 - Tue Jan  8 19:38:27 CET 2019 - /Stream/DEVILMAN_crybaby.html,s1e1 - DEVILMAN: crybaby
