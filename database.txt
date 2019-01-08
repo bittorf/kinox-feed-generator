@@ -13212,3 +13212,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546934549 - Tue Jan  8 09:02:29 CET 2019 - /Stream/Bleib_wie_Du_bist.html - Bleib wie Du bist
 1546934555 - Tue Jan  8 09:02:35 CET 2019 - /Stream/Wie_ein_einziger_Tag.html - Wie ein einziger Tag
 1546934565 - Tue Jan  8 09:02:45 CET 2019 - /Stream/Billy_Madison-Ein_Chaot_zum_Verlieben.html - Billy Madison - Ein Chaot zum Verlieben
+1546934573 - Tue Jan  8 09:02:53 CET 2019 - /Stream/Duell_vor_Sonnenuntergang.html - Duell vor Sonnenuntergang
