@@ -14346,3 +14346,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546978076 - Tue Jan  8 21:07:56 CET 2019 - /Stream/Fussball_ist_unser_Leben.html - Fussball ist unser Leben
 1546978083 - Tue Jan  8 21:08:03 CET 2019 - /Stream/Auch_Erben_muessen_sterben.html - Auch Erben müssen sterben
 1546978090 - Tue Jan  8 21:08:10 CET 2019 - /Stream/Bestie_des_Grauens.html - Bestie des Grauens
+1546978096 - Tue Jan  8 21:08:16 CET 2019 - /Stream/Die_Strassenkaempfer.html - Die Straßenkämpfer
