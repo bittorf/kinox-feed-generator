@@ -13755,3 +13755,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546953649 - Tue Jan  8 14:20:49 CET 2019 - /Stream/Grimm-3.html,s6 - Grimm
 1546953657 - Tue Jan  8 14:20:57 CET 2019 - /Stream/Magie_Akademie.html,s1 - Magie Akademie
 1546953665 - Tue Jan  8 14:21:05 CET 2019 - /Stream/Code_Black-1.html,s3 - Code Black
+1546953673 - Tue Jan  8 14:21:13 CET 2019 - /Stream/Der_Tatortreiniger.html,s5 - Der Tatortreiniger
