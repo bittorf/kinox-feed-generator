@@ -14269,3 +14269,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546972699 - Tue Jan  8 19:38:19 CET 2019 - /Stream/Die_Pfefferkoerner.html,s15e3 - Die Pfefferkörner
 1546972707 - Tue Jan  8 19:38:27 CET 2019 - /Stream/DEVILMAN_crybaby.html,s1e1 - DEVILMAN: crybaby
 1546972714 - Tue Jan  8 19:38:34 CET 2019 - /Stream/Krypton-1.html,s1e7 - Krypton
+1546972722 - Tue Jan  8 19:38:42 CET 2019 - /Stream/Sherlock-1.html,s1e1 - Sherlock
