@@ -13296,3 +13296,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546942483 - Tue Jan  8 11:14:43 CET 2019 - /Stream/A_Better_Tomorrow_2k12.html - A Better Tomorrow 2k12
 1546942490 - Tue Jan  8 11:14:50 CET 2019 - /Stream/Chalk_It_Up.html - Chalk It Up
 1546942498 - Tue Jan  8 11:14:58 CET 2019 - /Stream/Cannibal_Rising.html - Cannibal Rising
+1546942509 - Tue Jan  8 11:15:09 CET 2019 - /Stream/C-H-U-D-Das_Monster_lebt.html - C.H.U.D. - Das Monster lebt
