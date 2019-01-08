@@ -14280,3 +14280,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546972794 - Tue Jan  8 19:39:54 CET 2019 - /Stream/Young_Sheldon-1.html,s2e2 - Young Sheldon
 1546972803 - Tue Jan  8 19:40:03 CET 2019 - /Stream/MacGyver-2.html,s3e1 - MacGyver
 1546977499 - Tue Jan  8 20:58:19 CET 2019 - /Stream/Mutter_reichts_jetzt.html - Mutter reicht's jetzt
+1546977507 - Tue Jan  8 20:58:27 CET 2019 - /Stream/Halloween_Resurrection-1.html - Halloween: Resurrection
