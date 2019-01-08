@@ -14238,3 +14238,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546972422 - Tue Jan  8 19:33:42 CET 2019 - /Stream/The_Good_Place_german_subbed.html,s1e8 - The Good Place *german subbed*
 1546972430 - Tue Jan  8 19:33:50 CET 2019 - /Stream/Criminal_Minds-1.html,s8 - Criminal Minds
 1546972440 - Tue Jan  8 19:34:00 CET 2019 - /Stream/Criminal_Minds-1.html,s3 - Criminal Minds
+1546972449 - Tue Jan  8 19:34:09 CET 2019 - /Stream/Inspector_Gadget-2.html,s1e1 - Inspector Gadget
