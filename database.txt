@@ -13619,3 +13619,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546952486 - Tue Jan  8 14:01:26 CET 2019 - /Stream/Behemoth-Monster_aus_der_Tiefe.html - Behemoth - Monster aus der Tiefe
 1546952493 - Tue Jan  8 14:01:33 CET 2019 - /Stream/Chocolat-ein_kleiner_Biss_genuegt.html - Chocolat... ein kleiner Biss genügt
 1546952503 - Tue Jan  8 14:01:43 CET 2019 - /Stream/Cinderella-Wahre_Liebe_siegt.html - Cinderella - Wahre Liebe siegt
+1546952513 - Tue Jan  8 14:01:53 CET 2019 - /Stream/Adele_und_das_Geheimnis_des_Pharaos.html - Adèle und das Geheimnis des Pharaos
