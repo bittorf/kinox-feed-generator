@@ -13302,3 +13302,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546942539 - Tue Jan  8 11:15:39 CET 2019 - /Stream/Abenteuer_in_Texas.html - Abenteuer in Texas
 1546942545 - Tue Jan  8 11:15:45 CET 2019 - /Stream/Chungking_Express.html - Chungking Express
 1546942553 - Tue Jan  8 11:15:53 CET 2019 - /Stream/Behind_Your_Eyes.html - Behind Your Eyes
+1546942560 - Tue Jan  8 11:16:00 CET 2019 - /Stream/Chick_Magnet-1.html - Chick Magnet
