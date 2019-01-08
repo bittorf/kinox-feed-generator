@@ -14398,3 +14398,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546978547 - Tue Jan  8 21:15:47 CET 2019 - /Stream/Boerue-Die_Woelfe.html,s1e1 - Börü - Die Wölfe
 1546978554 - Tue Jan  8 21:15:54 CET 2019 - /Stream/The_Last_Man_on_Earth-3.html,s4 - The Last Man on Earth
 1546978562 - Tue Jan  8 21:16:02 CET 2019 - /Stream/Lost.html,s2 - Lost
+1546978570 - Tue Jan  8 21:16:10 CET 2019 - /Stream/Die_Simpsons.html,s2 - Die Simpsons
