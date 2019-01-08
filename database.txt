@@ -14425,3 +14425,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546986004 - Tue Jan  8 23:20:04 CET 2019 - /Stream/SOKO_Wismar.html,s15e21 - SOKO Wismar
 1546986016 - Tue Jan  8 23:20:16 CET 2019 - /Stream/The_Walking_Dead-1.html,s3e11 - The Walking Dead
 1546986030 - Tue Jan  8 23:20:30 CET 2019 - /Stream/The_Walking_Dead-1.html,s6e7 - The Walking Dead
+1546986040 - Tue Jan  8 23:20:40 CET 2019 - /Stream/The_Walking_Dead-1.html,s7e6 - The Walking Dead
