@@ -13325,3 +13325,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546942726 - Tue Jan  8 11:18:46 CET 2019 - /Stream/Billy-Mandys_Big_Boogey_Adventure.html - Billy & Mandy's Big Boogey Adventure
 1546942734 - Tue Jan  8 11:18:54 CET 2019 - /Stream/Christie_Malrys_blutige_Buchfuehrung-1.html - Christie Malrys blutige Buchführung
 1546942742 - Tue Jan  8 11:19:02 CET 2019 - /Stream/Charleys_Tante.html - Charleys Tante
+1546942749 - Tue Jan  8 11:19:09 CET 2019 - /Stream/Berserk_Das_Goldene_Zeitalter_1.html - Berserk Das Goldene Zeitalter 1
