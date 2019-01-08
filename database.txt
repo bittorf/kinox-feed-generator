@@ -14303,3 +14303,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546977688 - Tue Jan  8 21:01:28 CET 2019 - /Stream/Charlie_Chan_im_Wachsfigurenkabinett.html - Charlie Chan im Wachsfigurenkabinett
 1546977696 - Tue Jan  8 21:01:36 CET 2019 - /Stream/Aaron_und_der_Wolf.html - Aaron und der Wolf
 1546977706 - Tue Jan  8 21:01:46 CET 2019 - /Stream/Betty_Anne_Waters.html - Betty Anne Waters
+1546977717 - Tue Jan  8 21:01:57 CET 2019 - /Stream/Die_Super-Ex.html - Die Super-Ex
