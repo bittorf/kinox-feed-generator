@@ -14278,3 +14278,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546972778 - Tue Jan  8 19:39:38 CET 2019 - /Stream/Alien_Nation-3.html,s1e1 - Alien Nation
 1546972784 - Tue Jan  8 19:39:44 CET 2019 - /Stream/SOKO_Wismar.html,s16e3 - SOKO Wismar
 1546972794 - Tue Jan  8 19:39:54 CET 2019 - /Stream/Young_Sheldon-1.html,s2e2 - Young Sheldon
+1546972803 - Tue Jan  8 19:40:03 CET 2019 - /Stream/MacGyver-2.html,s3e1 - MacGyver
