@@ -13367,3 +13367,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546943089 - Tue Jan  8 11:24:49 CET 2019 - /Stream/Madagascar_2.html - Madagascar 2
 1546943100 - Tue Jan  8 11:25:00 CET 2019 - /Stream/Blinde_Wut.html - Blinde Wut
 1546943109 - Tue Jan  8 11:25:09 CET 2019 - /Stream/Belagerung_der_Shaolin.html - Belagerung der Shaolin
+1546943116 - Tue Jan  8 11:25:16 CET 2019 - /Stream/Basquiat.html - Basquiat
