@@ -13424,3 +13424,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546943557 - Tue Jan  8 11:32:37 CET 2019 - /Stream/Abwaerts-1.html - Abwärts
 1546943564 - Tue Jan  8 11:32:44 CET 2019 - /Stream/Angriff_der_Lederhosenzombies.html - Angriff der Lederhosenzombies
 1546943571 - Tue Jan  8 11:32:51 CET 2019 - /Stream/Amazone.html - Amazone
+1546943578 - Tue Jan  8 11:32:58 CET 2019 - /Stream/Battlestar_Galactica-6.html - Battlestar Galactica
