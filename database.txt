@@ -14408,3 +14408,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546978630 - Tue Jan  8 21:17:10 CET 2019 - /Stream/Inspector_Barnaby.html,s8 - Inspector Barnaby
 1546978642 - Tue Jan  8 21:17:22 CET 2019 - /Stream/The_Avengers_Earths_Mightiest_Heroes-1.html,s1e1 - The Avengers: Earth's Mightiest Heroes
 1546978650 - Tue Jan  8 21:17:30 CET 2019 - /Stream/Supergirl-2.html,s3e22 - Supergirl
+1546978659 - Tue Jan  8 21:17:39 CET 2019 - /Stream/Die_Sopranos.html,s2e7 - Die Sopranos
