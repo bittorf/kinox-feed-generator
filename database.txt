@@ -13751,3 +13751,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546953614 - Tue Jan  8 14:20:14 CET 2019 - /Stream/White_Collar-1.html,s2 - White Collar
 1546953622 - Tue Jan  8 14:20:22 CET 2019 - /Stream/Criminal_Minds-1.html,s13 - Criminal Minds
 1546953633 - Tue Jan  8 14:20:33 CET 2019 - /Stream/Snowfall-1.html,s1e8 - Snowfall
+1546953641 - Tue Jan  8 14:20:41 CET 2019 - /Stream/Gotham-1.html,s2 - Gotham
