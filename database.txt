@@ -14041,3 +14041,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546963379 - Tue Jan  8 17:02:59 CET 2019 - /Stream/A_Gifted_Man-1.html,s1e2 - A Gifted Man
 1546963386 - Tue Jan  8 17:03:06 CET 2019 - /Stream/Greys_Anatomy.html,s4e11 - Grey's Anatomy
 1546963397 - Tue Jan  8 17:03:17 CET 2019 - /Stream/Grace_and_Frankie.html,s3e12 - Grace and Frankie
+1546963404 - Tue Jan  8 17:03:24 CET 2019 - /Stream/Supergirl-2.html,s2 - Supergirl
