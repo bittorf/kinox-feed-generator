@@ -14221,3 +14221,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546972263 - Tue Jan  8 19:31:03 CET 2019 - /Stream/Criminal_Minds-1.html,s7 - Criminal Minds
 1546972275 - Tue Jan  8 19:31:15 CET 2019 - /Stream/Criminal_Minds-1.html,s6 - Criminal Minds
 1546972286 - Tue Jan  8 19:31:26 CET 2019 - /Stream/SOKO_Stuttgart.html,s10e6 - SOKO Stuttgart
+1546972294 - Tue Jan  8 19:31:34 CET 2019 - /Stream/Criminal_Minds-1.html,s2 - Criminal Minds
