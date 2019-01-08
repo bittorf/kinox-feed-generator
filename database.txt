@@ -14073,3 +14073,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546963637 - Tue Jan  8 17:07:17 CET 2019 - /Stream/Die_Sopranos.html,s4e13 - Die Sopranos
 1546963646 - Tue Jan  8 17:07:26 CET 2019 - /Stream/The_Fall-Tod_in_Belfast.html,s1 - The Fall - Tod in Belfast
 1546963655 - Tue Jan  8 17:07:35 CET 2019 - /Stream/Tatort-1.html,s33e31 - Tatort
+1546963699 - Tue Jan  8 17:08:19 CET 2019 - /Stream/Lucifer-2.html,s1 - Lucifer
