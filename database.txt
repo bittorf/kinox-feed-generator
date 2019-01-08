@@ -12899,3 +12899,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546924602 - Tue Jan  8 06:16:42 CET 2019 - /Stream/Biker-Die_gnadenlose_Jagd.html - Biker - Die gnadenlose Jagd
 1546924610 - Tue Jan  8 06:16:50 CET 2019 - /Stream/Bad_Apple.html - Bad Apple
 1546924618 - Tue Jan  8 06:16:58 CET 2019 - /Stream/All_Souls_Day_Dia_de_los_Muertos.html - All Souls Day: Dia de los Muertos
+1546924629 - Tue Jan  8 06:17:09 CET 2019 - /Stream/Bayonetta-Bloody_Fate.html - Bayonetta - Bloody Fate
