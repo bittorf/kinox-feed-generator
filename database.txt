@@ -14339,3 +14339,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546978016 - Tue Jan  8 21:06:56 CET 2019 - /Stream/Blood_Orange-1.html - Blood Orange
 1546978024 - Tue Jan  8 21:07:04 CET 2019 - /Stream/Pettersson_und_Findus_2-Das_schoenste_Weihnachten_ueberhaupt.html - Pettersson und Findus 2 - Das schönste Weihnachten überhaupt
 1546978034 - Tue Jan  8 21:07:14 CET 2019 - /Stream/Alien_Warrior.html - Alien Warrior
+1546978042 - Tue Jan  8 21:07:22 CET 2019 - /Stream/Banshee-Der_Schrei_der_Bestie.html - Banshee - Der Schrei der Bestie
