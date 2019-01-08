@@ -13715,3 +13715,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546953315 - Tue Jan  8 14:15:15 CET 2019 - /Stream/California_Kid.html - California Kid
 1546953323 - Tue Jan  8 14:15:23 CET 2019 - /Stream/Um_Himmels_Willen.html,s17e5 - Um Himmels Willen
 1546953333 - Tue Jan  8 14:15:33 CET 2019 - /Stream/Workaholics-1.html,s7 - Workaholics
+1546953342 - Tue Jan  8 14:15:42 CET 2019 - /Stream/Legends_of_Tomorrow-1.html,s3 - Legends of Tomorrow
