@@ -13939,3 +13939,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546962405 - Tue Jan  8 16:46:45 CET 2019 - /Stream/Carrie-Des_Satans_juengste_Tochter.html - Carrie - Des Satans jüngste Tochter
 1546962414 - Tue Jan  8 16:46:54 CET 2019 - /Stream/Shapeshifter-2.html - Shapeshifter
 1546962424 - Tue Jan  8 16:47:04 CET 2019 - /Stream/Blauvogel.html - Blauvogel
+1546962432 - Tue Jan  8 16:47:12 CET 2019 - /Stream/Blood-Chocolate-Die_Nacht_der_Werwoelfe.html - Blood & Chocolate - Die Nacht der Werwölfe
