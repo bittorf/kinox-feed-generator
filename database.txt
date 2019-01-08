@@ -14095,3 +14095,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546971095 - Tue Jan  8 19:11:35 CET 2019 - /Stream/Battle_of_the_Damned-1.html - Battle of the Damned
 1546971102 - Tue Jan  8 19:11:42 CET 2019 - /Stream/Bad_Reputation.html - Bad Reputation
 1546971109 - Tue Jan  8 19:11:49 CET 2019 - /Stream/A_Chorus_Line-1.html - A Chorus Line
+1546971118 - Tue Jan  8 19:11:58 CET 2019 - /Stream/Child_of_Mine-Teuflische_Brut.html - Child of Mine - Teuflische Brut
