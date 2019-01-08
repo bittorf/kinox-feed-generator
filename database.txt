@@ -14405,3 +14405,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546978603 - Tue Jan  8 21:16:43 CET 2019 - /Stream/X-Die_Serie.html,s1 - X - Die Serie
 1546978611 - Tue Jan  8 21:16:51 CET 2019 - /Stream/Notruf_Hafenkante.html,s12 - Notruf Hafenkante
 1546978622 - Tue Jan  8 21:17:02 CET 2019 - /Stream/Arthurs_Gesetz.html,s1e1 - Arthurs Gesetz
+1546978630 - Tue Jan  8 21:17:10 CET 2019 - /Stream/Inspector_Barnaby.html,s8 - Inspector Barnaby
