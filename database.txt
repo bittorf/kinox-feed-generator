@@ -14053,3 +14053,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546963470 - Tue Jan  8 17:04:30 CET 2019 - /Stream/Tatort-1.html,s39e29 - Tatort
 1546963482 - Tue Jan  8 17:04:42 CET 2019 - /Stream/Wentworth-1.html,s1 - Wentworth
 1546963490 - Tue Jan  8 17:04:50 CET 2019 - /Stream/Succession-1.html,s1 - Succession
+1546963498 - Tue Jan  8 17:04:58 CET 2019 - /Stream/Lucifer-2.html,s3e10 - Lucifer
