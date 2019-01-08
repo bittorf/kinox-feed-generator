@@ -12983,3 +12983,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546925347 - Tue Jan  8 06:29:07 CET 2019 - /Stream/Blackbeard-Der_wahre_Fluch_der_Karibik.html - Blackbeard - Der wahre Fluch der Karibik
 1546925354 - Tue Jan  8 06:29:14 CET 2019 - /Stream/Vendetta_Alles_was_ihm_blieb_war_Rache.html - Vendetta: Alles was ihm blieb war Rache
 1546925363 - Tue Jan  8 06:29:23 CET 2019 - /Stream/Cinema_Verite-Das_wahre_Leben.html - Cinema Verite - Das wahre Leben
+1546925372 - Tue Jan  8 06:29:32 CET 2019 - /Stream/Bigfoot-Der_Blutrausch_einer_Legende.html - Bigfoot - Der Blutrausch einer Legende
