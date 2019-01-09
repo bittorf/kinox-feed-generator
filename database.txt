@@ -15887,3 +15887,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547071058 - Wed Jan  9 22:57:38 CET 2019 - /Stream/The_Blacklist_Redemption-1.html,s1 - The Blacklist: Redemption
 1547071066 - Wed Jan  9 22:57:46 CET 2019 - /Stream/Sons_of_Anarchy-2.html,s1 - Sons of Anarchy
 1547071073 - Wed Jan  9 22:57:53 CET 2019 - /Stream/Wayward_Pines-1.html,s2 - Wayward Pines
+1547071082 - Wed Jan  9 22:58:02 CET 2019 - /Stream/Lopez-2.html,s2e11 - Lopez
