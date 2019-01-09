@@ -15285,3 +15285,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547029560 - Wed Jan  9 11:26:00 CET 2019 - /Stream/Curb_Your_Enthusiasm.html,s9e4 - Curb Your Enthusiasm
 1547029569 - Wed Jan  9 11:26:09 CET 2019 - /Stream/Supernatural.html,s3e5 - Supernatural
 1547029595 - Wed Jan  9 11:26:35 CET 2019 - /Stream/Kingdom-2.html,s3e1 - Kingdom
+1547029602 - Wed Jan  9 11:26:42 CET 2019 - /Stream/The_Exorcist_german_subbed.html,s2e1 - The Exorcist *german subbed*
