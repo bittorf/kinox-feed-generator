@@ -15470,3 +15470,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547045784 - Wed Jan  9 15:56:24 CET 2019 - /Stream/Girlfriends_Guide_to_Divorce.html,s4 - Girlfriends' Guide to Divorce
 1547045791 - Wed Jan  9 15:56:31 CET 2019 - /Stream/Da_Vincis_Demons-1.html,s1 - Da Vinci's Demons
 1547045798 - Wed Jan  9 15:56:38 CET 2019 - /Stream/The_Coroner.html,s5e5 - The Coroner
+1547045805 - Wed Jan  9 15:56:45 CET 2019 - /Stream/Scandal-1.html,s3 - Scandal
