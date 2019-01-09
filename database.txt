@@ -15263,3 +15263,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547029354 - Wed Jan  9 11:22:34 CET 2019 - /Stream/SOKO_Leipzig.html,s17 - SOKO Leipzig
 1547029365 - Wed Jan  9 11:22:45 CET 2019 - /Stream/Chicago_Fire_german_subbed.html,s6e4 - Chicago Fire *german subbed*
 1547029375 - Wed Jan  9 11:22:55 CET 2019 - /Stream/Mistresses-2.html,s1e11 - Mistresses
+1547029384 - Wed Jan  9 11:23:04 CET 2019 - /Stream/Endeavour-2.html,s1 - Endeavour
