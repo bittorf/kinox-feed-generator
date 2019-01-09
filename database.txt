@@ -15124,3 +15124,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547020955 - Wed Jan  9 09:02:35 CET 2019 - /Stream/Better_Call_Saul-1.html,s3 - Better Call Saul
 1547020962 - Wed Jan  9 09:02:42 CET 2019 - /Stream/Captain_N_The_Game_Master.html,s1 - Captain N: The Game Master
 1547020970 - Wed Jan  9 09:02:50 CET 2019 - /Stream/Alle_lieben_Raymond.html,s7 - Alle lieben Raymond
+1547020978 - Wed Jan  9 09:02:58 CET 2019 - /Stream/Die_Jetsons.html,s3 - Die Jetsons
