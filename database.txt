@@ -14825,3 +14825,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547004008 - Wed Jan  9 04:20:08 CET 2019 - /Stream/Starship_Operators.html,s1 - Starship Operators
 1547004016 - Wed Jan  9 04:20:16 CET 2019 - /Stream/The_Big_Bang_Theory.html,s6 - The Big Bang Theory
 1547004026 - Wed Jan  9 04:20:26 CET 2019 - /Stream/How_I_Met_Your_Mother.html,s1 - How I Met Your Mother
+1547004036 - Wed Jan  9 04:20:36 CET 2019 - /Stream/My_Little_Pony_Freundschaft_ist_Magie.html,s7 - My Little Pony: Freundschaft ist Magie
