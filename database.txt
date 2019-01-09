@@ -15570,3 +15570,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547053843 - Wed Jan  9 18:10:43 CET 2019 - /Stream/Burst_Angel_Infinity-1.html - Burst Angel: Infinity
 1547053849 - Wed Jan  9 18:10:49 CET 2019 - /Stream/Bedingungslos.html - Bedingungslos
 1547053857 - Wed Jan  9 18:10:57 CET 2019 - /Stream/Dragonheart-1.html - Dragonheart
+1547053867 - Wed Jan  9 18:11:07 CET 2019 - /Stream/Der_Supercop.html - Der Supercop
