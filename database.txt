@@ -15490,3 +15490,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547045936 - Wed Jan  9 15:58:56 CET 2019 - /Stream/Es_war_einmal-unsere_Erde.html,s1e25 - Es war einmal ... unsere Erde
 1547045943 - Wed Jan  9 15:59:03 CET 2019 - /Stream/White_Collar-1.html,s8 - White Collar
 1547045950 - Wed Jan  9 15:59:10 CET 2019 - /Stream/Voltron_Legendaerer_Verteidiger.html,s3 - Voltron: Legendärer Verteidiger
+1547045957 - Wed Jan  9 15:59:17 CET 2019 - /Stream/Halt_and_Catch_Fire.html,s4 - Halt and Catch Fire
