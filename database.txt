@@ -14640,3 +14640,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1546995160 - Wed Jan  9 01:52:40 CET 2019 - /Stream/Einstein-1.html,s1e8 - Einstein
 1546995169 - Wed Jan  9 01:52:49 CET 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s6e24 - Grey's Anatomy - Die jungen Ärzte
 1546995181 - Wed Jan  9 01:53:01 CET 2019 - /Stream/Workaholics-1.html,s7e3 - Workaholics
+1546995189 - Wed Jan  9 01:53:09 CET 2019 - /Stream/ALF.html,s2 - ALF
