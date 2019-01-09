@@ -15178,3 +15178,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547021392 - Wed Jan  9 09:09:52 CET 2019 - /Stream/Abrechnung.html,s2e13 - Abrechnung!
 1547021399 - Wed Jan  9 09:09:59 CET 2019 - /Stream/Pawn_Stars.html,s15e12 - Pawn Stars
 1547021410 - Wed Jan  9 09:10:10 CET 2019 - /Stream/Das_geheimnisvolle_Kochbuch.html,s1e1 - Das geheimnisvolle Kochbuch
+1547021417 - Wed Jan  9 09:10:17 CET 2019 - /Stream/Ergo_Proxy.html,s1e1 - Ergo Proxy
