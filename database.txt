@@ -15589,3 +15589,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547054001 - Wed Jan  9 18:13:21 CET 2019 - /Stream/Xena.html,s1 - Xena
 1547054009 - Wed Jan  9 18:13:29 CET 2019 - /Stream/The_Man_in_the_High_Castle-1.html,s3 - The Man in the High Castle
 1547054018 - Wed Jan  9 18:13:38 CET 2019 - /Stream/Scrubs-Die_Anfaenger.html,s1 - Scrubs - Die Anfänger
+1547054025 - Wed Jan  9 18:13:45 CET 2019 - /Stream/Chicago_Fire-1.html,s3 - Chicago Fire
