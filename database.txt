@@ -14768,3 +14768,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547003513 - Wed Jan  9 04:11:53 CET 2019 - /Stream/Die_Hoehle_Ueberleben_ist_ein_Instinkt-Keine_Wahl.html - Die Höhle: Überleben ist ein Instinkt. Keine Wahl.
 1547003519 - Wed Jan  9 04:11:59 CET 2019 - /Stream/Lux-Krieger_des_Lichts.html - Lux - Krieger des Lichts
 1547003528 - Wed Jan  9 04:12:08 CET 2019 - /Stream/Die_Reifepruefung.html - Die Reifeprüfung
+1547003536 - Wed Jan  9 04:12:16 CET 2019 - /Stream/Asterix_in_Amerika.html - Asterix in Amerika
