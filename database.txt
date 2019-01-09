@@ -15577,3 +15577,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547053898 - Wed Jan  9 18:11:38 CET 2019 - /Stream/The_Wire.html,s5e9 - The Wire
 1547053906 - Wed Jan  9 18:11:46 CET 2019 - /Stream/Roseanne.html,s7 - Roseanne
 1547053916 - Wed Jan  9 18:11:56 CET 2019 - /Stream/Roseanne.html,s8 - Roseanne
+1547053925 - Wed Jan  9 18:12:05 CET 2019 - /Stream/Chicago_Fire-1.html,s6 - Chicago Fire
