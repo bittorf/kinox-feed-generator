@@ -14995,3 +14995,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547012688 - Wed Jan  9 06:44:48 CET 2019 - /Stream/Basilisk_Chronik_der_Koga-Ninja.html,s1e1 - Basilisk: Chronik der Koga-Ninja
 1547012695 - Wed Jan  9 06:44:55 CET 2019 - /Stream/Die_Thundermans.html,s3 - Die Thundermans
 1547012705 - Wed Jan  9 06:45:05 CET 2019 - /Stream/Guardian_of_the_Spirit.html,s1 - Guardian of the Spirit
+1547012712 - Wed Jan  9 06:45:12 CET 2019 - /Stream/Crush_Gear_Turbo.html,s1 - Crush Gear Turbo
