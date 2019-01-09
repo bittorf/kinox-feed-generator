@@ -15545,3 +15545,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547053627 - Wed Jan  9 18:07:07 CET 2019 - /Stream/Absolution.html - Absolution
 1547053634 - Wed Jan  9 18:07:14 CET 2019 - /Stream/Der_grosse_Trip-Wild.html - Der groﬂe Trip - Wild
 1547053643 - Wed Jan  9 18:07:23 CET 2019 - /Stream/Caddyshack_II-1.html - Caddyshack II
+1547053650 - Wed Jan  9 18:07:30 CET 2019 - /Stream/Oscar-2.html - Oscar
