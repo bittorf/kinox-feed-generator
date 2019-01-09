@@ -15749,3 +15749,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547062670 - Wed Jan  9 20:37:50 CET 2019 - /Stream/Saving_Hope.html,s5e15 - Saving Hope
 1547062679 - Wed Jan  9 20:37:59 CET 2019 - /Stream/Chicago_PD.html,s6e2 - Chicago PD
 1547062691 - Wed Jan  9 20:38:11 CET 2019 - /Stream/Dynasty-1.html,s2 - Dynasty
+1547062700 - Wed Jan  9 20:38:20 CET 2019 - /Stream/MacGyver-2.html,s3 - MacGyver
