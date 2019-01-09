@@ -15141,3 +15141,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547021088 - Wed Jan  9 09:04:48 CET 2019 - /Stream/Die_Toten_von_Turin.html,s2 - Die Toten von Turin
 1547021096 - Wed Jan  9 09:04:56 CET 2019 - /Stream/Z_Nation.html,s4 - Z Nation
 1547021104 - Wed Jan  9 09:05:04 CET 2019 - /Stream/Chaos_City.html,s1e1 - Chaos City
+1547021115 - Wed Jan  9 09:05:15 CET 2019 - /Stream/Wolfblood-Verwandlung_bei_Vollmond.html,s5 - Wolfblood - Verwandlung bei Vollmond
