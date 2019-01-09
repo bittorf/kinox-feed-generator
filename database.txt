@@ -15385,3 +15385,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547037793 - Wed Jan  9 13:43:13 CET 2019 - /Stream/Tosh-0.html,s9e22 - Tosh.0
 1547037802 - Wed Jan  9 13:43:22 CET 2019 - /Stream/Shooter-3.html,s3 - Shooter
 1547037811 - Wed Jan  9 13:43:31 CET 2019 - /Stream/Doctor_Foster.html,s1 - Doctor Foster
+1547037819 - Wed Jan  9 13:43:39 CET 2019 - /Stream/Outlander_german_subbed.html,s3e3 - Outlander *german subbed*
