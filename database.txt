@@ -15484,3 +15484,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547045891 - Wed Jan  9 15:58:11 CET 2019 - /Stream/Super_Girl.html,s2 - Super Girl
 1547045901 - Wed Jan  9 15:58:21 CET 2019 - /Stream/Stitchers.html,s3 - Stitchers
 1547045909 - Wed Jan  9 15:58:29 CET 2019 - /Stream/Claws-1.html,s1 - Claws
+1547045915 - Wed Jan  9 15:58:35 CET 2019 - /Stream/Power-1.html,s4 - Power
