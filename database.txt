@@ -15779,3 +15779,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547062951 - Wed Jan  9 20:42:31 CET 2019 - /Stream/Arrow-1.html,s6e17 - Arrow
 1547062960 - Wed Jan  9 20:42:40 CET 2019 - /Stream/iZombie.html,s3 - iZombie
 1547062967 - Wed Jan  9 20:42:47 CET 2019 - /Stream/Golden_Girls.html,s1e1 - Golden Girls
+1547062977 - Wed Jan  9 20:42:57 CET 2019 - /Stream/The_Magicians.html,s2 - The Magicians
