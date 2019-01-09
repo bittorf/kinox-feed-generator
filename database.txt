@@ -15463,3 +15463,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547045722 - Wed Jan  9 15:55:22 CET 2019 - /Stream/Malcolm_mittendrin.html,s7 - Malcolm mittendrin
 1547045737 - Wed Jan  9 15:55:37 CET 2019 - /Stream/Private_Practice.html,s6 - Private Practice
 1547045745 - Wed Jan  9 15:55:45 CET 2019 - /Stream/Die_Saeulen_der_Erde.html,s1 - Die Säulen der Erde
+1547045752 - Wed Jan  9 15:55:52 CET 2019 - /Stream/Blindspot.html,s2 - Blindspot
