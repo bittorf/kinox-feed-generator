@@ -14992,3 +14992,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547012666 - Wed Jan  9 06:44:26 CET 2019 - /Stream/Tim_und_Struppi_und_der_Haifischsee.html - Tim und Struppi und der Haifischsee
 1547012672 - Wed Jan  9 06:44:32 CET 2019 - /Stream/Obsession-Toedliche_Spiele.html - Obsession - Tödliche Spiele
 1547012680 - Wed Jan  9 06:44:40 CET 2019 - /Stream/Menschenfeind-1.html - Menschenfeind
+1547012688 - Wed Jan  9 06:44:48 CET 2019 - /Stream/Basilisk_Chronik_der_Koga-Ninja.html,s1e1 - Basilisk: Chronik der Koga-Ninja
