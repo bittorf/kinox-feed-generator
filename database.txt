@@ -15110,3 +15110,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547020848 - Wed Jan  9 09:00:48 CET 2019 - /Stream/Cesar_Chavez.html - Cesar Chavez
 1547020857 - Wed Jan  9 09:00:57 CET 2019 - /Stream/Carnage_Park-1.html - Carnage Park
 1547020865 - Wed Jan  9 09:01:05 CET 2019 - /Stream/Die_groesste_Geschichte_aller_Zeiten.html - Die größte Geschichte aller Zeiten
+1547020873 - Wed Jan  9 09:01:13 CET 2019 - /Stream/Die_Magie_der_Pferde.html - Die Magie der Pferde
