@@ -15665,3 +15665,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547061937 - Wed Jan  9 20:25:37 CET 2019 - /Stream/Dragonheart_3_Der_Fluch_Des_Druiden.html - Dragonheart 3: Der Fluch Des Druiden
 1547061946 - Wed Jan  9 20:25:46 CET 2019 - /Stream/Ace_Ventura_3-Der_Tier-Detektiv.html - Ace Ventura 3 - Der Tier-Detektiv
 1547061956 - Wed Jan  9 20:25:56 CET 2019 - /Stream/Bachelor_of_Hearts-Herz_sucht_Liebe.html - Bachelor of Hearts - Herz sucht Liebe
+1547061963 - Wed Jan  9 20:26:03 CET 2019 - /Stream/Caddyshack-Wahnsinn_ohne_Handicap.html - Caddyshack - Wahnsinn ohne Handicap
