@@ -15252,3 +15252,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547029258 - Wed Jan  9 11:20:58 CET 2019 - /Stream/Inspector_Barnaby.html,s9e7 - Inspector Barnaby
 1547029268 - Wed Jan  9 11:21:08 CET 2019 - /Stream/Rillington_Place.html,s1e1 - Rillington Place
 1547029276 - Wed Jan  9 11:21:16 CET 2019 - /Stream/Bettys_Diagnose.html,s4 - Bettys Diagnose
+1547029284 - Wed Jan  9 11:21:24 CET 2019 - /Stream/Chance-1.html,s2e5 - Chance
