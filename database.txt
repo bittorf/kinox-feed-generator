@@ -15958,3 +15958,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547071674 - Wed Jan  9 23:07:54 CET 2019 - /Stream/Willkommen_in_Gravity_Falls.html,s1e18 - Willkommen in Gravity Falls
 1547071681 - Wed Jan  9 23:08:01 CET 2019 - /Stream/Star_Trek_Deep_Space_Nine.html,s6e26 - Star Trek: Deep Space Nine
 1547071690 - Wed Jan  9 23:08:10 CET 2019 - /Stream/Shameless-1.html,s9e1 - Shameless
+1547071699 - Wed Jan  9 23:08:19 CET 2019 - /Stream/The_Spectacular_Spider-Man-1.html,s1e4 - The Spectacular Spider-Man
