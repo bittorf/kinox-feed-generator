@@ -14878,3 +14878,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547011674 - Wed Jan  9 06:27:54 CET 2019 - /Stream/TDR-The_Devils_Rejects.html - TDR - The Devil's Rejects
 1547011682 - Wed Jan  9 06:28:02 CET 2019 - /Stream/Eve_und_der_letzte_Gentleman.html - Eve und der letzte Gentleman
 1547011692 - Wed Jan  9 06:28:12 CET 2019 - /Stream/Kung_Fu_Panda-Die_Geheimnisse_der_Meister.html - Kung Fu Panda - Die Geheimnisse der Meister
+1547011700 - Wed Jan  9 06:28:20 CET 2019 - /Stream/Brendan_und_das_Geheimnis_von_Kells.html - Brendan und das Geheimnis von Kells
