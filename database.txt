@@ -15403,3 +15403,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547037955 - Wed Jan  9 13:45:55 CET 2019 - /Stream/CSI-Tatort_Las_Vegas.html,s15e17 - CSI - Tatort Las Vegas
 1547037974 - Wed Jan  9 13:46:14 CET 2019 - /Stream/Henry_Danger.html,s3e20 - Henry Danger
 1547037983 - Wed Jan  9 13:46:23 CET 2019 - /Stream/Alfred_Hitchcock_praesentiert.html,s1e1 - Alfred Hitchcock präsentiert
+1547037991 - Wed Jan  9 13:46:31 CET 2019 - /Stream/The_Fosters.html,s2e18 - The Fosters
