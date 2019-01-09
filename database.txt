@@ -15007,3 +15007,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547012789 - Wed Jan  9 06:46:29 CET 2019 - /Stream/Wer_ist_OTIS.html,s2e2 - Wer ist OTIS?
 1547012797 - Wed Jan  9 06:46:37 CET 2019 - /Stream/Teen_Wolf-2.html,s5 - Teen Wolf
 1547012807 - Wed Jan  9 06:46:47 CET 2019 - /Stream/Crusoe-1.html,s1 - Crusoe
+1547012815 - Wed Jan  9 06:46:55 CET 2019 - /Stream/Wynonna_Earp-1.html,s2e11 - Wynonna Earp
