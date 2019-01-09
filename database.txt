@@ -15219,3 +15219,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547028992 - Wed Jan  9 11:16:32 CET 2019 - /Stream/Teuflisch.html - Teuflisch
 1547029006 - Wed Jan  9 11:16:46 CET 2019 - /Stream/Alarm_in_Fort_Bowie.html - Alarm in Fort Bowie
 1547029013 - Wed Jan  9 11:16:53 CET 2019 - /Stream/Lost_Girl-2.html,s4 - Lost Girl
+1547029020 - Wed Jan  9 11:17:00 CET 2019 - /Stream/Power-2.html,s1 - Power
