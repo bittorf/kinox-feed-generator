@@ -15699,3 +15699,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547062250 - Wed Jan  9 20:30:50 CET 2019 - /Stream/Cheap_Thrills.html - Cheap Thrills
 1547062257 - Wed Jan  9 20:30:57 CET 2019 - /Stream/Einer_von_Uns.html - Einer von Uns
 1547062265 - Wed Jan  9 20:31:05 CET 2019 - /Stream/Wake_of_Death-Rache_ist_alles_was_ihm_blieb.html - Wake of Death - Rache ist alles, was ihm blieb
+1547062274 - Wed Jan  9 20:31:14 CET 2019 - /Stream/Ambush_1941_Spaehtrupp_in_die_Hoelle.html - Ambush 1941 Spaehtrupp in die Hoelle
