@@ -15879,3 +15879,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547070982 - Wed Jan  9 22:56:22 CET 2019 - /Stream/Piano_Forest-1.html,s1 - Piano Forest
 1547070988 - Wed Jan  9 22:56:28 CET 2019 - /Stream/Longmire-1.html,s5 - Longmire
 1547070998 - Wed Jan  9 22:56:38 CET 2019 - /Stream/Class-2.html,s1 - Class
+1547071006 - Wed Jan  9 22:56:46 CET 2019 - /Stream/Chilling_Adventures_of_Sabrina.html,s1 - Chilling Adventures of Sabrina
