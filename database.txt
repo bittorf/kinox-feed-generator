@@ -15220,3 +15220,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547029006 - Wed Jan  9 11:16:46 CET 2019 - /Stream/Alarm_in_Fort_Bowie.html - Alarm in Fort Bowie
 1547029013 - Wed Jan  9 11:16:53 CET 2019 - /Stream/Lost_Girl-2.html,s4 - Lost Girl
 1547029020 - Wed Jan  9 11:17:00 CET 2019 - /Stream/Power-2.html,s1 - Power
+1547029030 - Wed Jan  9 11:17:10 CET 2019 - /Stream/The_Adventures_of_the_Galaxy_Rangers.html,s1 - The Adventures of the Galaxy Rangers
