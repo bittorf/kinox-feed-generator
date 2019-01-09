@@ -15975,3 +15975,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547071807 - Wed Jan  9 23:10:08 CET 2019 - /Stream/Law-Order_Special_Victims_Unit.html,s18e21 - Law & Order: Special Victims Unit
 1547071820 - Wed Jan  9 23:10:20 CET 2019 - /Stream/Buffy-Im_Bann_der_Daemonen.html,s1e10 - Buffy - Im Bann der Dämonen
 1547071830 - Wed Jan  9 23:10:30 CET 2019 - /Stream/Die_Biene_Maja.html,s20e7 - Die Biene Maja
+1547071836 - Wed Jan  9 23:10:36 CET 2019 - /Stream/TripTank-1.html,s2e13 - TripTank
