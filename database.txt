@@ -14919,3 +14919,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547012033 - Wed Jan  9 06:33:53 CET 2019 - /Stream/Appleseed_Alpha.html - Appleseed Alpha
 1547012040 - Wed Jan  9 06:34:00 CET 2019 - /Stream/Peterchens_Mondfahrt.html - Peterchens Mondfahrt
 1547012047 - Wed Jan  9 06:34:07 CET 2019 - /Stream/Left_Behind-1.html - Left Behind
+1547012055 - Wed Jan  9 06:34:15 CET 2019 - /Stream/The_Quest-Der_Fluch_des_Judas_Kelch.html - The Quest - Der Fluch des Judas Kelch
