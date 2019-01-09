@@ -15162,3 +15162,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547021257 - Wed Jan  9 09:07:37 CET 2019 - /Stream/Scream_Queens-1.html,s2 - Scream Queens
 1547021265 - Wed Jan  9 09:07:45 CET 2019 - /Stream/Good_Behavior-1.html,s2 - Good Behavior
 1547021274 - Wed Jan  9 09:07:54 CET 2019 - /Stream/Seite_1213.html,s2e5 - Seite 1213
+1547021283 - Wed Jan  9 09:08:03 CET 2019 - /Stream/Fauda.html,s1 - Fauda
