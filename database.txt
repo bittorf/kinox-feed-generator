@@ -15227,3 +15227,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547029063 - Wed Jan  9 11:17:43 CET 2019 - /Stream/The_Good_Place.html,s1 - The Good Place
 1547029071 - Wed Jan  9 11:17:51 CET 2019 - /Stream/Hotel_Zack-Cody-1.html,s1 - Hotel Zack & Cody
 1547029080 - Wed Jan  9 11:18:00 CET 2019 - /Stream/Degrassi_Next_Class.html,s3 - Degrassi: Next Class
+1547029089 - Wed Jan  9 11:18:09 CET 2019 - /Stream/Helden_am_Herd-Bankrott_u0026_abgebrueht.html,s1 - Helden am Herd - Bankrott \u0026 abgebrüht
