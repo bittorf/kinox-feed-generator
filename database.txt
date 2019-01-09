@@ -15033,3 +15033,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547012995 - Wed Jan  9 06:49:55 CET 2019 - /Stream/Baki.html,s1e15 - Baki
 1547013003 - Wed Jan  9 06:50:03 CET 2019 - /Stream/Gotham_german_subbed-1.html,s5e1 - Gotham *german subbed*
 1547013012 - Wed Jan  9 06:50:12 CET 2019 - /Stream/Pretty_Cure.html,s1e2 - Pretty Cure
+1547013019 - Wed Jan  9 06:50:19 CET 2019 - /Stream/Teen_Wolf-2.html,s4 - Teen Wolf
