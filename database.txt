@@ -15978,3 +15978,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547071836 - Wed Jan  9 23:10:36 CET 2019 - /Stream/TripTank-1.html,s2e13 - TripTank
 1547071844 - Wed Jan  9 23:10:44 CET 2019 - /Stream/The_Team.html,s1e3 - The Team
 1547071853 - Wed Jan  9 23:10:53 CET 2019 - /Stream/My_Name_Is_Earl-1.html,s4e3 - My Name Is Earl
+1547071860 - Wed Jan  9 23:11:00 CET 2019 - /Stream/Lets_make_Money-Wir_machen_Geld.html - Let's make Money - Wir machen Geld
