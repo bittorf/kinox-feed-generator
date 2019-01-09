@@ -14985,3 +14985,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547012597 - Wed Jan  9 06:43:17 CET 2019 - /Stream/Der_Stoff_aus_dem_die_Helden_sind.html - Der Stoff, aus dem die Helden sind
 1547012607 - Wed Jan  9 06:43:27 CET 2019 - /Stream/Das_Urteil.html - Das Urteil
 1547012619 - Wed Jan  9 06:43:39 CET 2019 - /Stream/Dreamgirls-1.html - Dreamgirls
+1547012634 - Wed Jan  9 06:43:54 CET 2019 - /Stream/The_Curse_of_Doctor_Wolffenstein.html - The Curse of Doctor Wolffenstein
