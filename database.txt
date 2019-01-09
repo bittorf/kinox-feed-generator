@@ -15729,3 +15729,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547062496 - Wed Jan  9 20:34:56 CET 2019 - /Stream/Riverdale.html,s3 - Riverdale
 1547062504 - Wed Jan  9 20:35:04 CET 2019 - /Stream/Neon_Genesis_Evangelion.html,s1 - Neon Genesis Evangelion
 1547062512 - Wed Jan  9 20:35:12 CET 2019 - /Stream/Speechless-3.html,s2 - Speechless
+1547062520 - Wed Jan  9 20:35:20 CET 2019 - /Stream/Still_Star-Crossed.html,s1 - Still Star-Crossed
