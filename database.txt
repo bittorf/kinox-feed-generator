@@ -14771,3 +14771,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547003536 - Wed Jan  9 04:12:16 CET 2019 - /Stream/Asterix_in_Amerika.html - Asterix in Amerika
 1547003545 - Wed Jan  9 04:12:25 CET 2019 - /Stream/Der_Rosenkrieg.html - Der Rosenkrieg
 1547003553 - Wed Jan  9 04:12:33 CET 2019 - /Stream/Happy_New_Year-2.html - Happy New Year
+1547003562 - Wed Jan  9 04:12:42 CET 2019 - /Stream/Son_of_Batman-1.html - Son of Batman
