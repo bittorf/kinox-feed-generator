@@ -16289,3 +16289,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547088928 - Thu Jan 10 03:55:28 CET 2019 - /Stream/Castle.html,s8e17 - Castle
 1547088938 - Thu Jan 10 03:55:38 CET 2019 - /Stream/Nashville-1.html,s6 - Nashville
 1547088946 - Thu Jan 10 03:55:46 CET 2019 - /Stream/Super_Girl.html,s1e16 - Super Girl
+1547088954 - Thu Jan 10 03:55:54 CET 2019 - /Stream/Bull-1.html,s2e21 - Bull
