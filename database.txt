@@ -17246,3 +17246,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547133382 - Thu Jan 10 16:16:22 CET 2019 - /Stream/Scrubs.html,s7e1 - Scrubs
 1547133392 - Thu Jan 10 16:16:32 CET 2019 - /Stream/Awkward-Mein_sogenanntes_Leben.html,s4 - Awkward - Mein sogenanntes Leben
 1547133407 - Thu Jan 10 16:16:47 CET 2019 - /Stream/Scandal-1.html,s5e4 - Scandal
+1547133414 - Thu Jan 10 16:16:54 CET 2019 - /Stream/Daktari.html,s2e6 - Daktari
