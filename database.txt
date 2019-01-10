@@ -17170,3 +17170,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547125509 - Thu Jan 10 14:05:09 CET 2019 - /Stream/Perception-1.html,s1e4 - Perception
 1547125516 - Thu Jan 10 14:05:16 CET 2019 - /Stream/Gelobtes_Land-1.html,s1e1 - Gelobtes Land
 1547125523 - Thu Jan 10 14:05:23 CET 2019 - /Stream/The_New_Legends_of_Monkey.html,s1e7 - The New Legends of Monkey
+1547125530 - Thu Jan 10 14:05:30 CET 2019 - /Stream/Get_Shorty-1.html,s2e7 - Get Shorty
