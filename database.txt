@@ -17479,3 +17479,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547142527 - Thu Jan 10 18:48:47 CET 2019 - /Stream/Drawn_Together-1.html,s3e1 - Drawn Together
 1547142535 - Thu Jan 10 18:48:55 CET 2019 - /Stream/Without_a_Trace-Spurlos_verschwunden.html,s5 - Without a Trace - Spurlos verschwunden
 1547142546 - Thu Jan 10 18:49:06 CET 2019 - /Stream/Mobile_Suit_Gundam_Wing.html,s1e1 - Mobile Suit Gundam Wing
+1547142554 - Thu Jan 10 18:49:14 CET 2019 - /Stream/ALF.html,s2e7 - ALF
