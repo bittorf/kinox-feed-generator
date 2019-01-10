@@ -17707,3 +17707,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547151704 - Thu Jan 10 21:21:44 CET 2019 - /Stream/Beauty_and_the_Beast-6.html,s3 - Beauty and the Beast
 1547151712 - Thu Jan 10 21:21:52 CET 2019 - /Stream/Eine_schrecklich_nette_Familie.html,s9 - Eine schrecklich nette Familie
 1547151720 - Thu Jan 10 21:22:00 CET 2019 - /Stream/Sea_Patrol-1.html,s1e3 - Sea Patrol
+1547151729 - Thu Jan 10 21:22:09 CET 2019 - /Stream/My_Little_Pony_Freundschaft_ist_Magie.html,s2e1 - My Little Pony: Freundschaft ist Magie
