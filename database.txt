@@ -17519,3 +17519,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547142868 - Thu Jan 10 18:54:28 CET 2019 - /Stream/Matrioshki-Maedchenhaendler.html,s1e1 - Matrioshki - Mädchenhändler
 1547142875 - Thu Jan 10 18:54:35 CET 2019 - /Stream/Black_Mirror-1.html,s1 - Black Mirror
 1547142884 - Thu Jan 10 18:54:44 CET 2019 - /Stream/The_King_of_Queens.html,s1e5 - The King of Queens
+1547142893 - Thu Jan 10 18:54:53 CET 2019 - /Stream/Dirk_Gentlys_Holistische_Detektei.html,s1e5 - Dirk Gentlys Holistische Detektei
