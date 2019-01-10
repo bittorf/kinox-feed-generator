@@ -17041,3 +17041,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547124444 - Thu Jan 10 13:47:24 CET 2019 - /Stream/The_Ranch-2.html,s3 - The Ranch
 1547124451 - Thu Jan 10 13:47:31 CET 2019 - /Stream/Wickie_und_die_starken_Maenner.html,s2 - Wickie und die starken Männer
 1547124459 - Thu Jan 10 13:47:39 CET 2019 - /Stream/Scream_Queens-1.html,s2e10 - Scream Queens
+1547124467 - Thu Jan 10 13:47:47 CET 2019 - /Stream/Awkward-Mein_sogenanntes_Leben.html,s2e12 - Awkward - Mein sogenanntes Leben
