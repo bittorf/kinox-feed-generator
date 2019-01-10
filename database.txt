@@ -17273,3 +17273,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547133623 - Thu Jan 10 16:20:23 CET 2019 - /Stream/Succession-1.html,s1e5 - Succession
 1547133631 - Thu Jan 10 16:20:31 CET 2019 - /Stream/black-ish.html,s1e23 - black-ish
 1547133640 - Thu Jan 10 16:20:40 CET 2019 - /Stream/Rules_of_Engagement-2.html,s1e4 - Rules of Engagement
+1547133650 - Thu Jan 10 16:20:50 CET 2019 - /Stream/Magnum.html,s5e1 - Magnum
