@@ -16354,3 +16354,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547089463 - Thu Jan 10 04:04:23 CET 2019 - /Stream/The_Deuce.html,s2e7 - The Deuce
 1547089471 - Thu Jan 10 04:04:31 CET 2019 - /Stream/The_Fosters.html,s4e10 - The Fosters
 1547089481 - Thu Jan 10 04:04:41 CET 2019 - /Stream/Dragon_Ball_Z_Doragon_boru_zetto.html,s10e3 - Dragon Ball Z: Doragon bôru zetto
+1547089490 - Thu Jan 10 04:04:50 CET 2019 - /Stream/Power-1.html,s5e9 - Power
