@@ -17219,3 +17219,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547133155 - Thu Jan 10 16:12:35 CET 2019 - /Stream/Girls-1.html,s4e1 - Girls
 1547133164 - Thu Jan 10 16:12:44 CET 2019 - /Stream/Rebecka_Martinsson.html,s1e4 - Rebecka Martinsson
 1547133171 - Thu Jan 10 16:12:51 CET 2019 - /Stream/Der_gestiefelte_Kater-Abenteuer_in_San_Lorenzo.html,s4 - Der gestiefelte Kater - Abenteuer in San Lorenzo
+1547133178 - Thu Jan 10 16:12:58 CET 2019 - /Stream/Power_Rangers_Mystic_Force.html,s1 - Power Rangers Mystic Force
