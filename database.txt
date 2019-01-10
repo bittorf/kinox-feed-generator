@@ -16044,3 +16044,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547079613 - Thu Jan 10 01:20:13 CET 2019 - /Stream/Boston_Legal.html,s4 - Boston Legal
 1547079624 - Thu Jan 10 01:20:24 CET 2019 - /Stream/Bones-Die_Knochenjaegerin.html,s3 - Bones - Die Knochenjägerin
 1547079633 - Thu Jan 10 01:20:33 CET 2019 - /Stream/The_Good_Place.html,s3e1 - The Good Place
+1547079641 - Thu Jan 10 01:20:41 CET 2019 - /Stream/Chicago_Med.html,s2 - Chicago Med
