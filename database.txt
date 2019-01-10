@@ -16238,3 +16238,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547088501 - Thu Jan 10 03:48:21 CET 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s3e26 - Grey's Anatomy - Die jungen Ärzte
 1547088511 - Thu Jan 10 03:48:31 CET 2019 - /Stream/Made_in_Abyss.html,s1e1 - Made in Abyss
 1547088518 - Thu Jan 10 03:48:38 CET 2019 - /Stream/Scandal.html,s5 - Scandal
+1547088527 - Thu Jan 10 03:48:47 CET 2019 - /Stream/Neo_Magazin-1.html,s7 - Neo Magazin
