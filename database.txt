@@ -16365,3 +16365,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547089563 - Thu Jan 10 04:06:03 CET 2019 - /Stream/Young-Hungry.html,s4e1 - Young & Hungry
 1547089570 - Thu Jan 10 04:06:10 CET 2019 - /Stream/The_Fosters.html,s3e19 - The Fosters
 1547089577 - Thu Jan 10 04:06:17 CET 2019 - /Stream/Younger.html,s2e10 - Younger
+1547089584 - Thu Jan 10 04:06:24 CET 2019 - /Stream/American_Dad.html,s14e20 - American Dad
