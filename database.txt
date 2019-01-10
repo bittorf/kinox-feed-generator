@@ -17880,3 +17880,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547160366 - Thu Jan 10 23:46:06 CET 2019 - /Stream/Family_Guy.html,s9e17 - Family Guy
 1547160375 - Thu Jan 10 23:46:15 CET 2019 - /Stream/Stuck_in_the_Middle-1.html,s3e16 - Stuck in the Middle
 1547160384 - Thu Jan 10 23:46:24 CET 2019 - /Stream/Emergency_Room-Die_Notaufnahme.html,s14 - Emergency Room - Die Notaufnahme
+1547160396 - Thu Jan 10 23:46:36 CET 2019 - /Stream/Die_Schatzsucher-Goldrausch_in_Alaska.html,s4e9 - Die Schatzsucher - Goldrausch in Alaska
