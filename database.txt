@@ -16034,3 +16034,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547079530 - Thu Jan 10 01:18:50 CET 2019 - /Stream/Scorpion.html,s3 - Scorpion
 1547079537 - Thu Jan 10 01:18:57 CET 2019 - /Stream/Bones-Die_Knochenjaegerin.html,s8 - Bones - Die Knochenjägerin
 1547079547 - Thu Jan 10 01:19:07 CET 2019 - /Stream/Hand_of_God.html,s2e8 - Hand of God
+1547079554 - Thu Jan 10 01:19:14 CET 2019 - /Stream/Borgia.html,s1 - Borgia
