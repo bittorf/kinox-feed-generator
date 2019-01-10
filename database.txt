@@ -17168,3 +17168,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547125494 - Thu Jan 10 14:04:54 CET 2019 - /Stream/Boeses_Blut-2.html,s2e17 - Böses Blut
 1547125501 - Thu Jan 10 14:05:01 CET 2019 - /Stream/The_Shield-Gesetz_der_Gewalt.html,s3e1 - The Shield - Gesetz der Gewalt
 1547125509 - Thu Jan 10 14:05:09 CET 2019 - /Stream/Perception-1.html,s1e4 - Perception
+1547125516 - Thu Jan 10 14:05:16 CET 2019 - /Stream/Gelobtes_Land-1.html,s1e1 - Gelobtes Land
