@@ -17512,3 +17512,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547142807 - Thu Jan 10 18:53:27 CET 2019 - /Stream/Power_Rangers_In_Space.html,s1e1 - Power Rangers In Space
 1547142815 - Thu Jan 10 18:53:35 CET 2019 - /Stream/Scrubs.html,s8 - Scrubs
 1547142824 - Thu Jan 10 18:53:44 CET 2019 - /Stream/The_Middle.html,s8e12 - The Middle.
+1547142833 - Thu Jan 10 18:53:53 CET 2019 - /Stream/Lore-2.html,s1 - Lore
