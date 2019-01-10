@@ -17577,3 +17577,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547143349 - Thu Jan 10 19:02:29 CET 2019 - /Stream/Babylon-1.html,s1e2 - Babylon
 1547143355 - Thu Jan 10 19:02:35 CET 2019 - /Stream/Power_Rangers_Samurai.html,s1e1 - Power Rangers Samurai
 1547143363 - Thu Jan 10 19:02:43 CET 2019 - /Stream/Mit_Schirm_Charme_und_Melone-1.html,s4 - Mit Schirm, Charme und Melone
+1547143372 - Thu Jan 10 19:02:52 CET 2019 - /Stream/Mit_Schirm_Charme_und_Melone-1.html,s1e1 - Mit Schirm, Charme und Melone
