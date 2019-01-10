@@ -17229,3 +17229,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547133233 - Thu Jan 10 16:13:53 CET 2019 - /Stream/King_of_Queens.html,s6 - King of Queens
 1547133242 - Thu Jan 10 16:14:02 CET 2019 - /Stream/Marcella-1.html,s2e2 - Marcella
 1547133249 - Thu Jan 10 16:14:09 CET 2019 - /Stream/Famous_in_Love.html,s2e6 - Famous in Love
+1547133256 - Thu Jan 10 16:14:16 CET 2019 - /Stream/Fuer_alle_Faelle_Amy.html,s1e6 - Für alle Fälle Amy
