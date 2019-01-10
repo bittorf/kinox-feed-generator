@@ -17797,3 +17797,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547152464 - Thu Jan 10 21:34:24 CET 2019 - /Stream/Fluss-Monster-Die_gefaehrlichsten_Abenteuer.html,s5e2 - Fluss-Monster - Die gefährlichsten Abenteuer
 1547152472 - Thu Jan 10 21:34:32 CET 2019 - /Stream/Fuller_House-1.html,s3e7 - Fuller House
 1547152480 - Thu Jan 10 21:34:40 CET 2019 - /Stream/We_Bare_Bears-1.html,s1e3 - We Bare Bears
+1547152488 - Thu Jan 10 21:34:48 CET 2019 - /Stream/The_Fosters.html,s1e15 - The Fosters
