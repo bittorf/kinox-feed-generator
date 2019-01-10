@@ -16980,3 +16980,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547123909 - Thu Jan 10 13:38:29 CET 2019 - /Stream/Die_Liga_der_Gerechten-1.html,s3 - Die Liga der Gerechten
 1547123917 - Thu Jan 10 13:38:37 CET 2019 - /Stream/Casualty.html,s32 - Casualty
 1547123935 - Thu Jan 10 13:38:55 CET 2019 - /Stream/The_Americans-1.html,s3 - The Americans
+1547123944 - Thu Jan 10 13:39:04 CET 2019 - /Stream/Voltron_Legendaerer_Verteidiger.html,s6 - Voltron: Legendärer Verteidiger
