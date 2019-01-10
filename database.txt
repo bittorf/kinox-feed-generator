@@ -17592,3 +17592,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547143472 - Thu Jan 10 19:04:32 CET 2019 - /Stream/Perception-1.html,s1 - Perception
 1547143479 - Thu Jan 10 19:04:39 CET 2019 - /Stream/Aber_Vati.html,s1e3 - Aber Vati!
 1547143486 - Thu Jan 10 19:04:46 CET 2019 - /Stream/Daredevil-3.html,s3e6 - Daredevil
+1547143495 - Thu Jan 10 19:04:55 CET 2019 - /Stream/Stephen_Hawking-Visionen_eines_Genies.html - Stephen Hawking - Visionen eines Genies
