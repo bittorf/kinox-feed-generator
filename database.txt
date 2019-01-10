@@ -17716,3 +17716,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547151780 - Thu Jan 10 21:23:00 CET 2019 - /Stream/Die_knallharten_Fuenf.html,s2 - Die knallharten Fünf
 1547151789 - Thu Jan 10 21:23:09 CET 2019 - /Stream/Hercules-2.html,s1e1 - Hercules
 1547151797 - Thu Jan 10 21:23:17 CET 2019 - /Stream/Futurama.html,s7 - Futurama
+1547151804 - Thu Jan 10 21:23:24 CET 2019 - /Stream/Navy_CIS_L-A.html,s9e23 - Navy CIS: L.A.
