@@ -16976,3 +16976,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547123878 - Thu Jan 10 13:37:58 CET 2019 - /Stream/SOKO_Wismar.html,s1e5 - SOKO Wismar
 1547123887 - Thu Jan 10 13:38:07 CET 2019 - /Stream/Good_Witch-2.html,s3 - Good Witch
 1547123894 - Thu Jan 10 13:38:14 CET 2019 - /Stream/Nitro_Circus.html,s1e1 - Nitro Circus
+1547123902 - Thu Jan 10 13:38:22 CET 2019 - /Stream/Clarissa.html,s5 - Clarissa
