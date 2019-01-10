@@ -17335,3 +17335,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547134147 - Thu Jan 10 16:29:07 CET 2019 - /Stream/Anne-1.html,s2e7 - Anne
 1547134154 - Thu Jan 10 16:29:14 CET 2019 - /Stream/Wet_Hot_American_Summer_First_Day_of_Camp.html,s1e7 - Wet Hot American Summer: First Day of Camp
 1547134160 - Thu Jan 10 16:29:20 CET 2019 - /Stream/Clarissa.html,s1e2 - Clarissa
+1547134168 - Thu Jan 10 16:29:28 CET 2019 - /Stream/Legends-1.html,s1e1 - Legends
