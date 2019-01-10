@@ -17529,3 +17529,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547142952 - Thu Jan 10 18:55:52 CET 2019 - /Stream/Scrubs.html,s6 - Scrubs
 1547142964 - Thu Jan 10 18:56:04 CET 2019 - /Stream/Winx_Club.html,s4e2 - Winx Club
 1547142974 - Thu Jan 10 18:56:14 CET 2019 - /Stream/Robin_Hood-8.html,s2e10 - Robin Hood
+1547142982 - Thu Jan 10 18:56:22 CET 2019 - /Stream/Black_Lightning-2.html,s2e8 - Black Lightning
