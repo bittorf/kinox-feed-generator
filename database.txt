@@ -16566,3 +16566,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547098594 - Thu Jan 10 06:36:34 CET 2019 - /Stream/Motive-1.html,s3e5 - Motive
 1547098601 - Thu Jan 10 06:36:41 CET 2019 - /Stream/Major_Crimes-1.html,s1e2 - Major Crimes
 1547098608 - Thu Jan 10 06:36:48 CET 2019 - /Stream/Agentin_mit_Herz.html,s1e20 - Agentin mit Herz
+1547098615 - Thu Jan 10 06:36:55 CET 2019 - /Stream/Claws-1.html,s2e3 - Claws
