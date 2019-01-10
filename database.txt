@@ -17382,3 +17382,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547134527 - Thu Jan 10 16:35:27 CET 2019 - /Stream/Marvels_Cloak-Dagger.html,s1e1 - Marvel's Cloak & Dagger
 1547134536 - Thu Jan 10 16:35:36 CET 2019 - /Stream/Ice_Road_Truckers-1.html,s1e2 - Ice Road Truckers
 1547134545 - Thu Jan 10 16:35:45 CET 2019 - /Stream/Kampfstern_Galactica.html,s1e7 - Kampfstern Galactica
+1547134553 - Thu Jan 10 16:35:53 CET 2019 - /Stream/Der_Mann_in_den_Bergen.html,s2e1 - Der Mann in den Bergen
