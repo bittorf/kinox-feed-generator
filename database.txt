@@ -16943,3 +16943,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547116353 - Thu Jan 10 11:32:33 CET 2019 - /Stream/Delicious-2.html,s3e2 - Delicious
 1547116361 - Thu Jan 10 11:32:41 CET 2019 - /Stream/NCIS_Naval_Criminal_Investigative_Service.html,s16e11 - NCIS: Naval Criminal Investigative Service
 1547116372 - Thu Jan 10 11:32:52 CET 2019 - /Stream/Navy_CIS.html,s15 - Navy CIS
+1547123606 - Thu Jan 10 13:33:26 CET 2019 - /Stream/Schumanns_Bargespraeche.html - Schumanns Bargespräche
