@@ -16974,3 +16974,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547123862 - Thu Jan 10 13:37:42 CET 2019 - /Stream/Regal_Academy.html,s1 - Regal Academy
 1547123870 - Thu Jan 10 13:37:50 CET 2019 - /Stream/Quincy.html,s2 - Quincy
 1547123878 - Thu Jan 10 13:37:58 CET 2019 - /Stream/SOKO_Wismar.html,s1e5 - SOKO Wismar
+1547123887 - Thu Jan 10 13:38:07 CET 2019 - /Stream/Good_Witch-2.html,s3 - Good Witch
