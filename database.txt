@@ -17779,3 +17779,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547152319 - Thu Jan 10 21:31:59 CET 2019 - /Stream/Stella-1.html,s6e5 - Stella
 1547152327 - Thu Jan 10 21:32:07 CET 2019 - /Stream/Ancient_Aliens-Unerklaerliche_Phaenomene-1.html,s2e2 - Ancient Aliens - Unerklärliche Phänomene
 1547152335 - Thu Jan 10 21:32:15 CET 2019 - /Stream/Power_Rangers.html,s3e1 - Power Rangers
+1547152343 - Thu Jan 10 21:32:23 CET 2019 - /Stream/SOKO_Wismar.html,s3e5 - SOKO Wismar
