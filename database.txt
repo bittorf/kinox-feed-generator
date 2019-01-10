@@ -17052,3 +17052,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547124533 - Thu Jan 10 13:48:53 CET 2019 - /Stream/Art_of_Crime.html,s1 - Art of Crime
 1547124540 - Thu Jan 10 13:49:00 CET 2019 - /Stream/Drogen_im_Visier.html,s5 - Drogen im Visier
 1547124546 - Thu Jan 10 13:49:06 CET 2019 - /Stream/Law-Order_Special_Victims_Unit.html,s17e14 - Law & Order: Special Victims Unit
+1547124556 - Thu Jan 10 13:49:16 CET 2019 - /Stream/Trinity_Blood.html,s1e1 - Trinity Blood
