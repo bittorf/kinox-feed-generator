@@ -17348,3 +17348,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547134256 - Thu Jan 10 16:30:56 CET 2019 - /Stream/Alpha_0-7-Der_Feind_in_dir.html,s1e1 - Alpha 0.7 - Der Feind in dir
 1547134264 - Thu Jan 10 16:31:04 CET 2019 - /Stream/Elven-Fluss_aus_der_Kaelte.html,s1e7 - Elven - Fluss aus der Kälte
 1547134271 - Thu Jan 10 16:31:11 CET 2019 - /Stream/Pair_of_Kings-Die_Koenigsbrueder.html,s1 - Pair of Kings - Die Königsbrüder
+1547134279 - Thu Jan 10 16:31:19 CET 2019 - /Stream/Rosario-Vampire.html,s1e1 - Rosario + Vampire
