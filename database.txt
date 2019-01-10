@@ -17694,3 +17694,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547151592 - Thu Jan 10 21:19:52 CET 2019 - /Stream/Miami_Vice-2.html,s2 - Miami Vice
 1547151601 - Thu Jan 10 21:20:01 CET 2019 - /Stream/Eine_schrecklich_nette_Familie.html,s2 - Eine schrecklich nette Familie
 1547151613 - Thu Jan 10 21:20:13 CET 2019 - /Stream/Bibi_Blocksberg-1.html,s1e7 - Bibi Blocksberg
+1547151621 - Thu Jan 10 21:20:21 CET 2019 - /Stream/American_Dad.html,s1 - American Dad
