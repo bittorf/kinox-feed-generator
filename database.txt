@@ -16277,3 +16277,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547088825 - Thu Jan 10 03:53:45 CET 2019 - /Stream/Mistresses-2.html,s2 - Mistresses
 1547088833 - Thu Jan 10 03:53:53 CET 2019 - /Stream/Der_Tatortreiniger.html,s6e1 - Der Tatortreiniger
 1547088840 - Thu Jan 10 03:54:00 CET 2019 - /Stream/Die_Ren_und_Stimpy_Show.html,s1 - Die Ren und Stimpy Show
+1547088847 - Thu Jan 10 03:54:07 CET 2019 - /Stream/Lucha_Underground.html,s4e12 - Lucha Underground
