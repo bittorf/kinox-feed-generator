@@ -16352,3 +16352,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547089446 - Thu Jan 10 04:04:06 CET 2019 - /Stream/Futurama.html,s4e7 - Futurama
 1547089454 - Thu Jan 10 04:04:14 CET 2019 - /Stream/Kyle_XY.html,s2e16 - Kyle XY
 1547089463 - Thu Jan 10 04:04:23 CET 2019 - /Stream/The_Deuce.html,s2e7 - The Deuce
+1547089471 - Thu Jan 10 04:04:31 CET 2019 - /Stream/The_Fosters.html,s4e10 - The Fosters
