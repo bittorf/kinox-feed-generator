@@ -16498,3 +16498,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547098011 - Thu Jan 10 06:26:51 CET 2019 - /Stream/The_Closer-1.html,s4e14 - The Closer
 1547098020 - Thu Jan 10 06:27:00 CET 2019 - /Stream/Younger.html,s5e4 - Younger
 1547098028 - Thu Jan 10 06:27:08 CET 2019 - /Stream/Auf_Achse.html,s1e6 - Auf Achse
+1547098037 - Thu Jan 10 06:27:17 CET 2019 - /Stream/The_Magicians-1.html,s1e8 - The Magicians
