@@ -16836,3 +16836,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547115412 - Thu Jan 10 11:16:52 CET 2019 - /Stream/Homeland-1.html,s5 - Homeland
 1547115420 - Thu Jan 10 11:17:00 CET 2019 - /Stream/Wentworth-1.html,s5e4 - Wentworth
 1547115427 - Thu Jan 10 11:17:07 CET 2019 - /Stream/Peaky_Blinders-Gangs_of_Birmingham.html,s2 - Peaky Blinders - Gangs of Birmingham
+1547115434 - Thu Jan 10 11:17:14 CET 2019 - /Stream/Better_Call_Saul-1.html,s2 - Better Call Saul
