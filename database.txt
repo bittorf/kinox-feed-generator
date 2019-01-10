@@ -16659,3 +16659,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547106645 - Thu Jan 10 08:50:45 CET 2019 - /Stream/Power-1.html,s5 - Power
 1547106653 - Thu Jan 10 08:50:53 CET 2019 - /Stream/Seinfeld-1.html,s6 - Seinfeld
 1547106664 - Thu Jan 10 08:51:04 CET 2019 - /Stream/Salem-1.html,s2e12 - Salem
+1547106672 - Thu Jan 10 08:51:12 CET 2019 - /Stream/Die_Garde_der_Loewen.html,s2e1 - Die Garde der Löwen
