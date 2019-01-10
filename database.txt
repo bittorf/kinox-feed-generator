@@ -16911,3 +16911,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547116091 - Thu Jan 10 11:28:11 CET 2019 - /Stream/Voll_Vergeistert.html,s2e7 - Voll Vergeistert
 1547116099 - Thu Jan 10 11:28:19 CET 2019 - /Stream/The_Walking_Dead-1.html,s6e5 - The Walking Dead
 1547116109 - Thu Jan 10 11:28:29 CET 2019 - /Stream/Alvin-the_Chipmunks-1.html,s1e1 - Alvin & the Chipmunks
+1547116117 - Thu Jan 10 11:28:37 CET 2019 - /Stream/Cuckoo-1.html,s4 - Cuckoo
