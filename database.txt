@@ -16369,3 +16369,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547089592 - Thu Jan 10 04:06:32 CET 2019 - /Stream/Marvel_Anime_Iron_Man.html,s1e11 - Marvel Anime: Iron Man
 1547089599 - Thu Jan 10 04:06:39 CET 2019 - /Stream/Legends_of_Tomorrow-1.html,s5e7 - Legends of Tomorrow
 1547089606 - Thu Jan 10 04:06:46 CET 2019 - /Stream/Black-ish-1.html,s5e3 - Black-ish
+1547089613 - Thu Jan 10 04:06:53 CET 2019 - /Stream/Trolljaeger.html,s1e18 - Trolljäger
