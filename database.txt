@@ -17691,3 +17691,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547151571 - Thu Jan 10 21:19:31 CET 2019 - /Stream/Disney_JONAS-Die_Serie.html,s2e10 - Disney JONAS - Die Serie
 1547151579 - Thu Jan 10 21:19:39 CET 2019 - /Stream/Rules_of_Engagement-2.html,s3 - Rules of Engagement
 1547151586 - Thu Jan 10 21:19:46 CET 2019 - /Stream/Kulipari_An_Army_of_Frogs.html,s1 - Kulipari: An Army of Frogs
+1547151592 - Thu Jan 10 21:19:52 CET 2019 - /Stream/Miami_Vice-2.html,s2 - Miami Vice
