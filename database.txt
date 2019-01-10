@@ -17124,3 +17124,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547125114 - Thu Jan 10 13:58:34 CET 2019 - /Stream/Dark-1.html,s1e8 - Dark
 1547125122 - Thu Jan 10 13:58:42 CET 2019 - /Stream/Poldark.html,s4 - Poldark
 1547125130 - Thu Jan 10 13:58:50 CET 2019 - /Stream/Captain_N_The_Game_Master.html,s1e4 - Captain N: The Game Master
+1547125139 - Thu Jan 10 13:58:59 CET 2019 - /Stream/Bizaardvark.html,s2e13 - Bizaardvark
