@@ -17836,3 +17836,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547152791 - Thu Jan 10 21:39:51 CET 2019 - /Stream/American_Dad.html,s9e6 - American Dad
 1547152800 - Thu Jan 10 21:40:00 CET 2019 - /Stream/The_Last_Man_on_Earth-3.html,s2e3 - The Last Man on Earth
 1547152801 - Thu Jan 10 21:40:01 CET 2019 - /Stream/Fear_the_Walking_Dead.html,s3e1 - Fear the Walking Dead
+1547152812 - Thu Jan 10 21:40:12 CET 2019 - /Stream/Hunters.html,s1e1 - Hunters
