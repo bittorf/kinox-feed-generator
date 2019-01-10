@@ -17612,3 +17612,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547150868 - Thu Jan 10 21:07:48 CET 2019 - /Stream/Riding_the_Bullet-1.html - Riding the Bullet
 1547150878 - Thu Jan 10 21:07:58 CET 2019 - /Stream/Drachenkrieger-Das_Geheimnis_der_Wikinger.html - Drachenkrieger - Das Geheimnis der Wikinger
 1547150888 - Thu Jan 10 21:08:08 CET 2019 - /Stream/Mimic-Angriff_der_Killerinsekten.html - Mimic - Angriff der Killerinsekten
+1547150898 - Thu Jan 10 21:08:18 CET 2019 - /Stream/Revenge_of_the_Warrior.html - Revenge of the Warrior
