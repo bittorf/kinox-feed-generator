@@ -16446,3 +16446,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547097593 - Thu Jan 10 06:19:53 CET 2019 - /Stream/The_Big_Bang_Theory.html,s2e4 - The Big Bang Theory
 1547097604 - Thu Jan 10 06:20:04 CET 2019 - /Stream/Against_the_Wall-3.html,s1e1 - Against the Wall
 1547097613 - Thu Jan 10 06:20:13 CET 2019 - /Stream/Alex.html,s1e4 - Alex
+1547097621 - Thu Jan 10 06:20:21 CET 2019 - /Stream/Ein_Duke_kommt_selten_allein-1.html,s2 - Ein Duke kommt selten allein
