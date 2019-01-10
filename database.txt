@@ -17584,3 +17584,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547143404 - Thu Jan 10 19:03:24 CET 2019 - /Stream/Immer_wieder_Jim.html,s4e19 - Immer wieder Jim
 1547143416 - Thu Jan 10 19:03:36 CET 2019 - /Stream/Falk.html,s1e2 - Falk
 1547143424 - Thu Jan 10 19:03:44 CET 2019 - /Stream/Last_Man_Standing-6.html,s3e3 - Last Man Standing
+1547143431 - Thu Jan 10 19:03:51 CET 2019 - /Stream/Supergirl_german_subbed.html,s1 - Supergirl *german subbed*
