@@ -17091,3 +17091,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547124846 - Thu Jan 10 13:54:06 CET 2019 - /Stream/Beauty_and_the_Beast-6.html,s1 - Beauty and the Beast
 1547124854 - Thu Jan 10 13:54:14 CET 2019 - /Stream/Salamander.html,s2 - Salamander
 1547124861 - Thu Jan 10 13:54:21 CET 2019 - /Stream/Primeval_New_World-1.html,s1e8 - Primeval: New World
+1547124868 - Thu Jan 10 13:54:28 CET 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s7 - Heartland - Paradies für Pferde
