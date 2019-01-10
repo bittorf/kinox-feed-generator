@@ -16084,3 +16084,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547079980 - Thu Jan 10 01:26:20 CET 2019 - /Stream/Childhoods_End_german_subbed.html,s1 - Childhood's End *german subbed*
 1547079988 - Thu Jan 10 01:26:28 CET 2019 - /Stream/Gotham_german_subbed-1.html,s3e16 - Gotham *german subbed*
 1547079996 - Thu Jan 10 01:26:36 CET 2019 - /Stream/Law-Order_Special_Victims_Unit.html,s18e13 - Law & Order: Special Victims Unit
+1547080008 - Thu Jan 10 01:26:48 CET 2019 - /Stream/Boston_Legal.html,s3e21 - Boston Legal
