@@ -16784,3 +16784,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547114943 - Thu Jan 10 11:09:03 CET 2019 - /Stream/The_Middle-1.html,s3e20 - The Middle.
 1547114952 - Thu Jan 10 11:09:12 CET 2019 - /Stream/Prison_Break.html,s1e16 - Prison Break
 1547114960 - Thu Jan 10 11:09:20 CET 2019 - /Stream/My_Name_Is_Earl.html,s4 - My Name Is Earl
+1547114968 - Thu Jan 10 11:09:28 CET 2019 - /Stream/Battlestar_Galactica.html,s1 - Battlestar Galactica
