@@ -17099,3 +17099,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547124906 - Thu Jan 10 13:55:06 CET 2019 - /Stream/King_of_Queens.html,s8 - King of Queens
 1547124914 - Thu Jan 10 13:55:14 CET 2019 - /Stream/Mr-Bean-1.html,s1 - Mr. Bean
 1547124920 - Thu Jan 10 13:55:20 CET 2019 - /Stream/New_Girl-1.html,s1e14 - New Girl
+1547124930 - Thu Jan 10 13:55:30 CET 2019 - /Stream/Kenny_vs-Spenny-1.html,s1e13 - Kenny vs. Spenny
