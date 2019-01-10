@@ -16037,3 +16037,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547079554 - Thu Jan 10 01:19:14 CET 2019 - /Stream/Borgia.html,s1 - Borgia
 1547079561 - Thu Jan 10 01:19:21 CET 2019 - /Stream/Bones-Die_Knochenjaegerin.html,s10 - Bones - Die Knochenjägerin
 1547079569 - Thu Jan 10 01:19:29 CET 2019 - /Stream/Bones-Die_Knochenjaegerin.html,s2 - Bones - Die Knochenjägerin
+1547079579 - Thu Jan 10 01:19:39 CET 2019 - /Stream/Stan_Lees_Lucky_Man-1.html,s1 - Stan Lee's Lucky Man
