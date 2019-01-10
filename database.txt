@@ -16528,3 +16528,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547098271 - Thu Jan 10 06:31:11 CET 2019 - /Stream/The_Closer-1.html,s5e13 - The Closer
 1547098279 - Thu Jan 10 06:31:19 CET 2019 - /Stream/Dawsons_Creek.html,s5e14 - Dawsons Creek
 1547098286 - Thu Jan 10 06:31:26 CET 2019 - /Stream/Taken-5.html,s1 - Taken
+1547098295 - Thu Jan 10 06:31:35 CET 2019 - /Stream/Magnum.html,s3e11 - Magnum
