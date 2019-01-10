@@ -16232,3 +16232,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547088454 - Thu Jan 10 03:47:34 CET 2019 - /Stream/Greys_Anatomy.html,s12 - Grey's Anatomy
 1547088464 - Thu Jan 10 03:47:44 CET 2019 - /Stream/Sleepy_Hollow-2.html,s3e14 - Sleepy Hollow
 1547088472 - Thu Jan 10 03:47:52 CET 2019 - /Stream/Raumschiff_Enterprise-Das_naechste_Jahrhundert.html,s2 - Raumschiff Enterprise - Das nächste Jahrhundert
+1547088480 - Thu Jan 10 03:48:00 CET 2019 - /Stream/Lucky_Luke-die_Serie_mit_Terrence_Hill.html,s1 - Lucky Luke - die Serie mit Terrence Hill
