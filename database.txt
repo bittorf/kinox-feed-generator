@@ -16811,3 +16811,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547115184 - Thu Jan 10 11:13:04 CET 2019 - /Stream/Fauda.html,s1e10 - Fauda
 1547115192 - Thu Jan 10 11:13:12 CET 2019 - /Stream/Breakout_Kings-1.html,s2e9 - Breakout Kings
 1547115200 - Thu Jan 10 11:13:20 CET 2019 - /Stream/Burn_Notice.html,s3e9 - Burn Notice
+1547115209 - Thu Jan 10 11:13:29 CET 2019 - /Stream/The_Fosters-1.html,s4e8 - The Fosters
