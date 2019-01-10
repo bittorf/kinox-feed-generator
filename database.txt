@@ -16857,3 +16857,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547115581 - Thu Jan 10 11:19:41 CET 2019 - /Stream/Animal_Kingdom-2.html,s2e11 - Animal Kingdom
 1547115587 - Thu Jan 10 11:19:47 CET 2019 - /Stream/Super_Mario_World.html,s1e8 - Super Mario World
 1547115594 - Thu Jan 10 11:19:54 CET 2019 - /Stream/Burn_Notice.html,s2e2 - Burn Notice
+1547115604 - Thu Jan 10 11:20:04 CET 2019 - /Stream/Graf_Duckula.html,s2 - Graf Duckula
