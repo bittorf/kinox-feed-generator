@@ -17064,3 +17064,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547124634 - Thu Jan 10 13:50:34 CET 2019 - /Stream/Hannibal-2.html,s1e2 - Hannibal
 1547124640 - Thu Jan 10 13:50:40 CET 2019 - /Stream/Tannbach-Schicksal_eines_Dorfes.html,s2e1 - Tannbach - Schicksal eines Dorfes
 1547124647 - Thu Jan 10 13:50:47 CET 2019 - /Stream/Wunderbare_Jahre.html,s3 - Wunderbare Jahre
+1547124654 - Thu Jan 10 13:50:54 CET 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s3 - Heartland - Paradies für Pferde
