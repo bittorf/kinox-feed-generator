@@ -17555,3 +17555,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547143170 - Thu Jan 10 18:59:30 CET 2019 - /Stream/Enterprise.html,s4 - Enterprise
 1547143177 - Thu Jan 10 18:59:37 CET 2019 - /Stream/Magnum.html,s7e1 - Magnum
 1547143185 - Thu Jan 10 18:59:45 CET 2019 - /Stream/The_City_and_the_City.html,s1 - The City and the City
+1547143192 - Thu Jan 10 18:59:52 CET 2019 - /Stream/Ash_vs_Evil_Dead-1.html,s3 - Ash vs Evil Dead
