@@ -17039,3 +17039,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547124430 - Thu Jan 10 13:47:10 CET 2019 - /Stream/Kozure_kami.html,s1e4 - Kozure ?kami
 1547124437 - Thu Jan 10 13:47:17 CET 2019 - /Stream/Superstore.html,s4e7 - Superstore
 1547124444 - Thu Jan 10 13:47:24 CET 2019 - /Stream/The_Ranch-2.html,s3 - The Ranch
+1547124451 - Thu Jan 10 13:47:31 CET 2019 - /Stream/Wickie_und_die_starken_Maenner.html,s2 - Wickie und die starken Männer
