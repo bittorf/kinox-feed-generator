@@ -17864,3 +17864,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547160233 - Thu Jan 10 23:43:53 CET 2019 - /Stream/Supernatural.html,s10e3 - Supernatural
 1547160243 - Thu Jan 10 23:44:03 CET 2019 - /Stream/Undateable-1.html,s3e7 - Undateable
 1547160249 - Thu Jan 10 23:44:09 CET 2019 - /Stream/Fackeln_im_Sturm.html,s1e6 - Fackeln im Sturm
+1547160256 - Thu Jan 10 23:44:16 CET 2019 - /Stream/Teen_Wolf-2.html,s1e6 - Teen Wolf
