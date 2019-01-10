@@ -17206,3 +17206,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547133042 - Thu Jan 10 16:10:42 CET 2019 - /Stream/Pippi_Langstrumpf.html,s1 - Pippi Langstrumpf
 1547133049 - Thu Jan 10 16:10:49 CET 2019 - /Stream/Rules_of_Engagement-2.html,s6 - Rules of Engagement
 1547133058 - Thu Jan 10 16:10:58 CET 2019 - /Stream/Good_Witch-2.html,s2 - Good Witch
+1547133067 - Thu Jan 10 16:11:07 CET 2019 - /Stream/Dittsche.html,s27e8 - Dittsche
