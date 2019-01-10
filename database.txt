@@ -17358,3 +17358,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547134335 - Thu Jan 10 16:32:15 CET 2019 - /Stream/Scrubs.html,s4e14 - Scrubs
 1547134344 - Thu Jan 10 16:32:24 CET 2019 - /Stream/Quantico-1.html,s2e13 - Quantico
 1547134352 - Thu Jan 10 16:32:32 CET 2019 - /Stream/Nord_Nord_Mord.html,s1e4 - Nord Nord Mord
+1547134359 - Thu Jan 10 16:32:39 CET 2019 - /Stream/Detektiv_Conan.html,s6e6 - Detektiv Conan
