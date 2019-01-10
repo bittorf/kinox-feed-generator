@@ -17470,3 +17470,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547142457 - Thu Jan 10 18:47:37 CET 2019 - /Stream/King_of_Queens.html,s9 - King of Queens
 1547142466 - Thu Jan 10 18:47:46 CET 2019 - /Stream/Relic_Hunter-Die_Schatzjaegerin.html,s1 - Relic Hunter - Die Schatzjägerin
 1547142475 - Thu Jan 10 18:47:55 CET 2019 - /Stream/Eureka-Die_geheime_Stadt.html,s3 - Eureka - Die geheime Stadt
+1547142482 - Thu Jan 10 18:48:02 CET 2019 - /Stream/Yu-Gi-Oh_GX-1.html,s1e7 - Yu-Gi-Oh! GX
