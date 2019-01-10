@@ -17182,3 +17182,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547132828 - Thu Jan 10 16:07:08 CET 2019 - /Stream/Girls-1.html,s3 - Girls
 1547132835 - Thu Jan 10 16:07:15 CET 2019 - /Stream/Without_a_Trace-Spurlos_verschwunden.html,s7 - Without a Trace - Spurlos verschwunden
 1547132844 - Thu Jan 10 16:07:24 CET 2019 - /Stream/American_Dad.html,s7 - American Dad
+1547132853 - Thu Jan 10 16:07:33 CET 2019 - /Stream/Red_Band_Society_german_subbed.html,s1 - Red Band Society *german subbed*
