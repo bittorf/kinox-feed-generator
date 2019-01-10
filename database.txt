@@ -17542,3 +17542,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547143063 - Thu Jan 10 18:57:43 CET 2019 - /Stream/Popples.html,s3e2 - Popples
 1547143069 - Thu Jan 10 18:57:49 CET 2019 - /Stream/K-C-Undercover-1.html,s1 - K.C. Undercover
 1547143076 - Thu Jan 10 18:57:56 CET 2019 - /Stream/Brickleberry-1.html,s1e10 - Brickleberry
+1547143083 - Thu Jan 10 18:58:03 CET 2019 - /Stream/CSI-Tatort_Las_Vegas.html,s12e2 - CSI - Tatort Las Vegas
