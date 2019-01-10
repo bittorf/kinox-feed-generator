@@ -17379,3 +17379,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547134501 - Thu Jan 10 16:35:01 CET 2019 - /Stream/Stromberg.html,s3e6 - Stromberg
 1547134510 - Thu Jan 10 16:35:10 CET 2019 - /Stream/Barfuss_ins_Bett.html,s1e3 - Barfuﬂ ins Bett
 1547134518 - Thu Jan 10 16:35:18 CET 2019 - /Stream/The_Last_O-G.html,s1e4 - The Last O.G.
+1547134527 - Thu Jan 10 16:35:27 CET 2019 - /Stream/Marvels_Cloak-Dagger.html,s1e1 - Marvel's Cloak & Dagger
