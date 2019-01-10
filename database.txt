@@ -17106,3 +17106,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547124961 - Thu Jan 10 13:56:01 CET 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s5e5 - Heartland - Paradies für Pferde
 1547124969 - Thu Jan 10 13:56:09 CET 2019 - /Stream/Supernatural_The_Animation-2.html,s1e1 - Supernatural The Animation
 1547124976 - Thu Jan 10 13:56:16 CET 2019 - /Stream/Der_Traumstein.html,s2 - Der Traumstein
+1547124984 - Thu Jan 10 13:56:24 CET 2019 - /Stream/The_Mentalist.html,s3 - The Mentalist
