@@ -16430,3 +16430,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547097461 - Thu Jan 10 06:17:41 CET 2019 - /Stream/Stuck_in_the_Middle-1.html,s3 - Stuck in the Middle
 1547097469 - Thu Jan 10 06:17:49 CET 2019 - /Stream/Battlestar_Galactica.html,s2 - Battlestar Galactica
 1547097477 - Thu Jan 10 06:17:57 CET 2019 - /Stream/Prinzessin_Fantaghiro.html,s1e3 - Prinzessin Fantaghiro
+1547097488 - Thu Jan 10 06:18:08 CET 2019 - /Stream/Major_Crimes-1.html,s3 - Major Crimes
