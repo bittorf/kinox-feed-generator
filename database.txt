@@ -16273,3 +16273,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547088788 - Thu Jan 10 03:53:08 CET 2019 - /Stream/Stath_Lets_Flats.html,s1e1 - Stath Lets Flats
 1547088795 - Thu Jan 10 03:53:15 CET 2019 - /Stream/Lucifer-2.html,s3e26 - Lucifer
 1547088807 - Thu Jan 10 03:53:27 CET 2019 - /Stream/Inspector_Barnaby.html,s2 - Inspector Barnaby
+1547088817 - Thu Jan 10 03:53:37 CET 2019 - /Stream/Bull.html,s3e6 - Bull
