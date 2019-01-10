@@ -17466,3 +17466,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547142425 - Thu Jan 10 18:47:05 CET 2019 - /Stream/Power_Rangers_Wild_Force.html,s1e25 - Power Rangers Wild Force
 1547142434 - Thu Jan 10 18:47:14 CET 2019 - /Stream/The_Magicians-1.html,s1 - The Magicians
 1547142441 - Thu Jan 10 18:47:21 CET 2019 - /Stream/Masters_of_Horror-1.html,s1 - Masters of Horror
+1547142449 - Thu Jan 10 18:47:29 CET 2019 - /Stream/Suits_german_subbed.html,s7e8 - Suits *german subbed*
