@@ -17298,3 +17298,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547133843 - Thu Jan 10 16:24:03 CET 2019 - /Stream/Ein_Duke_kommt_selten_allein-1.html,s1 - Ein Duke kommt selten allein
 1547133852 - Thu Jan 10 16:24:12 CET 2019 - /Stream/Its_Always_Sunny_in_Philadelphia.html,s10e4 - It's Always Sunny in Philadelphia
 1547133860 - Thu Jan 10 16:24:20 CET 2019 - /Stream/The_Lying_Game-1.html,s1e4 - The Lying Game
+1547133867 - Thu Jan 10 16:24:27 CET 2019 - /Stream/Rise-1.html,s1 - Rise
