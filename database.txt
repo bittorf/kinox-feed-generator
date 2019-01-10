@@ -17495,3 +17495,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547142665 - Thu Jan 10 18:51:05 CET 2019 - /Stream/Family_Guy.html,s2e14 - Family Guy
 1547142674 - Thu Jan 10 18:51:14 CET 2019 - /Stream/Stromberg.html,s5 - Stromberg
 1547142682 - Thu Jan 10 18:51:22 CET 2019 - /Stream/Masters_of_Horror-1.html,s2 - Masters of Horror
+1547142689 - Thu Jan 10 18:51:29 CET 2019 - /Stream/Abenteuer_Survival-Ausgesetzt_in_der_Wildnis.html,s6e4 - Abenteuer Survival - Ausgesetzt in der Wildnis
