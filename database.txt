@@ -17792,3 +17792,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547152425 - Thu Jan 10 21:33:45 CET 2019 - /Stream/Xena.html,s1e24 - Xena
 1547152432 - Thu Jan 10 21:33:52 CET 2019 - /Stream/Leverage-1.html,s2e1 - Leverage
 1547152441 - Thu Jan 10 21:34:01 CET 2019 - /Stream/The_Shield-Gesetz_der_Gewalt.html,s2 - The Shield - Gesetz der Gewalt
+1547152449 - Thu Jan 10 21:34:09 CET 2019 - /Stream/McLeods_Toechter.html,s1e19 - McLeods Töchter
