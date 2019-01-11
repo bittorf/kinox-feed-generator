@@ -19334,3 +19334,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547230980 - Fri Jan 11 19:23:00 CET 2019 - /Stream/Schillerstrasse.html,s1 - Schillerstraﬂe
 1547230990 - Fri Jan 11 19:23:10 CET 2019 - /Stream/The_Elephant_Princess.html,s2e2 - The Elephant Princess
 1547230999 - Fri Jan 11 19:23:19 CET 2019 - /Stream/White_Collar.html,s1e4 - White Collar
+1547231007 - Fri Jan 11 19:23:27 CET 2019 - /Stream/S3-Stark_schnell_schlau.html,s3e16 - S3 - Stark, schnell, schlau
