@@ -18567,3 +18567,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547202434 - Fri Jan 11 11:27:14 CET 2019 - /Stream/The_Mentalist.html,s2e14 - The Mentalist
 1547202443 - Fri Jan 11 11:27:23 CET 2019 - /Stream/The_Inbetweeners-1.html,s2e5 - The Inbetweeners
 1547202452 - Fri Jan 11 11:27:32 CET 2019 - /Stream/Family_Guy.html,s5 - Family Guy
+1547202460 - Fri Jan 11 11:27:40 CET 2019 - /Stream/Allein_gegen_die_Mafia.html,s1e1 - Allein gegen die Mafia
