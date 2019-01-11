@@ -19560,3 +19560,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547247331 - Fri Jan 11 23:55:31 CET 2019 - /Stream/Die_Zauberer_vom_Waverly_Place.html,s2 - Die Zauberer vom Waverly Place
 1547247339 - Fri Jan 11 23:55:39 CET 2019 - /Stream/Deception-Magie_des_Verbrechens.html,s1 - Deception - Magie des Verbrechens
 1547247346 - Fri Jan 11 23:55:46 CET 2019 - /Stream/Hellsing_Ultimate.html,s1 - Hellsing Ultimate
+1547247353 - Fri Jan 11 23:55:53 CET 2019 - /Stream/Flashpoint-Das_Spezialkommando.html,s3e10 - Flashpoint - Das Spezialkommando
