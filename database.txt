@@ -19014,3 +19014,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547220895 - Fri Jan 11 16:34:55 CET 2019 - /Stream/Deutschland_86.html,s1 - Deutschland 86
 1547220907 - Fri Jan 11 16:35:07 CET 2019 - /Stream/The_Following-1.html,s3e2 - The Following
 1547220916 - Fri Jan 11 16:35:16 CET 2019 - /Stream/Babylon_5_Crusade.html,s1e11 - Babylon 5: Crusade
+1547220926 - Fri Jan 11 16:35:26 CET 2019 - /Stream/Star_Wars_The_Clone_Wars-1.html,s2 - Star Wars: The Clone Wars
