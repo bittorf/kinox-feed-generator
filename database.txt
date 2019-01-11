@@ -19585,3 +19585,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547247539 - Fri Jan 11 23:58:59 CET 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s6e5 - Heartland - Paradies für Pferde
 1547247547 - Fri Jan 11 23:59:07 CET 2019 - /Stream/Full_Metal_Panic.html,s1e1 - Full Metal Panic!
 1547247554 - Fri Jan 11 23:59:14 CET 2019 - /Stream/Henry_Danger-1.html,s1e24 - Henry Danger
+1547247564 - Fri Jan 11 23:59:24 CET 2019 - /Stream/Breaking_Bad-1.html,s2e2 - Breaking Bad
