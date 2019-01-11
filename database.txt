@@ -17900,3 +17900,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547167768 - Fri Jan 11 01:49:28 CET 2019 - /Stream/Zum_Teufel_mit_den_Kohlen.html - Zum Teufel mit den Kohlen
 1547167778 - Fri Jan 11 01:49:38 CET 2019 - /Stream/Caligula_und_Messalina.html - Caligula und Messalina
 1547167785 - Fri Jan 11 01:49:45 CET 2019 - /Stream/Alle_Anderen.html - Alle Anderen
+1547167791 - Fri Jan 11 01:49:51 CET 2019 - /Stream/Battle_Girls_versus_Yakuza_2_Duel_in_Hell.html - Battle Girls versus Yakuza 2: Duel in Hell
