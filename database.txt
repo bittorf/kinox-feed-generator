@@ -19225,3 +19225,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547230048 - Fri Jan 11 19:07:28 CET 2019 - /Stream/Power_Rangers_Lightspeed_Rescue.html,s1 - Power Rangers Lightspeed Rescue
 1547230057 - Fri Jan 11 19:07:37 CET 2019 - /Stream/Mako-Einfach_Meerjungfrau.html,s2 - Mako - Einfach Meerjungfrau
 1547230065 - Fri Jan 11 19:07:45 CET 2019 - /Stream/Remington_Steele-2.html,s1 - Remington Steele
+1547230074 - Fri Jan 11 19:07:54 CET 2019 - /Stream/Navy_CIS_L-A-german_subbed.html,s10e1 - Navy CIS: L.A. *german subbed*
