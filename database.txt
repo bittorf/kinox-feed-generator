@@ -18096,3 +18096,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547169644 - Fri Jan 11 02:20:44 CET 2019 - /Stream/Leverage-1.html,s4e1 - Leverage
 1547169654 - Fri Jan 11 02:20:54 CET 2019 - /Stream/Wickie_und_die_starken_Maenner.html,s1e1 - Wickie und die starken Männer
 1547176887 - Fri Jan 11 04:21:27 CET 2019 - /Stream/Plane_Dead_Der_Flug_in_den_Tod.html - Plane Dead: Der Flug in den Tod
+1547176896 - Fri Jan 11 04:21:36 CET 2019 - /Stream/First_Strike-Jackie_Chans_Erstschlag.html - First Strike - Jackie Chans Erstschlag
