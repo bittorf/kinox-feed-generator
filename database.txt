@@ -18394,3 +18394,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547193740 - Fri Jan 11 09:02:20 CET 2019 - /Stream/Chicago_Med.html,s4e10 - Chicago Med
 1547193747 - Fri Jan 11 09:02:27 CET 2019 - /Stream/Crisis_in_Six_Scenes.html,s1e2 - Crisis in Six Scenes
 1547193754 - Fri Jan 11 09:02:34 CET 2019 - /Stream/The_Orville.html,s2e3 - The Orville
+1547193760 - Fri Jan 11 09:02:40 CET 2019 - /Stream/American_Crime_Story.html,s1 - American Crime Story
