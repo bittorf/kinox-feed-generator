@@ -18968,3 +18968,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547220359 - Fri Jan 11 16:25:59 CET 2019 - /Stream/The_Walking_Dead.html,s9 - The Walking Dead
 1547220373 - Fri Jan 11 16:26:13 CET 2019 - /Stream/McLeods_Toechter.html,s2 - McLeods Töchter
 1547220383 - Fri Jan 11 16:26:23 CET 2019 - /Stream/Absentia-2.html,s1e1 - Absentia
+1547220392 - Fri Jan 11 16:26:32 CET 2019 - /Stream/Stargate.html,s3 - Stargate
