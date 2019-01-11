@@ -18531,3 +18531,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547202123 - Fri Jan 11 11:22:03 CET 2019 - /Stream/Treppe_Aufwaerts.html - Treppe Aufwärts
 1547202130 - Fri Jan 11 11:22:10 CET 2019 - /Stream/We_Are_Still_Here-Haus_des_Grauens.html - We Are Still Here - Haus des Grauens
 1547202138 - Fri Jan 11 11:22:18 CET 2019 - /Stream/Der_Pakt_der_Woelfe.html - Der Pakt der Wölfe
+1547202147 - Fri Jan 11 11:22:27 CET 2019 - /Stream/Showdown_in_Manila-1.html - Showdown in Manila
