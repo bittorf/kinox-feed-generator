@@ -18478,3 +18478,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547194438 - Fri Jan 11 09:13:58 CET 2019 - /Stream/Titans_german_subbed.html,s1e5 - Titans *german subbed*
 1547194446 - Fri Jan 11 09:14:06 CET 2019 - /Stream/Lost.html,s2e11 - Lost
 1547194456 - Fri Jan 11 09:14:16 CET 2019 - /Stream/Akte_X-Die_unheimlichen_Faelle_des_FBI.html,s3e20 - Akte X - Die unheimlichen Fälle des FBI
+1547194469 - Fri Jan 11 09:14:29 CET 2019 - /Stream/Detektiv_Conan.html,s7e1 - Detektiv Conan
