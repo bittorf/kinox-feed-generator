@@ -18317,3 +18317,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547178679 - Fri Jan 11 04:51:19 CET 2019 - /Stream/Fluss-Monster-Die_gefaehrlichsten_Abenteuer.html,s6e4 - Fluss-Monster - Die gefährlichsten Abenteuer
 1547178686 - Fri Jan 11 04:51:26 CET 2019 - /Stream/NCIS_New_Orleans-1.html,s4e13 - NCIS: New Orleans
 1547178693 - Fri Jan 11 04:51:33 CET 2019 - /Stream/Die_Pfefferkoerner.html,s13e3 - Die Pfefferkörner
+1547178702 - Fri Jan 11 04:51:42 CET 2019 - /Stream/Power-2.html,s5e1 - Power
