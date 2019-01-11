@@ -19481,3 +19481,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239472 - Fri Jan 11 21:44:32 CET 2019 - /Stream/Sliders-Das_Tor_in_eine_fremde_Dimension.html,s5e18 - Sliders - Das Tor in eine fremde Dimension
 1547239479 - Fri Jan 11 21:44:39 CET 2019 - /Stream/Darker_than_black_Kuro_no_keiyakusha.html,s1e1 - Darker than black: Kuro no keiyakusha
 1547239486 - Fri Jan 11 21:44:46 CET 2019 - /Stream/Der_Tatortreiniger.html,s1e2 - Der Tatortreiniger
+1547239493 - Fri Jan 11 21:44:53 CET 2019 - /Stream/Die_Kathedrale_des_Meeres.html,s1e3 - Die Kathedrale des Meeres
