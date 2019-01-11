@@ -18775,3 +18775,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547211485 - Fri Jan 11 13:58:05 CET 2019 - /Stream/Fringe-Grenzfaelle_des_FBI-1.html,s2 - Fringe - Grenzfälle des FBI
 1547211495 - Fri Jan 11 13:58:15 CET 2019 - /Stream/The_Shield-Gesetz_der_Gewalt.html,s1 - The Shield - Gesetz der Gewalt
 1547211504 - Fri Jan 11 13:58:24 CET 2019 - /Stream/Full_House.html,s1 - Full House
+1547211514 - Fri Jan 11 13:58:34 CET 2019 - /Stream/ALF.html,s3 - ALF
