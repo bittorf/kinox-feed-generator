@@ -19393,3 +19393,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547238706 - Fri Jan 11 21:31:46 CET 2019 - /Stream/Roseanne.html,s1e18 - Roseanne
 1547238716 - Fri Jan 11 21:31:56 CET 2019 - /Stream/Die_Bruecke-Transit_in_den_Tod.html,s3e1 - Die Brücke - Transit in den Tod
 1547238725 - Fri Jan 11 21:32:05 CET 2019 - /Stream/Hardcore_Pawn-Das_haerteste_Pfandhaus_Detroits.html,s4e1 - Hardcore Pawn - Das härteste Pfandhaus Detroits
+1547238732 - Fri Jan 11 21:32:12 CET 2019 - /Stream/Lifjord-Der_Freispruch.html,s1e1 - Lifjord - Der Freispruch
