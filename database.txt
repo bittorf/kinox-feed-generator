@@ -18921,3 +18921,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547212718 - Fri Jan 11 14:18:38 CET 2019 - /Stream/Supernatural-1.html,s11e3 - Supernatural
 1547212729 - Fri Jan 11 14:18:49 CET 2019 - /Stream/Secrets_and_Lies-1.html,s1e4 - Secrets and Lies
 1547212736 - Fri Jan 11 14:18:56 CET 2019 - /Stream/Salem-1.html,s1e5 - Salem
+1547212744 - Fri Jan 11 14:19:04 CET 2019 - /Stream/Jersey_Shore.html,s2 - Jersey Shore
