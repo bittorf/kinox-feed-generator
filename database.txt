@@ -18749,3 +18749,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547211272 - Fri Jan 11 13:54:32 CET 2019 - /Stream/Dr-Dolittle.html - Dr. Dolittle
 1547211283 - Fri Jan 11 13:54:43 CET 2019 - /Stream/Gods_Not_Dead.html - God's Not Dead
 1547211293 - Fri Jan 11 13:54:53 CET 2019 - /Stream/Last_Man_Standing-6.html,s3 - Last Man Standing
+1547211301 - Fri Jan 11 13:55:01 CET 2019 - /Stream/Sanctuary-Waechter_der_Kreaturen.html,s2 - Sanctuary - Wächter der Kreaturen
