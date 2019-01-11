@@ -18934,3 +18934,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547212829 - Fri Jan 11 14:20:29 CET 2019 - /Stream/Raumschiff_Enterprise-Das_naechste_Jahrhundert.html,s4e17 - Raumschiff Enterprise - Das n‰chste Jahrhundert
 1547212842 - Fri Jan 11 14:20:42 CET 2019 - /Stream/Those_Who_Cant-2.html,s2e5 - Those Who Can't
 1547212850 - Fri Jan 11 14:20:50 CET 2019 - /Stream/Schillerstrasse.html,s1e5 - Schillerstraﬂe
+1547212858 - Fri Jan 11 14:20:58 CET 2019 - /Stream/Gotham.html,s3e1 - Gotham
