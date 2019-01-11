@@ -18293,3 +18293,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547178497 - Fri Jan 11 04:48:17 CET 2019 - /Stream/Hit_the_Floor-1.html,s2e4 - Hit the Floor
 1547178504 - Fri Jan 11 04:48:24 CET 2019 - /Stream/Hoer_mal_wer_da_haemmert.html,s5 - Hör' mal, wer da hämmert
 1547178511 - Fri Jan 11 04:48:31 CET 2019 - /Stream/The_Secret_Life_of_the_American_Teenager-1.html,s2e8 - The Secret Life of the American Teenager
+1547178519 - Fri Jan 11 04:48:39 CET 2019 - /Stream/Queen_of_the_South-1.html,s2e2 - Queen of the South
