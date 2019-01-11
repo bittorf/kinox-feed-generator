@@ -19457,3 +19457,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239267 - Fri Jan 11 21:41:07 CET 2019 - /Stream/Criminal_Minds-1.html,s13e21 - Criminal Minds
 1547239277 - Fri Jan 11 21:41:17 CET 2019 - /Stream/Partners_in_Crime-1.html,s1 - Partners in Crime
 1547239284 - Fri Jan 11 21:41:24 CET 2019 - /Stream/Winx_Club.html,s3 - Winx Club
+1547239292 - Fri Jan 11 21:41:32 CET 2019 - /Stream/Bonanza.html,s1e1 - Bonanza
