@@ -18698,3 +18698,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547203524 - Fri Jan 11 11:45:24 CET 2019 - /Stream/Dawsons_Creek.html,s2e22 - Dawsons Creek
 1547203533 - Fri Jan 11 11:45:33 CET 2019 - /Stream/Deadman_Wonderland-1.html,s1 - Deadman Wonderland
 1547203541 - Fri Jan 11 11:45:41 CET 2019 - /Stream/Die_Husseins-Im_Zentrum_der_Macht.html,s1e4 - Die Husseins - Im Zentrum der Macht
+1547203549 - Fri Jan 11 11:45:49 CET 2019 - /Stream/Cold_Case-Kein_Opfer_ist_je_vergessen.html,s2e6 - Cold Case - Kein Opfer ist je vergessen
