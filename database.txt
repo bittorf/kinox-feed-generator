@@ -19607,3 +19607,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547247743 - Sat Jan 12 00:02:23 CET 2019 - /Stream/Gotham-1.html,s2e1 - Gotham
 1547247751 - Sat Jan 12 00:02:31 CET 2019 - /Stream/Anna-die_Liebe.html,s1e1 - Anna & die Liebe
 1547247758 - Sat Jan 12 00:02:38 CET 2019 - /Stream/Ancient_Aliens-Unerklaerliche_Phaenomene-1.html,s1e4 - Ancient Aliens - Unerklärliche Phänomene
+1547247774 - Sat Jan 12 00:02:54 CET 2019 - /Stream/Death_in_Paradise-1.html,s2e2 - Death in Paradise
