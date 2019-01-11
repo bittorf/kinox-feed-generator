@@ -19261,3 +19261,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547230360 - Fri Jan 11 19:12:40 CET 2019 - /Stream/Oz-Hoelle_hinter_Gittern.html,s6e5 - Oz - Hölle hinter Gittern
 1547230367 - Fri Jan 11 19:12:47 CET 2019 - /Stream/My_Name_Is_Earl.html,s3 - My Name Is Earl
 1547230375 - Fri Jan 11 19:12:55 CET 2019 - /Stream/Salem-1.html,s2 - Salem
+1547230383 - Fri Jan 11 19:13:03 CET 2019 - /Stream/Sanctuary-Waechter_der_Kreaturen.html,s1e1 - Sanctuary - Wächter der Kreaturen
