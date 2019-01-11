@@ -19070,3 +19070,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547221411 - Fri Jan 11 16:43:31 CET 2019 - /Stream/Glee-1.html,s4e10 - Glee
 1547221420 - Fri Jan 11 16:43:40 CET 2019 - /Stream/Weissensee.html,s1e5 - Weissensee
 1547221427 - Fri Jan 11 16:43:47 CET 2019 - /Stream/Wolfblood-Verwandlung_bei_Vollmond.html,s1e1 - Wolfblood - Verwandlung bei Vollmond
+1547221434 - Fri Jan 11 16:43:54 CET 2019 - /Stream/McLeods_Toechter.html,s4 - McLeods Töchter
