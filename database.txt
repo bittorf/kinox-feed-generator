@@ -18455,3 +18455,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547194237 - Fri Jan 11 09:10:37 CET 2019 - /Stream/Younger.html,s5e5 - Younger
 1547194244 - Fri Jan 11 09:10:44 CET 2019 - /Stream/Younger-1.html,s5e12 - Younger
 1547194251 - Fri Jan 11 09:10:51 CET 2019 - /Stream/Magnum_P-I.html,s1 - Magnum P.I.
+1547194257 - Fri Jan 11 09:10:57 CET 2019 - /Stream/The_Rookie-1.html,s1e4 - The Rookie
