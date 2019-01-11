@@ -19325,3 +19325,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547230900 - Fri Jan 11 19:21:40 CET 2019 - /Stream/Um_Himmels_Willen.html,s16e8 - Um Himmels Willen
 1547230913 - Fri Jan 11 19:21:53 CET 2019 - /Stream/Agatha_Christie_Moerderische_Spiele.html,s2e15 - Agatha Christie: Mörderische Spiele
 1547230923 - Fri Jan 11 19:22:03 CET 2019 - /Stream/The_Kids_Are_Alright-1.html,s1 - The Kids Are Alright
+1547230929 - Fri Jan 11 19:22:09 CET 2019 - /Stream/Brooklyn_Nine-Nine.html,s1e1 - Brooklyn Nine-Nine
