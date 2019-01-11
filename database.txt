@@ -18626,3 +18626,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547202929 - Fri Jan 11 11:35:29 CET 2019 - /Stream/Greyzone.html,s1e9 - Greyzone
 1547202937 - Fri Jan 11 11:35:37 CET 2019 - /Stream/Der_Koenig_und_seine_unsterbliche_Liebe.html,s1e1 - Der König und seine unsterbliche Liebe
 1547202944 - Fri Jan 11 11:35:44 CET 2019 - /Stream/The_Night_Shift-1.html,s4e4 - The Night Shift
+1547202951 - Fri Jan 11 11:35:51 CET 2019 - /Stream/MacGyver-3.html,s2e17 - MacGyver
