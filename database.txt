@@ -18637,3 +18637,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547203022 - Fri Jan 11 11:37:02 CET 2019 - /Stream/Ugly_Americans.html,s2e4 - Ugly Americans
 1547203030 - Fri Jan 11 11:37:10 CET 2019 - /Stream/Motive-1.html,s2e13 - Motive
 1547203038 - Fri Jan 11 11:37:18 CET 2019 - /Stream/Stan_Lees_Lucky_Man.html,s2e9 - Stan Lee's Lucky Man
+1547203046 - Fri Jan 11 11:37:26 CET 2019 - /Stream/Der_Prinz_von_Bel_Air.html,s6e4 - Der Prinz von Bel Air
