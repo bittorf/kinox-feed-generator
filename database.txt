@@ -19377,3 +19377,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547238575 - Fri Jan 11 21:29:35 CET 2019 - /Stream/Die_Nanny.html,s3 - Die Nanny
 1547238582 - Fri Jan 11 21:29:42 CET 2019 - /Stream/Die_Schoene_und_das_Biest-2.html,s1 - Die Schöne und das Biest
 1547238590 - Fri Jan 11 21:29:50 CET 2019 - /Stream/Die_Legende_von_Korra.html,s1 - Die Legende von Korra
+1547238597 - Fri Jan 11 21:29:57 CET 2019 - /Stream/Metalocalypse-1.html,s1e1 - Metalocalypse
