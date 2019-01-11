@@ -19115,3 +19115,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547221823 - Fri Jan 11 16:50:23 CET 2019 - /Stream/Wallace_u0026_Gromit-Alles_Kaese.html,s1e1 - Wallace \u0026 Gromit - Alles Käse
 1547221832 - Fri Jan 11 16:50:32 CET 2019 - /Stream/Arrow-1.html,s6e10 - Arrow
 1547221844 - Fri Jan 11 16:50:44 CET 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s7e5 - Heartland - Paradies für Pferde
+1547221852 - Fri Jan 11 16:50:52 CET 2019 - /Stream/Jersey_Shore.html,s1e7 - Jersey Shore
