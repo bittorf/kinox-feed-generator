@@ -19484,3 +19484,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239493 - Fri Jan 11 21:44:53 CET 2019 - /Stream/Die_Kathedrale_des_Meeres.html,s1e3 - Die Kathedrale des Meeres
 1547239502 - Fri Jan 11 21:45:02 CET 2019 - /Stream/Make_It_or_Break_It-1.html,s1e1 - Make It or Break It
 1547239509 - Fri Jan 11 21:45:09 CET 2019 - /Stream/Oz-Hoelle_hinter_Gittern.html,s2e6 - Oz - Hölle hinter Gittern
+1547239518 - Fri Jan 11 21:45:18 CET 2019 - /Stream/Breakout_Kings-1.html,s2e1 - Breakout Kings
