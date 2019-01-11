@@ -18068,3 +18068,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547169386 - Fri Jan 11 02:16:26 CET 2019 - /Stream/My_Name_Is_Earl.html,s1e2 - My Name Is Earl
 1547169393 - Fri Jan 11 02:16:33 CET 2019 - /Stream/South_Park-1.html,s11e6 - South Park
 1547169403 - Fri Jan 11 02:16:43 CET 2019 - /Stream/Supernatural.html,s12e19 - Supernatural
+1547169414 - Fri Jan 11 02:16:54 CET 2019 - /Stream/Murphy_Brown-1.html,s11e10 - Murphy Brown
