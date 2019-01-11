@@ -18303,3 +18303,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547178575 - Fri Jan 11 04:49:35 CET 2019 - /Stream/Mountain_Men-Ueberleben_in_der_Wildnis.html,s4e1 - Mountain Men - Überleben in der Wildnis
 1547178581 - Fri Jan 11 04:49:41 CET 2019 - /Stream/Inspector_Barnaby.html,s15e1 - Inspector Barnaby
 1547178589 - Fri Jan 11 04:49:49 CET 2019 - /Stream/Baskets-1.html,s2e3 - Baskets
+1547178598 - Fri Jan 11 04:49:58 CET 2019 - /Stream/Wickie_und_die_starken_Maenner.html,s2e4 - Wickie und die starken Männer
