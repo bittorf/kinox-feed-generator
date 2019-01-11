@@ -19361,3 +19361,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547238446 - Fri Jan 11 21:27:26 CET 2019 - /Stream/2_Broke_Girls.html,s3 - 2 Broke Girls
 1547238456 - Fri Jan 11 21:27:36 CET 2019 - /Stream/Low_Winter_Sun_.html,s1e6 - Low Winter Sun **
 1547238463 - Fri Jan 11 21:27:43 CET 2019 - /Stream/Breaking_Bad-1.html,s3e13 - Breaking Bad
+1547238472 - Fri Jan 11 21:27:52 CET 2019 - /Stream/Crossbones-1.html,s1e1 - Crossbones
