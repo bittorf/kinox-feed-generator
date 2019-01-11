@@ -18584,3 +18584,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547202582 - Fri Jan 11 11:29:42 CET 2019 - /Stream/The_Deuce.html,s2e8 - The Deuce
 1547202590 - Fri Jan 11 11:29:50 CET 2019 - /Stream/Sons_of_Anarchy-2.html,s5 - Sons of Anarchy
 1547202599 - Fri Jan 11 11:29:59 CET 2019 - /Stream/Germanys_Next_Topmodel.html,s13e6 - Germany's Next Topmodel
+1547202610 - Fri Jan 11 11:30:10 CET 2019 - /Stream/Der_letzte_Bulle.html,s4 - Der letzte Bulle
