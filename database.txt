@@ -18475,3 +18475,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547194408 - Fri Jan 11 09:13:28 CET 2019 - /Stream/The_Simpsons.html,s24e1 - The Simpsons
 1547194420 - Fri Jan 11 09:13:40 CET 2019 - /Stream/Lie_to_Me-1.html,s2e14 - Lie to Me
 1547194429 - Fri Jan 11 09:13:49 CET 2019 - /Stream/The_Last_Ship-1.html,s5e9 - The Last Ship
+1547194438 - Fri Jan 11 09:13:58 CET 2019 - /Stream/Titans_german_subbed.html,s1e5 - Titans *german subbed*
