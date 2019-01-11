@@ -18448,3 +18448,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547194180 - Fri Jan 11 09:09:40 CET 2019 - /Stream/Frequency_german_subbed.html,s1e9 - Frequency *german subbed*
 1547194187 - Fri Jan 11 09:09:47 CET 2019 - /Stream/Dr-Klein.html,s2e8 - Dr. Klein
 1547194195 - Fri Jan 11 09:09:55 CET 2019 - /Stream/Die_Drachenreiter_von_Berk.html,s3 - Die Drachenreiter von Berk
+1547194204 - Fri Jan 11 09:10:04 CET 2019 - /Stream/The_Guardian-Retter_mit_Herz.html,s3e18 - The Guardian - Retter mit Herz
