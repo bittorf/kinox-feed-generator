@@ -18150,3 +18150,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547177327 - Fri Jan 11 04:28:47 CET 2019 - /Stream/Four_Riders.html - Four Riders
 1547177335 - Fri Jan 11 04:28:55 CET 2019 - /Stream/Wohne_lieber_ungewoehnlich.html - Wohne lieber ungewöhnlich
 1547177345 - Fri Jan 11 04:29:05 CET 2019 - /Stream/Im_August_in_Osage_County.html - Im August in Osage County
+1547177355 - Fri Jan 11 04:29:15 CET 2019 - /Stream/Kung_Fu_Curry-Von_Chandni_Chowk_nach_China.html - Kung Fu Curry - Von Chandni Chowk nach China
