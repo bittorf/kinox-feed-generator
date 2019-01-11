@@ -18026,3 +18026,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547168983 - Fri Jan 11 02:09:43 CET 2019 - /Stream/The_Flash-2.html,s5e8 - The Flash
 1547168993 - Fri Jan 11 02:09:53 CET 2019 - /Stream/Magnum.html,s2e6 - Magnum
 1547169005 - Fri Jan 11 02:10:05 CET 2019 - /Stream/The_Vampire_Diaries.html,s3e2 - The Vampire Diaries
+1547169016 - Fri Jan 11 02:10:16 CET 2019 - /Stream/Walker_Texas_Ranger-1.html,s4e2 - Walker, Texas Ranger
