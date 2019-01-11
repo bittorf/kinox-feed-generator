@@ -19604,3 +19604,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547247712 - Sat Jan 12 00:01:52 CET 2019 - /Stream/Malcolm_mittendrin.html,s4e8 - Malcolm mittendrin
 1547247726 - Sat Jan 12 00:02:06 CET 2019 - /Stream/Planet_der_Affen-die_Serie.html,s1e1 - Planet der Affen - die Serie
 1547247734 - Sat Jan 12 00:02:14 CET 2019 - /Stream/Golden_Girls.html,s2e8 - Golden Girls
+1547247743 - Sat Jan 12 00:02:23 CET 2019 - /Stream/Gotham-1.html,s2e1 - Gotham
