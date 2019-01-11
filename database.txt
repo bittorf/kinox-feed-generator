@@ -18482,3 +18482,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547194477 - Fri Jan 11 09:14:37 CET 2019 - /Stream/Orphan_Black-1.html,s1e2 - Orphan Black
 1547194486 - Fri Jan 11 09:14:46 CET 2019 - /Stream/Devious_Maids-1.html,s3e7 - Devious Maids
 1547194494 - Fri Jan 11 09:14:54 CET 2019 - /Stream/Hinter_der_Gartenmauer.html,s1e2 - Hinter der Gartenmauer
+1547194502 - Fri Jan 11 09:15:02 CET 2019 - /Stream/The_Big_Bang_Theory-1.html,s12e12 - The Big Bang Theory
