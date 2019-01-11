@@ -19602,3 +19602,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547247697 - Sat Jan 12 00:01:37 CET 2019 - /Stream/H2O-Ploetzlich_Meerjungfrau.html,s3e11 - H2O - Plötzlich Meerjungfrau
 1547247705 - Sat Jan 12 00:01:45 CET 2019 - /Stream/Vikings-1.html,s3e10 - Vikings
 1547247712 - Sat Jan 12 00:01:52 CET 2019 - /Stream/Malcolm_mittendrin.html,s4e8 - Malcolm mittendrin
+1547247726 - Sat Jan 12 00:02:06 CET 2019 - /Stream/Planet_der_Affen-die_Serie.html,s1e1 - Planet der Affen - die Serie
