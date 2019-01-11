@@ -18708,3 +18708,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547203612 - Fri Jan 11 11:46:52 CET 2019 - /Stream/The_Shannara_Chronicles.html,s2e10 - The Shannara Chronicles
 1547203619 - Fri Jan 11 11:46:59 CET 2019 - /Stream/Humans-1.html,s3e4 - Humans
 1547203628 - Fri Jan 11 11:47:08 CET 2019 - /Stream/Instinct-2.html,s1e12 - Instinct
+1547203636 - Fri Jan 11 11:47:16 CET 2019 - /Stream/Tyrant-1.html,s1e6 - Tyrant
