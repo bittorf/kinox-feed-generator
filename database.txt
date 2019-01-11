@@ -18189,3 +18189,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547177647 - Fri Jan 11 04:34:07 CET 2019 - /Stream/Hoer_mal_wer_da_haemmert.html,s6e18 - Hör' mal, wer da hämmert
 1547177656 - Fri Jan 11 04:34:16 CET 2019 - /Stream/Wentworth-1.html,s2e5 - Wentworth
 1547177663 - Fri Jan 11 04:34:23 CET 2019 - /Stream/Criminal_Minds-1.html,s3e14 - Criminal Minds
+1547177672 - Fri Jan 11 04:34:32 CET 2019 - /Stream/Kir_Royal.html,s1e1 - Kir Royal
