@@ -18654,3 +18654,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547203169 - Fri Jan 11 11:39:29 CET 2019 - /Stream/Greys_Anatomy.html,s2 - Grey's Anatomy
 1547203180 - Fri Jan 11 11:39:40 CET 2019 - /Stream/Power-1.html,s2 - Power
 1547203189 - Fri Jan 11 11:39:49 CET 2019 - /Stream/Mayans_M-C-german_subbed.html,s1 - Mayans M.C. *german subbed*
+1547203196 - Fri Jan 11 11:39:56 CET 2019 - /Stream/Lie_to_Me-1.html,s3e8 - Lie to Me
