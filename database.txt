@@ -18640,3 +18640,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547203046 - Fri Jan 11 11:37:26 CET 2019 - /Stream/Der_Prinz_von_Bel_Air.html,s6e4 - Der Prinz von Bel Air
 1547203054 - Fri Jan 11 11:37:34 CET 2019 - /Stream/Der_letzte_Bulle.html,s1e1 - Der letzte Bulle
 1547203062 - Fri Jan 11 11:37:42 CET 2019 - /Stream/Its_Always_Sunny_in_Philadelphia.html,s1e2 - It's Always Sunny in Philadelphia
+1547203070 - Fri Jan 11 11:37:50 CET 2019 - /Stream/The_Shield-Gesetz_der_Gewalt.html,s1e9 - The Shield - Gesetz der Gewalt
