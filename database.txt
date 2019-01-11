@@ -18782,3 +18782,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547211547 - Fri Jan 11 13:59:07 CET 2019 - /Stream/Dark_Matter-3.html,s1e10 - Dark Matter
 1547211554 - Fri Jan 11 13:59:14 CET 2019 - /Stream/Farscape-Verschollen_im_All.html,s3 - Farscape - Verschollen im All
 1547211561 - Fri Jan 11 13:59:21 CET 2019 - /Stream/Full_House.html,s2 - Full House
+1547211568 - Fri Jan 11 13:59:28 CET 2019 - /Stream/Fauda.html,s1e2 - Fauda
