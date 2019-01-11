@@ -19081,3 +19081,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547221509 - Fri Jan 11 16:45:09 CET 2019 - /Stream/Star_Wars_The_Clone_Wars-1.html,s4e9 - Star Wars: The Clone Wars
 1547221518 - Fri Jan 11 16:45:18 CET 2019 - /Stream/Stargate.html,s4 - Stargate
 1547221528 - Fri Jan 11 16:45:28 CET 2019 - /Stream/Marcella-1.html,s1e1 - Marcella
+1547221537 - Fri Jan 11 16:45:37 CET 2019 - /Stream/Legend_of_the_Seeker-Das_Schwert_der_Wahrheit.html,s1e7 - Legend of the Seeker - Das Schwert der Wahrheit
