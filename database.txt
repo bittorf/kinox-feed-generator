@@ -19233,3 +19233,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547230123 - Fri Jan 11 19:08:43 CET 2019 - /Stream/Die_Musketiere.html,s2 - Die Musketiere
 1547230130 - Fri Jan 11 19:08:50 CET 2019 - /Stream/Jim_Knopf_und_die_wilde_13.html,s1 - Jim Knopf und die wilde 13
 1547230137 - Fri Jan 11 19:08:57 CET 2019 - /Stream/Winx_Club.html,s1 - Winx Club
+1547230149 - Fri Jan 11 19:09:09 CET 2019 - /Stream/Supernatural_german_subbed.html,s11 - Supernatural *german subbed*
