@@ -19590,3 +19590,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547247583 - Fri Jan 11 23:59:43 CET 2019 - /Stream/Once_Upon_a_Time-Es_war_einmal.html,s1e22 - Once Upon a Time - Es war einmal ...
 1547247594 - Fri Jan 11 23:59:54 CET 2019 - /Stream/H2O-Ploetzlich_Meerjungfrau.html,s1 - H2O - Plötzlich Meerjungfrau
 1547247608 - Sat Jan 12 00:00:08 CET 2019 - /Stream/Der_kleine_Maulwurf.html,s1e1 - Der kleine Maulwurf
+1547247615 - Sat Jan 12 00:00:15 CET 2019 - /Stream/Free_Rein.html,s2e7 - Free Rein
