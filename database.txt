@@ -18888,3 +18888,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547212439 - Fri Jan 11 14:13:59 CET 2019 - /Stream/Young-Hungry.html,s4 - Young & Hungry
 1547212446 - Fri Jan 11 14:14:06 CET 2019 - /Stream/Claymore-1.html,s1e2 - Claymore
 1547212453 - Fri Jan 11 14:14:13 CET 2019 - /Stream/Will-Grace-1.html,s5e16 - Will & Grace
+1547212461 - Fri Jan 11 14:14:21 CET 2019 - /Stream/Die_Sopranos.html,s2e10 - Die Sopranos
