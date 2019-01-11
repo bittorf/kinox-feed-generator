@@ -18379,3 +18379,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547193613 - Fri Jan 11 09:00:13 CET 2019 - /Stream/Verwuenscht.html - Verwünscht
 1547193628 - Fri Jan 11 09:00:28 CET 2019 - /Stream/Hampstead_Park.html - Hampstead Park
 1547193640 - Fri Jan 11 09:00:40 CET 2019 - /Stream/Kein_Herz_fuer_Inder.html - Kein Herz für Inder
+1547193648 - Fri Jan 11 09:00:48 CET 2019 - /Stream/Kleine_Goldgraeber-Ein_baerenstarkes_Abenteuer_in_Kanada.html - Kleine Goldgräber - Ein bärenstarkes Abenteuer in Kanada
