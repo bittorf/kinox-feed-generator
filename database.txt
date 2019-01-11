@@ -18589,3 +18589,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547202626 - Fri Jan 11 11:30:26 CET 2019 - /Stream/Kaeptn_Balu_und_seine_tollkuehne_Crew.html,s1 - Käpt'n Balu und seine tollkühne Crew
 1547202635 - Fri Jan 11 11:30:35 CET 2019 - /Stream/Hoer_mal_wer_da_haemmert.html,s3 - Hör' mal, wer da hämmert
 1547202644 - Fri Jan 11 11:30:44 CET 2019 - /Stream/Its_Always_Sunny_in_Philadelphia.html,s9 - It's Always Sunny in Philadelphia
+1547202652 - Fri Jan 11 11:30:52 CET 2019 - /Stream/Whats_Up_Dad.html,s4e1 - What's Up, Dad?
