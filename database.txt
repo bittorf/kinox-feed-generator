@@ -18602,3 +18602,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547202735 - Fri Jan 11 11:32:15 CET 2019 - /Stream/black-ish.html,s2e6 - black-ish
 1547202743 - Fri Jan 11 11:32:23 CET 2019 - /Stream/Borgia.html,s1e7 - Borgia
 1547202750 - Fri Jan 11 11:32:30 CET 2019 - /Stream/Die_Scooby-Doo_Show-1.html,s1e1 - Die Scooby-Doo Show
+1547202759 - Fri Jan 11 11:32:39 CET 2019 - /Stream/Abenteuer_Survival-Ausgesetzt_in_der_Wildnis.html,s3e6 - Abenteuer Survival - Ausgesetzt in der Wildnis
