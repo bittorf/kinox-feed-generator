@@ -19041,3 +19041,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547221164 - Fri Jan 11 16:39:24 CET 2019 - /Stream/Manhattan-3.html,s2e1 - Manhattan
 1547221173 - Fri Jan 11 16:39:33 CET 2019 - /Stream/Billions-1.html,s1 - Billions
 1547221182 - Fri Jan 11 16:39:42 CET 2019 - /Stream/Rosamunde_Pilcher.html,s1e13 - Rosamunde Pilcher
+1547221192 - Fri Jan 11 16:39:52 CET 2019 - /Stream/Ein_Kaefig_voller_Helden.html,s5 - Ein Käfig voller Helden
