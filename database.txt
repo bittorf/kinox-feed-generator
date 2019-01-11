@@ -18668,3 +18668,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547203286 - Fri Jan 11 11:41:26 CET 2019 - /Stream/Alaskan_Bush_People-1.html,s1e1 - Alaskan Bush People
 1547203292 - Fri Jan 11 11:41:32 CET 2019 - /Stream/Lost_Girl-2.html,s5e3 - Lost Girl
 1547203300 - Fri Jan 11 11:41:40 CET 2019 - /Stream/American_Housewife.html,s3e7 - American Housewife
+1547203307 - Fri Jan 11 11:41:47 CET 2019 - /Stream/Cougar_Town-40_ist_das_neue_20.html,s2e1 - Cougar Town - 40 ist das neue 20
