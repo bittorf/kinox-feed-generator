@@ -18856,3 +18856,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547212178 - Fri Jan 11 14:09:38 CET 2019 - /Stream/Chewing_Gum.html,s1e1 - Chewing Gum
 1547212184 - Fri Jan 11 14:09:44 CET 2019 - /Stream/Dawsons_Creek.html,s3e22 - Dawsons Creek
 1547212194 - Fri Jan 11 14:09:54 CET 2019 - /Stream/Luther-2.html,s2e2 - Luther
+1547212201 - Fri Jan 11 14:10:01 CET 2019 - /Stream/Lucifer-2.html,s1e5 - Lucifer
