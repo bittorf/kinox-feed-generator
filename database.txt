@@ -17980,3 +17980,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547168441 - Fri Jan 11 02:00:41 CET 2019 - /Stream/Lucifer-1.html,s1e6 - Lucifer
 1547168454 - Fri Jan 11 02:00:54 CET 2019 - /Stream/iCarly-1.html,s3e8 - iCarly
 1547168491 - Fri Jan 11 02:01:31 CET 2019 - /Stream/The_Big_Bang_Theory_german_subbed.html,s10e24 - The Big Bang Theory *german subbed*
+1547168535 - Fri Jan 11 02:02:15 CET 2019 - /Stream/Family_Guy.html,s12 - Family Guy
