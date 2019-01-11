@@ -19492,3 +19492,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239559 - Fri Jan 11 21:45:59 CET 2019 - /Stream/Lewis-Der_Oxford_Krimi.html,s5e1 - Lewis - Der Oxford Krimi
 1547239567 - Fri Jan 11 21:46:07 CET 2019 - /Stream/4400-Die_Rueckkehrer.html,s2e1 - 4400 - Die Rückkehrer
 1547239574 - Fri Jan 11 21:46:14 CET 2019 - /Stream/Disneys_Kuzcos_Koenigsklasse.html,s1e1 - Disneys Kuzcos Königsklasse
+1547239580 - Fri Jan 11 21:46:20 CET 2019 - /Stream/Star_Wars_The_Clone_Wars-4.html,s4e1 - Star Wars: The Clone Wars
