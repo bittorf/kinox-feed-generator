@@ -19401,3 +19401,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547238772 - Fri Jan 11 21:32:52 CET 2019 - /Stream/Law-Order-1.html,s4e21 - Law & Order
 1547238786 - Fri Jan 11 21:33:06 CET 2019 - /Stream/Bob_Morane.html,s1 - Bob Morane
 1547238793 - Fri Jan 11 21:33:13 CET 2019 - /Stream/Sanctuary-Waechter_der_Kreaturen.html,s4 - Sanctuary - Wächter der Kreaturen
+1547238803 - Fri Jan 11 21:33:23 CET 2019 - /Stream/McLeods_Toechter.html,s1e5 - McLeods Töchter
