@@ -18040,3 +18040,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547169110 - Fri Jan 11 02:11:50 CET 2019 - /Stream/Heiter_bis_toedlich-Hubert_und_Staller.html,s5e1 - Heiter bis tödlich - Hubert und Staller
 1547169119 - Fri Jan 11 02:11:59 CET 2019 - /Stream/Criminal_Minds-1.html,s9e2 - Criminal Minds
 1547169129 - Fri Jan 11 02:12:09 CET 2019 - /Stream/Burn_Notice.html,s4e12 - Burn Notice
+1547169139 - Fri Jan 11 02:12:19 CET 2019 - /Stream/Powers-1.html,s1e1 - Powers
