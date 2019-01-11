@@ -19535,3 +19535,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239893 - Fri Jan 11 21:51:33 CET 2019 - /Stream/Dharma-Greg-1.html,s3e6 - Dharma & Greg
 1547239901 - Fri Jan 11 21:51:41 CET 2019 - /Stream/Law-Order-1.html,s1 - Law & Order
 1547239912 - Fri Jan 11 21:51:52 CET 2019 - /Stream/Bugs_Bunny-Mein_Name_ist_Hase.html,s1e28 - Bugs Bunny - Mein Name ist Hase
+1547239919 - Fri Jan 11 21:51:59 CET 2019 - /Stream/Die_Addams_Family-Die_Serie.html,s1e1 - Die Addams Family - Die Serie
