@@ -19489,3 +19489,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239537 - Fri Jan 11 21:45:37 CET 2019 - /Stream/Workaholics-1.html,s1 - Workaholics
 1547239544 - Fri Jan 11 21:45:44 CET 2019 - /Stream/Aquarian_Age-Sign_For_Evolution.html,s1 - Aquarian Age - Sign For Evolution
 1547239551 - Fri Jan 11 21:45:51 CET 2019 - /Stream/Madam_Secretary.html,s5e1 - Madam Secretary
+1547239559 - Fri Jan 11 21:45:59 CET 2019 - /Stream/Lewis-Der_Oxford_Krimi.html,s5e1 - Lewis - Der Oxford Krimi
