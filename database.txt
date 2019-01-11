@@ -19221,3 +19221,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547230011 - Fri Jan 11 19:06:51 CET 2019 - /Stream/Witches_of_East_End-1.html,s1 - Witches of East End
 1547230018 - Fri Jan 11 19:06:58 CET 2019 - /Stream/Stargate.html,s9 - Stargate
 1547230027 - Fri Jan 11 19:07:07 CET 2019 - /Stream/Supernatural_german_subbed.html,s14 - Supernatural *german subbed*
+1547230038 - Fri Jan 11 19:07:18 CET 2019 - /Stream/The_Seven_Deadly_Sins.html,s2 - The Seven Deadly Sins
