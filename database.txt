@@ -19383,3 +19383,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547238627 - Fri Jan 11 21:30:27 CET 2019 - /Stream/Die_Legende_von_Korra.html,s2 - Die Legende von Korra
 1547238635 - Fri Jan 11 21:30:35 CET 2019 - /Stream/Ancient_Aliens-Unerklaerliche_Phaenomene-1.html,s1 - Ancient Aliens - Unerklärliche Phänomene
 1547238642 - Fri Jan 11 21:30:42 CET 2019 - /Stream/Die_Chefin.html,s7e1 - Die Chefin
+1547238650 - Fri Jan 11 21:30:50 CET 2019 - /Stream/Sanctuary-Waechter_der_Kreaturen.html,s3 - Sanctuary - Wächter der Kreaturen
