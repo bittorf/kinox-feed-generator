@@ -17960,3 +17960,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547168269 - Fri Jan 11 01:57:49 CET 2019 - /Stream/Jane_by_Design-1.html,s1e13 - Jane by Design
 1547168276 - Fri Jan 11 01:57:56 CET 2019 - /Stream/Dr-Klein.html,s3e12 - Dr. Klein
 1547168285 - Fri Jan 11 01:58:05 CET 2019 - /Stream/Helix-1.html,s1e6 - Helix
+1547168293 - Fri Jan 11 01:58:13 CET 2019 - /Stream/Pawn_Stars-1.html,s12e29 - Pawn Stars
