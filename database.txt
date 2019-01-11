@@ -18533,3 +18533,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547202138 - Fri Jan 11 11:22:18 CET 2019 - /Stream/Der_Pakt_der_Woelfe.html - Der Pakt der Wölfe
 1547202147 - Fri Jan 11 11:22:27 CET 2019 - /Stream/Showdown_in_Manila-1.html - Showdown in Manila
 1547202154 - Fri Jan 11 11:22:34 CET 2019 - /Stream/Duplicate.html - Duplicate
+1547202162 - Fri Jan 11 11:22:42 CET 2019 - /Stream/Die_Kunst_zu_gewinnen-Moneyball.html - Die Kunst zu gewinnen - Moneyball
