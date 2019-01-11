@@ -19346,3 +19346,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547231074 - Fri Jan 11 19:24:34 CET 2019 - /Stream/Unsere_kleine_Farm.html,s5e5 - Unsere kleine Farm
 1547231083 - Fri Jan 11 19:24:43 CET 2019 - /Stream/Ein_Duke_kommt_selten_allein-1.html,s3e23 - Ein Duke kommt selten allein
 1547231091 - Fri Jan 11 19:24:51 CET 2019 - /Stream/Zero_no_Tsukaima.html,s2e10 - Zero no Tsukaima
+1547231098 - Fri Jan 11 19:24:58 CET 2019 - /Stream/The_Cry-1.html,s1e3 - The Cry
