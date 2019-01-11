@@ -18032,3 +18032,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547169043 - Fri Jan 11 02:10:43 CET 2019 - /Stream/The_Last_Man_on_Earth-3.html,s2e2 - The Last Man on Earth
 1547169051 - Fri Jan 11 02:10:51 CET 2019 - /Stream/Vikings-1.html,s5e2 - Vikings
 1547169060 - Fri Jan 11 02:11:00 CET 2019 - /Stream/The_Mentalist.html,s5e22 - The Mentalist
+1547169070 - Fri Jan 11 02:11:10 CET 2019 - /Stream/Star_gegen_die_Maechte_des_Boesen.html,s1e10 - Star gegen die Mächte des Bösen
