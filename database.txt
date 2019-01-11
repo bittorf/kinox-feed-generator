@@ -18434,3 +18434,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547194061 - Fri Jan 11 09:07:41 CET 2019 - /Stream/Mein_Babysitter_ist_ein_Vampir.html,s2e8 - Mein Babysitter ist ein Vampir
 1547194068 - Fri Jan 11 09:07:48 CET 2019 - /Stream/Die_Zauberer_vom_Waverly_Place.html,s4e6 - Die Zauberer vom Waverly Place
 1547194077 - Fri Jan 11 09:07:57 CET 2019 - /Stream/Ladykracher.html,s1e1 - Ladykracher
+1547194088 - Fri Jan 11 09:08:08 CET 2019 - /Stream/Grimoire_of_Zero.html,s1e9 - Grimoire of Zero
