@@ -18847,3 +18847,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547212107 - Fri Jan 11 14:08:27 CET 2019 - /Stream/Grimoire_of_Zero.html,s1 - Grimoire of Zero
 1547212113 - Fri Jan 11 14:08:33 CET 2019 - /Stream/Die_Saeulen_der_Erde.html,s1e4 - Die Säulen der Erde
 1547212120 - Fri Jan 11 14:08:40 CET 2019 - /Stream/Girls-1.html,s1e1 - Girls
+1547212128 - Fri Jan 11 14:08:48 CET 2019 - /Stream/Fargo-2.html,s1e1 - Fargo
