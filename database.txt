@@ -18005,3 +18005,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547168811 - Fri Jan 11 02:06:51 CET 2019 - /Stream/Last_Man_Standing-7.html,s3e13 - Last Man Standing
 1547168819 - Fri Jan 11 02:06:59 CET 2019 - /Stream/Heiter_bis_toedlich-Hubert_und_Staller.html,s3 - Heiter bis tödlich - Hubert und Staller
 1547168828 - Fri Jan 11 02:07:08 CET 2019 - /Stream/Its_Always_Sunny_in_Philadelphia.html,s9e1 - It's Always Sunny in Philadelphia
+1547168836 - Fri Jan 11 02:07:16 CET 2019 - /Stream/Supernatural.html,s2e7 - Supernatural
