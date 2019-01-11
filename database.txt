@@ -19078,3 +19078,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547221478 - Fri Jan 11 16:44:38 CET 2019 - /Stream/Unbreakable_Kimmy_Schmidt.html,s2e1 - Unbreakable Kimmy Schmidt
 1547221487 - Fri Jan 11 16:44:47 CET 2019 - /Stream/Stargate.html,s2e5 - Stargate
 1547221497 - Fri Jan 11 16:44:57 CET 2019 - /Stream/Orange_Is_the_New_Black-1.html,s5e7 - Orange Is the New Black
+1547221509 - Fri Jan 11 16:45:09 CET 2019 - /Stream/Star_Wars_The_Clone_Wars-1.html,s4e9 - Star Wars: The Clone Wars
