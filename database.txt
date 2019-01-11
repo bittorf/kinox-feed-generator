@@ -18586,3 +18586,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547202599 - Fri Jan 11 11:29:59 CET 2019 - /Stream/Germanys_Next_Topmodel.html,s13e6 - Germany's Next Topmodel
 1547202610 - Fri Jan 11 11:30:10 CET 2019 - /Stream/Der_letzte_Bulle.html,s4 - Der letzte Bulle
 1547202618 - Fri Jan 11 11:30:18 CET 2019 - /Stream/Borgia.html,s3e5 - Borgia
+1547202626 - Fri Jan 11 11:30:26 CET 2019 - /Stream/Kaeptn_Balu_und_seine_tollkuehne_Crew.html,s1 - Käpt'n Balu und seine tollkühne Crew
