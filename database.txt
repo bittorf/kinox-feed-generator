@@ -18089,3 +18089,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547169588 - Fri Jan 11 02:19:48 CET 2019 - /Stream/Elven-Fluss_aus_der_Kaelte.html,s1e8 - Elven - Fluss aus der Kälte
 1547169594 - Fri Jan 11 02:19:54 CET 2019 - /Stream/Die_Abenteuer_des_Herrn_Tau.html,s1e1 - Die Abenteuer des Herrn Tau
 1547169603 - Fri Jan 11 02:20:03 CET 2019 - /Stream/Crazy_Ex-Girlfriend.html,s2e2 - Crazy Ex-Girlfriend
+1547169610 - Fri Jan 11 02:20:10 CET 2019 - /Stream/Supernatural.html,s1e22 - Supernatural
