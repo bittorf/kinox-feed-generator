@@ -18577,3 +18577,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547202522 - Fri Jan 11 11:28:42 CET 2019 - /Stream/Nowhere_Boys.html,s3 - Nowhere Boys
 1547202531 - Fri Jan 11 11:28:51 CET 2019 - /Stream/Whats_Up_Dad.html,s5e14 - What's Up, Dad?
 1547202539 - Fri Jan 11 11:28:59 CET 2019 - /Stream/Lethal_Weapon_german_subbed.html,s3e5 - Lethal Weapon *german subbed*
+1547202547 - Fri Jan 11 11:29:07 CET 2019 - /Stream/Criminal_Minds_german_subbed.html,s14 - Criminal Minds *german subbed*
