@@ -18078,3 +18078,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547169488 - Fri Jan 11 02:18:08 CET 2019 - /Stream/The_Secret_Life_of_the_American_Teenager-1.html,s1e1 - The Secret Life of the American Teenager
 1547169496 - Fri Jan 11 02:18:16 CET 2019 - /Stream/Miss_Kobayashis_Dragon_Maid.html,s1e1 - Miss Kobayashi's Dragon Maid
 1547169504 - Fri Jan 11 02:18:24 CET 2019 - /Stream/Jung-vielversprechend.html,s2e1 - Jung & vielversprechend
+1547169512 - Fri Jan 11 02:18:32 CET 2019 - /Stream/Zurueck_in_die_Vergangenheit.html,s2e7 - Zurück in die Vergangenheit
