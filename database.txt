@@ -18320,3 +18320,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547178702 - Fri Jan 11 04:51:42 CET 2019 - /Stream/Power-2.html,s5e1 - Power
 1547178716 - Fri Jan 11 04:51:56 CET 2019 - /Stream/The_Innocents-2.html,s1e5 - The Innocents
 1547178724 - Fri Jan 11 04:52:04 CET 2019 - /Stream/neoManiacs.html,s1e2 - neoManiacs
+1547178731 - Fri Jan 11 04:52:11 CET 2019 - /Stream/Lethal_Weapon-1.html,s2e9 - Lethal Weapon
