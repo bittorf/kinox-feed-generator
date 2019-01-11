@@ -19415,3 +19415,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547238901 - Fri Jan 11 21:35:01 CET 2019 - /Stream/SOKO_Wismar.html,s15e30 - SOKO Wismar
 1547238911 - Fri Jan 11 21:35:11 CET 2019 - /Stream/Black_Lightning-1.html,s2 - Black Lightning
 1547238918 - Fri Jan 11 21:35:18 CET 2019 - /Stream/Center_Stage-1.html,s1e1 - Center Stage
+1547238927 - Fri Jan 11 21:35:27 CET 2019 - /Stream/Legend_of_the_Seeker-Das_Schwert_der_Wahrheit.html,s2 - Legend of the Seeker - Das Schwert der Wahrheit
