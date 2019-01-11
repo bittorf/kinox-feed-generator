@@ -19529,3 +19529,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239843 - Fri Jan 11 21:50:43 CET 2019 - /Stream/Into_the_Badlands-1.html,s3e4 - Into the Badlands
 1547239850 - Fri Jan 11 21:50:50 CET 2019 - /Stream/Avatar_The_Last_Airbender.html,s2e10 - Avatar: The Last Airbender
 1547239858 - Fri Jan 11 21:50:58 CET 2019 - /Stream/Beauty_and_the_Beast-5.html,s1e7 - Beauty and the Beast
+1547239869 - Fri Jan 11 21:51:09 CET 2019 - /Stream/Der_Prinz_von_Bel_Air.html,s1e12 - Der Prinz von Bel Air
