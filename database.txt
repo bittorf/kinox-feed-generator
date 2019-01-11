@@ -19124,3 +19124,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547221906 - Fri Jan 11 16:51:46 CET 2019 - /Stream/Star_Wars_The_Clone_Wars-1.html,s1e21 - Star Wars: The Clone Wars
 1547221916 - Fri Jan 11 16:51:56 CET 2019 - /Stream/Neo_Magazin-1.html,s1e1 - Neo Magazin
 1547221927 - Fri Jan 11 16:52:07 CET 2019 - /Stream/Grand_Hotel-1.html,s2e19 - Grand Hotel
+1547221936 - Fri Jan 11 16:52:16 CET 2019 - /Stream/Navy_CIS_german_subbed.html,s15e1 - Navy CIS *german subbed*
