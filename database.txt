@@ -18765,3 +18765,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547211405 - Fri Jan 11 13:56:45 CET 2019 - /Stream/Family_Guy.html,s7 - Family Guy
 1547211414 - Fri Jan 11 13:56:54 CET 2019 - /Stream/Futurama.html,s1 - Futurama
 1547211421 - Fri Jan 11 13:57:01 CET 2019 - /Stream/The_Girlfriend_Experience-2.html,s1 - The Girlfriend Experience
+1547211429 - Fri Jan 11 13:57:09 CET 2019 - /Stream/Tarzan_and_Jane.html,s1e1 - Tarzan and Jane
