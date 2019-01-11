@@ -18354,3 +18354,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547193412 - Fri Jan 11 08:56:52 CET 2019 - /Stream/Der_Grinch-1.html - Der Grinch
 1547193421 - Fri Jan 11 08:57:01 CET 2019 - /Stream/Widows.html - Widows
 1547193431 - Fri Jan 11 08:57:11 CET 2019 - /Stream/Girls_United-Gib_alles.html - Girls United - Gib alles!
+1547193440 - Fri Jan 11 08:57:20 CET 2019 - /Stream/Koenig_der_Shaolin.html - König der Shaolin
