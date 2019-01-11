@@ -19450,3 +19450,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239212 - Fri Jan 11 21:40:12 CET 2019 - /Stream/Gilmore_Girls.html,s1e11 - Gilmore Girls
 1547239222 - Fri Jan 11 21:40:22 CET 2019 - /Stream/Der_letzte_Bulle.html,s1 - Der letzte Bulle
 1547239229 - Fri Jan 11 21:40:29 CET 2019 - /Stream/Graceland-2.html,s2e13 - Graceland
+1547239237 - Fri Jan 11 21:40:37 CET 2019 - /Stream/Animal_Kingdom-2.html,s3e7 - Animal Kingdom
