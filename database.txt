@@ -19126,3 +19126,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547221927 - Fri Jan 11 16:52:07 CET 2019 - /Stream/Grand_Hotel-1.html,s2e19 - Grand Hotel
 1547221936 - Fri Jan 11 16:52:16 CET 2019 - /Stream/Navy_CIS_german_subbed.html,s15e1 - Navy CIS *german subbed*
 1547221947 - Fri Jan 11 16:52:27 CET 2019 - /Stream/Die_Bruecke-Transit_in_den_Tod.html,s1e9 - Die Brücke - Transit in den Tod
+1547221955 - Fri Jan 11 16:52:35 CET 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s5e17 - Heartland - Paradies für Pferde
