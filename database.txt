@@ -19436,3 +19436,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239084 - Fri Jan 11 21:38:04 CET 2019 - /Stream/Ravens_Home.html,s2 - Raven's Home
 1547239092 - Fri Jan 11 21:38:12 CET 2019 - /Stream/Ancient_Aliens-Unerklaerliche_Phaenomene-1.html,s2e6 - Ancient Aliens - Unerklärliche Phänomene
 1547239101 - Fri Jan 11 21:38:21 CET 2019 - /Stream/Malcolm_mittendrin.html,s5e7 - Malcolm mittendrin
+1547239117 - Fri Jan 11 21:38:37 CET 2019 - /Stream/Der_sechs_Millionen_Dollar_Mann.html,s3e1 - Der sechs Millionen Dollar Mann
