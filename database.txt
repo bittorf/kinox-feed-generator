@@ -18058,3 +18058,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547169273 - Fri Jan 11 02:14:33 CET 2019 - /Stream/Teen_Wolf-2.html,s4e8 - Teen Wolf
 1547169281 - Fri Jan 11 02:14:41 CET 2019 - /Stream/Eine_schrecklich_nette_Familie.html,s7e10 - Eine schrecklich nette Familie
 1547169290 - Fri Jan 11 02:14:50 CET 2019 - /Stream/Detektiv_Conan.html,s6e28 - Detektiv Conan
+1547169298 - Fri Jan 11 02:14:58 CET 2019 - /Stream/Supergirl_german_subbed.html,s1e2 - Supergirl *german subbed*
