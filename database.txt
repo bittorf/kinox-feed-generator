@@ -18418,3 +18418,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547193926 - Fri Jan 11 09:05:26 CET 2019 - /Stream/All_American.html,s1e5 - All American
 1547193934 - Fri Jan 11 09:05:34 CET 2019 - /Stream/Vida-1.html,s1 - Vida
 1547193941 - Fri Jan 11 09:05:41 CET 2019 - /Stream/American_Dad.html,s6 - American Dad
+1547193950 - Fri Jan 11 09:05:50 CET 2019 - /Stream/Futurama.html,s5 - Futurama
