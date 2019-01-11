@@ -17897,3 +17897,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547167744 - Fri Jan 11 01:49:04 CET 2019 - /Stream/Eine_fantastische_Frau.html - Eine fantastische Frau
 1547167752 - Fri Jan 11 01:49:12 CET 2019 - /Stream/Basement_Jack.html - Basement Jack
 1547167760 - Fri Jan 11 01:49:20 CET 2019 - /Stream/Bis_dass_der_Tod_uns_scheidet.html - Bis dass der Tod uns scheidet
+1547167768 - Fri Jan 11 01:49:28 CET 2019 - /Stream/Zum_Teufel_mit_den_Kohlen.html - Zum Teufel mit den Kohlen
