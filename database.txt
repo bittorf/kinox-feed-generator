@@ -18918,3 +18918,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547212695 - Fri Jan 11 14:18:15 CET 2019 - /Stream/Gluecksbaerchis-Co.html,s1e6 - Glücksbärchis & Co.
 1547212702 - Fri Jan 11 14:18:22 CET 2019 - /Stream/The_Americans-1.html,s2e8 - The Americans
 1547212709 - Fri Jan 11 14:18:29 CET 2019 - /Stream/The_Real_ONeals.html,s2e8 - The Real O'Neals
+1547212718 - Fri Jan 11 14:18:38 CET 2019 - /Stream/Supernatural-1.html,s11e3 - Supernatural
