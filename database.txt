@@ -19444,3 +19444,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239159 - Fri Jan 11 21:39:19 CET 2019 - /Stream/Ancient_Aliens-Unerklaerliche_Phaenomene-1.html,s8 - Ancient Aliens - Unerklärliche Phänomene
 1547239167 - Fri Jan 11 21:39:27 CET 2019 - /Stream/Leverage-1.html,s5 - Leverage
 1547239175 - Fri Jan 11 21:39:35 CET 2019 - /Stream/Breakout_Kings-1.html,s1e5 - Breakout Kings
+1547239182 - Fri Jan 11 21:39:42 CET 2019 - /Stream/The_Magicians.html,s2e1 - The Magicians
