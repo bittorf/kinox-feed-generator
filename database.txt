@@ -19504,3 +19504,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239653 - Fri Jan 11 21:47:33 CET 2019 - /Stream/Burn_Notice-1.html,s1e1 - Burn Notice
 1547239662 - Fri Jan 11 21:47:42 CET 2019 - /Stream/Brooklyn_Nine-Nine.html,s1 - Brooklyn Nine-Nine
 1547239669 - Fri Jan 11 21:47:49 CET 2019 - /Stream/Blue_Mountain_State-1.html,s2e9 - Blue Mountain State
+1547239676 - Fri Jan 11 21:47:56 CET 2019 - /Stream/Der_sechs_Millionen_Dollar_Mann.html,s1e1 - Der sechs Millionen Dollar Mann
