@@ -19282,3 +19282,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547230543 - Fri Jan 11 19:15:43 CET 2019 - /Stream/Soy_Luna.html,s3e18 - Soy Luna
 1547230556 - Fri Jan 11 19:15:56 CET 2019 - /Stream/The_Bletchley_Circle.html,s1e1 - The Bletchley Circle
 1547230568 - Fri Jan 11 19:16:08 CET 2019 - /Stream/Star_gegen_die_Maechte_des_Boesen.html,s1 - Star gegen die Mächte des Bösen
+1547230577 - Fri Jan 11 19:16:17 CET 2019 - /Stream/Die_Dinos.html,s3e21 - Die Dinos
