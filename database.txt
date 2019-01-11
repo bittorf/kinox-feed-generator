@@ -18400,3 +18400,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547193784 - Fri Jan 11 09:03:04 CET 2019 - /Stream/Outcast-4.html,s1 - Outcast
 1547193792 - Fri Jan 11 09:03:12 CET 2019 - /Stream/Still_Open_All_Hours.html,s5e6 - Still Open All Hours
 1547193800 - Fri Jan 11 09:03:20 CET 2019 - /Stream/Criminal_Minds.html,s14e12 - Criminal Minds
+1547193810 - Fri Jan 11 09:03:30 CET 2019 - /Stream/Chicago_Fire-1.html,s1e11 - Chicago Fire
