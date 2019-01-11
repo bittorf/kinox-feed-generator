@@ -18914,3 +18914,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547212659 - Fri Jan 11 14:17:39 CET 2019 - /Stream/Supernatural_german_subbed.html,s11e8 - Supernatural *german subbed*
 1547212670 - Fri Jan 11 14:17:50 CET 2019 - /Stream/Revolution-2.html,s2e7 - Revolution
 1547212679 - Fri Jan 11 14:17:59 CET 2019 - /Stream/Borgia.html,s2e6 - Borgia
+1547212687 - Fri Jan 11 14:18:07 CET 2019 - /Stream/Good_Witch-2.html,s3e2 - Good Witch
