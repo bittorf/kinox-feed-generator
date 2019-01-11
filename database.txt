@@ -18382,3 +18382,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547193648 - Fri Jan 11 09:00:48 CET 2019 - /Stream/Kleine_Goldgraeber-Ein_baerenstarkes_Abenteuer_in_Kanada.html - Kleine Goldgräber - Ein bärenstarkes Abenteuer in Kanada
 1547193656 - Fri Jan 11 09:00:56 CET 2019 - /Stream/Kung_Fu_Man.html - Kung Fu Man
 1547193663 - Fri Jan 11 09:01:03 CET 2019 - /Stream/Der_Pfadfinder.html - Der Pfadfinder
+1547193670 - Fri Jan 11 09:01:10 CET 2019 - /Stream/Family_Business-Wie_der_Vater_so_der_Sohn.html - Family Business - Wie der Vater, so der Sohn
