@@ -19302,3 +19302,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547230708 - Fri Jan 11 19:18:28 CET 2019 - /Stream/Detektiv_Conan.html,s8e9 - Detektiv Conan
 1547230716 - Fri Jan 11 19:18:36 CET 2019 - /Stream/The_Originals_german_subbed.html,s5e10 - The Originals *german subbed*
 1547230725 - Fri Jan 11 19:18:45 CET 2019 - /Stream/Malcolm_mittendrin.html,s7e4 - Malcolm mittendrin
+1547230736 - Fri Jan 11 19:18:56 CET 2019 - /Stream/Chesapeake_Shores-1.html,s3e8 - Chesapeake Shores
