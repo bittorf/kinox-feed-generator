@@ -17949,3 +17949,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547168178 - Fri Jan 11 01:56:18 CET 2019 - /Stream/The_Goldbergs.html,s5 - The Goldbergs
 1547168187 - Fri Jan 11 01:56:27 CET 2019 - /Stream/MASH-1.html,s1e15 - M*A*S*H
 1547168195 - Fri Jan 11 01:56:35 CET 2019 - /Stream/I_Love_Dick-1.html,s1e8 - I Love Dick
+1547168202 - Fri Jan 11 01:56:42 CET 2019 - /Stream/Supergirl-2.html,s3e14 - Supergirl
