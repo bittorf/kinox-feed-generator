@@ -19429,3 +19429,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547239022 - Fri Jan 11 21:37:02 CET 2019 - /Stream/2_Broke_Girls.html,s5 - 2 Broke Girls
 1547239030 - Fri Jan 11 21:37:10 CET 2019 - /Stream/Workaholics-1.html,s2e5 - Workaholics
 1547239039 - Fri Jan 11 21:37:19 CET 2019 - /Stream/Misfits-1.html,s1 - Misfits
+1547239047 - Fri Jan 11 21:37:27 CET 2019 - /Stream/Roseanne.html,s5e1 - Roseanne
