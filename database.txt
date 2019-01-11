@@ -19293,3 +19293,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547230642 - Fri Jan 11 19:17:22 CET 2019 - /Stream/Winx_Club.html,s2e1 - Winx Club
 1547230650 - Fri Jan 11 19:17:30 CET 2019 - /Stream/Star-Crossed.html,s1e9 - Star-Crossed
 1547230657 - Fri Jan 11 19:17:37 CET 2019 - /Stream/Nymphs.html,s1e4 - Nymphs
+1547230664 - Fri Jan 11 19:17:44 CET 2019 - /Stream/Die_Chefin.html,s9e7 - Die Chefin
