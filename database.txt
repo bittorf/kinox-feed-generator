@@ -17936,3 +17936,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547168062 - Fri Jan 11 01:54:22 CET 2019 - /Stream/Last_Man_Standing-6.html,s2 - Last Man Standing
 1547168069 - Fri Jan 11 01:54:29 CET 2019 - /Stream/Emergency_Room-Die_Notaufnahme.html,s1 - Emergency Room - Die Notaufnahme
 1547168078 - Fri Jan 11 01:54:38 CET 2019 - /Stream/Supernatural.html,s4e4 - Supernatural
+1547168087 - Fri Jan 11 01:54:47 CET 2019 - /Stream/Rick_and_Morty-1.html,s2 - Rick and Morty
