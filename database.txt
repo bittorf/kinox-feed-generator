@@ -19058,3 +19058,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547221311 - Fri Jan 11 16:41:51 CET 2019 - /Stream/Marvels_Avengers-Gemeinsam_unbesiegbar.html,s2 - Marvel's Avengers - Gemeinsam unbesiegbar
 1547221320 - Fri Jan 11 16:42:00 CET 2019 - /Stream/Fluss-Monster-Die_gefaehrlichsten_Abenteuer.html,s5e7 - Fluss-Monster - Die gefährlichsten Abenteuer
 1547221328 - Fri Jan 11 16:42:08 CET 2019 - /Stream/Speechless-1.html,s3e4 - Speechless
+1547221337 - Fri Jan 11 16:42:17 CET 2019 - /Stream/Samurai_Champloo.html,s1e21 - Samurai Champloo
