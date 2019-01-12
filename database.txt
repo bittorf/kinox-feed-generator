@@ -20581,3 +20581,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547278144 - Sat Jan 12 08:29:04 CET 2019 - /Stream/Die_Medici_Herrscher_von_Florenz.html,s2e8 - Die Medici: Herrscher von Florenz
 1547278152 - Sat Jan 12 08:29:12 CET 2019 - /Stream/Die_Tex_Avery_Show.html,s1e1 - Die Tex Avery Show
 1547278160 - Sat Jan 12 08:29:20 CET 2019 - /Stream/Ancient_Aliens-Unerklaerliche_Phaenomene-1.html,s3e1 - Ancient Aliens - Unerklärliche Phänomene
+1547278168 - Sat Jan 12 08:29:28 CET 2019 - /Stream/Ein_Kaefig_voller_Helden.html,s2e30 - Ein Käfig voller Helden
