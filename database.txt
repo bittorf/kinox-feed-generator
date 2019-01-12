@@ -19775,3 +19775,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547256503 - Sat Jan 12 02:28:23 CET 2019 - /Stream/Roots-1977.html,s1 - Roots - 1977
 1547256513 - Sat Jan 12 02:28:33 CET 2019 - /Stream/A-N-T-Achtung_Natur_Talente.html,s1 - A.N.T. Achtung Natur Talente
 1547256520 - Sat Jan 12 02:28:40 CET 2019 - /Stream/Raumschiff_Enterprise.html,s1e19 - Raumschiff Enterprise
+1547256531 - Sat Jan 12 02:28:51 CET 2019 - /Stream/Galactik_Football.html,s2 - Galactik Football
