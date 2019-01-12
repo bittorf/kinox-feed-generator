@@ -20179,3 +20179,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547267519 - Sat Jan 12 05:31:59 CET 2019 - /Stream/Young-Hungry.html,s4e9 - Young & Hungry
 1547267527 - Sat Jan 12 05:32:07 CET 2019 - /Stream/Agentin_mit_Herz.html,s2 - Agentin mit Herz
 1547267535 - Sat Jan 12 05:32:15 CET 2019 - /Stream/Teenage_Mutant_Hero_Turtles.html,s1e1 - Teenage Mutant Hero Turtles
+1547267543 - Sat Jan 12 05:32:23 CET 2019 - /Stream/The_Closer-1.html,s5 - The Closer
