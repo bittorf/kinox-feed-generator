@@ -19965,3 +19965,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547265513 - Sat Jan 12 04:58:33 CET 2019 - /Stream/Tokarev-Die_Vergangenheit_stirbt_niemals.html - Tokarev - Die Vergangenheit stirbt niemals
 1547265523 - Sat Jan 12 04:58:43 CET 2019 - /Stream/The_Toolbox_Murders.html - The Toolbox Murders
 1547265533 - Sat Jan 12 04:58:53 CET 2019 - /Stream/Der_Shaolin_Gigant.html - Der Shaolin Gigant
+1547265541 - Sat Jan 12 04:59:01 CET 2019 - /Stream/Gleissendes_Glueck.html - Gleißendes Glück
