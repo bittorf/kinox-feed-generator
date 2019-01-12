@@ -19918,3 +19918,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547257850 - Sat Jan 12 02:50:50 CET 2019 - /Stream/Columbo.html,s8e1 - Columbo
 1547257862 - Sat Jan 12 02:51:02 CET 2019 - /Stream/Die_Drachenreiter_von_Berk.html,s4e5 - Die Drachenreiter von Berk
 1547257869 - Sat Jan 12 02:51:09 CET 2019 - /Stream/Desperate_Housewives-2.html,s8e22 - Desperate Housewives
+1547257879 - Sat Jan 12 02:51:19 CET 2019 - /Stream/Bull-1.html,s1e19 - Bull
