@@ -19752,3 +19752,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547256300 - Sat Jan 12 02:25:00 CET 2019 - /Stream/Kon-Tiki.html - Kon-Tiki
 1547256309 - Sat Jan 12 02:25:09 CET 2019 - /Stream/Tin_Cup-1.html - Tin Cup
 1547256319 - Sat Jan 12 02:25:19 CET 2019 - /Stream/How_High.html - How High
+1547256328 - Sat Jan 12 02:25:28 CET 2019 - /Stream/Sam_Hell-Der_Jaeger.html - Sam Hell - Der Jäger
