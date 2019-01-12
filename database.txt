@@ -19875,3 +19875,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547257417 - Sat Jan 12 02:43:37 CET 2019 - /Stream/Eureka-Die_geheime_Stadt.html,s5e9 - Eureka - Die geheime Stadt
 1547257426 - Sat Jan 12 02:43:46 CET 2019 - /Stream/Faking_It-1.html,s3e3 - Faking It
 1547257437 - Sat Jan 12 02:43:57 CET 2019 - /Stream/Castle.html,s5e20 - Castle
+1547257449 - Sat Jan 12 02:44:09 CET 2019 - /Stream/Der_sechs_Millionen_Dollar_Mann.html,s2e1 - Der sechs Millionen Dollar Mann
