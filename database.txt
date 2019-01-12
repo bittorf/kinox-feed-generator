@@ -20778,3 +20778,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547287083 - Sat Jan 12 10:58:03 CET 2019 - /Stream/Power_Rangers_Operation_Overdrive.html,s1e8 - Power Rangers Operation Overdrive
 1547287091 - Sat Jan 12 10:58:11 CET 2019 - /Stream/Magnum_P-I.html,s1e9 - Magnum P.I.
 1547287098 - Sat Jan 12 10:58:18 CET 2019 - /Stream/Awkward.html,s5e21 - Awkward.
+1547287105 - Sat Jan 12 10:58:25 CET 2019 - /Stream/My_Little_Pony_Freundschaft_ist_Magie.html,s8e11 - My Little Pony: Freundschaft ist Magie
