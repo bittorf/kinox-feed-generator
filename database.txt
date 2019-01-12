@@ -20391,3 +20391,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547276552 - Sat Jan 12 08:02:32 CET 2019 - /Stream/Die_Schneekoenigin.html - Die Schneekönigin
 1547276561 - Sat Jan 12 08:02:41 CET 2019 - /Stream/Folge_meiner_Stimme.html - Folge meiner Stimme
 1547276568 - Sat Jan 12 08:02:48 CET 2019 - /Stream/Fruehlingsgefuehle.html - Frühlingsgefühle
+1547276574 - Sat Jan 12 08:02:54 CET 2019 - /Stream/Der_Fluch_des_rosaroten_Panthers.html - Der Fluch des rosaroten Panthers
