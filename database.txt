@@ -19860,3 +19860,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547257280 - Sat Jan 12 02:41:20 CET 2019 - /Stream/Swedish_Dicks.html,s2e5 - Swedish Dicks
 1547257290 - Sat Jan 12 02:41:30 CET 2019 - /Stream/Web_Therapy-1.html,s2 - Web Therapy
 1547257298 - Sat Jan 12 02:41:38 CET 2019 - /Stream/Westworld-3.html,s1e10 - Westworld
+1547257306 - Sat Jan 12 02:41:46 CET 2019 - /Stream/Gaensehaut-Die_Stunde_der_Geister.html,s1e1 - Gänsehaut - Die Stunde der Geister
