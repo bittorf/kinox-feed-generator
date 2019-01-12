@@ -20173,3 +20173,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547267458 - Sat Jan 12 05:30:58 CET 2019 - /Stream/House_of_Cards.html,s2 - House of Cards
 1547267468 - Sat Jan 12 05:31:08 CET 2019 - /Stream/Modus.html,s2e3 - Modus
 1547267476 - Sat Jan 12 05:31:16 CET 2019 - /Stream/Borgia.html,s3e10 - Borgia
+1547267495 - Sat Jan 12 05:31:35 CET 2019 - /Stream/Battlestar_Galactica.html,s1e1 - Battlestar Galactica
