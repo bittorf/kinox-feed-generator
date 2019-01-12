@@ -20650,3 +20650,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547278723 - Sat Jan 12 08:38:43 CET 2019 - /Stream/Fastlane-1.html,s1e3 - Fastlane
 1547278731 - Sat Jan 12 08:38:51 CET 2019 - /Stream/Claws-1.html,s2e4 - Claws
 1547278738 - Sat Jan 12 08:38:58 CET 2019 - /Stream/TURN.html,s4e2 - TURN
+1547278748 - Sat Jan 12 08:39:08 CET 2019 - /Stream/Switched_at_Birth_german_subbed.html,s5e1 - Switched at Birth *german subbed*
