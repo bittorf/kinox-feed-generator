@@ -20215,3 +20215,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547267822 - Sat Jan 12 05:37:02 CET 2019 - /Stream/The_Fosters.html,s3e17 - The Fosters
 1547267831 - Sat Jan 12 05:37:11 CET 2019 - /Stream/Arrow.html,s1 - Arrow
 1547267840 - Sat Jan 12 05:37:20 CET 2019 - /Stream/Columbo.html,s4e5 - Columbo
+1547267849 - Sat Jan 12 05:37:29 CET 2019 - /Stream/Bananya_german_subbed.html,s1 - Bananya *german subbed*
