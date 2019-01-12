@@ -20321,3 +20321,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547275969 - Sat Jan 12 07:52:49 CET 2019 - /Stream/Little_Nemo-Abenteuer_im_Schlummerland.html - Little Nemo - Abenteuer im Schlummerland
 1547275979 - Sat Jan 12 07:52:59 CET 2019 - /Stream/Mr-Miracle-Ihn_schickt_der_Himmel.html - Mr. Miracle - Ihn schickt der Himmel
 1547275988 - Sat Jan 12 07:53:08 CET 2019 - /Stream/Mission_Yeti-Die_Abenteuer_von_Nelly-Simon6.html - Mission Yeti - Die Abenteuer von Nelly & Simon6
+1547275995 - Sat Jan 12 07:53:15 CET 2019 - /Stream/Fitzcarraldo.html - Fitzcarraldo
