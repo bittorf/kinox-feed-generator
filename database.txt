@@ -20284,3 +20284,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547268416 - Sat Jan 12 05:46:56 CET 2019 - /Stream/Das_A-Team.html,s1e3 - Das A-Team
 1547268426 - Sat Jan 12 05:47:06 CET 2019 - /Stream/Seinfeld-1.html,s4e1 - Seinfeld
 1547268435 - Sat Jan 12 05:47:15 CET 2019 - /Stream/Spartacus_Blood_and_Sand.html,s1e6 - Spartacus: Blood and Sand
+1547268444 - Sat Jan 12 05:47:24 CET 2019 - /Stream/Ancient_Aliens-Unerklaerliche_Phaenomene-1.html,s5e2 - Ancient Aliens - Unerklärliche Phänomene
