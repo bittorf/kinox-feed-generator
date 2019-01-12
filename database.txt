@@ -19778,3 +19778,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547256531 - Sat Jan 12 02:28:51 CET 2019 - /Stream/Galactik_Football.html,s2 - Galactik Football
 1547256538 - Sat Jan 12 02:28:58 CET 2019 - /Stream/Galactik_Football.html,s3 - Galactik Football
 1547256545 - Sat Jan 12 02:29:05 CET 2019 - /Stream/White_Collar.html,s3e7 - White Collar
+1547256552 - Sat Jan 12 02:29:12 CET 2019 - /Stream/Der_Bulle_von_Toelz.html,s1 - Der Bulle von Tölz
