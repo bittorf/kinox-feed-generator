@@ -20530,3 +20530,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547277712 - Sat Jan 12 08:21:52 CET 2019 - /Stream/Freaks_and_Geeks.html,s1e1 - Freaks and Geeks
 1547277720 - Sat Jan 12 08:22:00 CET 2019 - /Stream/2_Broke_Girls_german_subbed.html,s4e2 - 2 Broke Girls *german subbed*
 1547277729 - Sat Jan 12 08:22:09 CET 2019 - /Stream/Desperate_Housewives-2.html,s7 - Desperate Housewives
+1547277737 - Sat Jan 12 08:22:17 CET 2019 - /Stream/Beyblade_Shogun_Steel-1.html,s1e1 - Beyblade: Shogun Steel
