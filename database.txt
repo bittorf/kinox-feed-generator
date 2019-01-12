@@ -19924,3 +19924,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547257907 - Sat Jan 12 02:51:47 CET 2019 - /Stream/Murphy_Brown-1.html,s11e12 - Murphy Brown
 1547257916 - Sat Jan 12 02:51:56 CET 2019 - /Stream/Criminal_Minds-1.html,s11e17 - Criminal Minds
 1547257927 - Sat Jan 12 02:52:07 CET 2019 - /Stream/DuckTales-Neues_aus_Entenhausen.html,s2e1 - DuckTales - Neues aus Entenhausen
+1547257935 - Sat Jan 12 02:52:15 CET 2019 - /Stream/Bob_der_Baumeister.html,s19e1 - Bob der Baumeister
