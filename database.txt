@@ -20663,3 +20663,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547278838 - Sat Jan 12 08:40:38 CET 2019 - /Stream/Darkwing_Duck-1.html,s1e1 - Darkwing Duck
 1547278846 - Sat Jan 12 08:40:46 CET 2019 - /Stream/Dark_Angel-1.html,s2e3 - Dark Angel
 1547278854 - Sat Jan 12 08:40:54 CET 2019 - /Stream/Black_Mirror.html,s2e3 - Black Mirror
+1547278863 - Sat Jan 12 08:41:03 CET 2019 - /Stream/MASH-1.html,s5e4 - M*A*S*H
