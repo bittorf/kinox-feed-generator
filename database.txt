@@ -19883,3 +19883,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547257495 - Sat Jan 12 02:44:55 CET 2019 - /Stream/Eine_schrecklich_nette_Familie.html,s11e24 - Eine schrecklich nette Familie
 1547257505 - Sat Jan 12 02:45:05 CET 2019 - /Stream/Missing-3.html,s1e1 - Missing
 1547257533 - Sat Jan 12 02:45:33 CET 2019 - /Stream/Arrow_german_subbed.html,s5e13 - Arrow *german subbed*
+1547257546 - Sat Jan 12 02:45:46 CET 2019 - /Stream/Supernatural-1.html,s14e9 - Supernatural
