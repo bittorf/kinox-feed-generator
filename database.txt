@@ -19827,3 +19827,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547256984 - Sat Jan 12 02:36:24 CET 2019 - /Stream/Law-Order_New_York.html,s8e11 - Law & Order: New York
 1547256998 - Sat Jan 12 02:36:38 CET 2019 - /Stream/Desperate_Housewives.html,s3e8 - Desperate Housewives
 1547257008 - Sat Jan 12 02:36:48 CET 2019 - /Stream/Die_Saeulen_der_Erde.html,s1e6 - Die Säulen der Erde
+1547257017 - Sat Jan 12 02:36:57 CET 2019 - /Stream/Der_sechs_Millionen_Dollar_Mann.html,s1e17 - Der sechs Millionen Dollar Mann
