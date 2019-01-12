@@ -20152,3 +20152,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547267255 - Sat Jan 12 05:27:35 CET 2019 - /Stream/The_Closer-1.html,s1 - The Closer
 1547267264 - Sat Jan 12 05:27:44 CET 2019 - /Stream/Die_Zauberer_vom_Waverly_Place.html,s3 - Die Zauberer vom Waverly Place
 1547267272 - Sat Jan 12 05:27:52 CET 2019 - /Stream/Awkward-Mein_sogenanntes_Leben.html,s2 - Awkward - Mein sogenanntes Leben
+1547267292 - Sat Jan 12 05:28:12 CET 2019 - /Stream/The_Big_Bang_Theory.html,s8 - The Big Bang Theory
