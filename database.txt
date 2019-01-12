@@ -20813,3 +20813,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547287393 - Sat Jan 12 11:03:13 CET 2019 - /Stream/The_Mentalist.html,s2e2 - The Mentalist
 1547287401 - Sat Jan 12 11:03:21 CET 2019 - /Stream/MASH-1.html,s11e2 - M*A*S*H
 1547287409 - Sat Jan 12 11:03:29 CET 2019 - /Stream/Mayday-Alarm_im_Cockpit.html,s9e1 - Mayday - Alarm im Cockpit
+1547287417 - Sat Jan 12 11:03:37 CET 2019 - /Stream/MASH-1.html,s7 - M*A*S*H
