@@ -20181,3 +20181,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547267535 - Sat Jan 12 05:32:15 CET 2019 - /Stream/Teenage_Mutant_Hero_Turtles.html,s1e1 - Teenage Mutant Hero Turtles
 1547267543 - Sat Jan 12 05:32:23 CET 2019 - /Stream/The_Closer-1.html,s5 - The Closer
 1547267551 - Sat Jan 12 05:32:31 CET 2019 - /Stream/House_of_Cards.html,s4 - House of Cards
+1547267559 - Sat Jan 12 05:32:39 CET 2019 - /Stream/Zero_no_Tsukaima.html,s3e7 - Zero no Tsukaima
