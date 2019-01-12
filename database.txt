@@ -20567,3 +20567,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547278022 - Sat Jan 12 08:27:02 CET 2019 - /Stream/Serenity.html,s1e1 - Serenity
 1547278035 - Sat Jan 12 08:27:15 CET 2019 - /Stream/Oz-Hoelle_hinter_Gittern.html,s1e7 - Oz - Hölle hinter Gittern
 1547278043 - Sat Jan 12 08:27:23 CET 2019 - /Stream/The_Hard_Times_of_RJ_Berger.html,s2e12 - The Hard Times of RJ Berger
+1547278050 - Sat Jan 12 08:27:30 CET 2019 - /Stream/Flashpoint-Das_Spezialkommando.html,s2 - Flashpoint - Das Spezialkommando
