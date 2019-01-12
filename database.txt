@@ -19692,3 +19692,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547255752 - Sat Jan 12 02:15:52 CET 2019 - /Stream/Das_zauberhafte_Weihnachtsgeschenk.html - Das zauberhafte Weihnachtsgeschenk
 1547255759 - Sat Jan 12 02:15:59 CET 2019 - /Stream/Covert_Operation-1.html - Covert Operation
 1547255765 - Sat Jan 12 02:16:05 CET 2019 - /Stream/Der_Amoklaeufer-Aus_Spiel_wird_Ernst.html - Der Amokläufer - Aus Spiel wird Ernst
+1547255773 - Sat Jan 12 02:16:13 CET 2019 - /Stream/UFC_194_Aldo_vs-McGregor.html - UFC 194: Aldo vs. McGregor
