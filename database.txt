@@ -20708,3 +20708,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547286498 - Sat Jan 12 10:48:18 CET 2019 - /Stream/Castle-1.html,s3 - Castle
 1547286506 - Sat Jan 12 10:48:26 CET 2019 - /Stream/Elena_of_Avalor.html,s1e7 - Elena of Avalor
 1547286514 - Sat Jan 12 10:48:34 CET 2019 - /Stream/Teachers-1.html,s3e10 - Teachers
+1547286522 - Sat Jan 12 10:48:42 CET 2019 - /Stream/Stan_Lees_Lucky_Man-1.html,s3 - Stan Lee's Lucky Man
