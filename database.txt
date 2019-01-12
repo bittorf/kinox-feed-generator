@@ -20099,3 +20099,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547266719 - Sat Jan 12 05:18:39 CET 2019 - /Stream/Die_Legende_des_Zorro.html - Die Legende des Zorro
 1547266731 - Sat Jan 12 05:18:51 CET 2019 - /Stream/Home_Sweet_Hell.html - Home Sweet Hell
 1547266740 - Sat Jan 12 05:19:00 CET 2019 - /Stream/Twisters-Die_Nacht_der_Wirbelstuerme.html - Twisters - Die Nacht der Wirbelstürme
+1547266748 - Sat Jan 12 05:19:08 CET 2019 - /Stream/Der_Athen_Krimi_Trojanische_Pferde.html - Der Athen Krimi: Trojanische Pferde
