@@ -19840,3 +19840,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547257101 - Sat Jan 12 02:38:21 CET 2019 - /Stream/Rules_of_Engagement-2.html,s5e7 - Rules of Engagement
 1547257110 - Sat Jan 12 02:38:30 CET 2019 - /Stream/Die_Koenigin_der_tausend_Jahre.html,s1e1 - Die Königin der tausend Jahre
 1547257116 - Sat Jan 12 02:38:36 CET 2019 - /Stream/Garfield_und_seine_Freunde.html,s1e1 - Garfield und seine Freunde
+1547257126 - Sat Jan 12 02:38:46 CET 2019 - /Stream/Der_Denver-Clan-1.html,s1e11 - Der Denver-Clan
