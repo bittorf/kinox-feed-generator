@@ -20615,3 +20615,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547278431 - Sat Jan 12 08:33:51 CET 2019 - /Stream/Yakari.html,s5e11 - Yakari
 1547278440 - Sat Jan 12 08:34:00 CET 2019 - /Stream/Arrow.html,s2e8 - Arrow
 1547278448 - Sat Jan 12 08:34:08 CET 2019 - /Stream/Grand_Hotel-1.html,s2e2 - Grand Hotel
+1547278456 - Sat Jan 12 08:34:16 CET 2019 - /Stream/Chopped.html,s5e11 - Chopped
