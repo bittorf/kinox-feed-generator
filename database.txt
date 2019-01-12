@@ -19800,3 +19800,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547256748 - Sat Jan 12 02:32:28 CET 2019 - /Stream/Greys_Anatomy.html,s1e6 - Grey's Anatomy
 1547256759 - Sat Jan 12 02:32:39 CET 2019 - /Stream/A_Gifted_Man-1.html,s1e1 - A Gifted Man
 1547256766 - Sat Jan 12 02:32:46 CET 2019 - /Stream/Star_Wars_The_Clone_Wars-1.html,s2e13 - Star Wars: The Clone Wars
+1547256774 - Sat Jan 12 02:32:54 CET 2019 - /Stream/Heroes_Reborn-1.html,s1 - Heroes Reborn
