@@ -20858,3 +20858,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547287791 - Sat Jan 12 11:09:51 CET 2019 - /Stream/South_Park.html,s7e1 - South Park
 1547287800 - Sat Jan 12 11:10:00 CET 2019 - /Stream/Riverdale.html,s3e6 - Riverdale
 1547287809 - Sat Jan 12 11:10:09 CET 2019 - /Stream/Joko_gegen_Klaas-Das_Duell_um_die_Welt.html,s4e1 - Joko gegen Klaas - Das Duell um die Welt
+1547287815 - Sat Jan 12 11:10:15 CET 2019 - /Stream/Jackie_Chan_Adventures-1.html,s1e7 - Jackie Chan Adventures
