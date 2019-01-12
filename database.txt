@@ -20210,3 +20210,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547267784 - Sat Jan 12 05:36:24 CET 2019 - /Stream/Asobi_ni_ikuyo.html,s1e6 - Asobi ni ikuyo!
 1547267791 - Sat Jan 12 05:36:31 CET 2019 - /Stream/Last_Resort.html,s1 - Last Resort
 1547267799 - Sat Jan 12 05:36:39 CET 2019 - /Stream/Der_Bulle_von_Toelz.html,s6e2 - Der Bulle von Tölz
+1547267807 - Sat Jan 12 05:36:47 CET 2019 - /Stream/Mega_Man.html,s1e1 - Mega Man
