@@ -20115,3 +20115,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547266843 - Sat Jan 12 05:20:43 CET 2019 - /Stream/Der_Nussknackerprinz.html - Der Nussknackerprinz
 1547266852 - Sat Jan 12 05:20:52 CET 2019 - /Stream/Operation_Polarfuchs.html - Operation Polarfuchs
 1547266859 - Sat Jan 12 05:20:59 CET 2019 - /Stream/Schwejks_Flegeljahre.html - Schwejks Flegeljahre
+1547266866 - Sat Jan 12 05:21:06 CET 2019 - /Stream/Die_Goetter_muessen_verrueckt_sein_II.html - Die Götter müssen verrückt sein II
