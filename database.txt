@@ -20693,3 +20693,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547286358 - Sat Jan 12 10:45:58 CET 2019 - /Stream/Its_Always_Sunny_in_Philadelphia.html,s1 - It's Always Sunny in Philadelphia
 1547286367 - Sat Jan 12 10:46:07 CET 2019 - /Stream/iZombie-1.html,s4e12 - iZombie
 1547286378 - Sat Jan 12 10:46:18 CET 2019 - /Stream/Spartacus_Blood_and_Sand.html,s1 - Spartacus: Blood and Sand
+1547286387 - Sat Jan 12 10:46:27 CET 2019 - /Stream/Flashpoint-Das_Spezialkommando.html,s1e1 - Flashpoint - Das Spezialkommando
