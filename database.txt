@@ -19872,3 +19872,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547257394 - Sat Jan 12 02:43:14 CET 2019 - /Stream/Dominion_german_subbed.html,s1e1 - Dominion *german subbed*
 1547257401 - Sat Jan 12 02:43:21 CET 2019 - /Stream/Frequency-2.html,s1e13 - Frequency
 1547257407 - Sat Jan 12 02:43:27 CET 2019 - /Stream/Sons_of_Anarchy-2.html,s5e11 - Sons of Anarchy
+1547257417 - Sat Jan 12 02:43:37 CET 2019 - /Stream/Eureka-Die_geheime_Stadt.html,s5e9 - Eureka - Die geheime Stadt
