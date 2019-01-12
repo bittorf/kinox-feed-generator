@@ -20250,3 +20250,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547268116 - Sat Jan 12 05:41:56 CET 2019 - /Stream/Transformers_Armada-1.html,s1e1 - Transformers: Armada
 1547268124 - Sat Jan 12 05:42:04 CET 2019 - /Stream/Seinfeld-1.html,s9e1 - Seinfeld
 1547268133 - Sat Jan 12 05:42:13 CET 2019 - /Stream/Stargate_Atlantis-1.html,s4e20 - Stargate: Atlantis
+1547268141 - Sat Jan 12 05:42:21 CET 2019 - /Stream/Yakari.html,s1e33 - Yakari
