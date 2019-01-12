@@ -19771,3 +19771,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547256467 - Sat Jan 12 02:27:47 CET 2019 - /Stream/Victorious-1.html,s1 - Victorious
 1547256474 - Sat Jan 12 02:27:54 CET 2019 - /Stream/Die_Zauberer_vom_Waverly_Place.html,s4 - Die Zauberer vom Waverly Place
 1547256482 - Sat Jan 12 02:28:02 CET 2019 - /Stream/Abenteuerzeit_mit_Finn_und_Jake.html,s5e1 - Abenteuerzeit mit Finn und Jake
+1547256495 - Sat Jan 12 02:28:15 CET 2019 - /Stream/White_Collar.html,s6e2 - White Collar
