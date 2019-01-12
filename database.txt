@@ -19769,3 +19769,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547256453 - Sat Jan 12 02:27:33 CET 2019 - /Stream/Wentworth-1.html,s2e11 - Wentworth
 1547256460 - Sat Jan 12 02:27:40 CET 2019 - /Stream/Reboot_Der_Waechter_Code.html,s2 - Reboot: Der Wächter Code
 1547256467 - Sat Jan 12 02:27:47 CET 2019 - /Stream/Victorious-1.html,s1 - Victorious
+1547256474 - Sat Jan 12 02:27:54 CET 2019 - /Stream/Die_Zauberer_vom_Waverly_Place.html,s4 - Die Zauberer vom Waverly Place
