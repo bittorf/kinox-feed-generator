@@ -20571,3 +20571,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547278059 - Sat Jan 12 08:27:39 CET 2019 - /Stream/Monk.html,s6e1 - Monk
 1547278067 - Sat Jan 12 08:27:47 CET 2019 - /Stream/Aqua_Teen_Hunger_Force.html,s10 - Aqua Teen Hunger Force
 1547278074 - Sat Jan 12 08:27:54 CET 2019 - /Stream/Submission-1.html,s1e1 - Submission
+1547278081 - Sat Jan 12 08:28:01 CET 2019 - /Stream/Clueless-Die_Chaos-Clique.html,s1e1 - Clueless - Die Chaos-Clique
