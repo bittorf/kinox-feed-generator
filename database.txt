@@ -20269,3 +20269,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547268272 - Sat Jan 12 05:44:32 CET 2019 - /Stream/Legends_of_Tomorrow-1.html,s3e7 - Legends of Tomorrow
 1547268280 - Sat Jan 12 05:44:40 CET 2019 - /Stream/Outlander-3.html,s2e6 - Outlander
 1547268289 - Sat Jan 12 05:44:49 CET 2019 - /Stream/The_Outpost-1.html,s1e6 - The Outpost
+1547268296 - Sat Jan 12 05:44:56 CET 2019 - /Stream/Blindspot_german_subbed-1.html,s1e2 - Blindspot *german subbed*
