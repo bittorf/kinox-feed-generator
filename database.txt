@@ -20237,3 +20237,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547268013 - Sat Jan 12 05:40:13 CET 2019 - /Stream/Party_Down-1.html,s2e6 - Party Down
 1547268021 - Sat Jan 12 05:40:21 CET 2019 - /Stream/Itsuka_Tenma_no_Kuro_Usagi_german_subbed.html,s1 - Itsuka Tenma no Kuro Usagi *german subbed*
 1547268023 - Sat Jan 12 05:40:23 CET 2019 - /Stream/About_a_Boy-3.html,s1e4 - About a Boy
+1547268031 - Sat Jan 12 05:40:31 CET 2019 - /Stream/Barakamon.html,s1 - Barakamon
