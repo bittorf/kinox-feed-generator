@@ -19901,3 +19901,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547257706 - Sat Jan 12 02:48:26 CET 2019 - /Stream/Angelic_Layer.html,s1e25 - Angelic Layer
 1547257715 - Sat Jan 12 02:48:35 CET 2019 - /Stream/Orphan_Black-1.html,s4e10 - Orphan Black
 1547257724 - Sat Jan 12 02:48:44 CET 2019 - /Stream/Arrow.html,s1e10 - Arrow
+1547257733 - Sat Jan 12 02:48:53 CET 2019 - /Stream/The_Good_Doctor-2.html,s1e4 - The Good Doctor
