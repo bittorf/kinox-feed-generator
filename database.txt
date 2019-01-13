@@ -20876,3 +20876,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547338467 - Sun Jan 13 01:14:27 CET 2019 - /Stream/100_Bloody_Acres.html - 100 Bloody Acres
 1547338474 - Sun Jan 13 01:14:34 CET 2019 - /Stream/Go_Trabi_Go.html - Go Trabi Go
 1547338481 - Sun Jan 13 01:14:41 CET 2019 - /Stream/Percy_Jackson_Sea_of_Monsters.html - Percy Jackson: Sea of Monsters
+1547338502 - Sun Jan 13 01:15:02 CET 2019 - /Stream/Hardcore.html - Hardcore
