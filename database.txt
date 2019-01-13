@@ -20871,3 +20871,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547309571 - Sat Jan 12 17:12:51 CET 2019 - /Stream/Friends_from_College.html,s2 - Friends from College
 1547309578 - Sat Jan 12 17:12:58 CET 2019 - /Stream/Quantico-1.html,s3e13 - Quantico
 1547309587 - Sat Jan 12 17:13:07 CET 2019 - /Stream/Das_Dschungelcamp.html,s13e1 - Das Dschungelcamp
+1547338449 - Sun Jan 13 01:14:09 CET 2019 - /Stream/Inglourious_Basterds-2.html - Inglourious Basterds
