@@ -20918,3 +20918,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547338859 - Sun Jan 13 01:20:59 CET 2019 - /Stream/Der_Nebel-1.html,s1e5 - Der Nebel
 1547338869 - Sun Jan 13 01:21:09 CET 2019 - /Stream/Unsere_kleine_Farm.html,s3e8 - Unsere kleine Farm
 1547338877 - Sun Jan 13 01:21:17 CET 2019 - /Stream/New_Amsterdam-1.html,s1e3 - New Amsterdam
+1547338884 - Sun Jan 13 01:21:24 CET 2019 - /Stream/The_Big_Bang_Theory.html,s10e6 - The Big Bang Theory
