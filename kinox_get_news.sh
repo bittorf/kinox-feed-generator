@@ -11,7 +11,7 @@ IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
 	exit 1
 }
 
-[ "$ARG1" = '--cron' ] && while :; do git pull; ./"$0" ; git push; date; sleep $(( 2 * 3600 )); done
+[ "$ARG1" = '--cron' ] && while :; do git pull; ./"$0" ; git push; git gc; date; sleep 7200; done
 
 # works best with v1.15+ (needed when http is redirected to https
 WGET='wget --user-agent=AmigaVoyager --content-on-error --no-check-certificate'
