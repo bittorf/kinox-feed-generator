@@ -20903,3 +20903,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547338718 - Sun Jan 13 01:18:38 CET 2019 - /Stream/Never_Cry_Werewolf.html - Never Cry Werewolf
 1547338724 - Sun Jan 13 01:18:44 CET 2019 - /Stream/Friday_the_13th_The_Curse_of_Jason.html - Friday the 13th The Curse of Jason
 1547338731 - Sun Jan 13 01:18:51 CET 2019 - /Stream/Lethal_Weapon_3.html - Lethal Weapon 3
+1547338742 - Sun Jan 13 01:19:02 CET 2019 - /Stream/Jurassic_Park.html - Jurassic Park
