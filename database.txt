@@ -20924,3 +20924,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547338907 - Sun Jan 13 01:21:47 CET 2019 - /Stream/The_Rain-2.html,s1e3 - The Rain
 1547338913 - Sun Jan 13 01:21:53 CET 2019 - /Stream/Top_of_the_Lake.html,s2e2 - Top of the Lake
 1547338921 - Sun Jan 13 01:22:01 CET 2019 - /Stream/The_Affair-1.html,s4e4 - The Affair
+1547338930 - Sun Jan 13 01:22:10 CET 2019 - /Stream/Fear_the_Walking_Dead-1.html,s2e5 - Fear the Walking Dead
