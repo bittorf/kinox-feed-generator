@@ -20990,3 +20990,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547424793 - Mon Jan 14 01:13:13 CET 2019 - /Stream/The_Vampire_Diaries.html,s8e5 - The Vampire Diaries
 1547424802 - Mon Jan 14 01:13:22 CET 2019 - /Stream/McLeods_Toechter.html,s4e7 - McLeods Töchter
 1547424811 - Mon Jan 14 01:13:31 CET 2019 - /Stream/Young_Sheldon-1.html,s1e20 - Young Sheldon
+1547424818 - Mon Jan 14 01:13:38 CET 2019 - /Stream/Sanctuary-Waechter_der_Kreaturen.html,s3e14 - Sanctuary - Wächter der Kreaturen
