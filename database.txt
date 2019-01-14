@@ -20982,3 +20982,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547424725 - Mon Jan 14 01:12:05 CET 2019 - /Stream/Suits-1.html,s2e8 - Suits
 1547424733 - Mon Jan 14 01:12:13 CET 2019 - /Stream/The_Rain-2.html,s1e7 - The Rain
 1547424740 - Mon Jan 14 01:12:20 CET 2019 - /Stream/Medical_Investigation.html,s1e15 - Medical Investigation
+1547424746 - Mon Jan 14 01:12:26 CET 2019 - /Stream/Dogs_of_Berlin.html,s1e5 - Dogs of Berlin
