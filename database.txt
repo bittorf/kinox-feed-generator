@@ -21053,3 +21053,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547490050 - Mon Jan 14 19:20:50 CET 2019 - /Stream/Family_Guy.html,s2e18 - Family Guy
 1547490063 - Mon Jan 14 19:21:03 CET 2019 - /Stream/Riverdale-1.html,s2e15 - Riverdale
 1547490071 - Mon Jan 14 19:21:11 CET 2019 - /Stream/Gotham-1.html,s4e16 - Gotham
+1547497292 - Mon Jan 14 21:21:32 CET 2019 - /Stream/Family_Guy.html,s10e2 - Family Guy
