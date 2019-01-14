@@ -21046,3 +21046,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547439534 - Mon Jan 14 05:18:54 CET 2019 - /Stream/Casualty.html,s33e19 - Casualty
 1547439545 - Mon Jan 14 05:19:05 CET 2019 - /Stream/Der_Dino_Planet-Kampf_der_Giganten.html - Der Dino Planet - Kampf der Giganten
 1547461172 - Mon Jan 14 11:19:32 CET 2019 - /Stream/Neo_Magazin-1.html,s7e13 - Neo Magazin
+1547461184 - Mon Jan 14 11:19:44 CET 2019 - /Stream/Power-2.html,s5e6 - Power
