@@ -20967,3 +20967,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547424588 - Mon Jan 14 01:09:48 CET 2019 - /Stream/Supergirl-2.html,s3e23 - Supergirl
 1547424596 - Mon Jan 14 01:09:56 CET 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s12e10 - Grey's Anatomy - Die jungen Ärzte
 1547424612 - Mon Jan 14 01:10:12 CET 2019 - /Stream/McLeods_Toechter.html,s3e17 - McLeods Töchter
+1547424620 - Mon Jan 14 01:10:20 CET 2019 - /Stream/Breaking_Bad.html,s1e4 - Breaking Bad
