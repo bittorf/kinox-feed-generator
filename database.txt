@@ -21041,3 +21041,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547439485 - Mon Jan 14 05:18:05 CET 2019 - /Stream/Der_Staatsanwalt.html,s14e2 - Der Staatsanwalt
 1547439494 - Mon Jan 14 05:18:14 CET 2019 - /Stream/Das_Dschungelcamp.html,s13e2 - Das Dschungelcamp
 1547439504 - Mon Jan 14 05:18:24 CET 2019 - /Stream/Fortitude.html,s3e4 - Fortitude
+1547439513 - Mon Jan 14 05:18:33 CET 2019 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s16e3 - DsdS - Deutschland sucht den Superstar
