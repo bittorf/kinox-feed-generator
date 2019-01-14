@@ -20988,3 +20988,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547424772 - Mon Jan 14 01:12:52 CET 2019 - /Stream/Suits_german_subbed.html,s7e9 - Suits *german subbed*
 1547424782 - Mon Jan 14 01:13:02 CET 2019 - /Stream/Die_Simpsons.html,s4e8 - Die Simpsons
 1547424793 - Mon Jan 14 01:13:13 CET 2019 - /Stream/The_Vampire_Diaries.html,s8e5 - The Vampire Diaries
+1547424802 - Mon Jan 14 01:13:22 CET 2019 - /Stream/McLeods_Toechter.html,s4e7 - McLeods Töchter
