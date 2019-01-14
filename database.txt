@@ -20986,3 +20986,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547424755 - Mon Jan 14 01:12:35 CET 2019 - /Stream/Lie_to_Me-1.html,s3e3 - Lie to Me
 1547424763 - Mon Jan 14 01:12:43 CET 2019 - /Stream/The_Big_Bang_Theory.html,s4e21 - The Big Bang Theory
 1547424772 - Mon Jan 14 01:12:52 CET 2019 - /Stream/Suits_german_subbed.html,s7e9 - Suits *german subbed*
+1547424782 - Mon Jan 14 01:13:02 CET 2019 - /Stream/Die_Simpsons.html,s4e8 - Die Simpsons
