@@ -21089,3 +21089,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547512022 - Tue Jan 15 01:27:02 CET 2019 - /Stream/Scrubs-Die_Anfaenger.html,s6e13 - Scrubs - Die Anfänger
 1547512029 - Tue Jan 15 01:27:09 CET 2019 - /Stream/How_I_Met_Your_Mother.html,s2e2 - How I Met Your Mother
 1547512038 - Tue Jan 15 01:27:18 CET 2019 - /Stream/How_I_Met_Your_Mother.html,s5e16 - How I Met Your Mother
+1547512046 - Tue Jan 15 01:27:26 CET 2019 - /Stream/Queen_of_the_South-1.html,s2e7 - Queen of the South
