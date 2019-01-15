@@ -21071,3 +21071,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547511856 - Tue Jan 15 01:24:16 CET 2019 - /Stream/Dickste_Freunde.html - Dickste Freunde
 1547511867 - Tue Jan 15 01:24:27 CET 2019 - /Stream/Racer_and_the_Jailbird.html - Racer and the Jailbird
 1547511876 - Tue Jan 15 01:24:36 CET 2019 - /Stream/So_finster_die_Nacht.html - So finster die Nacht
+1547511887 - Tue Jan 15 01:24:47 CET 2019 - /Stream/28_Soldiers-Die_Panzerschlacht.html - 28 Soldiers - Die Panzerschlacht
