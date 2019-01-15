@@ -21090,3 +21090,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547512029 - Tue Jan 15 01:27:09 CET 2019 - /Stream/How_I_Met_Your_Mother.html,s2e2 - How I Met Your Mother
 1547512038 - Tue Jan 15 01:27:18 CET 2019 - /Stream/How_I_Met_Your_Mother.html,s5e16 - How I Met Your Mother
 1547512046 - Tue Jan 15 01:27:26 CET 2019 - /Stream/Queen_of_the_South-1.html,s2e7 - Queen of the South
+1547512055 - Tue Jan 15 01:27:35 CET 2019 - /Stream/The_Big_Bang_Theory.html,s2e12 - The Big Bang Theory
