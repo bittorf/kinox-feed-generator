@@ -21184,3 +21184,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547772433 - Fri Jan 18 01:47:13 CET 2019 - /Stream/American_Dad.html,s2e4 - American Dad
 1547772441 - Fri Jan 18 01:47:21 CET 2019 - /Stream/Inside_No-9.html,s4e5 - Inside No. 9
 1547772448 - Fri Jan 18 01:47:28 CET 2019 - /Stream/Titans-1.html,s1e8 - Titans
+1547772456 - Fri Jan 18 01:47:36 CET 2019 - /Stream/Die_Goldbergs.html,s3e20 - Die Goldbergs
