@@ -21270,3 +21270,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547852549 - Sat Jan 19 00:02:29 CET 2019 - /Stream/Die_Drachenreiter_von_Berk.html,s3e17 - Die Drachenreiter von Berk
 1547852555 - Sat Jan 19 00:02:35 CET 2019 - /Stream/Happy-1.html,s1e7 - Happy!
 1547852562 - Sat Jan 19 00:02:42 CET 2019 - /Stream/Immer_wieder_Jim.html,s2e5 - Immer wieder Jim
+1547852570 - Sat Jan 19 00:02:50 CET 2019 - /Stream/Ein_Fall_fuer_zwei.html,s2e27 - Ein Fall für zwei
