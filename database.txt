@@ -21197,3 +21197,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547815810 - Fri Jan 18 13:50:10 CET 2019 - /Stream/Vikings.html,s5e18 - Vikings
 1547815818 - Fri Jan 18 13:50:18 CET 2019 - /Stream/Chicago_Fire.html,s7e11 - Chicago Fire
 1547815827 - Fri Jan 18 13:50:27 CET 2019 - /Stream/Rocco_Schiavone.html,s2e3 - Rocco Schiavone
+1547815835 - Fri Jan 18 13:50:35 CET 2019 - /Stream/The_Goldbergs.html,s6e12 - The Goldbergs
