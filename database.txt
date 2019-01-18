@@ -21274,3 +21274,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547852582 - Sat Jan 19 00:03:02 CET 2019 - /Stream/Malcolm_mittendrin.html,s4e14 - Malcolm mittendrin
 1547852595 - Sat Jan 19 00:03:15 CET 2019 - /Stream/Baskets-1.html,s1e3 - Baskets
 1547852603 - Sat Jan 19 00:03:23 CET 2019 - /Stream/Blood_Ties-Biss_aufs_Blut.html,s1e1 - Blood Ties - Biss aufs Blut
+1547852610 - Sat Jan 19 00:03:30 CET 2019 - /Stream/Devious_Maids-1.html,s3e2 - Devious Maids
