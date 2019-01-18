@@ -21244,3 +21244,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547852321 - Fri Jan 18 23:58:41 CET 2019 - /Stream/The_Magicians-1.html,s1e7 - The Magicians
 1547852328 - Fri Jan 18 23:58:48 CET 2019 - /Stream/Avatar_The_Last_Airbender.html,s2e3 - Avatar: The Last Airbender
 1547852337 - Fri Jan 18 23:58:57 CET 2019 - /Stream/Parks-Recreation-Das_Gruenflaechenamt-1.html,s6e5 - Parks & Recreation - Das Grünflächenamt
+1547852347 - Fri Jan 18 23:59:07 CET 2019 - /Stream/Star_Wars_Rebels.html,s1e15 - Star Wars Rebels
