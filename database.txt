@@ -21201,3 +21201,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547815842 - Fri Jan 18 13:50:42 CET 2019 - /Stream/Brooklyn_Nine-Nine.html,s6e2 - Brooklyn Nine-Nine
 1547815850 - Fri Jan 18 13:50:50 CET 2019 - /Stream/9-1-1-1.html,s2e3 - 9-1-1
 1547815858 - Fri Jan 18 13:50:58 CET 2019 - /Stream/Beste_Schwestern.html,s2e1 - Beste Schwestern
+1547815866 - Fri Jan 18 13:51:06 CET 2019 - /Stream/Das_Dschungelcamp.html,s13e6 - Das Dschungelcamp
