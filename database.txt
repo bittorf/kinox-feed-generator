@@ -21309,3 +21309,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547925015 - Sat Jan 19 20:10:15 CET 2019 - /Stream/Die_Ludolfs-Der_Film_Dankeschoen_fuer_Italien.html - Die Ludolfs - Der Film: Dankeschön für Italien!
 1547925022 - Sat Jan 19 20:10:22 CET 2019 - /Stream/Die_Schneekoenigin-5.html - Die Schneekönigin
 1547925030 - Sat Jan 19 20:10:30 CET 2019 - /Stream/Das_Hundehotel.html - Das Hundehotel
+1547925043 - Sat Jan 19 20:10:43 CET 2019 - /Stream/Lethal_Weapon-1.html,s3e12 - Lethal Weapon
