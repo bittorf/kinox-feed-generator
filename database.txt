@@ -21326,3 +21326,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547925176 - Sat Jan 19 20:12:56 CET 2019 - /Stream/MacGyver-3.html,s2e15 - MacGyver
 1547925183 - Sat Jan 19 20:13:03 CET 2019 - /Stream/Beste_Schwestern.html,s2 - Beste Schwestern
 1547925189 - Sat Jan 19 20:13:09 CET 2019 - /Stream/Grantchester.html,s4e2 - Grantchester
+1547925197 - Sat Jan 19 20:13:17 CET 2019 - /Stream/Van_Helsing-2.html,s2e4 - Van Helsing
