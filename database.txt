@@ -21378,3 +21378,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547940020 - Sun Jan 20 00:20:20 CET 2019 - /Stream/Max_Steel-1.html,s1e1 - Max Steel
 1547940029 - Sun Jan 20 00:20:29 CET 2019 - /Stream/Teachers-2.html,s2e12 - Teachers
 1547940036 - Sun Jan 20 00:20:36 CET 2019 - /Stream/How_I_Met_Your_Mother-1.html,s9e12 - How I Met Your Mother
+1547940046 - Sun Jan 20 00:20:46 CET 2019 - /Stream/Sanctuary-Waechter_der_Kreaturen.html,s2e8 - Sanctuary - Wächter der Kreaturen
