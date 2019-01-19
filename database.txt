@@ -21312,3 +21312,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547925043 - Sat Jan 19 20:10:43 CET 2019 - /Stream/Lethal_Weapon-1.html,s3e12 - Lethal Weapon
 1547925051 - Sat Jan 19 20:10:51 CET 2019 - /Stream/Riverdale-1.html,s3e9 - Riverdale
 1547925060 - Sat Jan 19 20:11:00 CET 2019 - /Stream/The_Flash-2.html,s5e10 - The Flash
+1547925070 - Sat Jan 19 20:11:10 CET 2019 - /Stream/Star_Trek_Discovery.html,s2e1 - Star Trek: Discovery
