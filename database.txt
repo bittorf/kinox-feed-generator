@@ -21329,3 +21329,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547925197 - Sat Jan 19 20:13:17 CET 2019 - /Stream/Van_Helsing-2.html,s2e4 - Van Helsing
 1547925204 - Sat Jan 19 20:13:24 CET 2019 - /Stream/Criminal_Minds-1.html,s14e4 - Criminal Minds
 1547925213 - Sat Jan 19 20:13:33 CET 2019 - /Stream/Father_Brown-1.html,s7 - Father Brown
+1547925223 - Sat Jan 19 20:13:43 CET 2019 - /Stream/Der_Lehrer.html,s7e4 - Der Lehrer
