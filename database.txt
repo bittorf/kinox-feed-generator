@@ -21310,3 +21310,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547925022 - Sat Jan 19 20:10:22 CET 2019 - /Stream/Die_Schneekoenigin-5.html - Die Schneekönigin
 1547925030 - Sat Jan 19 20:10:30 CET 2019 - /Stream/Das_Hundehotel.html - Das Hundehotel
 1547925043 - Sat Jan 19 20:10:43 CET 2019 - /Stream/Lethal_Weapon-1.html,s3e12 - Lethal Weapon
+1547925051 - Sat Jan 19 20:10:51 CET 2019 - /Stream/Riverdale-1.html,s3e9 - Riverdale
