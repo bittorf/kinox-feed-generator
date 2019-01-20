@@ -21387,3 +21387,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1547940099 - Sun Jan 20 00:21:39 CET 2019 - /Stream/Avatar_The_Last_Airbender.html,s1e16 - Avatar: The Last Airbender
 1547940106 - Sun Jan 20 00:21:46 CET 2019 - /Stream/Reboot_Der_Waechter_Code.html,s2e1 - Reboot: Der Wächter Code
 1547940114 - Sun Jan 20 00:21:54 CET 2019 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s5e8 - Shameless - Nicht ganz nüchtern
+1547990617 - Sun Jan 20 14:23:37 CET 2019 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s16e5 - DsdS - Deutschland sucht den Superstar
