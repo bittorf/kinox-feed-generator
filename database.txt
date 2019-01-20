@@ -21394,3 +21394,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548005076 - Sun Jan 20 18:24:36 CET 2019 - /Stream/Enemy_Mine-Geliebter_Feind.html - Enemy Mine - Geliebter Feind
 1548005086 - Sun Jan 20 18:24:46 CET 2019 - /Stream/Kiss_of_the_Dragon-1.html - Kiss of the Dragon
 1548005096 - Sun Jan 20 18:24:56 CET 2019 - /Stream/Snarveien.html - Snarveien
+1548005105 - Sun Jan 20 18:25:05 CET 2019 - /Stream/Das_Dschungelcamp.html,s13e9 - Das Dschungelcamp
