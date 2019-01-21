@@ -21545,3 +21545,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548085627 - Mon Jan 21 16:47:07 CET 2019 - /Stream/Der_Bergdoktor-1.html,s12e3 - Der Bergdoktor
 1548085635 - Mon Jan 21 16:47:15 CET 2019 - /Stream/Das_Dschungelcamp.html,s13e10 - Das Dschungelcamp
 1548107272 - Mon Jan 21 22:47:52 CET 2019 - /Stream/Young_Sheldon-1.html,s2e5 - Young Sheldon
+1548107279 - Mon Jan 21 22:47:59 CET 2019 - /Stream/Navy_CIS_L-A.html,s10e3 - Navy CIS: L.A.
