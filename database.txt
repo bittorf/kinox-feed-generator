@@ -21543,3 +21543,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548085609 - Mon Jan 21 16:46:49 CET 2019 - /Stream/Vera.html,s9e2 - Vera
 1548085617 - Mon Jan 21 16:46:57 CET 2019 - /Stream/Elementary-1.html,s6e10 - Elementary
 1548085627 - Mon Jan 21 16:47:07 CET 2019 - /Stream/Der_Bergdoktor-1.html,s12e3 - Der Bergdoktor
+1548085635 - Mon Jan 21 16:47:15 CET 2019 - /Stream/Das_Dschungelcamp.html,s13e10 - Das Dschungelcamp
