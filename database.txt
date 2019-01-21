@@ -21596,3 +21596,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548114902 - Tue Jan 22 00:55:02 CET 2019 - /Stream/Knight_Rider-1.html,s2e4 - Knight Rider
 1548114909 - Tue Jan 22 00:55:09 CET 2019 - /Stream/American_Dad.html,s8e5 - American Dad
 1548114920 - Tue Jan 22 00:55:20 CET 2019 - /Stream/The_Glades-1.html,s2e8 - The Glades
+1548114928 - Tue Jan 22 00:55:28 CET 2019 - /Stream/Nemesis-Der_Angriff.html,s1e1 - Nemesis - Der Angriff
