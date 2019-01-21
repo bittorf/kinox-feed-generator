@@ -21598,3 +21598,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548114920 - Tue Jan 22 00:55:20 CET 2019 - /Stream/The_Glades-1.html,s2e8 - The Glades
 1548114928 - Tue Jan 22 00:55:28 CET 2019 - /Stream/Nemesis-Der_Angriff.html,s1e1 - Nemesis - Der Angriff
 1548114935 - Tue Jan 22 00:55:35 CET 2019 - /Stream/Graceland-2.html,s1e12 - Graceland
+1548114942 - Tue Jan 22 00:55:42 CET 2019 - /Stream/Ugly_Americans.html,s2e6 - Ugly Americans
