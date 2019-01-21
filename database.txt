@@ -21529,3 +21529,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548027810 - Mon Jan 21 00:43:30 CET 2019 - /Stream/ALF.html,s2e4 - ALF
 1548035042 - Mon Jan 21 02:44:02 CET 2019 - /Stream/Othello-1.html - Othello
 1548035049 - Mon Jan 21 02:44:09 CET 2019 - /Stream/Das_Ding_aus_dem_Sumpf.html - Das Ding aus dem Sumpf
+1548035056 - Mon Jan 21 02:44:16 CET 2019 - /Stream/Winnetou_und_das_Halbblut_Apanatschi-1.html - Winnetou und das Halbblut Apanatschi
