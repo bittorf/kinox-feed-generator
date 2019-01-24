@@ -21715,3 +21715,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548346615 - Thu Jan 24 17:16:55 CET 2019 - /Stream/SEAL_Team.html,s2e13 - SEAL Team
 1548346622 - Thu Jan 24 17:17:02 CET 2019 - /Stream/Room_104.html,s2e1 - Room 104
 1548346630 - Thu Jan 24 17:17:10 CET 2019 - /Stream/Riverdale.html,s3e10 - Riverdale
+1548346637 - Thu Jan 24 17:17:17 CET 2019 - /Stream/Chicago_PD.html,s6e12 - Chicago PD
