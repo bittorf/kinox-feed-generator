@@ -21730,3 +21730,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548368369 - Thu Jan 24 23:19:29 CET 2019 - /Stream/Better_Call_Saul.html,s4e2 - Better Call Saul
 1548368378 - Thu Jan 24 23:19:38 CET 2019 - /Stream/Family_Guy.html,s3e22 - Family Guy
 1548368391 - Thu Jan 24 23:19:51 CET 2019 - /Stream/Boardwalk_Empire-1.html,s5e7 - Boardwalk Empire
+1548368401 - Thu Jan 24 23:20:01 CET 2019 - /Stream/True_Detective-1.html,s2e5 - True Detective
