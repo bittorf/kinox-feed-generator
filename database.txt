@@ -21727,3 +21727,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548368343 - Thu Jan 24 23:19:03 CET 2019 - /Stream/Vikings-1.html,s4e11 - Vikings
 1548368352 - Thu Jan 24 23:19:12 CET 2019 - /Stream/Fear_the_Walking_Dead-1.html,s1e3 - Fear the Walking Dead
 1548368360 - Thu Jan 24 23:19:20 CET 2019 - /Stream/Ballers-1.html,s1e4 - Ballers
+1548368369 - Thu Jan 24 23:19:29 CET 2019 - /Stream/Better_Call_Saul.html,s4e2 - Better Call Saul
