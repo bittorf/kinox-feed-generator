@@ -21792,3 +21792,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548541965 - Sat Jan 26 23:32:45 CET 2019 - /Stream/The_Magicians.html,s3e6 - The Magicians
 1548541972 - Sat Jan 26 23:32:52 CET 2019 - /Stream/Orange_Is_the_New_Black-1.html,s2e10 - Orange Is the New Black
 1548541980 - Sat Jan 26 23:33:00 CET 2019 - /Stream/1864-Liebe_und_Verrat_in_Zeiten_des_Krieges.html,s1e8 - 1864 - Liebe und Verrat in Zeiten des Krieges
+1548541987 - Sat Jan 26 23:33:07 CET 2019 - /Stream/Scandal-1.html,s5e14 - Scandal
