@@ -21787,3 +21787,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548469837 - Sat Jan 26 03:30:37 CET 2019 - /Stream/Dino_Dana.html,s1e1 - Dino Dana
 1548469843 - Sat Jan 26 03:30:43 CET 2019 - /Stream/Unbreakable_Kimmy_Schmidt.html,s4 - Unbreakable Kimmy Schmidt
 1548469851 - Sat Jan 26 03:30:51 CET 2019 - /Stream/Criminal_Minds-1.html,s14e5 - Criminal Minds
+1548469861 - Sat Jan 26 03:31:01 CET 2019 - /Stream/Der_Lehrer.html,s7e5 - Der Lehrer
