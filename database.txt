@@ -21819,3 +21819,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548607066 - Sun Jan 27 17:37:46 CET 2019 - /Stream/Room_104.html,s2e2 - Room 104
 1548607073 - Sun Jan 27 17:37:53 CET 2019 - /Stream/The_Grand_Tour.html,s3e3 - The Grand Tour
 1548607079 - Sun Jan 27 17:37:59 CET 2019 - /Stream/Z_Nation.html,s5e13 - Z Nation
+1548607087 - Sun Jan 27 17:38:07 CET 2019 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s16e7 - DsdS - Deutschland sucht den Superstar
