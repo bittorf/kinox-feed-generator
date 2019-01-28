@@ -21858,3 +21858,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548715558 - Mon Jan 28 23:45:58 CET 2019 - /Stream/Deutschland_83.html,s1e7 - Deutschland 83
 1548715567 - Mon Jan 28 23:46:07 CET 2019 - /Stream/Marvels_Luke_Cage.html,s1e5 - Marvel's Luke Cage
 1548715574 - Mon Jan 28 23:46:14 CET 2019 - /Stream/The_Walking_Dead-1.html,s4e5 - The Walking Dead
+1548715583 - Mon Jan 28 23:46:23 CET 2019 - /Stream/Marvels_Luke_Cage.html,s2e1 - Marvel's Luke Cage
