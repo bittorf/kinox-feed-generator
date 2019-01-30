@@ -21898,3 +21898,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548816785 - Wed Jan 30 03:53:05 CET 2019 - /Stream/Navy_CIS_L-A.html,s10e4 - Navy CIS: L.A.
 1548816792 - Wed Jan 30 03:53:12 CET 2019 - /Stream/Holby_City.html,s21e5 - Holby City
 1548816806 - Wed Jan 30 03:53:26 CET 2019 - /Stream/The_Big_Bang_Theory.html,s12e5 - The Big Bang Theory
+1548860068 - Wed Jan 30 15:54:28 CET 2019 - /Stream/S-W-A-T-1.html,s2 - S.W.A.T.
