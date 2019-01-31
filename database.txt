@@ -21913,3 +21913,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1548889009 - Wed Jan 30 23:56:49 CET 2019 - /Stream/House_of_Cards.html,s1e13 - House of Cards
 1548889022 - Wed Jan 30 23:57:02 CET 2019 - /Stream/South_Park-1.html,s12e1 - South Park
 1548896241 - Thu Jan 31 01:57:21 CET 2019 - /Stream/Alias-Die_Agentin.html,s1e16 - Alias - Die Agentin
+1548925085 - Thu Jan 31 09:58:05 CET 2019 - /Stream/Navy_CIS.html,s16e3 - Navy CIS
