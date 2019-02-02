@@ -21953,3 +21953,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1549062458 - Sat Feb  2 00:07:38 CET 2019 - /Stream/Supernatural.html,s12e11 - Supernatural
 1549062468 - Sat Feb  2 00:07:48 CET 2019 - /Stream/Star_Wars_The_Clone_Wars-4.html,s2e21 - Star Wars: The Clone Wars
 1549062476 - Sat Feb  2 00:07:56 CET 2019 - /Stream/Arrow.html,s2e2 - Arrow
+1549084115 - Sat Feb  2 06:08:35 CET 2019 - /Stream/Star_Trek_Discovery-1.html,s2e3 - Star Trek: Discovery
