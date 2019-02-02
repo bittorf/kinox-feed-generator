@@ -21958,3 +21958,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1549084133 - Sat Feb  2 06:08:53 CET 2019 - /Stream/Grantchester.html,s4e4 - Grantchester
 1549084140 - Sat Feb  2 06:09:00 CET 2019 - /Stream/Major_Crimes-1.html,s6 - Major Crimes
 1549084148 - Sat Feb  2 06:09:08 CET 2019 - /Stream/Vikings-1.html,s5e20 - Vikings
+1549120189 - Sat Feb  2 16:09:49 CET 2019 - /Stream/Frankensteins_Hoellenbrut.html - Frankensteins Höllenbrut
