@@ -22115,3 +22115,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1549583002 - Fri Feb  8 00:43:22 CET 2019 - /Stream/Tsunambee_The_Wrath_Cometh.html - Tsunambee: The Wrath Cometh
 1549583010 - Fri Feb  8 00:43:30 CET 2019 - /Stream/Suits-1.html,s4e10 - Suits
 1549583018 - Fri Feb  8 00:43:38 CET 2019 - /Stream/Yakari.html,s3e5 - Yakari
+1549583028 - Fri Feb  8 00:43:48 CET 2019 - /Stream/Skylanders_Academy.html,s3e10 - Skylanders Academy
