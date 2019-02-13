@@ -22244,3 +22244,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1550067117 - Wed Feb 13 15:11:57 CET 2019 - /Stream/Belleville_Cop.html - Belleville Cop
 1550067126 - Wed Feb 13 15:12:06 CET 2019 - /Stream/Das_krumme_Haus.html - Das krumme Haus
 1550067134 - Wed Feb 13 15:12:14 CET 2019 - /Stream/Freaky_Friday-1.html - Freaky Friday
+1550067141 - Wed Feb 13 15:12:21 CET 2019 - /Stream/A_Star_Is_Born-3.html - A Star Is Born
