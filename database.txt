@@ -22334,3 +22334,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1550577173 - Tue Feb 19 12:52:53 CET 2019 - /Stream/Power_Rangers_Mystic_Force.html,s1e9 - Power Rangers Mystic Force
 1550577182 - Tue Feb 19 12:53:02 CET 2019 - /Stream/Twisted-2.html,s1e6 - Twisted
 1550577190 - Tue Feb 19 12:53:10 CET 2019 - /Stream/Criminal_Minds_Beyond_Borders-1.html,s1e9 - Criminal Minds: Beyond Borders
+1550577200 - Tue Feb 19 12:53:20 CET 2019 - /Stream/Scandal-1.html,s1e5 - Scandal
