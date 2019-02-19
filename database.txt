@@ -22294,3 +22294,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1550576829 - Tue Feb 19 12:47:09 CET 2019 - /Stream/Kevins_Cousin_allein_im_Supermarkt.html - Kevins Cousin allein im Supermarkt
 1550576842 - Tue Feb 19 12:47:22 CET 2019 - /Stream/Moerderischer_Vorsprung.html - Mörderischer Vorsprung
 1550576851 - Tue Feb 19 12:47:31 CET 2019 - /Stream/Honeymoon_Killers.html - Honeymoon Killers
+1550576858 - Tue Feb 19 12:47:38 CET 2019 - /Stream/Hot_Chick-Verrueckte_Huehner.html - Hot Chick - Verrückte Hühner
