@@ -22347,3 +22347,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1550577277 - Tue Feb 19 12:54:37 CET 2019 - /Stream/Der_Zauberschulbus_ist_wieder_unterwegs.html,s1 - Der Zauberschulbus ist wieder unterwegs
 1550577283 - Tue Feb 19 12:54:43 CET 2019 - /Stream/Star_Trek_Discovery-1.html,s2e5 - Star Trek: Discovery
 1550577290 - Tue Feb 19 12:54:50 CET 2019 - /Stream/Midnight_Texas-1.html,s1e4 - Midnight, Texas
+1550577298 - Tue Feb 19 12:54:58 CET 2019 - /Stream/The_Heart_Guy.html,s3 - The Heart Guy
