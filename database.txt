@@ -22409,3 +22409,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1550577768 - Tue Feb 19 13:02:48 CET 2019 - /Stream/Prison_Breaks-Die_wahren_Geschichten_Verschwoerung_in_Connecticut.html - Prison Breaks - Die wahren Geschichten: Verschwörung in Connecticut
 1550577769 - Tue Feb 19 13:02:49 CET 2019 - /Stream/Inside_Job.html - Inside Job
 1550577776 - Tue Feb 19 13:02:56 CET 2019 - /Stream/The_Wolfpack.html - The Wolfpack
+1550577782 - Tue Feb 19 13:03:02 CET 2019 - /Stream/Hitlers_Flucht_Wahrheit_oder_Legende-Verdaechtige_Spuren.html - Hitlers Flucht: Wahrheit oder Legende? - Verdächtige Spuren
