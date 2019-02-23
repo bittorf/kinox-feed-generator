@@ -22531,3 +22531,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1550881601 - Sat Feb 23 01:26:41 CET 2019 - /Stream/Die_Zauberer_vom_Waverly_Place.html,s1e21 - Die Zauberer vom Waverly Place
 1550881609 - Sat Feb 23 01:26:49 CET 2019 - /Stream/Eine_schrecklich_nette_Familie.html,s2e20 - Eine schrecklich nette Familie
 1550881618 - Sat Feb 23 01:26:58 CET 2019 - /Stream/Supergirl-2.html,s1e4 - Supergirl
+1550881627 - Sat Feb 23 01:27:07 CET 2019 - /Stream/Dinotrux-1.html,s1e1 - Dinotrux
