@@ -22529,3 +22529,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1550881580 - Sat Feb 23 01:26:20 CET 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s14e11 - Grey's Anatomy - Die jungen Ärzte
 1550881592 - Sat Feb 23 01:26:32 CET 2019 - /Stream/Golden_Girls.html,s1e2 - Golden Girls
 1550881601 - Sat Feb 23 01:26:41 CET 2019 - /Stream/Die_Zauberer_vom_Waverly_Place.html,s1e21 - Die Zauberer vom Waverly Place
+1550881609 - Sat Feb 23 01:26:49 CET 2019 - /Stream/Eine_schrecklich_nette_Familie.html,s2e20 - Eine schrecklich nette Familie
