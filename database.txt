@@ -22541,3 +22541,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1550975406 - Sun Feb 24 03:30:06 CET 2019 - /Stream/Kidding.html,s1e2 - Kidding
 1550975414 - Sun Feb 24 03:30:14 CET 2019 - /Stream/Killjoys.html,s4e1 - Killjoys
 1550975423 - Sun Feb 24 03:30:23 CET 2019 - /Stream/SOKO_Wismar.html,s16e7 - SOKO Wismar
+1550975433 - Sun Feb 24 03:30:33 CET 2019 - /Stream/The_Closer-1.html,s1e3 - The Closer
