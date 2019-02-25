@@ -22629,3 +22629,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551084275 - Mon Feb 25 09:44:35 CET 2019 - /Stream/Black_Lightning-2.html,s2e12 - Black Lightning
 1551084283 - Mon Feb 25 09:44:43 CET 2019 - /Stream/Bull-1.html,s2e1 - Bull
 1551084291 - Mon Feb 25 09:44:51 CET 2019 - /Stream/Gotham-1.html,s2e22 - Gotham
+1551084302 - Mon Feb 25 09:45:02 CET 2019 - /Stream/Lethal_Weapon-2.html,s2e4 - Lethal Weapon
