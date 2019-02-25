@@ -22658,3 +22658,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551084518 - Mon Feb 25 09:48:38 CET 2019 - /Stream/Der_Phantastische_Paul.html,s1 - Der Phantastische Paul
 1551084524 - Mon Feb 25 09:48:44 CET 2019 - /Stream/Ninjago_Masters_of_Spinjitzu-2.html,s5 - Ninjago: Masters of Spinjitzu
 1551084530 - Mon Feb 25 09:48:50 CET 2019 - /Stream/Kommissarin_Heller-Querschlaeger.html,s1e9 - Kommissarin Heller - Querschläger
+1551084538 - Mon Feb 25 09:48:58 CET 2019 - /Stream/Abenteuerzeit_mit_Finn_und_Jake.html,s1 - Abenteuerzeit mit Finn und Jake
