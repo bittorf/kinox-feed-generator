@@ -22650,3 +22650,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551084453 - Mon Feb 25 09:47:33 CET 2019 - /Stream/Einstein_Die_Serie.html,s3e7 - Einstein: Die Serie
 1551084461 - Mon Feb 25 09:47:41 CET 2019 - /Stream/American_Housewife.html,s3e13 - American Housewife
 1551084469 - Mon Feb 25 09:47:49 CET 2019 - /Stream/Bull-1.html,s3e2 - Bull
+1551084478 - Mon Feb 25 09:47:58 CET 2019 - /Stream/Bull.html,s3e15 - Bull
