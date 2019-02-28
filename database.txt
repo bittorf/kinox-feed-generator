@@ -22787,3 +22787,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551330793 - Thu Feb 28 06:13:13 CET 2019 - /Stream/Better_Off_Zed.html - Better Off Zed
 1551330800 - Thu Feb 28 06:13:20 CET 2019 - /Stream/Nackt_unter_Leder.html - Nackt unter Leder
 1551330806 - Thu Feb 28 06:13:26 CET 2019 - /Stream/Young_Sheldon-1.html,s2e9 - Young Sheldon
+1551330813 - Thu Feb 28 06:13:33 CET 2019 - /Stream/True_Detective-1.html,s3e7 - True Detective
