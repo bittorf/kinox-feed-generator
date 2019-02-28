@@ -22838,3 +22838,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551396081 - Fri Mar  1 00:21:21 CET 2019 - /Stream/Winx_Club.html,s4 - Winx Club
 1551396089 - Fri Mar  1 00:21:29 CET 2019 - /Stream/The_Coroner.html,s2e5 - The Coroner
 1551396096 - Fri Mar  1 00:21:36 CET 2019 - /Stream/Me_Myself_and_I-1.html,s1e4 - Me, Myself and I
+1551396104 - Fri Mar  1 00:21:44 CET 2019 - /Stream/Anti-Magic_Academy_The_35th_Test_Platoon.html,s1e1 - Anti-Magic Academy: The 35th Test Platoon
