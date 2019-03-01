@@ -22889,3 +22889,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551482996 - Sat Mar  2 00:29:56 CET 2019 - /Stream/Dust_to_Glory-1.html - Dust to Glory
 1551483004 - Sat Mar  2 00:30:04 CET 2019 - /Stream/Die_Hausmeisterin.html,s1 - Die Hausmeisterin
 1551483011 - Sat Mar  2 00:30:11 CET 2019 - /Stream/Hoer_mal_wer_da_haemmert.html,s7e9 - Hör' mal, wer da hämmert
+1551483019 - Sat Mar  2 00:30:19 CET 2019 - /Stream/Emerald_City_german_subbed.html,s1e1 - Emerald City *german subbed*
