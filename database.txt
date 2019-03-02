@@ -22933,3 +22933,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551569863 - Sun Mar  3 00:37:43 CET 2019 - /Stream/Hausmeister_Krause-Ordnung_muss_sein.html,s5 - Hausmeister Krause - Ordnung muss sein
 1551569871 - Sun Mar  3 00:37:51 CET 2019 - /Stream/Winx_Club.html,s7 - Winx Club
 1551569879 - Sun Mar  3 00:37:59 CET 2019 - /Stream/Hausmeister_Krause-Ordnung_muss_sein.html,s1 - Hausmeister Krause - Ordnung muss sein
+1551569886 - Sun Mar  3 00:38:06 CET 2019 - /Stream/Bonanza.html,s7e20 - Bonanza
