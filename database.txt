@@ -22909,3 +22909,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551540822 - Sat Mar  2 16:33:42 CET 2019 - /Stream/Die_Wilden_70er.html,s3 - Die Wilden 70er
 1551555247 - Sat Mar  2 20:34:07 CET 2019 - /Stream/Hard_Powder.html - Hard Powder
 1551569676 - Sun Mar  3 00:34:36 CET 2019 - /Stream/Das_Geheimnis_der_Zauberpilze.html - Das Geheimnis der Zauberpilze
+1551569683 - Sun Mar  3 00:34:43 CET 2019 - /Stream/Bitter_Enemies-Only_Gold_Can_Be_Trusted.html - Bitter Enemies - Only Gold Can Be Trusted
