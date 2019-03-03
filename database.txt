@@ -22959,3 +22959,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551606129 - Sun Mar  3 10:42:09 CET 2019 - /Stream/Kevin_Can_Wait-1.html,s1e3 - Kevin Can Wait
 1551606138 - Sun Mar  3 10:42:18 CET 2019 - /Stream/Alles_Atze.html,s3e1 - Alles Atze
 1551606146 - Sun Mar  3 10:42:26 CET 2019 - /Stream/Bull-1.html,s3e3 - Bull
+1551606155 - Sun Mar  3 10:42:35 CET 2019 - /Stream/True_Detective.html,s3e8 - True Detective
