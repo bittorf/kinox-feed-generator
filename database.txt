@@ -23114,3 +23114,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1551917742 - Thu Mar  7 01:15:42 CET 2019 - /Stream/Charmed-Zauberhafte_Hexen.html,s8e11 - Charmed - Zauberhafte Hexen
 1551917751 - Thu Mar  7 01:15:51 CET 2019 - /Stream/Charmed-Zauberhafte_Hexen.html,s2e4 - Charmed - Zauberhafte Hexen
 1551917762 - Thu Mar  7 01:16:02 CET 2019 - /Stream/Charmed-Zauberhafte_Hexen.html,s7 - Charmed - Zauberhafte Hexen
+1551917769 - Thu Mar  7 01:16:09 CET 2019 - /Stream/Kyokai_no_Kanata.html,s1e7 - Kyôkai no Kanata
