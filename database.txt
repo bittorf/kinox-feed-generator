@@ -23211,3 +23211,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552005165 - Fri Mar  8 01:32:45 CET 2019 - /Stream/Barbapapa.html,s1 - Barbapapa
 1552005173 - Fri Mar  8 01:32:53 CET 2019 - /Stream/Charmed-Zauberhafte_Hexen.html,s4e9 - Charmed - Zauberhafte Hexen
 1552005187 - Fri Mar  8 01:33:07 CET 2019 - /Stream/King_of_Queens.html,s2e21 - King of Queens
+1552005196 - Fri Mar  8 01:33:16 CET 2019 - /Stream/American_Dad.html,s6e14 - American Dad
