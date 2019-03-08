@@ -23218,3 +23218,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552005232 - Fri Mar  8 01:33:52 CET 2019 - /Stream/King_of_Queens.html,s7e22 - King of Queens
 1552005241 - Fri Mar  8 01:34:01 CET 2019 - /Stream/Auf_Achse.html,s4 - Auf Achse
 1552005249 - Fri Mar  8 01:34:09 CET 2019 - /Stream/Detektiv_Conan.html,s6e40 - Detektiv Conan
+1552005259 - Fri Mar  8 01:34:19 CET 2019 - /Stream/American_Dad.html,s7e6 - American Dad
