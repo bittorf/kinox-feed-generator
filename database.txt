@@ -23285,3 +23285,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552085196 - Fri Mar  8 23:46:36 CET 2019 - /Stream/Trolljaeger.html,s3e3 - Trolljäger
 1552085204 - Fri Mar  8 23:46:44 CET 2019 - /Stream/How_I_Met_Your_Mother.html,s2e12 - How I Met Your Mother
 1552085220 - Fri Mar  8 23:47:00 CET 2019 - /Stream/Life.html,s2e13 - Life
+1552085230 - Fri Mar  8 23:47:10 CET 2019 - /Stream/Die_Thundermans.html,s2e24 - Die Thundermans
