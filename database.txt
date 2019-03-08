@@ -23242,3 +23242,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552063152 - Fri Mar  8 17:39:12 CET 2019 - /Stream/Shut_Eye.html,s2 - Shut Eye
 1552063160 - Fri Mar  8 17:39:20 CET 2019 - /Stream/Legacies.html,s1e13 - Legacies
 1552063167 - Fri Mar  8 17:39:27 CET 2019 - /Stream/Station_19.html,s2e8 - Station 19
+1552063175 - Fri Mar  8 17:39:35 CET 2019 - /Stream/Young_Sheldon.html,s2e17 - Young Sheldon
