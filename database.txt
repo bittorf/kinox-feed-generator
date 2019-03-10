@@ -23397,3 +23397,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552172724 - Sun Mar 10 00:05:24 CET 2019 - /Stream/Morgan_Freeman_Mysterien_des_Weltalls-Homo_Sapiens_2-0.html - Morgan Freeman: Mysterien des Weltalls - Homo Sapiens 2.0
 1552187150 - Sun Mar 10 04:05:50 CET 2019 - /Stream/The-Evil_Within-Toete_alles_was_du_liebst.html - The Evil Within - Töte alles, was du liebst
 1552187157 - Sun Mar 10 04:05:57 CET 2019 - /Stream/Mozart_in_Love.html - Mozart in Love
+1552187164 - Sun Mar 10 04:06:04 CET 2019 - /Stream/Bull-1.html,s3e4 - Bull
