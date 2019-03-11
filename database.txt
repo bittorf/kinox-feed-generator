@@ -24215,3 +24215,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552331560 - Mon Mar 11 20:12:40 CET 2019 - /Stream/Pokemon-1.html,s11e30 - Pokemon
 1552331571 - Mon Mar 11 20:12:51 CET 2019 - /Stream/My_Name_Is_Earl.html,s1e13 - My Name Is Earl
 1552331581 - Mon Mar 11 20:13:01 CET 2019 - /Stream/Animaniacs-1.html,s1 - Animaniacs
+1552331589 - Mon Mar 11 20:13:09 CET 2019 - /Stream/Ultimate_Spider-Man-1.html,s2e2 - Ultimate Spider-Man
