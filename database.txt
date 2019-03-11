@@ -24099,3 +24099,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552330428 - Mon Mar 11 19:53:48 CET 2019 - /Stream/Psych.html,s3e5 - Psych
 1552330438 - Mon Mar 11 19:53:58 CET 2019 - /Stream/Spenser.html,s1 - Spenser
 1552330446 - Mon Mar 11 19:54:06 CET 2019 - /Stream/Forever-1.html,s1e9 - Forever
+1552330454 - Mon Mar 11 19:54:14 CET 2019 - /Stream/Star_Wars_The_Clone_Wars-1.html,s2e20 - Star Wars: The Clone Wars
