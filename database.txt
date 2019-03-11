@@ -23597,3 +23597,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552325746 - Mon Mar 11 18:35:46 CET 2019 - /Stream/American_Soldiers.html - American Soldiers
 1552325753 - Mon Mar 11 18:35:53 CET 2019 - /Stream/Italian_Movies.html - Italian Movies
 1552325759 - Mon Mar 11 18:35:59 CET 2019 - /Stream/Dragon_Crusaders-1.html - Dragon Crusaders
+1552325780 - Mon Mar 11 18:36:20 CET 2019 - /Stream/Das_goldene_Schwert_des_Koenigstigers.html - Das goldene Schwert des Königstigers
