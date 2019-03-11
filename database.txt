@@ -24139,3 +24139,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552330815 - Mon Mar 11 20:00:15 CET 2019 - /Stream/Heiter_bis_toedlich-Fuchs_und_Gans.html,s1e3 - Heiter bis tödlich - Fuchs und Gans
 1552330823 - Mon Mar 11 20:00:23 CET 2019 - /Stream/Pastewka.html,s1e1 - Pastewka
 1552330832 - Mon Mar 11 20:00:32 CET 2019 - /Stream/The_Secret_Life_of_the_American_Teenager.html,s5 - The Secret Life of the American Teenager
+1552330842 - Mon Mar 11 20:00:42 CET 2019 - /Stream/Gekijo_ban_Tengen_toppa_guren_ragan_Guren_hen.html,s1e9 - Gekijô ban Tengen toppa guren ragan: Guren hen
