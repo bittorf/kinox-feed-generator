@@ -24406,3 +24406,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552333588 - Mon Mar 11 20:46:28 CET 2019 - /Stream/SpongeBob_Schwammkopf.html,s2e59 - SpongeBob Schwammkopf
 1552333598 - Mon Mar 11 20:46:38 CET 2019 - /Stream/Superstore-1.html,s2e20 - Superstore
 1552333608 - Mon Mar 11 20:46:48 CET 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s8e23 - Grey's Anatomy - Die jungen Ärzte
+1552333619 - Mon Mar 11 20:46:59 CET 2019 - /Stream/Supernatural.html,s1e11 - Supernatural
