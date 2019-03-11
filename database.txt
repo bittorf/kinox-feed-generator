@@ -23937,3 +23937,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552328702 - Mon Mar 11 19:25:02 CET 2019 - /Stream/Galactik_Football.html,s3e22 - Galactik Football
 1552328719 - Mon Mar 11 19:25:19 CET 2019 - /Stream/Loewenzahn.html,s25e1 - Löwenzahn
 1552328731 - Mon Mar 11 19:25:31 CET 2019 - /Stream/White_Collar-1.html,s3e12 - White Collar
+1552328740 - Mon Mar 11 19:25:40 CET 2019 - /Stream/Mister_Twister-1.html,s1e1 - Mister Twister
