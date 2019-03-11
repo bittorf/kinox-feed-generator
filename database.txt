@@ -23727,3 +23727,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552326984 - Mon Mar 11 18:56:24 CET 2019 - /Stream/Wer_die_Nachtigall_stoert.html - Wer die Nachtigall stört
 1552326991 - Mon Mar 11 18:56:31 CET 2019 - /Stream/Maria_Stuart-Blut_Terror_und_Verrat.html - Maria Stuart - Blut, Terror und Verrat
 1552326998 - Mon Mar 11 18:56:38 CET 2019 - /Stream/Immer_Aerger_mit_Bernie.html - Immer Ärger mit Bernie
+1552327006 - Mon Mar 11 18:56:46 CET 2019 - /Stream/Lucky_Luke-1.html - Lucky Luke
