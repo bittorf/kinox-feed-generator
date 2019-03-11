@@ -24372,3 +24372,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552333227 - Mon Mar 11 20:40:27 CET 2019 - /Stream/Outcasts-1.html,s1e8 - Outcasts
 1552333235 - Mon Mar 11 20:40:35 CET 2019 - /Stream/Wer_ist_hier_der_Boss.html,s2e14 - Wer ist hier der Boss?
 1552333254 - Mon Mar 11 20:40:54 CET 2019 - /Stream/Last_Man_Standing_german_subbed-1.html,s2e6 - Last Man Standing *german subbed*
+1552333263 - Mon Mar 11 20:41:03 CET 2019 - /Stream/Hitlers_Circle_of_Evil.html,s1e10 - Hitler's Circle of Evil
