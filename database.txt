@@ -24299,3 +24299,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552332417 - Mon Mar 11 20:26:57 CET 2019 - /Stream/Melrose_Place-3.html,s1e18 - Melrose Place
 1552332438 - Mon Mar 11 20:27:18 CET 2019 - /Stream/Der_kleine_Prinz-2.html,s2e25 - Der kleine Prinz
 1552332446 - Mon Mar 11 20:27:26 CET 2019 - /Stream/Smallville.html,s10e9 - Smallville
+1552332462 - Mon Mar 11 20:27:42 CET 2019 - /Stream/Kung_Fu-Im_Zeichen_des_Drachen.html,s3e5 - Kung Fu - Im Zeichen des Drachen
