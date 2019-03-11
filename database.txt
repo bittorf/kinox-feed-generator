@@ -24184,3 +24184,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552331235 - Mon Mar 11 20:07:15 CET 2019 - /Stream/Dallas.html,s8e28 - Dallas
 1552331246 - Mon Mar 11 20:07:26 CET 2019 - /Stream/Agent_X.html,s1e1 - Agent X
 1552331254 - Mon Mar 11 20:07:34 CET 2019 - /Stream/Kateky_Hitman_Reborn_german_subbed.html,s1e23 - Kateky? Hitman Reborn! *german subbed*
+1552331262 - Mon Mar 11 20:07:42 CET 2019 - /Stream/Elementary_german_subbed.html,s2e6 - Elementary *german subbed*
