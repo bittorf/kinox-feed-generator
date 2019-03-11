@@ -23970,3 +23970,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552329102 - Mon Mar 11 19:31:42 CET 2019 - /Stream/Elizabeth_Gaskells_Cranford.html,s2e2 - Elizabeth Gaskell's Cranford
 1552329112 - Mon Mar 11 19:31:52 CET 2019 - /Stream/MythBusters.html,s12e9 - MythBusters
 1552329120 - Mon Mar 11 19:32:00 CET 2019 - /Stream/Desperate_Housewives.html,s5e20 - Desperate Housewives
+1552329136 - Mon Mar 11 19:32:16 CET 2019 - /Stream/Detektiv_Rockford-Anruf_genuegt.html,s2e7 - Detektiv Rockford - Anruf genügt
