@@ -24044,3 +24044,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552329848 - Mon Mar 11 19:44:08 CET 2019 - /Stream/Monk.html,s7e15 - Monk
 1552329857 - Mon Mar 11 19:44:17 CET 2019 - /Stream/The_Venture_Bros.html,s6e2 - The Venture Bros.
 1552329866 - Mon Mar 11 19:44:26 CET 2019 - /Stream/Da_Vincis_Demons-1.html,s1e7 - Da Vinci's Demons
+1552329887 - Mon Mar 11 19:44:47 CET 2019 - /Stream/A-N-T-Achtung_Natur_Talente.html,s1e1 - A.N.T. Achtung Natur Talente
