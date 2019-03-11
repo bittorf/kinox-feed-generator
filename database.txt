@@ -24287,3 +24287,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552332307 - Mon Mar 11 20:25:07 CET 2019 - /Stream/Die_Pfefferkoerner.html,s3e6 - Die Pfefferkörner
 1552332318 - Mon Mar 11 20:25:18 CET 2019 - /Stream/South_Park.html,s9e4 - South Park
 1552332329 - Mon Mar 11 20:25:29 CET 2019 - /Stream/Tim-Struppi.html,s1e16 - Tim & Struppi
+1552332338 - Mon Mar 11 20:25:38 CET 2019 - /Stream/Scrubs.html,s4e12 - Scrubs
