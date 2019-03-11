@@ -24323,3 +24323,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552332688 - Mon Mar 11 20:31:28 CET 2019 - /Stream/90210-1.html,s3e22 - 90210
 1552332697 - Mon Mar 11 20:31:37 CET 2019 - /Stream/The_Tribe-Welt_ohne_Erwachsene.html,s3e40 - The Tribe - Welt ohne Erwachsene
 1552332708 - Mon Mar 11 20:31:48 CET 2019 - /Stream/Scrubs.html,s6e5 - Scrubs
+1552332717 - Mon Mar 11 20:31:57 CET 2019 - /Stream/Ein_Fall_fuer_zwei.html,s26e3 - Ein Fall für zwei
