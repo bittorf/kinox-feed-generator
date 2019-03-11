@@ -24002,3 +24002,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552329408 - Mon Mar 11 19:36:48 CET 2019 - /Stream/Heroes-1.html,s1e1 - Heroes
 1552329418 - Mon Mar 11 19:36:58 CET 2019 - /Stream/Bones.html,s9e23 - Bones
 1552329429 - Mon Mar 11 19:37:09 CET 2019 - /Stream/Allein_gegen_die_Mafia.html,s10e1 - Allein gegen die Mafia
+1552329436 - Mon Mar 11 19:37:16 CET 2019 - /Stream/Bezaubernde_Jeannie.html,s2 - Bezaubernde Jeannie
