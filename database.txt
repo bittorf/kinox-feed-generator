@@ -24306,3 +24306,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552332507 - Mon Mar 11 20:28:27 CET 2019 - /Stream/Hey_Arnold.html,s4e10 - Hey Arnold!
 1552332515 - Mon Mar 11 20:28:35 CET 2019 - /Stream/Archer.html,s8e2 - Archer
 1552332523 - Mon Mar 11 20:28:43 CET 2019 - /Stream/Cold_Case-Kein_Opfer_ist_je_vergessen.html,s6e6 - Cold Case - Kein Opfer ist je vergessen
+1552332534 - Mon Mar 11 20:28:54 CET 2019 - /Stream/The_Pink_Panther_Show-1.html,s1e1 - The Pink Panther Show
