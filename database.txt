@@ -24105,3 +24105,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552330479 - Mon Mar 11 19:54:39 CET 2019 - /Stream/Scrubs.html,s1e13 - Scrubs
 1552330487 - Mon Mar 11 19:54:47 CET 2019 - /Stream/Kobato-german_subbed.html,s1e18 - Kobato. *german subbed*
 1552330495 - Mon Mar 11 19:54:55 CET 2019 - /Stream/I_Love_Dick-1.html,s1e3 - I Love Dick
+1552330504 - Mon Mar 11 19:55:04 CET 2019 - /Stream/Generator_Rex.html,s1e20 - Generator Rex
