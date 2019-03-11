@@ -24232,3 +24232,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552331728 - Mon Mar 11 20:15:28 CET 2019 - /Stream/Southland-1.html,s2e1 - Southland
 1552331736 - Mon Mar 11 20:15:36 CET 2019 - /Stream/Lucifer-1.html,s2e9 - Lucifer
 1552331744 - Mon Mar 11 20:15:44 CET 2019 - /Stream/Naruto_Shippden_german_subbed.html,s20e48 - Naruto Shipp?den *german subbed*
+1552331752 - Mon Mar 11 20:15:52 CET 2019 - /Stream/ALF-1.html,s3e12 - ALF
