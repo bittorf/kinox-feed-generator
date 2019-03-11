@@ -24107,3 +24107,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552330495 - Mon Mar 11 19:54:55 CET 2019 - /Stream/I_Love_Dick-1.html,s1e3 - I Love Dick
 1552330504 - Mon Mar 11 19:55:04 CET 2019 - /Stream/Generator_Rex.html,s1e20 - Generator Rex
 1552330513 - Mon Mar 11 19:55:13 CET 2019 - /Stream/Hannibal_german_subbed.html,s2e2 - Hannibal *german subbed*
+1552330527 - Mon Mar 11 19:55:27 CET 2019 - /Stream/To_Love-Ru.html,s1e7 - To Love-Ru
