@@ -24325,3 +24325,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552332708 - Mon Mar 11 20:31:48 CET 2019 - /Stream/Scrubs.html,s6e5 - Scrubs
 1552332717 - Mon Mar 11 20:31:57 CET 2019 - /Stream/Ein_Fall_fuer_zwei.html,s26e3 - Ein Fall für zwei
 1552332728 - Mon Mar 11 20:32:08 CET 2019 - /Stream/Kalkofes_Mattscheibe.html,s3e20 - Kalkofes Mattscheibe
+1552332736 - Mon Mar 11 20:32:16 CET 2019 - /Stream/Itazura_na_Kiss_german_subbed.html,s1e3 - Itazura na Kiss *german subbed*
