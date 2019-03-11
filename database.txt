@@ -23651,3 +23651,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552326236 - Mon Mar 11 18:43:56 CET 2019 - /Stream/Save_the_Last_Dance.html - Save the Last Dance
 1552326245 - Mon Mar 11 18:44:05 CET 2019 - /Stream/Klischee.html - Klischee
 1552326251 - Mon Mar 11 18:44:11 CET 2019 - /Stream/Ambulance.html - Ambulance
+1552326259 - Mon Mar 11 18:44:19 CET 2019 - /Stream/Der_talentierte_Mr-Ripley.html - Der talentierte Mr. Ripley
