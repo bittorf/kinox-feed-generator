@@ -24283,3 +24283,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552332266 - Mon Mar 11 20:24:26 CET 2019 - /Stream/Ame-iro_Cocoa.html,s1e1 - Ame-iro Cocoa
 1552332274 - Mon Mar 11 20:24:34 CET 2019 - /Stream/Teen_Wolf-2.html,s3e7 - Teen Wolf
 1552332288 - Mon Mar 11 20:24:48 CET 2019 - /Stream/Lost_Girl-2.html,s1e2 - Lost Girl
+1552332296 - Mon Mar 11 20:24:56 CET 2019 - /Stream/Die_Simpsons.html,s2e16 - Die Simpsons
