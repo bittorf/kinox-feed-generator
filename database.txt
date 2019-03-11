@@ -24224,3 +24224,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552331641 - Mon Mar 11 20:14:01 CET 2019 - /Stream/Scandal-1.html,s4e22 - Scandal
 1552331651 - Mon Mar 11 20:14:11 CET 2019 - /Stream/Monk.html,s5e15 - Monk
 1552331661 - Mon Mar 11 20:14:21 CET 2019 - /Stream/Robin_Hood-8.html,s3e13 - Robin Hood
+1552331670 - Mon Mar 11 20:14:30 CET 2019 - /Stream/CSI_Den_Taetern_auf_der_Spur.html,s11e10 - CSI: Den Tätern auf der Spur
