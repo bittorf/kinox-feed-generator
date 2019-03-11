@@ -24238,3 +24238,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552331786 - Mon Mar 11 20:16:26 CET 2019 - /Stream/DoReMi-1.html,s1e4 - DoReMi
 1552331796 - Mon Mar 11 20:16:36 CET 2019 - /Stream/Cougar_Town-40_ist_das_neue_20.html,s1e15 - Cougar Town - 40 ist das neue 20
 1552331804 - Mon Mar 11 20:16:44 CET 2019 - /Stream/Chip-Chap-Die_Ritter_des_Rechts.html,s2e34 - Chip & Chap - Die Ritter des Rechts
+1552331812 - Mon Mar 11 20:16:52 CET 2019 - /Stream/Die_Waltons.html,s5e23 - Die Waltons
