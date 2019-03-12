@@ -24504,3 +24504,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552413669 - Tue Mar 12 19:01:09 CET 2019 - /Stream/Scent_of_a_Woman.html - Scent of a Woman
 1552413677 - Tue Mar 12 19:01:17 CET 2019 - /Stream/Stone_Cold-Kalt_wie_Stein.html - Stone Cold - Kalt wie Stein
 1552413685 - Tue Mar 12 19:01:25 CET 2019 - /Stream/Lost_in_Toronto.html - Lost in Toronto
+1552413693 - Tue Mar 12 19:01:33 CET 2019 - /Stream/Freitag_und_Robinson.html - Freitag und Robinson
