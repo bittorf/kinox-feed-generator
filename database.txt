@@ -24521,3 +24521,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552413801 - Tue Mar 12 19:03:21 CET 2019 - /Stream/Evil_Bong-Kiffen_kann_doch_toedlich_sein.html - Evil Bong - Kiffen kann doch tödlich sein!
 1552413808 - Tue Mar 12 19:03:28 CET 2019 - /Stream/Das_Wunder_von_Bern-1.html - Das Wunder von Bern
 1552413816 - Tue Mar 12 19:03:36 CET 2019 - /Stream/I_Am_Kalam.html - I Am Kalam
+1552413823 - Tue Mar 12 19:03:43 CET 2019 - /Stream/Mancation.html - Mancation
