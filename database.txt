@@ -25384,3 +25384,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552420935 - Tue Mar 12 21:02:15 CET 2019 - /Stream/Rosewood.html,s1e19 - Rosewood
 1552420944 - Tue Mar 12 21:02:24 CET 2019 - /Stream/Family_Guy.html,s5e16 - Family Guy
 1552420953 - Tue Mar 12 21:02:33 CET 2019 - /Stream/How_I_Met_Your_Mother_german_subbed.html,s8e24 - How I Met Your Mother *german subbed*
+1552420966 - Tue Mar 12 21:02:46 CET 2019 - /Stream/Bad_Judge.html,s1e9 - Bad Judge
