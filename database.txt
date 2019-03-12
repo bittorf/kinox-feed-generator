@@ -25955,3 +25955,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552427192 - Tue Mar 12 22:46:32 CET 2019 - /Stream/Antarktis_Untergang_eines_Kontinents.html - Antarktis: Untergang eines Kontinents
 1552427194 - Tue Mar 12 22:46:34 CET 2019 - /Stream/Pussy_Riot-Ein_russischer_Skandal.html - Pussy Riot - Ein russischer Skandal
 1552427195 - Tue Mar 12 22:46:35 CET 2019 - /Stream/Charles_Manson_Superstar.html - Charles Manson Superstar
+1552434668 - Wed Mar 13 00:51:08 CET 2019 - /Stream/Vice-Der_zweite_Mann.html - Vice - Der zweite Mann
