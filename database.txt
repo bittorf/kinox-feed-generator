@@ -25464,3 +25464,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552421707 - Tue Mar 12 21:15:07 CET 2019 - /Stream/Reign_german_subbed.html,s4e7 - Reign *german subbed*
 1552421718 - Tue Mar 12 21:15:18 CET 2019 - /Stream/Hell_Girl_german_subbed-1.html,s1e26 - Hell Girl *german subbed*
 1552421734 - Tue Mar 12 21:15:34 CET 2019 - /Stream/Supernatural.html,s10e8 - Supernatural
+1552421747 - Tue Mar 12 21:15:47 CET 2019 - /Stream/Degrassi_The_Next_Generation.html,s13e38 - Degrassi: The Next Generation
