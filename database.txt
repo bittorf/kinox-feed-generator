@@ -25478,3 +25478,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552421885 - Tue Mar 12 21:18:05 CET 2019 - /Stream/Grimoire_of_Zero.html,s1e5 - Grimoire of Zero
 1552421893 - Tue Mar 12 21:18:13 CET 2019 - /Stream/Raumschiff_Enterprise-Das_naechste_Jahrhundert.html,s3e1 - Raumschiff Enterprise - Das nächste Jahrhundert
 1552421907 - Tue Mar 12 21:18:27 CET 2019 - /Stream/Chicago_Med-1.html,s2e17 - Chicago Med
+1552421918 - Tue Mar 12 21:18:38 CET 2019 - /Stream/Mr-Robot-1.html,s1e3 - Mr. Robot
