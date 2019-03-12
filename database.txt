@@ -24605,3 +24605,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552414448 - Tue Mar 12 19:14:08 CET 2019 - /Stream/Die_Stimme_des_Meeres.html - Die Stimme des Meeres
 1552414454 - Tue Mar 12 19:14:14 CET 2019 - /Stream/Missed_Connections-1.html - Missed Connections
 1552414461 - Tue Mar 12 19:14:21 CET 2019 - /Stream/Deadly_Birthday_Party.html - Deadly Birthday Party
+1552414468 - Tue Mar 12 19:14:28 CET 2019 - /Stream/Freddy_im_wilden_Westen.html - Freddy im wilden Westen
