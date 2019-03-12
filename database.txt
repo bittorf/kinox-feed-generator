@@ -25858,3 +25858,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552426412 - Tue Mar 12 22:33:32 CET 2019 - /Stream/Eine_starke_Familie.html,s3e11 - Eine starke Familie
 1552426420 - Tue Mar 12 22:33:40 CET 2019 - /Stream/The_New_Normal-1.html,s1e19 - The New Normal
 1552426430 - Tue Mar 12 22:33:50 CET 2019 - /Stream/The_Magicians-1.html,s2e7 - The Magicians
+1552426438 - Tue Mar 12 22:33:58 CET 2019 - /Stream/Scrubs.html,s4e19 - Scrubs
