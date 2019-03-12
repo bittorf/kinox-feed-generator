@@ -25508,3 +25508,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552422219 - Tue Mar 12 21:23:39 CET 2019 - /Stream/Monk.html,s5e4 - Monk
 1552422229 - Tue Mar 12 21:23:49 CET 2019 - /Stream/Der_Denver-Clan.html,s1e13 - Der Denver-Clan
 1552422238 - Tue Mar 12 21:23:58 CET 2019 - /Stream/Power_Rangers_Mystic_Force.html,s1e6 - Power Rangers Mystic Force
+1552422251 - Tue Mar 12 21:24:11 CET 2019 - /Stream/The_Garfield_Show.html,s1e17 - The Garfield Show
