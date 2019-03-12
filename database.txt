@@ -25525,3 +25525,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552422398 - Tue Mar 12 21:26:38 CET 2019 - /Stream/Arrow-1.html,s6e19 - Arrow
 1552422419 - Tue Mar 12 21:26:59 CET 2019 - /Stream/Die_Saeulen_der_Erde.html,s1e5 - Die Säulen der Erde
 1552422431 - Tue Mar 12 21:27:11 CET 2019 - /Stream/Rauchende_Colts.html,s1e6 - Rauchende Colts
+1552422448 - Tue Mar 12 21:27:28 CET 2019 - /Stream/Der_Denver-Clan.html,s7e9 - Der Denver-Clan
