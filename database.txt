@@ -25796,3 +25796,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552425766 - Tue Mar 12 22:22:46 CET 2019 - /Stream/Abenteuer_Survival-Ausgesetzt_in_der_Wildnis.html,s6e5 - Abenteuer Survival - Ausgesetzt in der Wildnis
 1552425774 - Tue Mar 12 22:22:54 CET 2019 - /Stream/Arrow-1.html,s2e13 - Arrow
 1552425784 - Tue Mar 12 22:23:04 CET 2019 - /Stream/Person_of_Interest-3.html,s3e15 - Person of Interest
+1552425794 - Tue Mar 12 22:23:14 CET 2019 - /Stream/SOKO_Wismar.html,s10e4 - SOKO Wismar
