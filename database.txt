@@ -25544,3 +25544,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552422641 - Tue Mar 12 21:30:41 CET 2019 - /Stream/Unbreakable_Kimmy_Schmidt.html,s1e3 - Unbreakable Kimmy Schmidt
 1552422660 - Tue Mar 12 21:31:00 CET 2019 - /Stream/TURN-1.html,s1e10 - TURN
 1552422671 - Tue Mar 12 21:31:11 CET 2019 - /Stream/Die_neuen_Abenteuer_des_He-Man.html,s1e43 - Die neuen Abenteuer des He-Man
+1552422683 - Tue Mar 12 21:31:23 CET 2019 - /Stream/Nikita_german_subbed-1.html,s3e4 - Nikita *german subbed*
