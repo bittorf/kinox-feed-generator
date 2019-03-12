@@ -25582,3 +25582,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552423199 - Tue Mar 12 21:39:59 CET 2019 - /Stream/King_of_the_Hill-1.html,s1e4 - King of the Hill
 1552423205 - Tue Mar 12 21:40:05 CET 2019 - /Stream/Emergency_Room-Die_Notaufnahme.html,s1e23 - Emergency Room - Die Notaufnahme
 1552423223 - Tue Mar 12 21:40:23 CET 2019 - /Stream/Der_gestiefelte_Kater-Abenteuer_in_San_Lorenzo.html,s3e9 - Der gestiefelte Kater - Abenteuer in San Lorenzo
+1552423232 - Tue Mar 12 21:40:32 CET 2019 - /Stream/Zurueck_in_die_Vergangenheit.html,s3e19 - Zurück in die Vergangenheit
