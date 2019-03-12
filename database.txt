@@ -25761,3 +25761,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552425431 - Tue Mar 12 22:17:11 CET 2019 - /Stream/Fluss-Monster-Die_gefaehrlichsten_Abenteuer.html,s3e2 - Fluss-Monster - Die gefährlichsten Abenteuer
 1552425439 - Tue Mar 12 22:17:19 CET 2019 - /Stream/Eli_Stone-1.html,s2e1 - Eli Stone
 1552425448 - Tue Mar 12 22:17:28 CET 2019 - /Stream/Darkwing_Duck-1.html,s1e32 - Darkwing Duck
+1552425458 - Tue Mar 12 22:17:38 CET 2019 - /Stream/Elementary_german_subbed.html,s5e9 - Elementary *german subbed*
