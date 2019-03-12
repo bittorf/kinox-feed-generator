@@ -25455,3 +25455,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552421616 - Tue Mar 12 21:13:36 CET 2019 - /Stream/Grand_Hotel-1.html,s2e21 - Grand Hotel
 1552421625 - Tue Mar 12 21:13:45 CET 2019 - /Stream/ALF.html,s2e5 - ALF
 1552421640 - Tue Mar 12 21:14:00 CET 2019 - /Stream/Marvels_Agent_Carter.html,s2e1 - Marvel's Agent Carter
+1552421649 - Tue Mar 12 21:14:09 CET 2019 - /Stream/The_Closer-1.html,s6e5 - The Closer
