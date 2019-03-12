@@ -25380,3 +25380,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552420896 - Tue Mar 12 21:01:36 CET 2019 - /Stream/Conan_the_Adventurer.html,s1e2 - Conan the Adventurer
 1552420905 - Tue Mar 12 21:01:45 CET 2019 - /Stream/Ash_vs_Evil_Dead-1.html,s1e5 - Ash vs Evil Dead
 1552420915 - Tue Mar 12 21:01:55 CET 2019 - /Stream/Emergency_Room-Die_Notaufnahme.html,s7e22 - Emergency Room - Die Notaufnahme
+1552420927 - Tue Mar 12 21:02:07 CET 2019 - /Stream/Awkward.html,s3e2 - Awkward.
