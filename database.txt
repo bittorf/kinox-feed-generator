@@ -25883,3 +25883,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552426653 - Tue Mar 12 22:37:33 CET 2019 - /Stream/Chicago_Fire-1.html,s1e15 - Chicago Fire
 1552426661 - Tue Mar 12 22:37:41 CET 2019 - /Stream/SpongeBob_Schwammkopf.html,s5e13 - SpongeBob Schwammkopf
 1552426674 - Tue Mar 12 22:37:54 CET 2019 - /Stream/Continuum.html,s2e13 - Continuum
+1552426683 - Tue Mar 12 22:38:03 CET 2019 - /Stream/Eureka-Die_geheime_Stadt.html,s5e12 - Eureka - Die geheime Stadt
