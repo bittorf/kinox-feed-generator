@@ -25918,3 +25918,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552426984 - Tue Mar 12 22:43:04 CET 2019 - /Stream/Ein_Heim_fuer_Tiere.html,s1e1 - Ein Heim für Tiere
 1552426994 - Tue Mar 12 22:43:14 CET 2019 - /Stream/The_Forgotten-Die_Wahrheit_stirbt_nie.html,s1e9 - The Forgotten - Die Wahrheit stirbt nie
 1552427004 - Tue Mar 12 22:43:24 CET 2019 - /Stream/Veronica_Mars.html,s2e20 - Veronica Mars
+1552427012 - Tue Mar 12 22:43:32 CET 2019 - /Stream/Zurueck_in_die_Vergangenheit.html,s2e8 - Zurück in die Vergangenheit
