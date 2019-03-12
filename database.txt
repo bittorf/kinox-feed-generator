@@ -24798,3 +24798,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552415927 - Tue Mar 12 19:38:47 CET 2019 - /Stream/Afghanistan_War-Festung_Des_Todes.html - Afghanistan War - Festung Des Todes
 1552415933 - Tue Mar 12 19:38:53 CET 2019 - /Stream/Atlantis-Die_Rueckkehr.html - Atlantis - Die Rückkehr
 1552415941 - Tue Mar 12 19:39:01 CET 2019 - /Stream/The_Scorpion_King-1.html - The Scorpion King
+1552415952 - Tue Mar 12 19:39:12 CET 2019 - /Stream/Der_rote_Korsar.html - Der rote Korsar
