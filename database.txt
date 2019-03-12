@@ -24531,3 +24531,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552413879 - Tue Mar 12 19:04:39 CET 2019 - /Stream/Kommissar_Maigret_stellt_eine_Falle.html - Kommissar Maigret stellt eine Falle
 1552413886 - Tue Mar 12 19:04:46 CET 2019 - /Stream/Rivalen.html - Rivalen
 1552413894 - Tue Mar 12 19:04:54 CET 2019 - /Stream/Memories_of_Murder.html - Memories of Murder
+1552413900 - Tue Mar 12 19:05:00 CET 2019 - /Stream/Supernova-Wenn_die_Sonne_explodiert.html - Supernova - Wenn die Sonne explodiert
