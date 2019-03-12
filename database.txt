@@ -25740,3 +25740,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552425222 - Tue Mar 12 22:13:42 CET 2019 - /Stream/iZombie.html,s2e3 - iZombie
 1552425232 - Tue Mar 12 22:13:52 CET 2019 - /Stream/Are_You_There_Chelsea_.html,s1e2 - Are You There, Chelsea ?
 1552425243 - Tue Mar 12 22:14:03 CET 2019 - /Stream/Lost_Girl-2.html,s3e1 - Lost Girl
+1552425255 - Tue Mar 12 22:14:15 CET 2019 - /Stream/Criminal_Minds.html,s2e5 - Criminal Minds
