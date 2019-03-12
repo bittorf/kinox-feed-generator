@@ -25891,3 +25891,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552426727 - Tue Mar 12 22:38:47 CET 2019 - /Stream/Naruto_Shippuuden_german_subbed.html,s20e33 - Naruto: Shippuuden *german subbed*
 1552426738 - Tue Mar 12 22:38:58 CET 2019 - /Stream/Lost_Girl-2.html,s2e6 - Lost Girl
 1552426746 - Tue Mar 12 22:39:06 CET 2019 - /Stream/Doogie_Howser.html,s3e7 - Doogie Howser
+1552426754 - Tue Mar 12 22:39:14 CET 2019 - /Stream/Seinfeld-1.html,s2e2 - Seinfeld
