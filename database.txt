@@ -25649,3 +25649,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552424093 - Tue Mar 12 21:54:53 CET 2019 - /Stream/Law-Order_New_York.html,s10e15 - Law & Order: New York
 1552424128 - Tue Mar 12 21:55:28 CET 2019 - /Stream/Undateable-1.html,s3e12 - Undateable
 1552424139 - Tue Mar 12 21:55:39 CET 2019 - /Stream/Der_Bergdoktor-1.html,s4e11 - Der Bergdoktor
+1552424157 - Tue Mar 12 21:55:57 CET 2019 - /Stream/Die_Ludolfs-Vier_Brueder_aufm_Schrottplatz.html,s4e8 - Die Ludolfs - Vier Brüder auf'm Schrottplatz
