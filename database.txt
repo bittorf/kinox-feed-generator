@@ -25769,3 +25769,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552425507 - Tue Mar 12 22:18:27 CET 2019 - /Stream/Herzensbrecher-Vater_von_vier_Soehnen.html,s4e7 - Herzensbrecher - Vater von vier Söhnen
 1552425516 - Tue Mar 12 22:18:36 CET 2019 - /Stream/Marvels_Luke_Cage.html,s2e11 - Marvel's Luke Cage
 1552425525 - Tue Mar 12 22:18:45 CET 2019 - /Stream/Little_Britain-1.html,s3e5 - Little Britain
+1552425533 - Tue Mar 12 22:18:53 CET 2019 - /Stream/Die_Jetsons.html,s2e38 - Die Jetsons
