@@ -25773,3 +25773,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552425543 - Tue Mar 12 22:19:03 CET 2019 - /Stream/Z_Nation_german_subbed.html,s1e11 - Z Nation *german subbed*
 1552425560 - Tue Mar 12 22:19:20 CET 2019 - /Stream/Mummies_Alive-Die_Hueter_des_Pharaos.html,s1e3 - Mummies Alive - Die Hüter des Pharaos
 1552425568 - Tue Mar 12 22:19:28 CET 2019 - /Stream/Baki.html,s1e1 - Baki
+1552425576 - Tue Mar 12 22:19:36 CET 2019 - /Stream/The_Mentalist.html,s6e2 - The Mentalist
