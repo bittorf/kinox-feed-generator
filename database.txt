@@ -25366,3 +25366,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552420772 - Tue Mar 12 20:59:32 CET 2019 - /Stream/Charmed-Zauberhafte_Hexen.html,s3e6 - Charmed - Zauberhafte Hexen
 1552420782 - Tue Mar 12 20:59:42 CET 2019 - /Stream/Blade-Die_Jagd_geht_weiter.html,s1 - Blade - Die Jagd geht weiter
 1552420790 - Tue Mar 12 20:59:50 CET 2019 - /Stream/Misfits-1.html,s3e6 - Misfits
+1552420798 - Tue Mar 12 20:59:58 CET 2019 - /Stream/The_Mentalist.html,s4e24 - The Mentalist
