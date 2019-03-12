@@ -25907,3 +25907,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552426881 - Tue Mar 12 22:41:21 CET 2019 - /Stream/Mr-Robot-1.html,s2e11 - Mr. Robot
 1552426890 - Tue Mar 12 22:41:30 CET 2019 - /Stream/Hinterm_Sofa_an_der_Front.html,s2e6 - Hinterm Sofa an der Front
 1552426897 - Tue Mar 12 22:41:37 CET 2019 - /Stream/Bionic_Woman.html,s1e8 - Bionic Woman
+1552426907 - Tue Mar 12 22:41:47 CET 2019 - /Stream/Legend_of_the_Seeker-Das_Schwert_der_Wahrheit.html,s1e11 - Legend of the Seeker - Das Schwert der Wahrheit
