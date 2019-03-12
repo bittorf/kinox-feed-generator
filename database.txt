@@ -25293,3 +25293,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552420087 - Tue Mar 12 20:48:07 CET 2019 - /Stream/Familie_Feuerstein-1.html,s1 - Familie Feuerstein
 1552420096 - Tue Mar 12 20:48:16 CET 2019 - /Stream/Power_Rangers_Jungle_Fury.html,s1e12 - Power Rangers Jungle Fury
 1552420104 - Tue Mar 12 20:48:24 CET 2019 - /Stream/Emergency_Room-Die_Notaufnahme.html,s3e17 - Emergency Room - Die Notaufnahme
+1552420116 - Tue Mar 12 20:48:36 CET 2019 - /Stream/Abenteuer_Survival-Ausgesetzt_in_der_Wildnis.html,s1e9 - Abenteuer Survival - Ausgesetzt in der Wildnis
