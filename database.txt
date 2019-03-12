@@ -25643,3 +25643,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552424015 - Tue Mar 12 21:53:35 CET 2019 - /Stream/Jersey_Shore.html,s5e10 - Jersey Shore
 1552424028 - Tue Mar 12 21:53:48 CET 2019 - /Stream/Parker_Lewis-Der_Coole_von_der_Schule.html,s3e10 - Parker Lewis - Der Coole von der Schule
 1552424042 - Tue Mar 12 21:54:02 CET 2019 - /Stream/Star_Trek_Deep_Space_Nine.html,s5e8 - Star Trek: Deep Space Nine
+1552424055 - Tue Mar 12 21:54:15 CET 2019 - /Stream/Star_Wars_Rebels.html,s2e23 - Star Wars Rebels
