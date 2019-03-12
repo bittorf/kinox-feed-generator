@@ -25869,3 +25869,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552426522 - Tue Mar 12 22:35:22 CET 2019 - /Stream/Witches_of_East_End.html,s1e3 - Witches of East End
 1552426531 - Tue Mar 12 22:35:31 CET 2019 - /Stream/Sarah-Duck.html,s3e5 - Sarah & Duck
 1552426540 - Tue Mar 12 22:35:40 CET 2019 - /Stream/Lost_Girl-2.html,s1e3 - Lost Girl
+1552426549 - Tue Mar 12 22:35:49 CET 2019 - /Stream/Die_Geister_von_Ainsbury.html,s1e8 - Die Geister von Ainsbury
