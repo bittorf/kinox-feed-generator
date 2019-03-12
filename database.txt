@@ -25777,3 +25777,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552425591 - Tue Mar 12 22:19:51 CET 2019 - /Stream/Golgo_13_german_subbed.html,s1e10 - Golgo 13 *german subbed*
 1552425599 - Tue Mar 12 22:19:59 CET 2019 - /Stream/Das_Leben_und_Riley.html,s1e14 - Das Leben und Riley
 1552425603 - Tue Mar 12 22:20:03 CET 2019 - /Stream/Degrassi_Next_Class.html,s2e2 - Degrassi: Next Class
+1552425612 - Tue Mar 12 22:20:12 CET 2019 - /Stream/Kenny_vs-Spenny-1.html,s5e8 - Kenny vs. Spenny
