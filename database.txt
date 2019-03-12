@@ -25076,3 +25076,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552418173 - Tue Mar 12 20:16:13 CET 2019 - /Stream/The_Cremator.html - The Cremator
 1552418183 - Tue Mar 12 20:16:23 CET 2019 - /Stream/Pollock.html - Pollock
 1552418199 - Tue Mar 12 20:16:39 CET 2019 - /Stream/Vergiss_Dein_Ende.html - Vergiss Dein Ende
+1552418211 - Tue Mar 12 20:16:51 CET 2019 - /Stream/Wie_der_Vater_so_der_Sohn.html - Wie der Vater, so der Sohn
