@@ -25928,3 +25928,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552427077 - Tue Mar 12 22:44:37 CET 2019 - /Stream/Matlock-1.html,s8e20 - Matlock
 1552427088 - Tue Mar 12 22:44:48 CET 2019 - /Stream/Matlock-1.html,s3e12 - Matlock
 1552427098 - Tue Mar 12 22:44:58 CET 2019 - /Stream/Desperate_Housewives.html,s4e2 - Desperate Housewives
+1552427110 - Tue Mar 12 22:45:10 CET 2019 - /Stream/Geschichten_aus_der_Gruft_Zeichentrick.html,s1e6 - Geschichten aus der Gruft (Zeichentrick)
