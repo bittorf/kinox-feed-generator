@@ -25757,3 +25757,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552425395 - Tue Mar 12 22:16:35 CET 2019 - /Stream/Generator_Rex.html,s2e10 - Generator Rex
 1552425405 - Tue Mar 12 22:16:45 CET 2019 - /Stream/Switched_at_Birth-3.html,s1e8 - Switched at Birth
 1552425414 - Tue Mar 12 22:16:54 CET 2019 - /Stream/Sherlock_Holmes-4.html,s2e2 - Sherlock Holmes
+1552425423 - Tue Mar 12 22:17:03 CET 2019 - /Stream/American_Dad.html,s3e15 - American Dad
