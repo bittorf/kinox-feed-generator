@@ -25083,3 +25083,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552418258 - Tue Mar 12 20:17:38 CET 2019 - /Stream/Astronaut_Farmer.html - Astronaut Farmer
 1552418274 - Tue Mar 12 20:17:54 CET 2019 - /Stream/La_Haine.html - La Haine
 1552418286 - Tue Mar 12 20:18:06 CET 2019 - /Stream/Zeit_der_Zimmerbraende.html - Zeit der Zimmerbrände
+1552418296 - Tue Mar 12 20:18:16 CET 2019 - /Stream/Alle_lieben_Oscar.html - Alle lieben Oscar
