@@ -25287,3 +25287,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552420034 - Tue Mar 12 20:47:14 CET 2019 - /Stream/Elizabeth_Bathory.html - Elizabeth Bathory
 1552420041 - Tue Mar 12 20:47:21 CET 2019 - /Stream/Harlem_N-Y-C-Der_Preis_der_Macht.html - Harlem, N.Y.C. - Der Preis der Macht
 1552420050 - Tue Mar 12 20:47:30 CET 2019 - /Stream/New_Spiderman.html,s2e7 - New Spiderman
+1552420059 - Tue Mar 12 20:47:39 CET 2019 - /Stream/Chicago_Med-1.html,s1e13 - Chicago Med
