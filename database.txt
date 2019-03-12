@@ -25834,3 +25834,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552426128 - Tue Mar 12 22:28:48 CET 2019 - /Stream/Die_Zauberer_vom_Waverly_Place.html,s3e13 - Die Zauberer vom Waverly Place
 1552426138 - Tue Mar 12 22:28:58 CET 2019 - /Stream/Falling_Skies.html,s2e5 - Falling Skies
 1552426147 - Tue Mar 12 22:29:07 CET 2019 - /Stream/Bakugan-Spieler_des_Schicksals.html,s1e32 - Bakugan - Spieler des Schicksals
+1552426156 - Tue Mar 12 22:29:16 CET 2019 - /Stream/White_Collar-1.html,s8e6 - White Collar
