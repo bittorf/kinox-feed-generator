@@ -25801,3 +25801,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552425814 - Tue Mar 12 22:23:34 CET 2019 - /Stream/Perry_Mason.html,s6e16 - Perry Mason
 1552425825 - Tue Mar 12 22:23:45 CET 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s1e12 - Heartland - Paradies für Pferde
 1552425833 - Tue Mar 12 22:23:53 CET 2019 - /Stream/Hercules-3.html,s4e22 - Hercules
+1552425844 - Tue Mar 12 22:24:04 CET 2019 - /Stream/Kung_Fu-Im_Zeichen_des_Drachen.html,s3e10 - Kung Fu - Im Zeichen des Drachen
