@@ -25656,3 +25656,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552424232 - Tue Mar 12 21:57:12 CET 2019 - /Stream/Die_Chaosfamilie.html,s2e20 - Die Chaosfamilie
 1552424244 - Tue Mar 12 21:57:24 CET 2019 - /Stream/Modern_Family-1.html,s3e24 - Modern Family
 1552424259 - Tue Mar 12 21:57:39 CET 2019 - /Stream/Last_Exile-1.html,s1e21 - Last Exile
+1552424273 - Tue Mar 12 21:57:53 CET 2019 - /Stream/Trio_mit_vier_Faeusten.html,s3e17 - Trio mit vier Fäusten
