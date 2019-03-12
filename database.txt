@@ -24529,3 +24529,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552413864 - Tue Mar 12 19:04:24 CET 2019 - /Stream/The_Brand_New_Testament.html - The Brand New Testament
 1552413873 - Tue Mar 12 19:04:33 CET 2019 - /Stream/ClownTown.html - ClownTown
 1552413879 - Tue Mar 12 19:04:39 CET 2019 - /Stream/Kommissar_Maigret_stellt_eine_Falle.html - Kommissar Maigret stellt eine Falle
+1552413886 - Tue Mar 12 19:04:46 CET 2019 - /Stream/Rivalen.html - Rivalen
