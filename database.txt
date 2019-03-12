@@ -25493,3 +25493,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552422044 - Tue Mar 12 21:20:44 CET 2019 - /Stream/Hotel_Babylon.html,s2e7 - Hotel Babylon
 1552422056 - Tue Mar 12 21:20:56 CET 2019 - /Stream/Perry_Mason.html,s9e4 - Perry Mason
 1552422068 - Tue Mar 12 21:21:08 CET 2019 - /Stream/Sanctuary-Waechter_der_Kreaturen.html,s1e9 - Sanctuary - Wächter der Kreaturen
+1552422080 - Tue Mar 12 21:21:20 CET 2019 - /Stream/Star_Wars_The_Clone_Wars-1.html,s6 - Star Wars: The Clone Wars
