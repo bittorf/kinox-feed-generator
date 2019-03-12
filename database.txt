@@ -25548,3 +25548,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552422694 - Tue Mar 12 21:31:34 CET 2019 - /Stream/Black_Sails-1.html,s4e10 - Black Sails
 1552422703 - Tue Mar 12 21:31:43 CET 2019 - /Stream/Gantz-4.html,s2e4 - Gantz
 1552422715 - Tue Mar 12 21:31:55 CET 2019 - /Stream/Hawaii_Five-0.html,s8e23 - Hawaii Five-0
+1552422725 - Tue Mar 12 21:32:05 CET 2019 - /Stream/Kamichu_german_subbed.html,s1e3 - Kamichu! *german subbed*
