@@ -25671,3 +25671,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552424447 - Tue Mar 12 22:00:47 CET 2019 - /Stream/Supernatural_german_subbed-1.html,s8e21 - Supernatural *german subbed*
 1552424462 - Tue Mar 12 22:01:02 CET 2019 - /Stream/L-A-Heat.html,s2e5 - L.A. Heat
 1552424473 - Tue Mar 12 22:01:13 CET 2019 - /Stream/King_of_the_Hill.html,s3e3 - King of the Hill
+1552424486 - Tue Mar 12 22:01:26 CET 2019 - /Stream/Worst_Week-1.html,s1e9 - Worst Week
