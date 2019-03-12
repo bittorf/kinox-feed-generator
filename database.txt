@@ -25763,3 +25763,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552425448 - Tue Mar 12 22:17:28 CET 2019 - /Stream/Darkwing_Duck-1.html,s1e32 - Darkwing Duck
 1552425458 - Tue Mar 12 22:17:38 CET 2019 - /Stream/Elementary_german_subbed.html,s5e9 - Elementary *german subbed*
 1552425467 - Tue Mar 12 22:17:47 CET 2019 - /Stream/Geheimnisse_des_Universums-1.html,s7e4 - Geheimnisse des Universums
+1552425477 - Tue Mar 12 22:17:57 CET 2019 - /Stream/Criminal_Intent-Verbrechen_im_Visier.html,s6e22 - Criminal Intent - Verbrechen im Visier
