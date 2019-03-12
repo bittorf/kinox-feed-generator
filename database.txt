@@ -25094,3 +25094,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552418377 - Tue Mar 12 20:19:37 CET 2019 - /Stream/Erotic_Ghost_Story_III.html - Erotic Ghost Story III
 1552418387 - Tue Mar 12 20:19:47 CET 2019 - /Stream/Poltergeist_II-Die_andere_Seite.html - Poltergeist II - Die andere Seite
 1552418397 - Tue Mar 12 20:19:57 CET 2019 - /Stream/Der_Schwur_des_Karateka.html - Der Schwur des Karateka
+1552418409 - Tue Mar 12 20:20:09 CET 2019 - /Stream/Duell_mit_dem_Teufel.html - Duell mit dem Teufel
