@@ -24561,3 +24561,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552414110 - Tue Mar 12 19:08:30 CET 2019 - /Stream/Hellboy_Animated_Schwert_der_Stuerme.html - Hellboy Animated: Schwert der Stürme
 1552414118 - Tue Mar 12 19:08:38 CET 2019 - /Stream/Alien_Origin.html - Alien Origin
 1552414125 - Tue Mar 12 19:08:45 CET 2019 - /Stream/The_Pleasure_Drivers.html - The Pleasure Drivers
+1552414132 - Tue Mar 12 19:08:52 CET 2019 - /Stream/Tucker.html - Tucker
