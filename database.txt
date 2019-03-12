@@ -24586,3 +24586,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552414306 - Tue Mar 12 19:11:46 CET 2019 - /Stream/Der_Job_seines_Lebens.html - Der Job seines Lebens
 1552414312 - Tue Mar 12 19:11:52 CET 2019 - /Stream/Muscle_Shoals.html - Muscle Shoals
 1552414320 - Tue Mar 12 19:12:00 CET 2019 - /Stream/Curious_George_3_Back_to_the_Jungle.html - Curious George 3: Back to the Jungle
+1552414329 - Tue Mar 12 19:12:09 CET 2019 - /Stream/Halloween_VI-Der_Fluch_des_Michael_Myers.html - Halloween VI - Der Fluch des Michael Myers
