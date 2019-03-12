@@ -25707,3 +25707,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552424889 - Tue Mar 12 22:08:09 CET 2019 - /Stream/South_Park-1.html,s10e12 - South Park
 1552424899 - Tue Mar 12 22:08:19 CET 2019 - /Stream/SpongeBob_Schwammkopf.html,s3e9 - SpongeBob Schwammkopf
 1552424909 - Tue Mar 12 22:08:29 CET 2019 - /Stream/Der_letzte_Bulle.html,s2e12 - Der letzte Bulle
+1552424917 - Tue Mar 12 22:08:37 CET 2019 - /Stream/Stargate_Infinity.html,s1e22 - Stargate: Infinity
