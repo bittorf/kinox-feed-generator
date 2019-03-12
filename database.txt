@@ -24495,3 +24495,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552413606 - Tue Mar 12 19:00:06 CET 2019 - /Stream/The_Hunters-Auf_der_Jagd_nach_dem_verlorenen_Spiegel.html - The Hunters - Auf der Jagd nach dem verlorenen Spiegel
 1552413613 - Tue Mar 12 19:00:13 CET 2019 - /Stream/S-I-U.html - S.I.U.
 1552413619 - Tue Mar 12 19:00:19 CET 2019 - /Stream/Jack.html - Jack
+1552413629 - Tue Mar 12 19:00:29 CET 2019 - /Stream/Das_siebente_Siegel.html - Das siebente Siegel
