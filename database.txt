@@ -25349,3 +25349,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552420615 - Tue Mar 12 20:56:55 CET 2019 - /Stream/Those_Who_Cant.html,s2e6 - Those Who Can't
 1552420623 - Tue Mar 12 20:57:03 CET 2019 - /Stream/Delete.html,s1e2 - Delete
 1552420630 - Tue Mar 12 20:57:10 CET 2019 - /Stream/Pretender.html,s2e13 - Pretender
+1552420641 - Tue Mar 12 20:57:21 CET 2019 - /Stream/Lucifer-1.html,s1e10 - Lucifer
