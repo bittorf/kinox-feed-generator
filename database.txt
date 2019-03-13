@@ -25992,3 +25992,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552499817 - Wed Mar 13 18:56:57 CET 2019 - /Stream/Paradox-Die_Parallelwelt.html - Paradox - Die Parallelwelt
 1552499825 - Wed Mar 13 18:57:05 CET 2019 - /Stream/Detektiv_Conan.html,s8e7 - Detektiv Conan
 1552499834 - Wed Mar 13 18:57:14 CET 2019 - /Stream/Supernatural.html,s9e19 - Supernatural
+1552499844 - Wed Mar 13 18:57:24 CET 2019 - /Stream/4400-Die_Rueckkehrer.html,s2e7 - 4400 - Die Rückkehrer
