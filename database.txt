@@ -26025,3 +26025,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552911120 - Mon Mar 18 13:12:00 CET 2019 - /Stream/Suburra_la_serie.html,s2 - Suburra: la serie
 1552911131 - Mon Mar 18 13:12:11 CET 2019 - /Stream/Midnight_Texas-1.html,s1e8 - Midnight, Texas
 1552911138 - Mon Mar 18 13:12:18 CET 2019 - /Stream/Einstein_Die_Serie.html,s3e10 - Einstein: Die Serie
+1552911146 - Mon Mar 18 13:12:26 CET 2019 - /Stream/Riverdale-1.html,s3e15 - Riverdale
