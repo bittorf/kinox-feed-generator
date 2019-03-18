@@ -26016,3 +26016,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552867753 - Mon Mar 18 01:09:13 CET 2019 - /Stream/Avenging_Force_The_Scarab.html - Avenging Force: The Scarab
 1552867760 - Mon Mar 18 01:09:20 CET 2019 - /Stream/Voices_from_beyond.html - Voices from beyond
 1552911033 - Mon Mar 18 13:10:33 CET 2019 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s9e5 - Shameless - Nicht ganz nüchtern
+1552911044 - Mon Mar 18 13:10:44 CET 2019 - /Stream/Star_Trek_Discovery-1.html,s2e9 - Star Trek: Discovery
