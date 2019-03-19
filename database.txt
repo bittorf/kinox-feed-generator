@@ -26056,3 +26056,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553012389 - Tue Mar 19 17:19:49 CET 2019 - /Stream/Shadowhunters.html,s3e14 - Shadowhunters
 1553012398 - Tue Mar 19 17:19:58 CET 2019 - /Stream/Arrow.html,s7e16 - Arrow
 1553012410 - Tue Mar 19 17:20:10 CET 2019 - /Stream/American_Dad-1.html,s14e19 - American Dad!
+1553026840 - Tue Mar 19 21:20:40 CET 2019 - /Stream/S-W-A-T-1.html,s2e14 - S.W.A.T.
