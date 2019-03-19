@@ -26049,3 +26049,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1552947428 - Mon Mar 18 23:17:08 CET 2019 - /Stream/Bobs_Burgers.html,s9e17 - Bob's Burgers
 1552983491 - Tue Mar 19 09:18:11 CET 2019 - /Stream/American_Gods-1.html,s2 - American Gods
 1552983509 - Tue Mar 19 09:18:29 CET 2019 - /Stream/The_Middle-1.html,s9e19 - The Middle.
+1553012354 - Tue Mar 19 17:19:14 CET 2019 - /Stream/The_Resident-3.html,s2e17 - The Resident
