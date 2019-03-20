@@ -26074,3 +26074,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553070250 - Wed Mar 20 09:24:10 CET 2019 - /Stream/Holby_City.html,s21e11 - Holby City
 1553077478 - Wed Mar 20 11:24:38 CET 2019 - /Stream/Shadowhunters-1.html,s3e14 - Shadowhunters
 1553120746 - Wed Mar 20 23:25:46 CET 2019 - /Stream/Navy_CIS_L-A.html,s10e11 - Navy CIS: L.A.
+1553120757 - Wed Mar 20 23:25:57 CET 2019 - /Stream/Young_Sheldon-1.html,s2e12 - Young Sheldon
