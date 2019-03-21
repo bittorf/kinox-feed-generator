@@ -26082,3 +26082,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553120801 - Wed Mar 20 23:26:41 CET 2019 - /Stream/The_Big_Bang_Theory.html,s12e12 - The Big Bang Theory
 1553120811 - Wed Mar 20 23:26:51 CET 2019 - /Stream/FBI-2.html,s1e12 - FBI
 1553164079 - Thu Mar 21 11:27:59 CET 2019 - /Stream/Hawaii_Five-0.html,s9e9 - Hawaii Five-0
+1553164093 - Thu Mar 21 11:28:13 CET 2019 - /Stream/Criminal_Minds-1.html,s14e12 - Criminal Minds
