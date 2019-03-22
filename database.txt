@@ -26112,3 +26112,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553286886 - Fri Mar 22 21:34:46 CET 2019 - /Stream/Superstore.html,s4e12 - Superstore
 1553286895 - Fri Mar 22 21:34:55 CET 2019 - /Stream/Legacies.html,s1e15 - Legacies
 1553286903 - Fri Mar 22 21:35:03 CET 2019 - /Stream/Brooklyn_Nine-Nine.html,s6e11 - Brooklyn Nine-Nine
+1553286912 - Fri Mar 22 21:35:12 CET 2019 - /Stream/Law-Order_Special_Victims_Unit.html,s20e18 - Law & Order: Special Victims Unit
