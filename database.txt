@@ -26129,3 +26129,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553380780 - Sat Mar 23 23:39:40 CET 2019 - /Stream/A_Private_War.html - A Private War
 1553380795 - Sat Mar 23 23:39:55 CET 2019 - /Stream/Neo_Magazin-1.html,s7e22 - Neo Magazin
 1553380807 - Sat Mar 23 23:40:07 CET 2019 - /Stream/Bordertown-3.html,s2e8 - Bordertown
+1553380815 - Sat Mar 23 23:40:15 CET 2019 - /Stream/Der_Denver-Clan-1.html,s2e15 - Der Denver-Clan
