@@ -26168,3 +26168,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553554173 - Mon Mar 25 23:49:33 CET 2019 - /Stream/The_Walking_Dead-1.html,s9e15 - The Walking Dead
 1553554183 - Mon Mar 25 23:49:43 CET 2019 - /Stream/Navy_CIS_L-A.html,s10e12 - Navy CIS: L.A.
 1553554193 - Mon Mar 25 23:49:53 CET 2019 - /Stream/American_Gods-1.html,s2e3 - American Gods
+1553554202 - Mon Mar 25 23:50:02 CET 2019 - /Stream/Black_Lightning-2.html,s2e16 - Black Lightning
