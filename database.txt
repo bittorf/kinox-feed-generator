@@ -26170,3 +26170,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553554193 - Mon Mar 25 23:49:53 CET 2019 - /Stream/American_Gods-1.html,s2e3 - American Gods
 1553554202 - Mon Mar 25 23:50:02 CET 2019 - /Stream/Black_Lightning-2.html,s2e16 - Black Lightning
 1553554210 - Mon Mar 25 23:50:10 CET 2019 - /Stream/Law-Order_New_York.html,s9e13 - Law & Order: New York
+1553590275 - Tue Mar 26 09:51:15 CET 2019 - /Stream/Seattle_Firefighters-Die_jungen_Helden.html,s2e1 - Seattle Firefighters - Die jungen Helden
