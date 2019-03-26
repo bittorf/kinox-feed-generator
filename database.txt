@@ -26183,3 +26183,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553590363 - Tue Mar 26 09:52:43 CET 2019 - /Stream/Arrow.html,s7e17 - Arrow
 1553604795 - Tue Mar 26 13:53:15 CET 2019 - /Stream/Elementary-1.html,s6e19 - Elementary
 1553604806 - Tue Mar 26 13:53:26 CET 2019 - /Stream/Chicago_Med-1.html,s4e4 - Chicago Med
+1553604814 - Tue Mar 26 13:53:34 CET 2019 - /Stream/Chicago_Fire-1.html,s7e4 - Chicago Fire
