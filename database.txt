@@ -26211,3 +26211,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553763699 - Thu Mar 28 10:01:39 CET 2019 - /Stream/Gluecklich_wie_Lazzaro.html - Glücklich wie Lazzaro
 1553763708 - Thu Mar 28 10:01:48 CET 2019 - /Stream/The_Magicians.html,s4e10 - The Magicians
 1553763717 - Thu Mar 28 10:01:57 CET 2019 - /Stream/Happy.html,s2e1 - Happy!
+1553763729 - Thu Mar 28 10:02:09 CET 2019 - /Stream/Riverdale.html,s3e17 - Riverdale
