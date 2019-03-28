@@ -26209,3 +26209,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553727588 - Wed Mar 27 23:59:48 CET 2019 - /Stream/Mord_ist_ihr_Hobby.html,s10 - Mord ist ihr Hobby
 1553727597 - Wed Mar 27 23:59:57 CET 2019 - /Stream/Um_Himmels_Willen.html,s18e1 - Um Himmels Willen
 1553763699 - Thu Mar 28 10:01:39 CET 2019 - /Stream/Gluecklich_wie_Lazzaro.html - Glücklich wie Lazzaro
+1553763708 - Thu Mar 28 10:01:48 CET 2019 - /Stream/The_Magicians.html,s4e10 - The Magicians
