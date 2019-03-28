@@ -26229,3 +26229,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1553807160 - Thu Mar 28 22:06:00 CET 2019 - /Stream/Hawaii_Five-0.html,s9e10 - Hawaii Five-0
 1553814383 - Fri Mar 29 00:06:23 CET 2019 - /Stream/Mutafukaz.html - Mutafukaz
 1553814390 - Fri Mar 29 00:06:30 CET 2019 - /Stream/Carne-Fleisch.html - Carne - Fleisch
+1553814399 - Fri Mar 29 00:06:39 CET 2019 - /Stream/Shadowhunters-1.html,s3e15 - Shadowhunters
