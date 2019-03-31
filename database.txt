@@ -26275,3 +26275,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554023941 - Sun Mar 31 11:19:01 CEST 2019 - /Stream/Z_Nation-1.html,s5e4 - Z Nation
 1554023949 - Sun Mar 31 11:19:09 CEST 2019 - /Stream/Der_Denver-Clan-1.html,s2e16 - Der Denver-Clan
 1554023957 - Sun Mar 31 11:19:17 CEST 2019 - /Stream/Letzte_Spur_Berlin.html,s8e5 - Letzte Spur Berlin
+1554023966 - Sun Mar 31 11:19:26 CEST 2019 - /Stream/Dynasty-1.html,s2e16 - Dynasty
