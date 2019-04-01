@@ -26298,3 +26298,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554103477 - Mon Apr  1 09:24:37 CEST 2019 - /Stream/The_Simpsons.html,s30e19 - The Simpsons
 1554139534 - Mon Apr  1 19:25:34 CEST 2019 - /Stream/The_Good_Place-1.html,s3 - The Good Place
 1554139542 - Mon Apr  1 19:25:42 CEST 2019 - /Stream/American_Gods-1.html,s2e4 - American Gods
+1554139551 - Mon Apr  1 19:25:51 CEST 2019 - /Stream/Bull-1.html,s3e7 - Bull
