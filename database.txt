@@ -26315,3 +26315,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554197374 - Tue Apr  2 11:29:34 CEST 2019 - /Stream/American_Dad-1.html,s14e21 - American Dad!
 1554240660 - Tue Apr  2 23:31:00 CEST 2019 - /Stream/Bent-Korruption_kennt_keine_Regeln.html - Bent - Korruption kennt keine Regeln
 1554240671 - Tue Apr  2 23:31:11 CEST 2019 - /Stream/S-W-A-T-1.html,s2e16 - S.W.A.T.
+1554240678 - Tue Apr  2 23:31:18 CEST 2019 - /Stream/Chicago_Med-1.html,s4e5 - Chicago Med
