@@ -26325,3 +26325,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554291228 - Wed Apr  3 13:33:48 CEST 2019 - /Stream/Chicago_Fire-1.html,s7e5 - Chicago Fire
 1554291237 - Wed Apr  3 13:33:57 CEST 2019 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s9e8 - Shameless - Nicht ganz nüchtern
 1554291248 - Wed Apr  3 13:34:08 CEST 2019 - /Stream/The_Village-2.html,s1e3 - The Village
+1554291256 - Wed Apr  3 13:34:16 CEST 2019 - /Stream/The_Rookie-1.html,s1e18 - The Rookie
