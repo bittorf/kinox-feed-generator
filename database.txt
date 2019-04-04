@@ -26344,3 +26344,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554392466 - Thu Apr  4 17:41:06 CEST 2019 - /Stream/Chicago_Med.html,s4e18 - Chicago Med
 1554392477 - Thu Apr  4 17:41:17 CEST 2019 - /Stream/Empire-3.html,s5e13 - Empire
 1554392490 - Thu Apr  4 17:41:30 CEST 2019 - /Stream/Jane_the_Virgin.html,s5e2 - Jane the Virgin
+1554392500 - Thu Apr  4 17:41:40 CEST 2019 - /Stream/The_Goldbergs.html,s6e20 - The Goldbergs
