@@ -26350,3 +26350,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554392529 - Thu Apr  4 17:42:09 CEST 2019 - /Stream/Doctor_Who-1.html,s4 - Doctor Who
 1554392540 - Thu Apr  4 17:42:20 CEST 2019 - /Stream/Greys_Anatomy.html,s15e20 - Grey's Anatomy
 1554392551 - Thu Apr  4 17:42:31 CEST 2019 - /Stream/Chicago_PD.html,s6e18 - Chicago PD
+1554414194 - Thu Apr  4 23:43:14 CEST 2019 - /Stream/Midnight_Texas-1.html,s2e1 - Midnight, Texas
