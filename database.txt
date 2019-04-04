@@ -26338,3 +26338,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554392412 - Thu Apr  4 17:40:12 CEST 2019 - /Stream/The_Last_O-G.html,s2e1 - The Last O.G.
 1554392421 - Thu Apr  4 17:40:21 CEST 2019 - /Stream/Happy.html,s2e2 - Happy!
 1554392429 - Thu Apr  4 17:40:29 CEST 2019 - /Stream/SEAL_Team.html,s2e16 - SEAL Team
+1554392438 - Thu Apr  4 17:40:38 CEST 2019 - /Stream/The_Good_Fight-1.html,s3e4 - The Good Fight
