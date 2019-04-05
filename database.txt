@@ -26358,3 +26358,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554471949 - Fri Apr  5 15:45:49 CEST 2019 - /Stream/Station_19.html,s2e12 - Station 19
 1554471957 - Fri Apr  5 15:45:57 CEST 2019 - /Stream/Young_Sheldon.html,s2e18 - Young Sheldon
 1554471967 - Fri Apr  5 15:46:07 CEST 2019 - /Stream/Star_Trek_Discovery.html,s2e12 - Star Trek: Discovery
+1554471976 - Fri Apr  5 15:46:16 CEST 2019 - /Stream/The_Big_Bang_Theory-1.html,s12e18 - The Big Bang Theory
