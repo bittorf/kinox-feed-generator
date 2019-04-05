@@ -26368,3 +26368,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554493673 - Fri Apr  5 21:47:53 CEST 2019 - /Stream/Die_Goldbergs.html,s6e2 - Die Goldbergs
 1554493681 - Fri Apr  5 21:48:01 CEST 2019 - /Stream/Chilling_Adventures_of_Sabrina.html,s2e1 - Chilling Adventures of Sabrina
 1554493691 - Fri Apr  5 21:48:11 CEST 2019 - /Stream/Elementary-1.html,s6e20 - Elementary
+1554493703 - Fri Apr  5 21:48:23 CEST 2019 - /Stream/Marvels_Cloak-Dagger.html,s2e1 - Marvel's Cloak & Dagger
