@@ -26353,3 +26353,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554414194 - Thu Apr  4 23:43:14 CEST 2019 - /Stream/Midnight_Texas-1.html,s2e1 - Midnight, Texas
 1554414205 - Thu Apr  4 23:43:25 CEST 2019 - /Stream/Fresh_Off_the_Boat.html,s5e20 - Fresh Off the Boat
 1554414216 - Thu Apr  4 23:43:36 CEST 2019 - /Stream/Doctor_Who-1.html,s4e27 - Doctor Who
+1554471930 - Fri Apr  5 15:45:30 CEST 2019 - /Stream/Asterix_und_das_Geheimnis_des_Zaubertranks.html - Asterix und das Geheimnis des Zaubertranks
