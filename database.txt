@@ -26370,3 +26370,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554493691 - Fri Apr  5 21:48:11 CEST 2019 - /Stream/Elementary-1.html,s6e20 - Elementary
 1554493703 - Fri Apr  5 21:48:23 CEST 2019 - /Stream/Marvels_Cloak-Dagger.html,s2e1 - Marvel's Cloak & Dagger
 1554493712 - Fri Apr  5 21:48:32 CEST 2019 - /Stream/Criminal_Minds-1.html,s14e15 - Criminal Minds
+1554493724 - Fri Apr  5 21:48:44 CEST 2019 - /Stream/The_Tick-1.html,s2e1 - The Tick
