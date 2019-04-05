@@ -26365,3 +26365,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554493652 - Fri Apr  5 21:47:32 CEST 2019 - /Stream/Anti-Social-1.html - Anti-Social
 1554493660 - Fri Apr  5 21:47:40 CEST 2019 - /Stream/Secrets_in_Suburbia.html - Secrets in Suburbia
 1554493666 - Fri Apr  5 21:47:46 CEST 2019 - /Stream/Der_Vorname.html - Der Vorname
+1554493673 - Fri Apr  5 21:47:53 CEST 2019 - /Stream/Die_Goldbergs.html,s6e2 - Die Goldbergs
