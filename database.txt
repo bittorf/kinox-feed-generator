@@ -26377,3 +26377,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554537034 - Sat Apr  6 09:50:34 CEST 2019 - /Stream/Supergirl-2.html,s4e1 - Supergirl
 1554537043 - Sat Apr  6 09:50:43 CEST 2019 - /Stream/Hawaii_Five-0.html,s9e11 - Hawaii Five-0
 1554537059 - Sat Apr  6 09:50:59 CEST 2019 - /Stream/Roman_Empire.html,s3 - Roman Empire
+1554537067 - Sat Apr  6 09:51:07 CEST 2019 - /Stream/Bull-1.html,s3e8 - Bull
