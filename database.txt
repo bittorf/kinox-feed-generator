@@ -26373,3 +26373,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554493724 - Fri Apr  5 21:48:44 CEST 2019 - /Stream/The_Tick-1.html,s2e1 - The Tick
 1554493733 - Fri Apr  5 21:48:53 CEST 2019 - /Stream/Navy_CIS.html,s16e13 - Navy CIS
 1554493744 - Fri Apr  5 21:49:04 CEST 2019 - /Stream/Star_Trek_Discovery-1.html,s2e12 - Star Trek: Discovery
+1554537016 - Sat Apr  6 09:50:16 CEST 2019 - /Stream/Shazam.html - Shazam!
