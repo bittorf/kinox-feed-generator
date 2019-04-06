@@ -26396,3 +26396,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554587677 - Sat Apr  6 23:54:37 CEST 2019 - /Stream/Gruener_wirds_nicht.html - Grüner wird's nicht
 1554587684 - Sat Apr  6 23:54:44 CEST 2019 - /Stream/Naach-Rhythmus_des_Lebens.html - Naach - Rhythmus des Lebens
 1554587691 - Sat Apr  6 23:54:51 CEST 2019 - /Stream/Rosen_fuer_den_Staatsanwalt.html - Rosen für den Staatsanwalt
+1554587698 - Sat Apr  6 23:54:58 CEST 2019 - /Stream/Der_Irre_mit_dem_Superschlag.html - Der Irre mit dem Superschlag
