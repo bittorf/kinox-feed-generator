@@ -26404,3 +26404,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554631017 - Sun Apr  7 11:56:57 CEST 2019 - /Stream/Dead_Pixels.html,s1e2 - Dead Pixels
 1554674280 - Sun Apr  7 23:58:00 CEST 2019 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s16e18 - DsdS - Deutschland sucht den Superstar
 1554674295 - Sun Apr  7 23:58:15 CEST 2019 - /Stream/Der_Traumstein.html,s4 - Der Traumstein
+1554674302 - Sun Apr  7 23:58:22 CEST 2019 - /Stream/Die_Goldbergs.html,s6e1 - Die Goldbergs
