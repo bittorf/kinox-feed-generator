@@ -26402,3 +26402,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554630996 - Sun Apr  7 11:56:36 CEST 2019 - /Stream/Die_Goldbergs.html,s6 - Die Goldbergs
 1554631006 - Sun Apr  7 11:56:46 CEST 2019 - /Stream/Doctor_Who-2.html,s11e10 - Doctor Who
 1554631017 - Sun Apr  7 11:56:57 CEST 2019 - /Stream/Dead_Pixels.html,s1e2 - Dead Pixels
+1554674280 - Sun Apr  7 23:58:00 CEST 2019 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s16e18 - DsdS - Deutschland sucht den Superstar
