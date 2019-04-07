@@ -26399,3 +26399,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554587698 - Sat Apr  6 23:54:58 CEST 2019 - /Stream/Der_Irre_mit_dem_Superschlag.html - Der Irre mit dem Superschlag
 1554587706 - Sat Apr  6 23:55:06 CEST 2019 - /Stream/Lotte_am_Bauhaus.html - Lotte am Bauhaus
 1554594925 - Sun Apr  7 01:55:25 CEST 2019 - /Stream/Toetet_Smoochy.html - Tötet Smoochy
+1554630996 - Sun Apr  7 11:56:36 CEST 2019 - /Stream/Die_Goldbergs.html,s6 - Die Goldbergs
