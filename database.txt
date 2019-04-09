@@ -26421,3 +26421,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554818651 - Tue Apr  9 16:04:11 CEST 2019 - /Stream/Sobibor-1.html - Sobibor
 1554818663 - Tue Apr  9 16:04:23 CEST 2019 - /Stream/Into_the_Badlands.html,s3e12 - Into the Badlands
 1554818672 - Tue Apr  9 16:04:32 CEST 2019 - /Stream/American_Gods-1.html,s2e5 - American Gods
+1554818682 - Tue Apr  9 16:04:42 CEST 2019 - /Stream/S-W-A-T-1.html,s2e17 - S.W.A.T.
