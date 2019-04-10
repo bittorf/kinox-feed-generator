@@ -26443,3 +26443,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554905660 - Wed Apr 10 16:14:20 CEST 2019 - /Stream/The_Last_O-G.html,s2e2 - The Last O.G.
 1554905669 - Wed Apr 10 16:14:29 CEST 2019 - /Stream/Black-ish-1.html,s5e18 - Black-ish
 1554905679 - Wed Apr 10 16:14:39 CEST 2019 - /Stream/NCIS_Naval_Criminal_Investigative_Service.html,s16e19 - NCIS: Naval Criminal Investigative Service
+1554905693 - Wed Apr 10 16:14:53 CEST 2019 - /Stream/The_Rookie-1.html,s1e19 - The Rookie
