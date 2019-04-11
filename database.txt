@@ -26463,3 +26463,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554977987 - Thu Apr 11 12:19:47 CEST 2019 - /Stream/The_Magicians.html,s4e12 - The Magicians
 1554978001 - Thu Apr 11 12:20:01 CEST 2019 - /Stream/SEAL_Team.html,s2e17 - SEAL Team
 1554978005 - Thu Apr 11 12:20:05 CEST 2019 - /Stream/The_Bay-1.html,s1e4 - The Bay
+1554985227 - Thu Apr 11 14:20:27 CEST 2019 - /Stream/Clique.html,s2e3 - Clique
