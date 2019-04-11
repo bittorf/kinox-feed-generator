@@ -26450,3 +26450,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554977850 - Thu Apr 11 12:17:30 CEST 2019 - /Stream/Ein_Gauner_und_Gentleman.html - Ein Gauner und Gentleman
 1554977861 - Thu Apr 11 12:17:41 CEST 2019 - /Stream/Der_Trafikant.html - Der Trafikant
 1554977867 - Thu Apr 11 12:17:47 CEST 2019 - /Stream/Under_the_Silver_Lake.html - Under the Silver Lake
+1554977876 - Thu Apr 11 12:17:56 CEST 2019 - /Stream/The_Good_Doctor-2.html,s2e16 - The Good Doctor
