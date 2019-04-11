@@ -26458,3 +26458,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1554977929 - Thu Apr 11 12:18:49 CEST 2019 - /Stream/Star-1.html,s3e14 - Star
 1554977942 - Thu Apr 11 12:19:02 CEST 2019 - /Stream/Empire-3.html,s5e14 - Empire
 1554977951 - Thu Apr 11 12:19:11 CEST 2019 - /Stream/Modern_Family.html,s10e20 - Modern Family
+1554977966 - Thu Apr 11 12:19:26 CEST 2019 - /Stream/The_Goldbergs.html,s6e21 - The Goldbergs
