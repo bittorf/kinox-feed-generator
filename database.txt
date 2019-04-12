@@ -26486,3 +26486,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555071916 - Fri Apr 12 14:25:16 CEST 2019 - /Stream/Die_Goldbergs.html,s6e4 - Die Goldbergs
 1555071927 - Fri Apr 12 14:25:27 CEST 2019 - /Stream/Cloak-Dagger-1.html,s2e3 - Cloak & Dagger
 1555071935 - Fri Apr 12 14:25:35 CEST 2019 - /Stream/Star_Trek_Discovery.html,s2e13 - Star Trek: Discovery
+1555071945 - Fri Apr 12 14:25:45 CEST 2019 - /Stream/The_Orville.html,s2e12 - The Orville
