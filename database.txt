@@ -26482,3 +26482,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555071878 - Fri Apr 12 14:24:38 CEST 2019 - /Stream/The_Flash-1.html,s5e1 - The Flash
 1555071890 - Fri Apr 12 14:24:50 CEST 2019 - /Stream/Pastewka.html,s9 - Pastewka
 1555071898 - Fri Apr 12 14:24:58 CEST 2019 - /Stream/Midnight_Texas-1.html,s2e2 - Midnight, Texas
+1555071908 - Fri Apr 12 14:25:08 CEST 2019 - /Stream/Magnum_P-I-1.html,s1e1 - Magnum P.I.
