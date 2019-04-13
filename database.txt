@@ -26502,3 +26502,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555108133 - Sat Apr 13 00:28:53 CEST 2019 - /Stream/Tacoma_FD.html,s1 - Tacoma FD
 1555108140 - Sat Apr 13 00:29:00 CEST 2019 - /Stream/Abbys.html,s1 - Abby's
 1555108147 - Sat Apr 13 00:29:07 CEST 2019 - /Stream/DuckTales-Neues_aus_Entenhausen-2.html,s2e3 - DuckTales - Neues aus Entenhausen
+1555137011 - Sat Apr 13 08:30:11 CEST 2019 - /Stream/Bull-1.html,s3e9 - Bull
