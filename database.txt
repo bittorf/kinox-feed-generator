@@ -26509,3 +26509,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555137045 - Sat Apr 13 08:30:45 CEST 2019 - /Stream/Blue_Bloods.html,s9e19 - Blue Bloods
 1555194734 - Sun Apr 14 00:32:14 CEST 2019 - /Stream/Game_of_Thrones_The_Story_So_Far.html - Game of Thrones: The Story So Far
 1555194742 - Sun Apr 14 00:32:22 CEST 2019 - /Stream/Bleed.html - Bleed
+1555194751 - Sun Apr 14 00:32:31 CEST 2019 - /Stream/MacGyver-2.html,s3e19 - MacGyver
