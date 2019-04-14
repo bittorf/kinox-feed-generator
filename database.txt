@@ -26527,3 +26527,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555245347 - Sun Apr 14 14:35:47 CEST 2019 - /Stream/Hawaii_Five-0.html,s9e12 - Hawaii Five-0
 1555245362 - Sun Apr 14 14:36:02 CEST 2019 - /Stream/Casualty.html,s33e31 - Casualty
 1555245373 - Sun Apr 14 14:36:13 CEST 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s15e6 - Grey's Anatomy - Die jungen Ärzte
+1555281442 - Mon Apr 15 00:37:22 CEST 2019 - /Stream/Magnum_P-I-1.html,s1e2 - Magnum P.I.
