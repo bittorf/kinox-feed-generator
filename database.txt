@@ -26518,3 +26518,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555245274 - Sun Apr 14 14:34:34 CEST 2019 - /Stream/Rasputin-Der_wahnsinnige_Moench.html - Rasputin - Der wahnsinnige Mönch
 1555245281 - Sun Apr 14 14:34:41 CEST 2019 - /Stream/Psycho_III-1.html - Psycho III
 1555245288 - Sun Apr 14 14:34:48 CEST 2019 - /Stream/Inoperable.html - Inoperable
+1555245295 - Sun Apr 14 14:34:55 CEST 2019 - /Stream/Wir_sind_die_Rosinskis.html - Wir sind die Rosinskis
