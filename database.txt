@@ -26541,3 +26541,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555346469 - Mon Apr 15 18:41:09 CEST 2019 - /Stream/Memento_Mori-1.html - Memento Mori
 1555346476 - Mon Apr 15 18:41:16 CEST 2019 - /Stream/Fireworks-Alles_eine_Frage_der_Zeit.html - Fireworks - Alles eine Frage der Zeit
 1555353706 - Mon Apr 15 20:41:46 CEST 2019 - /Stream/Spiel_mir_am_Glied_bis_zum_Tod.html - Spiel mir am Glied bis zum Tod
+1555368239 - Tue Apr 16 00:43:59 CEST 2019 - /Stream/Hellboy-Call_Of_Darkness.html - Hellboy - Call Of Darkness
