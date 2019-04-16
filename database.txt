@@ -26558,3 +26558,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555433276 - Tue Apr 16 18:47:56 CEST 2019 - /Stream/American_Dad-1.html,s15e1 - American Dad!
 1555447716 - Tue Apr 16 22:48:36 CEST 2019 - /Stream/Seattle_Firefighters-Die_jungen_Helden.html,s2e4 - Seattle Firefighters - Die jungen Helden
 1555447726 - Tue Apr 16 22:48:46 CEST 2019 - /Stream/S-W-A-T-1.html,s2e18 - S.W.A.T.
+1555447736 - Tue Apr 16 22:48:56 CEST 2019 - /Stream/Shadowhunters-1.html,s3e18 - Shadowhunters
