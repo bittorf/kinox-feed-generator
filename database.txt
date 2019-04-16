@@ -26555,3 +26555,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555433248 - Tue Apr 16 18:47:28 CEST 2019 - /Stream/Into_the_Badlands.html,s3e13 - Into the Badlands
 1555433257 - Tue Apr 16 18:47:37 CEST 2019 - /Stream/Madam_Secretary.html,s5e19 - Madam Secretary
 1555433265 - Tue Apr 16 18:47:45 CEST 2019 - /Stream/Arrow.html,s7e18 - Arrow
+1555433276 - Tue Apr 16 18:47:56 CEST 2019 - /Stream/American_Dad-1.html,s15e1 - American Dad!
