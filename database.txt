@@ -26550,3 +26550,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555433201 - Tue Apr 16 18:46:41 CEST 2019 - /Stream/The_Neighborhood.html,s1e20 - The Neighborhood
 1555433209 - Tue Apr 16 18:46:49 CEST 2019 - /Stream/The_Resident-3.html,s2e20 - The Resident
 1555433219 - Tue Apr 16 18:46:59 CEST 2019 - /Stream/Good_Girls.html,s2e7 - Good Girls
+1555433229 - Tue Apr 16 18:47:09 CEST 2019 - /Stream/Legends_of_Tomorrow.html,s4e11 - Legends of Tomorrow
