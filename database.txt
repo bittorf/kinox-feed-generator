@@ -26552,3 +26552,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555433219 - Tue Apr 16 18:46:59 CEST 2019 - /Stream/Good_Girls.html,s2e7 - Good Girls
 1555433229 - Tue Apr 16 18:47:09 CEST 2019 - /Stream/Legends_of_Tomorrow.html,s4e11 - Legends of Tomorrow
 1555433239 - Tue Apr 16 18:47:19 CEST 2019 - /Stream/Shadowhunters.html,s3e18 - Shadowhunters
+1555433248 - Tue Apr 16 18:47:28 CEST 2019 - /Stream/Into_the_Badlands.html,s3e13 - Into the Badlands
