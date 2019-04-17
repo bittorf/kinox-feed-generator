@@ -26564,3 +26564,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555483829 - Wed Apr 17 08:50:29 CEST 2019 - /Stream/The_Good_Doctor-2.html,s2e17 - The Good Doctor
 1555483842 - Wed Apr 17 08:50:42 CEST 2019 - /Stream/FBI-1.html,s1e19 - FBI
 1555483851 - Wed Apr 17 08:50:51 CEST 2019 - /Stream/The_Last_O-G.html,s3e3 - The Last O.G.
+1555483860 - Wed Apr 17 08:51:00 CEST 2019 - /Stream/The_Bold_Type.html,s3 - The Bold Type
