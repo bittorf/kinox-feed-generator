@@ -26573,3 +26573,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555483923 - Wed Apr 17 08:52:03 CEST 2019 - /Stream/NCIS_New_Orleans.html,s5e20 - NCIS: New Orleans
 1555541616 - Thu Apr 18 00:53:36 CEST 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s15 - Grey's Anatomy - Die jungen Ärzte
 1555541630 - Thu Apr 18 00:53:50 CEST 2019 - /Stream/This_Is_Us_Das_ist_Leben.html,s3e4 - This Is Us: Das ist Leben
+1555577698 - Thu Apr 18 10:54:58 CEST 2019 - /Stream/Chicago_Fire-1.html,s7e7 - Chicago Fire
