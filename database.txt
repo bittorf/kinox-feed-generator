@@ -26596,3 +26596,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555671652 - Fri Apr 19 13:00:52 CEST 2019 - /Stream/The_Good_Fight-1.html,s3e6 - The Good Fight
 1555671661 - Fri Apr 19 13:01:01 CEST 2019 - /Stream/Brooklyn_Nine-Nine.html,s6e13 - Brooklyn Nine-Nine
 1555671671 - Fri Apr 19 13:01:11 CEST 2019 - /Stream/The_Big_Bang_Theory-1.html,s12e19 - The Big Bang Theory
+1555671684 - Fri Apr 19 13:01:24 CEST 2019 - /Stream/Supernatural-1.html,s14e19 - Supernatural
