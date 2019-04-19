@@ -26592,3 +26592,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555671619 - Fri Apr 19 13:00:19 CEST 2019 - /Stream/The_Twilight_Zone-4.html,s1e4 - The Twilight Zone
 1555671627 - Fri Apr 19 13:00:27 CEST 2019 - /Stream/Cloak-Dagger-1.html,s2e4 - Cloak & Dagger
 1555671636 - Fri Apr 19 13:00:36 CEST 2019 - /Stream/S-W-A-T-2.html,s2e19 - S.W.A.T.
+1555671644 - Fri Apr 19 13:00:44 CEST 2019 - /Stream/Star_Trek_Discovery.html,s2e14 - Star Trek: Discovery
