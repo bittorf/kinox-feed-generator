@@ -26606,3 +26606,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1555686165 - Fri Apr 19 17:02:45 CEST 2019 - /Stream/The_Escape_of_Prisoner_614.html - The Escape of Prisoner 614
 1555700594 - Fri Apr 19 21:03:14 CEST 2019 - /Stream/Star_Trek_Discovery-1.html,s2e14 - Star Trek: Discovery
 1555700604 - Fri Apr 19 21:03:24 CEST 2019 - /Stream/Hawaii_Five-0.html,s9e13 - Hawaii Five-0
+1555700621 - Fri Apr 19 21:03:41 CEST 2019 - /Stream/Midnight_Texas-1.html,s2e3 - Midnight, Texas
