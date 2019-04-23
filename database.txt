@@ -26633,3 +26633,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1556010983 - Tue Apr 23 11:16:23 CEST 2019 - /Stream/Die_Poesie_der_Liebe.html - Die Poesie der Liebe
 1556010994 - Tue Apr 23 11:16:34 CEST 2019 - /Stream/Chicago_Med-1.html,s4e8 - Chicago Med
 1556011004 - Tue Apr 23 11:16:44 CEST 2019 - /Stream/Die_Goldbergs.html,s4e17 - Die Goldbergs
+1556011015 - Tue Apr 23 11:16:55 CEST 2019 - /Stream/Clique.html,s2e4 - Clique
