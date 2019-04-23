@@ -26646,3 +26646,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1556040011 - Tue Apr 23 19:20:11 CEST 2019 - /Stream/Legends_of_Tomorrow.html,s4e12 - Legends of Tomorrow
 1556040020 - Tue Apr 23 19:20:20 CEST 2019 - /Stream/Shadowhunters.html,s3e19 - Shadowhunters
 1556040030 - Tue Apr 23 19:20:30 CEST 2019 - /Stream/Into_the_Badlands.html,s3e14 - Into the Badlands
+1556040039 - Tue Apr 23 19:20:39 CEST 2019 - /Stream/American_Dad-1.html,s15e2 - American Dad!
