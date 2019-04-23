@@ -26639,3 +26639,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1556011040 - Tue Apr 23 11:17:20 CEST 2019 - /Stream/The_Fix.html,s1e6 - The Fix
 1556011048 - Tue Apr 23 11:17:28 CEST 2019 - /Stream/Arrow.html,s7e19 - Arrow
 1556011060 - Tue Apr 23 11:17:40 CEST 2019 - /Stream/Not_Going_Out.html,s10e2 - Not Going Out
+1556039968 - Tue Apr 23 19:19:28 CEST 2019 - /Stream/The_Favourite-Intrigen_und_Irrsinn.html - The Favourite - Intrigen und Irrsinn
