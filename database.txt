@@ -26659,3 +26659,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1556141136 - Wed Apr 24 23:25:36 CEST 2019 - /Stream/The_Oath-2.html,s2 - The Oath
 1556141142 - Wed Apr 24 23:25:42 CEST 2019 - /Stream/Im_Sorry-1.html,s2e6 - I'm Sorry
 1556141149 - Wed Apr 24 23:25:49 CEST 2019 - /Stream/Lethal_Weapon-2.html,s3e1 - Lethal Weapon
+1556141163 - Wed Apr 24 23:26:03 CEST 2019 - /Stream/Chicago_Fire-1.html,s7e8 - Chicago Fire
