@@ -26670,3 +26670,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558066474 - Fri May 17 06:14:34 CEST 2019 - /Stream/Magnum_P-I-1.html,s1e10 - Magnum P.I.
 1558066484 - Fri May 17 06:14:44 CEST 2019 - /Stream/Marvels_Runaways.html,s2e3 - Marvel's Runaways
 1558066493 - Fri May 17 06:14:53 CEST 2019 - /Stream/Chicago_Med.html,s4e21 - Chicago Med
+1558066503 - Fri May 17 06:15:03 CEST 2019 - /Stream/Pretty_Little_Liars_The_Perfectionists.html,s1e9 - Pretty Little Liars: The Perfectionists
