@@ -26676,3 +26676,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558066529 - Fri May 17 06:15:29 CEST 2019 - /Stream/Greys_Anatomy.html,s15e25 - Grey's Anatomy
 1558080961 - Fri May 17 10:16:01 CEST 2019 - /Stream/Riverdale-1.html,s3e22 - Riverdale
 1558080970 - Fri May 17 10:16:10 CEST 2019 - /Stream/The_Flash-1.html,s5e6 - The Flash
+1558080980 - Fri May 17 10:16:20 CEST 2019 - /Stream/Midnight_Texas-1.html,s2e7 - Midnight, Texas
