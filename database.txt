@@ -26678,3 +26678,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558080970 - Fri May 17 10:16:10 CEST 2019 - /Stream/The_Flash-1.html,s5e6 - The Flash
 1558080980 - Fri May 17 10:16:20 CEST 2019 - /Stream/Midnight_Texas-1.html,s2e7 - Midnight, Texas
 1558080989 - Fri May 17 10:16:29 CEST 2019 - /Stream/Cloak-Dagger-1.html,s2e8 - Cloak & Dagger
+1558080997 - Fri May 17 10:16:37 CEST 2019 - /Stream/S-W-A-T-2.html,s2e23 - S.W.A.T.
