@@ -26715,3 +26715,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558218287 - Sun May 19 00:24:47 CEST 2019 - /Stream/Another_WolfCop.html - Another WolfCop
 1558218294 - Sun May 19 00:24:54 CEST 2019 - /Stream/Kangaroo_Jack_Der_Juwelenraub.html - Kangaroo Jack: Der Juwelenraub
 1558218302 - Sun May 19 00:25:02 CEST 2019 - /Stream/Die_grossen_und_die_kleinen_Wuensche-Amors_Pfeile.html - Die großen und die kleinen Wünsche - Amors Pfeile
+1558218309 - Sun May 19 00:25:09 CEST 2019 - /Stream/Die_vier_apokalyptischen_Reiter.html - Die vier apokalyptischen Reiter
