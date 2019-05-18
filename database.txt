@@ -26726,3 +26726,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558218367 - Sun May 19 00:26:07 CEST 2019 - /Stream/Duell_der_Gringos.html - Duell der Gringos
 1558218373 - Sun May 19 00:26:13 CEST 2019 - /Stream/Dimitrios_Schulze.html - Dimitrios Schulze
 1558218380 - Sun May 19 00:26:20 CEST 2019 - /Stream/Der_Dritte_im_Hinterhalt.html - Der Dritte im Hinterhalt
+1558218387 - Sun May 19 00:26:27 CEST 2019 - /Stream/Der_Teufelshauptmann.html - Der Teufelshauptmann
