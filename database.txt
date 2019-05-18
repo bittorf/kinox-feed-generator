@@ -26720,3 +26720,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558218325 - Sun May 19 00:25:25 CEST 2019 - /Stream/Die_haarstraeubende_Reise_in_einem_verrueckten_Bus.html - Die haarsträubende Reise in einem verrückten Bus
 1558218332 - Sun May 19 00:25:32 CEST 2019 - /Stream/Die_Lady_von_Shanghai.html - Die Lady von Shanghai
 1558218339 - Sun May 19 00:25:39 CEST 2019 - /Stream/Jerry_Lewis_Der_verrueckte_Professor.html - Jerry Lewis Der verrückte Professor
+1558218347 - Sun May 19 00:25:47 CEST 2019 - /Stream/Heuschrecken-Die_achte_Plage.html - Heuschrecken - Die achte Plage
