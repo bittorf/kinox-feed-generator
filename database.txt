@@ -26721,3 +26721,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558218332 - Sun May 19 00:25:32 CEST 2019 - /Stream/Die_Lady_von_Shanghai.html - Die Lady von Shanghai
 1558218339 - Sun May 19 00:25:39 CEST 2019 - /Stream/Jerry_Lewis_Der_verrueckte_Professor.html - Jerry Lewis Der verrückte Professor
 1558218347 - Sun May 19 00:25:47 CEST 2019 - /Stream/Heuschrecken-Die_achte_Plage.html - Heuschrecken - Die achte Plage
+1558218354 - Sun May 19 00:25:54 CEST 2019 - /Stream/Mogambo.html - Mogambo
