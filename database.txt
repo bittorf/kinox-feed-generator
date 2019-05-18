@@ -26706,3 +26706,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558174966 - Sat May 18 12:22:46 CEST 2019 - /Stream/Seattle_Firefighters-Die_jungen_Helden.html,s2e7 - Seattle Firefighters - Die jungen Helden
 1558174975 - Sat May 18 12:22:55 CEST 2019 - /Stream/Supergirl-2.html,s4e7 - Supergirl
 1558174984 - Sat May 18 12:23:04 CEST 2019 - /Stream/Sneaky_Pete-1.html,s3e1 - Sneaky Pete
+1558174992 - Sat May 18 12:23:12 CEST 2019 - /Stream/Death_in_Paradise-1.html,s8e1 - Death in Paradise
