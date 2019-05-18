@@ -26709,3 +26709,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558174992 - Sat May 18 12:23:12 CEST 2019 - /Stream/Death_in_Paradise-1.html,s8e1 - Death in Paradise
 1558175000 - Sat May 18 12:23:20 CEST 2019 - /Stream/A_Discovery_Of_Witches.html,s1 - A Discovery Of Witches
 1558175007 - Sat May 18 12:23:27 CEST 2019 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s9e14 - Shameless - Nicht ganz nüchtern
+1558218264 - Sun May 19 00:24:24 CEST 2019 - /Stream/The_Mule.html - The Mule
