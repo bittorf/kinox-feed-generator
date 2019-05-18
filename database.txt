@@ -26718,3 +26718,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558218309 - Sun May 19 00:25:09 CEST 2019 - /Stream/Die_vier_apokalyptischen_Reiter.html - Die vier apokalyptischen Reiter
 1558218317 - Sun May 19 00:25:17 CEST 2019 - /Stream/Wenn_Katelbach_kommt.html - Wenn Katelbach kommt
 1558218325 - Sun May 19 00:25:25 CEST 2019 - /Stream/Die_haarstraeubende_Reise_in_einem_verrueckten_Bus.html - Die haarsträubende Reise in einem verrückten Bus
+1558218332 - Sun May 19 00:25:32 CEST 2019 - /Stream/Die_Lady_von_Shanghai.html - Die Lady von Shanghai
