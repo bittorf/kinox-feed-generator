@@ -26744,3 +26744,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558333889 - Mon May 20 08:31:29 CEST 2019 - /Stream/NCIS_Los_Angeles.html,s10e24 - NCIS: Los Angeles
 1558333898 - Mon May 20 08:31:38 CEST 2019 - /Stream/Game_of_Thrones-Das_Lied_von_Eis_und_Feuer.html,s8e6 - Game of Thrones - Das Lied von Eis und Feuer
 1558333913 - Mon May 20 08:31:53 CEST 2019 - /Stream/The_Son-2.html,s2e4 - The Son
+1558333922 - Mon May 20 08:32:02 CEST 2019 - /Stream/Super_Girl.html,s4e22 - Super Girl
