@@ -26753,3 +26753,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558442095 - Tue May 21 14:34:55 CEST 2019 - /Stream/Charmed.html,s1e22 - Charmed
 1558442104 - Tue May 21 14:35:04 CEST 2019 - /Stream/Killing_Eve.html,s2e7 - Killing Eve
 1558442113 - Tue May 21 14:35:13 CEST 2019 - /Stream/Good_Girls.html,s2e12 - Good Girls
+1558456640 - Tue May 21 18:37:20 CEST 2019 - /Stream/Ein_verdorbenes_Wochenende.html - Ein verdorbenes Wochenende
