@@ -26779,3 +26779,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558536137 - Wed May 22 16:42:17 CEST 2019 - /Stream/Blood-Treasure.html,s1e1 - Blood & Treasure
 1558536144 - Wed May 22 16:42:24 CEST 2019 - /Stream/The_Code-2.html,s1e7 - The Code
 1558536151 - Wed May 22 16:42:31 CEST 2019 - /Stream/The_Last_O-G.html,s2e8 - The Last O.G.
+1558536160 - Wed May 22 16:42:40 CEST 2019 - /Stream/Legends_of_Tomorrow.html,s4e16 - Legends of Tomorrow
