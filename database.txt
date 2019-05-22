@@ -26781,3 +26781,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558536151 - Wed May 22 16:42:31 CEST 2019 - /Stream/The_Last_O-G.html,s2e8 - The Last O.G.
 1558536160 - Wed May 22 16:42:40 CEST 2019 - /Stream/Legends_of_Tomorrow.html,s4e16 - Legends of Tomorrow
 1558536169 - Wed May 22 16:42:49 CEST 2019 - /Stream/The_100.html,s6e4 - The 100
+1558536178 - Wed May 22 16:42:58 CEST 2019 - /Stream/American_Dad-1.html,s15e6 - American Dad!
