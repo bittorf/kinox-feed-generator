@@ -26805,3 +26805,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558630107 - Thu May 23 18:48:27 CEST 2019 - /Stream/The_Twilight_Zone-4.html,s1e9 - The Twilight Zone
 1558630115 - Thu May 23 18:48:35 CEST 2019 - /Stream/SEAL_Team.html,s2e22 - SEAL Team
 1558630123 - Thu May 23 18:48:43 CEST 2019 - /Stream/Jane_the_Virgin.html,s5e9 - Jane the Virgin
+1558630132 - Thu May 23 18:48:52 CEST 2019 - /Stream/Chicago_Fire.html,s7e22 - Chicago Fire
