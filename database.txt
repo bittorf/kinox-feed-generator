@@ -26833,3 +26833,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558781779 - Sat May 25 12:56:19 CEST 2019 - /Stream/Patient_Seven.html - Patient Seven
 1558781789 - Sat May 25 12:56:29 CEST 2019 - /Stream/Mein_Sohn_Helen.html - Mein Sohn Helen
 1558789006 - Sat May 25 14:56:46 CEST 2019 - /Stream/Gomorrha-Die_Serie.html,s4e1 - Gomorrha - Die Serie
+1558789014 - Sat May 25 14:56:54 CEST 2019 - /Stream/Death_in_Paradise-1.html,s8e2 - Death in Paradise
