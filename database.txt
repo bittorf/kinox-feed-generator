@@ -26824,3 +26824,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558781702 - Sat May 25 12:55:02 CEST 2019 - /Stream/Rememory-Im_Schatten_Der_Erinnerung.html - Rememory - Im Schatten Der Erinnerung
 1558781711 - Sat May 25 12:55:11 CEST 2019 - /Stream/Gefangene_der_Zeit.html - Gefangene der Zeit
 1558781720 - Sat May 25 12:55:20 CEST 2019 - /Stream/Frankensteins_Fluch.html - Frankensteins Fluch
+1558781729 - Sat May 25 12:55:29 CEST 2019 - /Stream/Ein_Haufen_toller_Hunde.html - Ein Haufen toller Hunde
