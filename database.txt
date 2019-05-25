@@ -26836,3 +26836,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558789014 - Sat May 25 14:56:54 CEST 2019 - /Stream/Death_in_Paradise-1.html,s8e2 - Death in Paradise
 1558789023 - Sat May 25 14:57:03 CEST 2019 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s42e12 - Alarm für Cobra 11 - Die Autobahnpolizei
 1558789036 - Sat May 25 14:57:16 CEST 2019 - /Stream/Bull-1.html,s3e15 - Bull
+1558789045 - Sat May 25 14:57:25 CEST 2019 - /Stream/Lethal_Weapon-2.html,s3e5 - Lethal Weapon
