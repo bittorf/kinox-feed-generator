@@ -26848,3 +26848,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558890101 - Sun May 26 19:01:41 CEST 2019 - /Stream/Micky_Maus.html,s5 - Micky Maus
 1558890113 - Sun May 26 19:01:53 CEST 2019 - /Stream/SOKO_Wien.html,s14 - SOKO Wien
 1558890127 - Sun May 26 19:02:07 CEST 2019 - /Stream/Letzte_Spur_Berlin.html,s8e12 - Letzte Spur Berlin
+1558890139 - Sun May 26 19:02:19 CEST 2019 - /Stream/Superior_Donuts-1.html,s1e12 - Superior Donuts
