@@ -26872,3 +26872,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558955236 - Mon May 27 13:07:16 CEST 2019 - /Stream/Game_of_Thrones_The_Last_Watch.html - Game of Thrones: The Last Watch
 1558955238 - Mon May 27 13:07:18 CEST 2019 - /Stream/The_Spanish_Princess-1.html,s1e4 - The Spanish Princess
 1558955245 - Mon May 27 13:07:25 CEST 2019 - /Stream/Marvels_Cloak-Dagger.html,s2e9 - Marvel's Cloak & Dagger
+1558955254 - Mon May 27 13:07:34 CEST 2019 - /Stream/Der_Name_der_Rose-3.html,s1 - Der Name der Rose
