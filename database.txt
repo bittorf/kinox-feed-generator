@@ -26874,3 +26874,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558955245 - Mon May 27 13:07:25 CEST 2019 - /Stream/Marvels_Cloak-Dagger.html,s2e9 - Marvel's Cloak & Dagger
 1558955254 - Mon May 27 13:07:34 CEST 2019 - /Stream/Der_Name_der_Rose-3.html,s1 - Der Name der Rose
 1558955261 - Mon May 27 13:07:41 CEST 2019 - /Stream/The_Good_Place-1.html,s1e11 - The Good Place
+1558955270 - Mon May 27 13:07:50 CEST 2019 - /Stream/Z_Nation-1.html,s5e12 - Z Nation
