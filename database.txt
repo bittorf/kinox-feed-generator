@@ -26860,3 +26860,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1558904660 - Sun May 26 23:04:20 CEST 2019 - /Stream/Monsters_Ball-1.html - Monster's Ball
 1558904669 - Sun May 26 23:04:29 CEST 2019 - /Stream/James_Bond_007-Lizenz_zum_Toeten.html - James Bond 007 - Lizenz zum Töten
 1558940725 - Mon May 27 09:05:25 CEST 2019 - /Stream/Aladdin-3.html - Aladdin
+1558940745 - Mon May 27 09:05:45 CEST 2019 - /Stream/Supergirl-2.html,s4e8 - Supergirl
