@@ -26892,3 +26892,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559070751 - Tue May 28 21:12:31 CEST 2019 - /Stream/Killing_Eve.html,s2e8 - Killing Eve
 1559070759 - Tue May 28 21:12:39 CEST 2019 - /Stream/Good_Girls.html,s2e13 - Good Girls
 1559070770 - Tue May 28 21:12:50 CEST 2019 - /Stream/The_Son-2.html,s2e5 - The Son
+1559070779 - Tue May 28 21:12:59 CEST 2019 - /Stream/American_Dad-1.html,s15e7 - American Dad!
