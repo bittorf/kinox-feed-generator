@@ -26886,3 +26886,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559070694 - Tue May 28 21:11:34 CEST 2019 - /Stream/Life_in_Pieces-1.html,s4e5 - Life in Pieces
 1559070702 - Tue May 28 21:11:42 CEST 2019 - /Stream/Deep_State.html,s2e4 - Deep State
 1559070710 - Tue May 28 21:11:50 CEST 2019 - /Stream/Chicago_Med-1.html,s4e15 - Chicago Med
+1559070720 - Tue May 28 21:12:00 CEST 2019 - /Stream/S-W-A-T-1.html,s2e23 - S.W.A.T.
