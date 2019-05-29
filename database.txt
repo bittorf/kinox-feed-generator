@@ -26898,3 +26898,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559078014 - Tue May 28 23:13:34 CEST 2019 - /Stream/Astrid.html - Astrid
 1559078024 - Tue May 28 23:13:44 CEST 2019 - /Stream/La_Dolce_Rita.html - La Dolce Rita
 1559078031 - Tue May 28 23:13:51 CEST 2019 - /Stream/James_Bond_007-In_toedlicher_Mission.html - James Bond 007 - In tödlicher Mission
+1559171762 - Thu May 30 01:16:02 CEST 2019 - /Stream/Brightburn_Son_Of_Darkness.html - Brightburn: Son Of Darkness
