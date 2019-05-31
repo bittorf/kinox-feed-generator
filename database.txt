@@ -26912,3 +26912,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559308830 - Fri May 31 15:20:30 CEST 2019 - /Stream/Detektiv_Conan-Das_verlorene_Schiff_im_Himmel.html - De­tek­tiv Conan - Das ver­lo­re­ne Schiff im Him­mel
 1559337673 - Fri May 31 23:21:13 CEST 2019 - /Stream/Alien-Die_Wiedergeburt.html - Alien - Die Wiedergeburt
 1559337682 - Fri May 31 23:21:22 CEST 2019 - /Stream/Psycho-1.html - Psycho
+1559337691 - Fri May 31 23:21:31 CEST 2019 - /Stream/Chicago_Fire-1.html,s7e11 - Chicago Fire
