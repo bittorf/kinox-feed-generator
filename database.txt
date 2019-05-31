@@ -26915,3 +26915,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559337691 - Fri May 31 23:21:31 CEST 2019 - /Stream/Chicago_Fire-1.html,s7e11 - Chicago Fire
 1559337707 - Fri May 31 23:21:47 CEST 2019 - /Stream/Billions-1.html,s4e2 - Billions
 1559337717 - Fri May 31 23:21:57 CEST 2019 - /Stream/Midnight_Texas-1.html,s2e9 - Midnight, Texas
+1559337729 - Fri May 31 23:22:09 CEST 2019 - /Stream/American_Gods-1.html,s2e7 - American Gods
