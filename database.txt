@@ -26933,3 +26933,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559417137 - Sat Jun  1 21:25:37 CEST 2019 - /Stream/Marvels_Cloak-Dagger.html,s2e10 - Marvel's Cloak & Dagger
 1559417145 - Sat Jun  1 21:25:45 CEST 2019 - /Stream/Supergirl-2.html,s4e9 - Supergirl
 1559417155 - Sat Jun  1 21:25:55 CEST 2019 - /Stream/Agents_of_S-H-I-E-L-D.html,s6e4 - Agents of S.H.I.E.L.D.
+1559417165 - Sat Jun  1 21:26:05 CEST 2019 - /Stream/Elementary.html,s7e2 - Elementary
