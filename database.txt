@@ -26930,3 +26930,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559417111 - Sat Jun  1 21:25:11 CEST 2019 - /Stream/Gomorrha-Die_Serie.html,s4e2 - Gomorrha - Die Serie
 1559417119 - Sat Jun  1 21:25:19 CEST 2019 - /Stream/How_To_Sell_Drugs_Online_Fast.html,s1 - How To Sell Drugs Online (Fast)
 1559417125 - Sat Jun  1 21:25:25 CEST 2019 - /Stream/Lethal_Weapon-2.html,s3e6 - Lethal Weapon
+1559417137 - Sat Jun  1 21:25:37 CEST 2019 - /Stream/Marvels_Cloak-Dagger.html,s2e10 - Marvel's Cloak & Dagger
