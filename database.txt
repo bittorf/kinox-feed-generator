@@ -26959,3 +26959,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559511087 - Sun Jun  2 23:31:27 CEST 2019 - /Stream/Schlafwandler.html - Schlafwandler
 1559511093 - Sun Jun  2 23:31:33 CEST 2019 - /Stream/Little_Big_Boss.html - Little Big Boss
 1559511101 - Sun Jun  2 23:31:42 CEST 2019 - /Stream/Voices-1.html - Voices
+1559511109 - Sun Jun  2 23:31:49 CEST 2019 - /Stream/36-Toedliche_Rivalen.html - 36 - Tödliche Rivalen
