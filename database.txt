@@ -26942,3 +26942,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559424435 - Sat Jun  1 23:27:15 CEST 2019 - /Stream/Death_in_Paradise-1.html,s8e3 - Death in Paradise
 1559424443 - Sat Jun  1 23:27:23 CEST 2019 - /Stream/iZombie.html,s5e5 - iZombie
 1559467700 - Sun Jun  2 11:28:20 CEST 2019 - /Stream/The_Secret_Life_of_Pets_2.html - The Secret Life of Pets 2
+1559467708 - Sun Jun  2 11:28:28 CEST 2019 - /Stream/Deadly_Revenge.html - Deadly Revenge
