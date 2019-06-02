@@ -26946,3 +26946,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559467716 - Sun Jun  2 11:28:36 CEST 2019 - /Stream/Old_Dogs-Daddy_oder_Deal.html - Old Dogs - Daddy oder Deal
 1559467726 - Sun Jun  2 11:28:46 CEST 2019 - /Stream/Die_Coneheads.html - Die Coneheads
 1559474944 - Sun Jun  2 13:29:04 CEST 2019 - /Stream/Jane_the_Virgin.html,s5e10 - Jane the Virgin
+1559474953 - Sun Jun  2 13:29:13 CEST 2019 - /Stream/Swamp_Thing-1.html,s1e1 - Swamp Thing
