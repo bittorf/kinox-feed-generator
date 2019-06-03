@@ -26961,3 +26961,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559511101 - Sun Jun  2 23:31:42 CEST 2019 - /Stream/Voices-1.html - Voices
 1559511109 - Sun Jun  2 23:31:49 CEST 2019 - /Stream/36-Toedliche_Rivalen.html - 36 - Tödliche Rivalen
 1559547161 - Mon Jun  3 09:32:41 CEST 2019 - /Stream/Godzilla_2_King_Of_The_Monsters.html - Godzilla 2: King Of The Monsters
+1559547177 - Mon Jun  3 09:32:57 CEST 2019 - /Stream/GLOW-1.html,s2 - GLOW
