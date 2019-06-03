@@ -26970,3 +26970,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559561641 - Mon Jun  3 13:34:01 CEST 2019 - /Stream/Fear_the_Walking_Dead-1.html,s5e1 - Fear the Walking Dead
 1559561649 - Mon Jun  3 13:34:09 CEST 2019 - /Stream/The_Spanish_Princess-1.html,s1e5 - The Spanish Princess
 1559561657 - Mon Jun  3 13:34:17 CEST 2019 - /Stream/Archer-1.html,s10e1 - Archer
+1559597711 - Mon Jun  3 23:35:11 CEST 2019 - /Stream/Der_Autovampir.html - Der Autovampir
