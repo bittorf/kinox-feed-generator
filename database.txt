@@ -26993,3 +26993,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559720431 - Wed Jun  5 09:40:31 CEST 2019 - /Stream/Cyborg_Cop-1.html - Cyborg Cop
 1559720438 - Wed Jun  5 09:40:38 CEST 2019 - /Stream/Seattle_Firefighters-Die_jungen_Helden.html,s2e10 - Seattle Firefighters - Die jungen Helden
 1559720447 - Wed Jun  5 09:40:47 CEST 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s8e1 - Heartland - Paradies für Pferde
+1559720456 - Wed Jun  5 09:40:56 CEST 2019 - /Stream/Superior_Donuts-1.html,s1e13 - Superior Donuts
