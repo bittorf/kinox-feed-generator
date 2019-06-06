@@ -27030,3 +27030,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559857732 - Thu Jun  6 23:48:52 CEST 2019 - /Stream/Private_Eyes.html,s3e2 - Private Eyes
 1559857741 - Thu Jun  6 23:49:01 CEST 2019 - /Stream/Animal_Kingdom-1.html,s4e2 - Animal Kingdom
 1559857750 - Thu Jun  6 23:49:10 CEST 2019 - /Stream/Wentworth.html,s7 - Wentworth
+1559857759 - Thu Jun  6 23:49:19 CEST 2019 - /Stream/Archer-1.html,s10e2 - Archer
