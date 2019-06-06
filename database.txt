@@ -27020,3 +27020,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1559857657 - Thu Jun  6 23:47:37 CEST 2019 - /Stream/Life_in_Pieces-1.html,s4e6 - Life in Pieces
 1559857664 - Thu Jun  6 23:47:44 CEST 2019 - /Stream/Black_Mirror-1.html,s5 - Black Mirror
 1559857672 - Thu Jun  6 23:47:52 CEST 2019 - /Stream/The_Good_Fight-2.html,s3e7 - The Good Fight
+1559857680 - Thu Jun  6 23:48:00 CEST 2019 - /Stream/The_Rookie-2.html,s1e1 - The Rookie
