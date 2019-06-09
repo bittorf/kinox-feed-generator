@@ -27077,3 +27077,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1560088821 - Sun Jun  9 16:00:21 CEST 2019 - /Stream/Game_of_Thrones_The_Last_Watch_german_subbed.html - Game of Thrones: The Last Watch *german subbed*
 1560117663 - Mon Jun 10 00:01:03 CEST 2019 - /Stream/Kin-1.html - Kin
 1560117675 - Mon Jun 10 00:01:15 CEST 2019 - /Stream/Tabaluga-Der_Film.html - Tabaluga - Der Film
+1560117682 - Mon Jun 10 00:01:22 CEST 2019 - /Stream/Warrior-2.html,s1e10 - Warrior
