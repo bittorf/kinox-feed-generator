@@ -27070,3 +27070,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1560081566 - Sun Jun  9 13:59:26 CEST 2019 - /Stream/Stadtgeschichten.html,s1e1 - Stadtgeschichten
 1560081573 - Sun Jun  9 13:59:33 CEST 2019 - /Stream/Death_in_Paradise-1.html,s8e4 - Death in Paradise
 1560081582 - Sun Jun  9 13:59:42 CEST 2019 - /Stream/Supergirl-2.html,s4e10 - Supergirl
+1560081592 - Sun Jun  9 13:59:52 CEST 2019 - /Stream/Elite.html,s1e1 - Elite
