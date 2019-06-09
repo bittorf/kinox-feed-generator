@@ -27064,3 +27064,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1560081511 - Sun Jun  9 13:58:31 CEST 2019 - /Stream/Letzte_Spur_Berlin.html,s8e13 - Letzte Spur Berlin
 1560081522 - Sun Jun  9 13:58:42 CEST 2019 - /Stream/Superior_Donuts-1.html,s2e1 - Superior Donuts
 1560081529 - Sun Jun  9 13:58:49 CEST 2019 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s42e13 - Alarm für Cobra 11 - Die Autobahnpolizei
+1560081541 - Sun Jun  9 13:59:01 CEST 2019 - /Stream/American_Housewife-1.html,s3e2 - American Housewife
