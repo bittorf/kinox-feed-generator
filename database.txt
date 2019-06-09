@@ -27067,3 +27067,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1560081541 - Sun Jun  9 13:59:01 CEST 2019 - /Stream/American_Housewife-1.html,s3e2 - American Housewife
 1560081549 - Sun Jun  9 13:59:09 CEST 2019 - /Stream/Crazy_Ex-Girlfriend-1.html,s4e1 - Crazy Ex-Girlfriend
 1560081558 - Sun Jun  9 13:59:18 CEST 2019 - /Stream/Bull-1.html,s3e17 - Bull
+1560081566 - Sun Jun  9 13:59:26 CEST 2019 - /Stream/Stadtgeschichten.html,s1e1 - Stadtgeschichten
