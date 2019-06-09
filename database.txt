@@ -27074,3 +27074,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1560081599 - Sun Jun  9 13:59:59 CEST 2019 - /Stream/Dittsche.html,s28e3 - Dittsche
 1560081603 - Sun Jun  9 14:00:03 CEST 2019 - /Stream/Swamp_Thing-1.html,s1e2 - Swamp Thing
 1560081604 - Sun Jun  9 14:00:04 CEST 2019 - /Stream/Fear_the_Walking_Dead.html,s5e2 - Fear the Walking Dead
+1560088821 - Sun Jun  9 16:00:21 CEST 2019 - /Stream/Game_of_Thrones_The_Last_Watch_german_subbed.html - Game of Thrones: The Last Watch *german subbed*
