@@ -27091,3 +27091,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1560182662 - Mon Jun 10 18:04:22 CEST 2019 - /Stream/Das_Vermaechtnis_der_Tempelritter.html - Das Vermächtnis der Tempelritter
 1560182674 - Mon Jun 10 18:04:34 CEST 2019 - /Stream/The_Flash-1.html,s5e8 - The Flash
 1560240345 - Tue Jun 11 10:05:45 CEST 2019 - /Stream/Wer_hat_dem_Affen_den_Zucker_geklaut.html - Wer hat dem Affen den Zucker geklaut?
+1560240356 - Tue Jun 11 10:05:56 CEST 2019 - /Stream/Conan_der_Zerstoerer.html - Conan der Zerstörer
