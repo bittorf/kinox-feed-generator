@@ -27097,3 +27097,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1560240383 - Tue Jun 11 10:06:23 CEST 2019 - /Stream/Deep_State.html,s2e6 - Deep State
 1560240390 - Tue Jun 11 10:06:30 CEST 2019 - /Stream/DuckTales-Neues_aus_Entenhausen-2.html,s2e8 - DuckTales - Neues aus Entenhausen
 1560269230 - Tue Jun 11 18:07:10 CEST 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s15e15 - Grey's Anatomy - Die jungen Ärzte
+1560269241 - Tue Jun 11 18:07:21 CEST 2019 - /Stream/Superior_Donuts-1.html,s2e2 - Superior Donuts
