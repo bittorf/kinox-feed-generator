@@ -27099,3 +27099,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1560269230 - Tue Jun 11 18:07:10 CEST 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s15e15 - Grey's Anatomy - Die jungen Ärzte
 1560269241 - Tue Jun 11 18:07:21 CEST 2019 - /Stream/Superior_Donuts-1.html,s2e2 - Superior Donuts
 1560269250 - Tue Jun 11 18:07:30 CEST 2019 - /Stream/The_Son-1.html,s2e1 - The Son
+1560269258 - Tue Jun 11 18:07:38 CEST 2019 - /Stream/Lethal_Weapon-2.html,s3e7 - Lethal Weapon
