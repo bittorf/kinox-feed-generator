@@ -27137,3 +27137,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1563649010 - Sat Jul 20 20:56:50 CEST 2019 - /Stream/Private_Eyes.html,s3e9 - Private Eyes
 1563649020 - Sat Jul 20 20:57:00 CEST 2019 - /Stream/Queen_of_the_South.html,s4e7 - Queen of the South
 1563649031 - Sat Jul 20 20:57:11 CEST 2019 - /Stream/Baskets.html,s4e5 - Baskets
+1563649042 - Sat Jul 20 20:57:22 CEST 2019 - /Stream/Fear_the_Walking_Dead.html,s5e8 - Fear the Walking Dead
