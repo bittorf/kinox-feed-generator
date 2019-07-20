@@ -27109,3 +27109,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1560291011 - Wed Jun 12 00:10:11 CEST 2019 - /Stream/Alarm_fuer_Cobra_11-Die_Autobahnpolizei.html,s43e7 - Alarm für Cobra 11 - Die Autobahnpolizei
 1563633326 - Sat Jul 20 16:35:26 CEST 2019 - /Stream/Der_Koenig_der_Loewen-1.html - Der König der Löwen
 1563633406 - Sat Jul 20 16:36:46 CEST 2019 - /Stream/Long_Shot-Unwahrscheinlich_aber_nicht_unmoeglich.html - Long Shot - Unwahrscheinlich, aber nicht unmöglich
+1563633473 - Sat Jul 20 16:37:53 CEST 2019 - /Stream/Childs_Play-3.html - Child's Play
