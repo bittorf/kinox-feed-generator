@@ -27122,3 +27122,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1563634139 - Sat Jul 20 16:48:59 CEST 2019 - /Stream/Krypton.html,s2e6 - Krypton
 1563634181 - Sat Jul 20 16:49:41 CEST 2019 - /Stream/iZombie_german_subbed.html,s5e10 - iZombie *german subbed*
 1563634224 - Sat Jul 20 16:50:24 CEST 2019 - /Stream/iZombie.html,s5e11 - iZombie
+1563634262 - Sat Jul 20 16:51:02 CEST 2019 - /Stream/Elementary.html,s7e9 - Elementary
