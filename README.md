@@ -1,4 +1,5 @@
-=== why a kinox.to parser ===
+why a kinox.to parser
+=====================
 
 * for each new uploaded file, generate a commit-log with "link", "title" and "IMDB-rating", e.g.:
 
@@ -21,15 +22,21 @@ Date:   Sat Jul 20 16:46:17 2019 +0200
 
 ```
 
-=== so we can search good movies and have a feed ===
+search good movies and have a feed
+==================================
 
 ./kinox_get_news.sh --news
 
-=== setup ===
+setup
+=====
 
 ```
+# add this key to github
+[ -e ~/.ssh/id_rsa.pub ] || ssh-keygen -t rsa -b 2048
+
 cd kinox-feed-generator
 git config user.name 'bot'
 git config user.email 'bot@nas.bwireless.mooo.com'
+
 ./kinox_get_news.sh --cron
 ```
