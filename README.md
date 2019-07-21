@@ -38,5 +38,8 @@ cd kinox-feed-generator
 git config user.name 'bot'
 git config user.email 'bot@nas.bwireless.mooo.com'
 
+# make sure, this begins with git@github
+git config remote.origin.url
+
 ./kinox_get_news.sh --cron
 ```
