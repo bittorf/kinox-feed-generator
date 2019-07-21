@@ -15,9 +15,15 @@ URL='http://kinox.to'
 DB='database.txt'
 I=0
 NEW=0
+
 IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
-	echo "please install 'http://imdbpy.sourceforge.net/' and set"
+	echo "please install 'http://imdbpy.sourceforge.net/' and set maybe:"
 	echo "e.g. export PATH=\"\$PATH:/home/bastian/software/imdbpy/bin"
+	echo
+	echo "hints:"
+	echo "sudo apt-get install python-pip"
+	echo "sudo pip install IMDbPY"
+
 	exit 1
 }
 
