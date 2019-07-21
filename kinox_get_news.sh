@@ -1,6 +1,16 @@
 #!/bin/sh
+#
+# TODO: check dependencies: POSIX-sh, wget, git, recode, imdbpy
+# TODO: erscheinungsjahr/monat
+# TODO: remove 'search' function
+# TODO: Link zur Kritik? Wikipedia? Extract text...
+# TODO: new = last entry unknown or older than 30 days?
+# TODO: ohne beschreibung: http://kinox.to/Stream/The_Nesting.html
+# TODO: change imdb-language? (for plot)
+# http://webapps.stackexchange.com/questions/11003/how-can-i-disable-reconfigure-imdbs-automatic-geo-location-so-it-does-not-defau
 
 ARG1="$1"		# e.g. '--cron' or 'Alien' -> search specific entry
+
 URL='http://kinox.to'
 DB='database.txt'
 I=0
@@ -11,22 +21,17 @@ IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
 	exit 1
 }
 
-[ "$ARG1" = '--cron' ] && while :; do git pull; ./"$0" ; git push; git gc; date; sleep 7200; done
+case "$ARG1" in
+	'--cron')
+		while :; do git pull; ./"$0" ; git push; git gc; date; sleep 7200; done
+	;;
+	'--news')
+		for HASH in $( git log --oneline | grep 'Rating: [8-9]' | grep -v 'html,s' | cut -d' ' -f1 ); do git show --name-only "$HASH"; done | less
+	;;
+esac
 
 # works best with v1.15+ (needed when http is redirected to https
 WGET='wget --user-agent=AmigaVoyager --content-on-error --no-check-certificate'
-
-# dependencies:
-# POSIX-sh, wget, git, recode, imdbpy
-
-
-# TODO: erscheinungsjahr/monat
-# TODO: remove 'search' function
-# TODO: Link zur Kritik? Wikipedia? Extract text...
-# TODO: new = last entry unknown or older than 30 days?
-# TODO: ohne beschreibung: http://kinox.to/Stream/The_Nesting.html
-# TODO: change imdb-language? (for plot)
-# http://webapps.stackexchange.com/questions/11003/how-can-i-disable-reconfigure-imdbs-automatic-geo-location-so-it-does-not-defau
 
 kinox_description_get()
 {
