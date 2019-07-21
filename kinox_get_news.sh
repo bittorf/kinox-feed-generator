@@ -1,6 +1,5 @@
 #!/bin/sh
 #
-# TODO: check dependencies: POSIX-sh, wget, git, recode, imdbpy
 # TODO: erscheinungsjahr/monat
 # TODO: remove 'search' function
 # TODO: Link zur Kritik? Wikipedia? Extract text...
@@ -26,6 +25,11 @@ IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
 
 	exit 1
 }
+
+command -v 'fold' >/dev/null || { echo "please install 'fold'"; exit 1; }
+command -v 'wget' >/dev/null || { echo "please install 'wget v1.15+'"; exit 1; }
+command -v 'git'  >/dev/null || { echo "please install 'git'"; exit 1; }
+command -v 'recode' >/dev/null || { echo "please install 'recode'"; exit 1; }
 
 case "$ARG1" in
 	'--cron')
