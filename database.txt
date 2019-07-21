@@ -27157,3 +27157,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1563728033 - Sun Jul 21 18:53:53 CEST 2019 - /Stream/Crazy_Ex-Girlfriend-1.html,s4e6 - Crazy Ex-Girlfriend
 1563728040 - Sun Jul 21 18:54:00 CEST 2019 - /Stream/Blaumacher.html,s1e1 - Blaumacher
 1563728046 - Sun Jul 21 18:54:06 CEST 2019 - /Stream/Das_Traumschiff.html,s1e75 - Das Traumschiff
+1563728054 - Sun Jul 21 18:54:14 CEST 2019 - /Stream/Lethal_Weapon-2.html,s3e13 - Lethal Weapon
