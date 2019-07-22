@@ -27173,3 +27173,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1563814599 - Mon Jul 22 18:56:39 CEST 2019 - /Stream/Das_Gespenst.html - Das Gespenst
 1563814603 - Mon Jul 22 18:56:43 CEST 2019 - /Stream/Die_Seeteufel_von_Cartagena.html - Die Seeteufel von Cartagena
 1563814608 - Mon Jul 22 18:56:48 CEST 2019 - /Stream/The_Stand_at_Apache_River.html - The Stand at Apache River
+1563814611 - Mon Jul 22 18:56:51 CEST 2019 - /Stream/The_Slayer-1.html - The Slayer
