@@ -27195,3 +27195,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1563915878 - Tue Jul 23 23:04:38 CEST 2019 - /Stream/How_to_Get_Away_with_Murder-1.html,s5e4 - How to Get Away with Murder
 1563915885 - Tue Jul 23 23:04:45 CEST 2019 - /Stream/The_Orville-1.html,s2e6 - The Orville
 1563915894 - Tue Jul 23 23:04:54 CEST 2019 - /Stream/The_Code-2.html,s1e12 - The Code
+1563915899 - Tue Jul 23 23:04:59 CEST 2019 - /Stream/Legion-2.html,s3e5 - Legion
