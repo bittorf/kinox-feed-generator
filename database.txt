@@ -27209,3 +27209,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564060098 - Thu Jul 25 15:08:18 CEST 2019 - /Stream/BoJack_Horseman-1.html,s2 - BoJack Horseman
 1564060105 - Thu Jul 25 15:08:25 CEST 2019 - /Stream/The_Detour.html,s4e6 - The Detour
 1564060109 - Thu Jul 25 15:08:29 CEST 2019 - /Stream/Animal_Kingdom-1.html,s4e9 - Animal Kingdom
+1564060116 - Thu Jul 25 15:08:36 CEST 2019 - /Stream/iZombie_german_subbed.html,s5e11 - iZombie *german subbed*
