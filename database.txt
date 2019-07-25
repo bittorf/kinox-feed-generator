@@ -27200,3 +27200,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1563915912 - Tue Jul 23 23:05:12 CEST 2019 - /Stream/American_Dad-1.html,s15e15 - American Dad!
 1563915920 - Tue Jul 23 23:05:20 CEST 2019 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s6e9 - Agents of S.H.I.E.L.D. *german subbed*
 1564060053 - Thu Jul 25 15:07:33 CEST 2019 - /Stream/MacGyver-3.html,s3 - MacGyver
+1564060059 - Thu Jul 25 15:07:39 CEST 2019 - /Stream/The_Rookie-2.html,s1 - The Rookie
