@@ -27228,3 +27228,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564175512 - Fri Jul 26 23:11:52 CEST 2019 - /Stream/Abikalypse.html - Abikalypse
 1564261993 - Sat Jul 27 23:13:13 CEST 2019 - /Stream/Der_Wolf-Dein_bis_in_den_Tod.html - Der Wolf - Dein bis in den Tod
 1564261997 - Sat Jul 27 23:13:17 CEST 2019 - /Stream/Ambushed-Dunkle_Rituale.html - Ambushed - Dunkle Rituale
+1564262004 - Sat Jul 27 23:13:24 CEST 2019 - /Stream/Supergirl-2.html,s4e17 - Supergirl
