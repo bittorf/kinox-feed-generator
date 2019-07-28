@@ -27240,3 +27240,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564305303 - Sun Jul 28 11:15:03 CEST 2019 - /Stream/The_Handmaids_Tale-1.html,s3e10 - The Handmaid's Tale
 1564305308 - Sun Jul 28 11:15:08 CEST 2019 - /Stream/Grown-ish.html,s2e19 - Grown-ish
 1564305315 - Sun Jul 28 11:15:15 CEST 2019 - /Stream/Private_Eyes.html,s3e10 - Private Eyes
+1564305322 - Sun Jul 28 11:15:22 CEST 2019 - /Stream/Queen_of_the_South.html,s4e8 - Queen of the South
