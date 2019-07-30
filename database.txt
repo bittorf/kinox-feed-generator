@@ -27276,3 +27276,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564514549 - Tue Jul 30 21:22:29 CEST 2019 - /Stream/Seattle_Firefighters-Die_jungen_Helden.html,s2e16 - Seattle Firefighters - Die jungen Helden
 1564514555 - Tue Jul 30 21:22:35 CEST 2019 - /Stream/The_Orville-1.html,s2e7 - The Orville
 1564514568 - Tue Jul 30 21:22:48 CEST 2019 - /Stream/Divorce-1.html,s3e5 - Divorce
+1564514575 - Tue Jul 30 21:22:55 CEST 2019 - /Stream/Legion-2.html,s3e6 - Legion
