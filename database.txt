@@ -27281,3 +27281,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564521797 - Tue Jul 30 23:23:17 CEST 2019 - /Stream/Under_the_Hood-1.html - Under the Hood
 1564579457 - Wed Jul 31 15:24:17 CEST 2019 - /Stream/Blood-Treasure.html,s1e12 - Blood & Treasure
 1564579463 - Wed Jul 31 15:24:23 CEST 2019 - /Stream/Keeping_Faith.html,s2e2 - Keeping Faith
+1564579469 - Wed Jul 31 15:24:29 CEST 2019 - /Stream/The_Detour.html,s4e7 - The Detour
