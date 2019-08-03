@@ -27312,3 +27312,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564839132 - Sat Aug  3 15:32:12 CEST 2019 - /Stream/Im_Morgengrauen_brach_die_Hoelle_los.html - Im Morgengrauen brach die Hölle los
 1564839139 - Sat Aug  3 15:32:19 CEST 2019 - /Stream/Da_geht_noch_was.html - Da geht noch was!
 1564839146 - Sat Aug  3 15:32:26 CEST 2019 - /Stream/Chicago_Med-1.html,s4e21 - Chicago Med
+1564839155 - Sat Aug  3 15:32:35 CEST 2019 - /Stream/Legion-3.html,s3 - Legion
