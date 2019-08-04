@@ -27318,3 +27318,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564839179 - Sat Aug  3 15:32:59 CEST 2019 - /Stream/Krypton.html,s2e7 - Krypton
 1564868013 - Sat Aug  3 23:33:33 CEST 2019 - /Stream/Legion-3.html,s3e5 - Legion
 1564868022 - Sat Aug  3 23:33:42 CEST 2019 - /Stream/iZombie.html,s5e12 - iZombie
+1564911267 - Sun Aug  4 11:34:27 CEST 2019 - /Stream/War_of_the_Living_Dead_2.html - War of the Living Dead 2
