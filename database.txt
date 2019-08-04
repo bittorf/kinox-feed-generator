@@ -27329,3 +27329,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564911328 - Sun Aug  4 11:35:28 CEST 2019 - /Stream/iZombie_german_subbed.html,s5e12 - iZombie *german subbed*
 1564911334 - Sun Aug  4 11:35:34 CEST 2019 - /Stream/The_100_german_subbed.html,s6 - The 100 *german subbed*
 1564911337 - Sun Aug  4 11:35:37 CEST 2019 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s6e10 - Agents of S.H.I.E.L.D. *german subbed*
+1564918555 - Sun Aug  4 13:35:55 CEST 2019 - /Stream/Warrior-3.html,s1e8 - Warrior
