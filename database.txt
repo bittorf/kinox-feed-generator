@@ -27323,3 +27323,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564911280 - Sun Aug  4 11:34:40 CEST 2019 - /Stream/Elementary-1.html,s7e1 - Elementary
 1564911290 - Sun Aug  4 11:34:50 CEST 2019 - /Stream/The_Flash-1.html,s5e17 - The Flash
 1564911295 - Sun Aug  4 11:34:55 CEST 2019 - /Stream/Family_Guy.html,s16e4 - Family Guy
+1564911304 - Sun Aug  4 11:35:04 CEST 2019 - /Stream/Supergirl-2.html,s4e18 - Supergirl
