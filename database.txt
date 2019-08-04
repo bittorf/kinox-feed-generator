@@ -27332,3 +27332,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1564918555 - Sun Aug  4 13:35:55 CEST 2019 - /Stream/Warrior-3.html,s1e8 - Warrior
 1564918562 - Sun Aug  4 13:36:02 CEST 2019 - /Stream/Blue_Bloods-Crime_Scene_New_York.html,s8 - Blue Bloods - Crime Scene New York
 1564918571 - Sun Aug  4 13:36:11 CEST 2019 - /Stream/Die_Toten_von_Turin.html,s3 - Die Toten von Turin
+1564918578 - Sun Aug  4 13:36:18 CEST 2019 - /Stream/Charmed-2.html,s1 - Charmed
