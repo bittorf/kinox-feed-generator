@@ -27362,3 +27362,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565026852 - Mon Aug  5 19:40:52 CEST 2019 - /Stream/Instinct-1.html,s2e6 - Instinct
 1565026858 - Mon Aug  5 19:40:58 CEST 2019 - /Stream/Poldark.html,s5e4 - Poldark
 1565026865 - Mon Aug  5 19:41:05 CEST 2019 - /Stream/Siren_german_subbed.html,s2e15 - Siren *german subbed*
+1565026871 - Mon Aug  5 19:41:11 CEST 2019 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s6 - Agents of S.H.I.E.L.D. *german subbed*
