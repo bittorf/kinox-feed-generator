@@ -27368,3 +27368,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565041300 - Mon Aug  5 23:41:40 CEST 2019 - /Stream/The_Best_of_Enemies-1.html - The Best of Enemies
 1565041303 - Mon Aug  5 23:41:43 CEST 2019 - /Stream/Agents_of_S-H-I-E-L-D-german_subbed.html,s6e11 - Agents of S.H.I.E.L.D. *german subbed*
 1565113371 - Tue Aug  6 19:42:51 CEST 2019 - /Stream/Glam_Girls-Hinreissend_verdorben.html - Glam Girls - Hinreiﬂend verdorben
+1565113375 - Tue Aug  6 19:42:55 CEST 2019 - /Stream/Leberkaesjunkie.html - Leberk‰sjunkie
