@@ -27386,3 +27386,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565178318 - Wed Aug  7 13:45:18 CEST 2019 - /Stream/Animal_Kingdom-1.html,s4e11 - Animal Kingdom
 1565178325 - Wed Aug  7 13:45:25 CEST 2019 - /Stream/The_100.html,s6e13 - The 100
 1565214366 - Wed Aug  7 23:46:06 CEST 2019 - /Stream/Georg_Elser-Es_muss_sein.html - Georg Elser - Es muss sein!
+1565214371 - Wed Aug  7 23:46:11 CEST 2019 - /Stream/Kung_Fu_Panda_Holiday.html - Kung Fu Panda Holiday
