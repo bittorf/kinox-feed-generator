@@ -27391,3 +27391,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565293648 - Thu Aug  8 21:47:28 CEST 2019 - /Stream/Speechless-3.html,s3 - Speechless
 1565293653 - Thu Aug  8 21:47:33 CEST 2019 - /Stream/Mom-1.html,s6 - Mom
 1565293658 - Thu Aug  8 21:47:38 CEST 2019 - /Stream/MacGyver-3.html,s3e6 - MacGyver
+1565293664 - Thu Aug  8 21:47:44 CEST 2019 - /Stream/Legion-3.html,s3e6 - Legion
