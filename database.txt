@@ -27401,3 +27401,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565293707 - Thu Aug  8 21:48:27 CEST 2019 - /Stream/Younger.html,s6e8 - Younger
 1565293714 - Thu Aug  8 21:48:34 CEST 2019 - /Stream/Suits.html,s9e4 - Suits
 1565293723 - Thu Aug  8 21:48:43 CEST 2019 - /Stream/The_100_german_subbed.html,s6e13 - The 100 *german subbed*
+1565394720 - Sat Aug 10 01:52:00 CEST 2019 - /Stream/Batman-Mr-Freeze-Eiszeit.html - Batman & Mr. Freeze - Eiszeit
