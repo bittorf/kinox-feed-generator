@@ -27411,3 +27411,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565394761 - Sat Aug 10 01:52:41 CEST 2019 - /Stream/Queen_of_the_South.html,s4e10 - Queen of the South
 1565394767 - Sat Aug 10 01:52:47 CEST 2019 - /Stream/Baskets.html,s4e8 - Baskets
 1565394773 - Sat Aug 10 01:52:53 CEST 2019 - /Stream/Elementary.html,s7e12 - Elementary
+1565445227 - Sat Aug 10 15:53:47 CEST 2019 - /Stream/Monsieur_Claude_2.html - Monsieur Claude 2
