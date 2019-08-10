@@ -27417,3 +27417,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565445236 - Sat Aug 10 15:53:56 CEST 2019 - /Stream/Point_Blank-Aus_kurzer_Distanz-1.html - Point Blank - Aus kurzer Distanz
 1565445239 - Sat Aug 10 15:53:59 CEST 2019 - /Stream/Prospect.html - Prospect
 1565445244 - Sat Aug 10 15:54:04 CEST 2019 - /Stream/Elementary-1.html,s7e2 - Elementary
+1565445251 - Sat Aug 10 15:54:11 CEST 2019 - /Stream/Doom_Patrol_german_subbed.html,s1e2 - Doom Patrol *german subbed*
