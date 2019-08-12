@@ -27441,3 +27441,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565647147 - Mon Aug 12 23:59:07 CEST 2019 - /Stream/Club_der_roten_Baender-Wie_alles_begann.html - Club der roten Bänder - Wie alles begann
 1565647151 - Mon Aug 12 23:59:11 CEST 2019 - /Stream/Secret_Obsession.html - Secret Obsession
 1565647156 - Mon Aug 12 23:59:16 CEST 2019 - /Stream/Kidnapping_Stella.html - Kidnapping Stella
+1565647160 - Mon Aug 12 23:59:20 CEST 2019 - /Stream/Chroniken_der_Finsternis-Der_Daemonenjaeger.html - Chroniken der Finsternis - Der Dämonenjäger
