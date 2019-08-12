@@ -27445,3 +27445,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565647164 - Mon Aug 12 23:59:24 CEST 2019 - /Stream/Chroniken_der_Finsternis-Blutige_Rache.html - Chroniken der Finsternis - Blutige Rache
 1565647168 - Mon Aug 12 23:59:28 CEST 2019 - /Stream/Chroniken_der_Finsternis-Der_schwarze_Reiter.html - Chroniken der Finsternis - Der schwarze Reiter
 1565647171 - Mon Aug 12 23:59:31 CEST 2019 - /Stream/The_Doors_When_Youre_Strange.html - The Doors: When You're Strange
+1565647176 - Mon Aug 12 23:59:36 CEST 2019 - /Stream/Superman_Shazam-The_Return_of_Black_Adam.html - Superman Shazam - The Return of Black Adam
