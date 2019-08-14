@@ -27465,3 +27465,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565798613 - Wed Aug 14 18:03:33 CEST 2019 - /Stream/Promi_Big_Brother.html,s7 - Promi Big Brother
 1565798618 - Wed Aug 14 18:03:38 CEST 2019 - /Stream/Miss_Marple.html,s3e1 - Miss Marple
 1565798624 - Wed Aug 14 18:03:44 CEST 2019 - /Stream/The_Handmaids_Tale-1.html,s3e13 - The Handmaid's Tale
+1565798629 - Wed Aug 14 18:03:49 CEST 2019 - /Stream/The_Detour.html,s4e9 - The Detour
