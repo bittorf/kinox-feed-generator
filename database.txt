@@ -27459,3 +27459,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565704892 - Tue Aug 13 16:01:32 CEST 2019 - /Stream/Lodge_49.html,s2e1 - Lodge 49
 1565704898 - Tue Aug 13 16:01:38 CEST 2019 - /Stream/Legion-2.html,s3e8 - Legion
 1565704904 - Tue Aug 13 16:01:44 CEST 2019 - /Stream/American_Dad-1.html,s15e18 - American Dad!
+1565798593 - Wed Aug 14 18:03:13 CEST 2019 - /Stream/The_InBESTigators.html,s1e1 - The InBESTigators
