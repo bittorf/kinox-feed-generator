@@ -27477,3 +27477,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565870741 - Thu Aug 15 14:05:41 CEST 2019 - /Stream/Willkommen_im_Wunder_Park.html - Willkommen im Wunder Park
 1565870745 - Thu Aug 15 14:05:45 CEST 2019 - /Stream/BH90210.html,s1e2 - BH90210
 1565870750 - Thu Aug 15 14:05:50 CEST 2019 - /Stream/The_InBetween.html,s1e10 - The InBetween
+1565870754 - Thu Aug 15 14:05:54 CEST 2019 - /Stream/Krypton.html,s2e10 - Krypton
