@@ -27496,3 +27496,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1565971736 - Fri Aug 16 18:08:56 CEST 2019 - /Stream/Baskets.html,s4e9 - Baskets
 1566065422 - Sat Aug 17 20:10:22 CEST 2019 - /Stream/Longmire-1.html,s6e4 - Longmire
 1566065432 - Sat Aug 17 20:10:32 CEST 2019 - /Stream/Comic_Girls.html,s1 - Comic Girls
+1566065439 - Sat Aug 17 20:10:39 CEST 2019 - /Stream/Mindhunter.html,s2 - Mindhunter
