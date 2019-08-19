@@ -27530,3 +27530,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566216988 - Mon Aug 19 14:16:28 CEST 2019 - /Stream/Riviera.html,s2e1 - Riviera
 1566224202 - Mon Aug 19 16:16:42 CEST 2019 - /Stream/Lodge_49.html,s2 - Lodge 49
 1566224208 - Mon Aug 19 16:16:48 CEST 2019 - /Stream/Attack_on_Titan-1.html,s1e1 - Attack on Titan
+1566224214 - Mon Aug 19 16:16:54 CEST 2019 - /Stream/The_Terror-2.html,s2e2 - The Terror
