@@ -27525,3 +27525,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566216950 - Mon Aug 19 14:15:50 CEST 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s15e22 - Grey's Anatomy - Die jungen Ärzte
 1566216961 - Mon Aug 19 14:16:01 CEST 2019 - /Stream/Crazy_Ex-Girlfriend-1.html,s4e10 - Crazy Ex-Girlfriend
 1566216968 - Mon Aug 19 14:16:08 CEST 2019 - /Stream/Sweetbitter-1.html,s2e8 - Sweetbitter
+1566216974 - Mon Aug 19 14:16:14 CEST 2019 - /Stream/Elementary-1.html,s7e3 - Elementary
