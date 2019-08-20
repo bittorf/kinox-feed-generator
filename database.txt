@@ -27541,3 +27541,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566317946 - Tue Aug 20 18:19:06 CEST 2019 - /Stream/Sweetbitter-1.html,s2 - Sweetbitter
 1566317952 - Tue Aug 20 18:19:12 CEST 2019 - /Stream/Preacher.html,s4e4 - Preacher
 1566317958 - Tue Aug 20 18:19:18 CEST 2019 - /Stream/Vier_Frauen_und_ein_Todesfall.html,s6 - Vier Frauen und ein Todesfall
+1566317964 - Tue Aug 20 18:19:24 CEST 2019 - /Stream/B-gata_H-kei.html,s1 - B-gata H-kei
