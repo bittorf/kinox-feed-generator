@@ -27547,3 +27547,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566317981 - Tue Aug 20 18:19:41 CEST 2019 - /Stream/Die_Simpsons.html,s29e16 - Die Simpsons
 1566317989 - Tue Aug 20 18:19:49 CEST 2019 - /Stream/Divorce.html,s3e1 - Divorce
 1566317995 - Tue Aug 20 18:19:55 CEST 2019 - /Stream/The_Orville-1.html,s2e10 - The Orville
+1566318002 - Tue Aug 20 18:20:02 CEST 2019 - /Stream/American_Dad-1.html,s15e19 - American Dad!
