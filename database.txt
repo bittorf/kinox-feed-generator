@@ -27561,3 +27561,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566426163 - Thu Aug 22 00:22:43 CEST 2019 - /Stream/Animal_Kingdom-1.html,s4e13 - Animal Kingdom
 1566426171 - Thu Aug 22 00:22:51 CEST 2019 - /Stream/Into_the_Badlands.html,s3e10 - Into the Badlands
 1566462210 - Thu Aug 22 10:23:30 CEST 2019 - /Stream/True_Detective.html,s3 - True Detective
+1566498246 - Thu Aug 22 20:24:06 CEST 2019 - /Stream/Stuber-5_Sterne_Undercover.html - Stuber - 5 Sterne Undercover
