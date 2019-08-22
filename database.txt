@@ -27571,3 +27571,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566498285 - Thu Aug 22 20:24:45 CEST 2019 - /Stream/Snowfall.html,s3e7 - Snowfall
 1566498292 - Thu Aug 22 20:24:52 CEST 2019 - /Stream/The_Detour.html,s4e10 - The Detour
 1566512712 - Fri Aug 23 00:25:12 CEST 2019 - /Stream/Engel_der_Gejagten.html - Engel der Gejagten
+1566512716 - Fri Aug 23 00:25:16 CEST 2019 - /Stream/Die_gruenen_Huegel_von_Wales.html - Die grünen Hügel von Wales
