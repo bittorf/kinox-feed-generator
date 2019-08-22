@@ -27579,3 +27579,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566512739 - Fri Aug 23 00:25:39 CEST 2019 - /Stream/Screamers-Hoerst_du_den_Schrei_ist_es_zu_spaet.html - #Screamers - Hörst du den Schrei, ist es zu spät!
 1566512743 - Fri Aug 23 00:25:43 CEST 2019 - /Stream/Komplizen.html - Komplizen
 1566512747 - Fri Aug 23 00:25:47 CEST 2019 - /Stream/Friedhof_am_Ende_der_Welt.html - Friedhof am Ende der Welt
+1566512752 - Fri Aug 23 00:25:52 CEST 2019 - /Stream/Auf_den_Spuren_der_Vergangenheit.html - Auf den Spuren der Vergangenheit
