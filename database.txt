@@ -27625,3 +27625,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566758020 - Sun Aug 25 20:33:40 CEST 2019 - /Stream/Golem-Wiedergeburt.html - Golem - Wiedergeburt
 1566758023 - Sun Aug 25 20:33:43 CEST 2019 - /Stream/The_Umbrella_Academy.html,s1 - The Umbrella Academy
 1566772443 - Mon Aug 26 00:34:03 CEST 2019 - /Stream/Modern_Family-1.html,s10e20 - Modern Family
+1566772454 - Mon Aug 26 00:34:14 CEST 2019 - /Stream/Die_Simpsons.html,s29e19 - Die Simpsons
