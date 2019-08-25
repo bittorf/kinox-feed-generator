@@ -27618,3 +27618,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566736344 - Sun Aug 25 14:32:24 CEST 2019 - /Stream/Crazy_Ex-Girlfriend-1.html,s4e11 - Crazy Ex-Girlfriend
 1566736351 - Sun Aug 25 14:32:31 CEST 2019 - /Stream/Promi_Big_Brother.html,s7e10 - Promi Big Brother
 1566736357 - Sun Aug 25 14:32:37 CEST 2019 - /Stream/Ennemi_public.html,s2e6 - Ennemi public
+1566736364 - Sun Aug 25 14:32:44 CEST 2019 - /Stream/The_Affair.html,s5e1 - The Affair
