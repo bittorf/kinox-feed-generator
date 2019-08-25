@@ -27614,3 +27614,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566736318 - Sun Aug 25 14:31:58 CEST 2019 - /Stream/The_Detour-1.html,s4e1 - The Detour
 1566736323 - Sun Aug 25 14:32:03 CEST 2019 - /Stream/Supergirl-2.html,s4 - Supergirl
 1566736330 - Sun Aug 25 14:32:10 CEST 2019 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s15e23 - Grey's Anatomy - Die jungen Ärzte
+1566736338 - Sun Aug 25 14:32:18 CEST 2019 - /Stream/Longmire-1.html,s6e5 - Longmire
