@@ -27611,3 +27611,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566671448 - Sat Aug 24 20:30:48 CEST 2019 - /Stream/I_Am_Mother.html - I Am Mother
 1566671451 - Sat Aug 24 20:30:51 CEST 2019 - /Stream/Another_Life-1.html,s1 - Another Life
 1566736310 - Sun Aug 25 14:31:50 CEST 2019 - /Stream/Elementary-1.html,s7e4 - Elementary
+1566736318 - Sun Aug 25 14:31:58 CEST 2019 - /Stream/The_Detour-1.html,s4e1 - The Detour
