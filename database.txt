@@ -27610,3 +27610,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566657026 - Sat Aug 24 16:30:26 CEST 2019 - /Stream/Doom_Patrol_german_subbed.html,s1e5 - Doom Patrol *german subbed*
 1566671448 - Sat Aug 24 20:30:48 CEST 2019 - /Stream/I_Am_Mother.html - I Am Mother
 1566671451 - Sat Aug 24 20:30:51 CEST 2019 - /Stream/Another_Life-1.html,s1 - Another Life
+1566736310 - Sun Aug 25 14:31:50 CEST 2019 - /Stream/Elementary-1.html,s7e4 - Elementary
