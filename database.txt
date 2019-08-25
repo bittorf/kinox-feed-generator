@@ -27624,3 +27624,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566758014 - Sun Aug 25 20:33:34 CEST 2019 - /Stream/Swinging_Summer-Willkommen_in_den_70ern.html - Swinging Summer - Willkommen in den 70ern
 1566758020 - Sun Aug 25 20:33:40 CEST 2019 - /Stream/Golem-Wiedergeburt.html - Golem - Wiedergeburt
 1566758023 - Sun Aug 25 20:33:43 CEST 2019 - /Stream/The_Umbrella_Academy.html,s1 - The Umbrella Academy
+1566772443 - Mon Aug 26 00:34:03 CEST 2019 - /Stream/Modern_Family-1.html,s10e20 - Modern Family
