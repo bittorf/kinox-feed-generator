@@ -27637,3 +27637,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566822956 - Mon Aug 26 14:35:56 CEST 2019 - /Stream/Power-1.html,s6e1 - Power
 1566822962 - Mon Aug 26 14:36:02 CEST 2019 - /Stream/Peaky_Blinders.html,s5e1 - Peaky Blinders
 1566859001 - Tue Aug 27 00:36:41 CEST 2019 - /Stream/Vorhang_auf_fuer_Cyrano.html - Vorhang auf für Cyrano
+1566859005 - Tue Aug 27 00:36:45 CEST 2019 - /Stream/Detektiv_Conan_Der_purpurrote_Liebesbrief.html - Detektiv Conan: Der purpurrote Liebesbrief
