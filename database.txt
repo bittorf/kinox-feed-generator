@@ -27641,3 +27641,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566859010 - Tue Aug 27 00:36:50 CEST 2019 - /Stream/Abenteuer_der_Landstrasse.html,s1e1 - Abenteuer der Landstraﬂe
 1566909467 - Tue Aug 27 14:37:47 CEST 2019 - /Stream/Preacher.html,s4e5 - Preacher
 1566909474 - Tue Aug 27 14:37:54 CEST 2019 - /Stream/Fear_the_Walking_Dead-1.html,s5e11 - Fear the Walking Dead
+1566909481 - Tue Aug 27 14:38:01 CEST 2019 - /Stream/The_Detour-1.html,s4 - The Detour
