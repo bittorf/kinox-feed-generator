@@ -27644,3 +27644,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566909481 - Tue Aug 27 14:38:01 CEST 2019 - /Stream/The_Detour-1.html,s4 - The Detour
 1566909486 - Tue Aug 27 14:38:06 CEST 2019 - /Stream/How_to_Get_Away_with_Murder-1.html,s5e9 - How to Get Away with Murder
 1566909493 - Tue Aug 27 14:38:13 CEST 2019 - /Stream/Die_Simpsons.html,s29e20 - Die Simpsons
+1566909500 - Tue Aug 27 14:38:20 CEST 2019 - /Stream/Die_Chefin.html,s10e1 - Die Chefin
