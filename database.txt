@@ -27646,3 +27646,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1566909493 - Tue Aug 27 14:38:13 CEST 2019 - /Stream/Die_Simpsons.html,s29e20 - Die Simpsons
 1566909500 - Tue Aug 27 14:38:20 CEST 2019 - /Stream/Die_Chefin.html,s10e1 - Die Chefin
 1566909507 - Tue Aug 27 14:38:27 CEST 2019 - /Stream/Lodge_49.html,s2e3 - Lodge 49
+1566909514 - Tue Aug 27 14:38:34 CEST 2019 - /Stream/Midsomer_Murders.html,s20e4 - Midsomer Murders
