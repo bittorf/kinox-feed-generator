@@ -27669,3 +27669,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567176245 - Fri Aug 30 16:44:05 CEST 2019 - /Stream/Riviera.html,s2 - Riviera
 1567176251 - Fri Aug 30 16:44:11 CEST 2019 - /Stream/The_Flash-1.html,s5e21 - The Flash
 1567176256 - Fri Aug 30 16:44:16 CEST 2019 - /Stream/The_Outpost-1.html,s2e8 - The Outpost
+1567176260 - Fri Aug 30 16:44:20 CEST 2019 - /Stream/Queen_of_the_South.html,s4e13 - Queen of the South
