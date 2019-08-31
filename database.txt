@@ -27683,3 +27683,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567262882 - Sat Aug 31 16:48:02 CEST 2019 - /Stream/Battlestar_Galactica-The_Plan.html - Battlestar Galactica - The Plan
 1567262887 - Sat Aug 31 16:48:07 CEST 2019 - /Stream/Longmire-1.html,s6e6 - Longmire
 1567262894 - Sat Aug 31 16:48:14 CEST 2019 - /Stream/Wo_steckt_Carmen_Sandiego.html,s2e8 - Wo steckt Carmen Sandiego?
+1567262900 - Sat Aug 31 16:48:20 CEST 2019 - /Stream/Die_Simpsons.html,s29e21 - Die Simpsons
