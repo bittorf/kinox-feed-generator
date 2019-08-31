@@ -27680,3 +27680,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567183509 - Fri Aug 30 18:45:09 CEST 2019 - /Stream/The_Terror-1.html,s2e3 - The Terror
 1567212370 - Sat Aug 31 02:46:10 CEST 2019 - /Stream/Moerderischer_Pakt.html - Mörderischer Pakt
 1567212373 - Sat Aug 31 02:46:13 CEST 2019 - /Stream/Vicious_Circles.html - Vicious Circles
+1567262882 - Sat Aug 31 16:48:02 CEST 2019 - /Stream/Battlestar_Galactica-The_Plan.html - Battlestar Galactica - The Plan
