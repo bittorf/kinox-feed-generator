@@ -27701,3 +27701,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567436031 - Mon Sep  2 16:53:51 CEST 2019 - /Stream/American_Housewife-1.html,s3e13 - American Housewife
 1567436037 - Mon Sep  2 16:53:57 CEST 2019 - /Stream/Preacher.html,s4e6 - Preacher
 1567436043 - Mon Sep  2 16:54:03 CEST 2019 - /Stream/Lodge_49.html,s2e4 - Lodge 49
+1567436050 - Mon Sep  2 16:54:10 CEST 2019 - /Stream/The_Affair.html,s5e2 - The Affair
