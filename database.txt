@@ -27713,3 +27713,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567522583 - Tue Sep  3 16:56:23 CEST 2019 - /Stream/Young_Sheldon-1.html,s2e13 - Young Sheldon
 1567522588 - Tue Sep  3 16:56:28 CEST 2019 - /Stream/Elementary-1.html,s7e5 - Elementary
 1567522596 - Tue Sep  3 16:56:36 CEST 2019 - /Stream/Superstore-1.html,s4e6 - Superstore
+1567537018 - Tue Sep  3 20:56:58 CEST 2019 - /Stream/Glueck_ist_was_fuer_Weicheier.html - Glück ist was für Weicheier
