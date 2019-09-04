@@ -27719,3 +27719,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567601915 - Wed Sep  4 14:58:35 CEST 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s10e5 - Heartland - Paradies für Pferde
 1567601931 - Wed Sep  4 14:58:51 CEST 2019 - /Stream/Mayans_M-C.html,s2e1 - Mayans M.C.
 1567601953 - Wed Sep  4 14:59:13 CEST 2019 - /Stream/Holby_City.html,s21e36 - Holby City
+1567623589 - Wed Sep  4 20:59:49 CEST 2019 - /Stream/Wu-Tang_An_American_Saga.html,s1 - Wu-Tang: An American Saga
