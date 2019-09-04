@@ -27716,3 +27716,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567537018 - Tue Sep  3 20:56:58 CEST 2019 - /Stream/Glueck_ist_was_fuer_Weicheier.html - Glück ist was für Weicheier
 1567601893 - Wed Sep  4 14:58:13 CEST 2019 - /Stream/The_Big_Bang_Theory.html,s12e14 - The Big Bang Theory
 1567601914 - Wed Sep  4 14:58:34 CEST 2019 - /Stream/The_Orville-1.html,s2e12 - The Orville
+1567601915 - Wed Sep  4 14:58:35 CEST 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s10e5 - Heartland - Paradies für Pferde
