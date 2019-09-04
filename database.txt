@@ -27728,3 +27728,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567630831 - Wed Sep  4 23:00:31 CEST 2019 - /Stream/Taxi_Taxi.html - Taxi Taxi
 1567630837 - Wed Sep  4 23:00:37 CEST 2019 - /Stream/Verschollen_im_Harem.html - Verschollen im Harem
 1567630843 - Wed Sep  4 23:00:43 CEST 2019 - /Stream/Operation_Corned_Beef.html - Operation Corned Beef
+1567630849 - Wed Sep  4 23:00:49 CEST 2019 - /Stream/Hercules.html - Hercules
