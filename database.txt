@@ -27740,3 +27740,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567681357 - Thu Sep  5 13:02:37 CEST 2019 - /Stream/The_Terror-2.html,s2e4 - The Terror
 1567688570 - Thu Sep  5 15:02:50 CEST 2019 - /Stream/Into_the_Dark-2.html,s1e1 - Into the Dark
 1567688576 - Thu Sep  5 15:02:56 CEST 2019 - /Stream/Chicago_P-D.html,s6 - Chicago P.D.
+1567688588 - Thu Sep  5 15:03:08 CEST 2019 - /Stream/The_Handmaids_Tale_Der_Report_der_Magd.html,s3e1 - The Handmaid's Tale: Der Report der Magd
