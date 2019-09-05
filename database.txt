@@ -27739,3 +27739,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567681349 - Thu Sep  5 13:02:29 CEST 2019 - /Stream/Micky_Maus.html,s5e9 - Micky Maus
 1567681357 - Thu Sep  5 13:02:37 CEST 2019 - /Stream/The_Terror-2.html,s2e4 - The Terror
 1567688570 - Thu Sep  5 15:02:50 CEST 2019 - /Stream/Into_the_Dark-2.html,s1e1 - Into the Dark
+1567688576 - Thu Sep  5 15:02:56 CEST 2019 - /Stream/Chicago_P-D.html,s6 - Chicago P.D.
