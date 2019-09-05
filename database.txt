@@ -27730,3 +27730,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567630843 - Wed Sep  4 23:00:43 CEST 2019 - /Stream/Operation_Corned_Beef.html - Operation Corned Beef
 1567630849 - Wed Sep  4 23:00:49 CEST 2019 - /Stream/Hercules.html - Hercules
 1567630855 - Wed Sep  4 23:00:55 CEST 2019 - /Stream/Young_Sheldon-1.html,s2e14 - Young Sheldon
+1567681306 - Thu Sep  5 13:01:46 CEST 2019 - /Stream/Sally4Ever.html,s1 - Sally4Ever
