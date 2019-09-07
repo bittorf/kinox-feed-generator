@@ -27779,3 +27779,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567869022 - Sat Sep  7 17:10:22 CEST 2019 - /Stream/Ennemi_public.html,s2e8 - Ennemi public
 1567869028 - Sat Sep  7 17:10:28 CEST 2019 - /Stream/Preacher-1.html,s4e7 - Preacher
 1567869036 - Sat Sep  7 17:10:36 CEST 2019 - /Stream/Fear_the_Walking_Dead.html,s5e13 - Fear the Walking Dead
+1567869043 - Sat Sep  7 17:10:43 CEST 2019 - /Stream/Killjoys.html,s5e8 - Killjoys
