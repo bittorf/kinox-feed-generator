@@ -27783,3 +27783,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567955524 - Sun Sep  8 17:12:04 CEST 2019 - /Stream/Es_2.html - Es 2
 1567955530 - Sun Sep  8 17:12:10 CEST 2019 - /Stream/Der_Honiggarten-Das_Geheimnis_der_Bienen.html - Der Honiggarten - Das Geheimnis der Bienen
 1567955535 - Sun Sep  8 17:12:15 CEST 2019 - /Stream/The_Handmaids_Tale_Der_Report_der_Magd.html,s3 - The Handmaid's Tale: Der Report der Magd
+1567955538 - Sun Sep  8 17:12:18 CEST 2019 - /Stream/American_Housewife-1.html,s3e14 - American Housewife
