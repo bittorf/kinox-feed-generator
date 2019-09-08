@@ -27786,3 +27786,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567955538 - Sun Sep  8 17:12:18 CEST 2019 - /Stream/American_Housewife-1.html,s3e14 - American Housewife
 1567955544 - Sun Sep  8 17:12:24 CEST 2019 - /Stream/Blindspot-1.html,s4e18 - Blindspot
 1567955552 - Sun Sep  8 17:12:32 CEST 2019 - /Stream/Bulletproof-3.html,s1e2 - Bulletproof
+1567962767 - Sun Sep  8 19:12:47 CEST 2019 - /Stream/Elite.html,s2 - Elite
