@@ -27797,3 +27797,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568034960 - Mon Sep  9 15:16:00 CEST 2019 - /Stream/Preacher.html,s4e7 - Preacher
 1568034966 - Mon Sep  9 15:16:06 CEST 2019 - /Stream/Fear_the_Walking_Dead-1.html,s5e13 - Fear the Walking Dead
 1568035005 - Mon Sep  9 15:16:45 CEST 2019 - /Stream/Brooklyn_Nine-Nine-1.html,s5e1 - Brooklyn Nine-Nine
+1568035027 - Mon Sep  9 15:17:07 CEST 2019 - /Stream/Crazy_Ex-Girlfriend-1.html,s4e12 - Crazy Ex-Girlfriend
