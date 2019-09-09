@@ -27802,3 +27802,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568035070 - Mon Sep  9 15:17:50 CEST 2019 - /Stream/The_Terror-2.html,s2e5 - The Terror
 1568035074 - Mon Sep  9 15:17:54 CEST 2019 - /Stream/Ballers.html,s5e3 - Ballers
 1568035096 - Mon Sep  9 15:18:16 CEST 2019 - /Stream/The_Affair.html,s5e3 - The Affair
+1568035131 - Mon Sep  9 15:18:51 CEST 2019 - /Stream/Power-1.html,s6e3 - Power
