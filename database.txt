@@ -27790,3 +27790,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1567962774 - Sun Sep  8 19:12:54 CEST 2019 - /Stream/Der_dunkle_Kristall_Aera_des_Widerstands.html,s1 - Der dunkle Kristall: Ära des Widerstands
 1567977191 - Sun Sep  8 23:13:11 CEST 2019 - /Stream/Elite.html,s2e1 - Elite
 1567977213 - Sun Sep  8 23:13:33 CEST 2019 - /Stream/Casualty.html,s34e4 - Casualty
+1568034887 - Mon Sep  9 15:14:47 CEST 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s10e9 - Heartland - Paradies für Pferde
