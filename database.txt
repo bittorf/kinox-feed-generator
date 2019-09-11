@@ -27814,3 +27814,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568208169 - Wed Sep 11 15:22:49 CEST 2019 - /Stream/Superstore-1.html,s4 - Superstore
 1568208177 - Wed Sep 11 15:22:57 CEST 2019 - /Stream/Wu-Tang_An_American_Saga.html,s1e4 - Wu-Tang: An American Saga
 1568208182 - Wed Sep 11 15:23:02 CEST 2019 - /Stream/Mayans_M-C.html,s2e2 - Mayans M.C.
+1568208189 - Wed Sep 11 15:23:09 CEST 2019 - /Stream/The_Deuce-1.html,s3e1 - The Deuce
