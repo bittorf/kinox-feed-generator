@@ -27811,3 +27811,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568208151 - Wed Sep 11 15:22:31 CEST 2019 - /Stream/How_to_Get_Away_with_Murder-1.html,s5e11 - How to Get Away with Murder
 1568208157 - Wed Sep 11 15:22:37 CEST 2019 - /Stream/Young_Sheldon-1.html,s2e15 - Young Sheldon
 1568208163 - Wed Sep 11 15:22:43 CEST 2019 - /Stream/The_Big_Bang_Theory.html,s12e15 - The Big Bang Theory
+1568208169 - Wed Sep 11 15:22:49 CEST 2019 - /Stream/Superstore-1.html,s4 - Superstore
