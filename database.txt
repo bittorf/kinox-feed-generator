@@ -27834,3 +27834,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568525460 - Sun Sep 15 07:31:00 CEST 2019 - /Stream/Private_Eyes-1.html,s3e3 - Private Eyes
 1568525466 - Sun Sep 15 07:31:06 CEST 2019 - /Stream/The_Outpost-2.html,s2e3 - The Outpost
 1568525471 - Sun Sep 15 07:31:11 CEST 2019 - /Stream/Speechless-3.html,s3e8 - Speechless
+1568525492 - Sun Sep 15 07:31:32 CEST 2019 - /Stream/Longmire-1.html,s6e8 - Longmire
