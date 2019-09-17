@@ -27849,3 +27849,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568662516 - Mon Sep 16 21:35:16 CEST 2019 - /Stream/Supernatural.html,s14e5 - Supernatural
 1568741791 - Tue Sep 17 19:36:31 CEST 2019 - /Stream/Queens.html - Queens
 1568741795 - Tue Sep 17 19:36:35 CEST 2019 - /Stream/Nomis-Die_Nacht_des_Jaegers.html - Nomis - Die Nacht des Jägers
+1568741800 - Tue Sep 17 19:36:40 CEST 2019 - /Stream/Crazy_Ex-Girlfriend-1.html,s4e13 - Crazy Ex-Girlfriend
