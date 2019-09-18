@@ -27866,3 +27866,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568821151 - Wed Sep 18 17:39:11 CEST 2019 - /Stream/Vorstadtweiber.html,s4e1 - Vorstadtweiber
 1568821157 - Wed Sep 18 17:39:17 CEST 2019 - /Stream/Wu-Tang_An_American_Saga.html,s1e5 - Wu-Tang: An American Saga
 1568821163 - Wed Sep 18 17:39:23 CEST 2019 - /Stream/Mayans_M-C.html,s2e3 - Mayans M.C.
+1568821169 - Wed Sep 18 17:39:29 CEST 2019 - /Stream/The_Deuce-1.html,s3e2 - The Deuce
