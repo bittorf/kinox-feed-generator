@@ -27871,3 +27871,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568835594 - Wed Sep 18 21:39:54 CEST 2019 - /Stream/Rocca_veraendert_die_Welt.html - Rocca verändert die Welt
 1568835599 - Wed Sep 18 21:39:59 CEST 2019 - /Stream/Loewenzahn.html,s37 - Löwenzahn
 1568842815 - Wed Sep 18 23:40:15 CEST 2019 - /Stream/American_Dad.html,s15e19 - American Dad
+1568842821 - Wed Sep 18 23:40:21 CEST 2019 - /Stream/Supernatural.html,s14e6 - Supernatural
