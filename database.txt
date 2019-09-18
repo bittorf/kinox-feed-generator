@@ -27861,3 +27861,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568756268 - Tue Sep 17 23:37:48 CEST 2019 - /Stream/Pearl_in_Paradise.html - Pearl in Paradise
 1568756273 - Tue Sep 17 23:37:53 CEST 2019 - /Stream/Begierde.html,s1e1 - Begierde
 1568821132 - Wed Sep 18 17:38:52 CEST 2019 - /Stream/Young_Sheldon-1.html,s2e16 - Young Sheldon
+1568821139 - Wed Sep 18 17:38:59 CEST 2019 - /Stream/The_Big_Bang_Theory.html,s12e16 - The Big Bang Theory
