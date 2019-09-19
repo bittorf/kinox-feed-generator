@@ -27874,3 +27874,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1568842821 - Wed Sep 18 23:40:21 CEST 2019 - /Stream/Supernatural.html,s14e6 - Supernatural
 1568900480 - Thu Sep 19 15:41:20 CEST 2019 - /Stream/Tall_Girl.html - Tall Girl
 1568900484 - Thu Sep 19 15:41:24 CEST 2019 - /Stream/Tote_Bienen_singen_nicht.html - Tote Bienen singen nicht
+1568900489 - Thu Sep 19 15:41:29 CEST 2019 - /Stream/The_Resident-4.html,s2 - The Resident
