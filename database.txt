@@ -27915,3 +27915,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1569080864 - Sat Sep 21 17:47:44 CEST 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s11e1 - Heartland - Paradies für Pferde
 1569080872 - Sat Sep 21 17:47:52 CEST 2019 - /Stream/The_Americans-1.html,s6e2 - The Americans
 1569080877 - Sat Sep 21 17:47:57 CEST 2019 - /Stream/Speechless-3.html,s3e9 - Speechless
+1569080883 - Sat Sep 21 17:48:03 CEST 2019 - /Stream/The_Loudest_Voice.html,s1 - The Loudest Voice
