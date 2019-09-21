@@ -27913,3 +27913,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1569080852 - Sat Sep 21 17:47:32 CEST 2019 - /Stream/Longmire-1.html,s6e9 - Longmire
 1569080858 - Sat Sep 21 17:47:38 CEST 2019 - /Stream/Last_Outpost.html,s1e2 - Last Outpost
 1569080864 - Sat Sep 21 17:47:44 CEST 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s11e1 - Heartland - Paradies für Pferde
+1569080872 - Sat Sep 21 17:47:52 CEST 2019 - /Stream/The_Americans-1.html,s6e2 - The Americans
