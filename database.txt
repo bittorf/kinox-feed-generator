@@ -27934,3 +27934,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1569153065 - Sun Sep 22 13:51:05 CEST 2019 - /Stream/NCIS_New_Orleans-1.html,s5e3 - NCIS: New Orleans
 1569153073 - Sun Sep 22 13:51:13 CEST 2019 - /Stream/Dittsche.html,s28e9 - Dittsche
 1569153079 - Sun Sep 22 13:51:19 CEST 2019 - /Stream/The_Hot_Zone-Toedliches_Virus.html,s1e1 - The Hot Zone - Tödliches Virus
+1569153084 - Sun Sep 22 13:51:24 CEST 2019 - /Stream/Killjoys-1.html,s5e2 - Killjoys
