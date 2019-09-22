@@ -27928,3 +27928,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1569153030 - Sun Sep 22 13:50:30 CEST 2019 - /Stream/Gotham-1.html,s5 - Gotham
 1569153039 - Sun Sep 22 13:50:39 CEST 2019 - /Stream/Black_Clover.html,s1 - Black Clover
 1569153044 - Sun Sep 22 13:50:44 CEST 2019 - /Stream/Jung-vielversprechend.html,s2 - Jung & vielversprechend
+1569153049 - Sun Sep 22 13:50:49 CEST 2019 - /Stream/The_Americans-1.html,s6 - The Americans
