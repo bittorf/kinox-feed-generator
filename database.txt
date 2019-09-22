@@ -27926,3 +27926,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1569153019 - Sun Sep 22 13:50:19 CEST 2019 - /Stream/Sandstern.html - Sandstern
 1569153024 - Sun Sep 22 13:50:24 CEST 2019 - /Stream/Crazy_Ex-Girlfriend-1.html,s4e14 - Crazy Ex-Girlfriend
 1569153030 - Sun Sep 22 13:50:30 CEST 2019 - /Stream/Gotham-1.html,s5 - Gotham
+1569153039 - Sun Sep 22 13:50:39 CEST 2019 - /Stream/Black_Clover.html,s1 - Black Clover
