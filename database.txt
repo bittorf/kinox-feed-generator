@@ -27965,3 +27965,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571405605 - Fri Oct 18 15:33:25 CEST 2019 - /Stream/The_Flash-2.html,s6e2 - The Flash
 1571405610 - Fri Oct 18 15:33:30 CEST 2019 - /Stream/Arrow.html,s8e1 - Arrow
 1571405618 - Fri Oct 18 15:33:38 CEST 2019 - /Stream/The_Good_Doctor-1.html,s3e4 - The Good Doctor
+1571424055 - Fri Oct 18 20:40:55 CEST 2019 - /Stream/The_Purge-2.html,s2e1 - The Purge
