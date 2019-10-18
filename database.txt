@@ -27964,3 +27964,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571405594 - Fri Oct 18 15:33:14 CEST 2019 - /Stream/American_Horror_Story.html,s9e5 - American Horror Story
 1571405605 - Fri Oct 18 15:33:25 CEST 2019 - /Stream/The_Flash-2.html,s6e2 - The Flash
 1571405610 - Fri Oct 18 15:33:30 CEST 2019 - /Stream/Arrow.html,s8e1 - Arrow
+1571405618 - Fri Oct 18 15:33:38 CEST 2019 - /Stream/The_Good_Doctor-1.html,s3e4 - The Good Doctor
