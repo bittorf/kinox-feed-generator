@@ -27973,3 +27973,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571470489 - Sat Oct 19 09:34:49 CEST 2019 - /Stream/Maleficent_2_Maechte_der_Finsternis.html - Maleficent 2: Mächte der Finsternis
 1571474526 - Sat Oct 19 10:42:06 CEST 2019 - /Stream/The_Terror-1.html,s2e10 - The Terror
 1571474532 - Sat Oct 19 10:42:12 CEST 2019 - /Stream/Gotham-1.html,s5e12 - Gotham
+1571474542 - Sat Oct 19 10:42:22 CEST 2019 - /Stream/Charmed-2.html,s1e20 - Charmed
