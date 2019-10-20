@@ -27982,3 +27982,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571492121 - Sat Oct 19 15:35:21 CEST 2019 - /Stream/Just_Drifting_Along.html - Just Drifting Along
 1571582765 - Sun Oct 20 16:46:05 CEST 2019 - /Stream/MacGyver-3.html,s3e19 - MacGyver
 1571582772 - Sun Oct 20 16:46:12 CEST 2019 - /Stream/NCIS_New_Orleans-1.html,s5e2 - NCIS: New Orleans
+1571582779 - Sun Oct 20 16:46:19 CEST 2019 - /Stream/Legacies.html,s2e2 - Legacies
