@@ -27991,3 +27991,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571582816 - Sun Oct 20 16:46:56 CEST 2019 - /Stream/Mr-Robot.html,s4e2 - Mr. Robot
 1571582822 - Sun Oct 20 16:47:02 CEST 2019 - /Stream/Empire-3.html,s6e4 - Empire
 1571582831 - Sun Oct 20 16:47:11 CEST 2019 - /Stream/NCIS_New_Orleans.html,s6e1 - NCIS: New Orleans
+1571582838 - Sun Oct 20 16:47:18 CEST 2019 - /Stream/Chicago_PD.html,s7e4 - Chicago PD
