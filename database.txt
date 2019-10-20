@@ -27987,3 +27987,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571582789 - Sun Oct 20 16:46:29 CEST 2019 - /Stream/Young_Sheldon.html,s3e4 - Young Sheldon
 1571582794 - Sun Oct 20 16:46:34 CEST 2019 - /Stream/Van_Helsing-2.html,s4e4 - Van Helsing
 1571582801 - Sun Oct 20 16:46:41 CEST 2019 - /Stream/Chicago_Med.html,s5e4 - Chicago Med
+1571582808 - Sun Oct 20 16:46:48 CEST 2019 - /Stream/Fear_the_Walking_Dead.html,s5e14 - Fear the Walking Dead
