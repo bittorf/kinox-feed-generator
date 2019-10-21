@@ -28015,3 +28015,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571647801 - Mon Oct 21 10:50:01 CEST 2019 - /Stream/Family_Guy-1.html,s18e4 - Family Guy
 1571647809 - Mon Oct 21 10:50:09 CEST 2019 - /Stream/The_Simpsons.html,s31e4 - The Simpsons
 1571669437 - Mon Oct 21 16:50:37 CEST 2019 - /Stream/Supernatural.html,s14e16 - Supernatural
+1571669445 - Mon Oct 21 16:50:45 CEST 2019 - /Stream/Batwoman.html,s1e3 - Batwoman
