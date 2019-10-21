@@ -28009,3 +28009,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571647762 - Mon Oct 21 10:49:22 CEST 2019 - /Stream/Riverdale.html,s4e2 - Riverdale
 1571647768 - Mon Oct 21 10:49:28 CEST 2019 - /Stream/Watchmen-3.html,s1e1 - Watchmen
 1571647774 - Mon Oct 21 10:49:34 CEST 2019 - /Stream/Supergirl_german_subbed.html,s5e2 - Supergirl *german subbed*
+1571647781 - Mon Oct 21 10:49:41 CEST 2019 - /Stream/Super_Girl.html,s5e3 - Super Girl
