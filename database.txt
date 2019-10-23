@@ -28045,3 +28045,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571823752 - Wed Oct 23 11:42:32 CEST 2019 - /Stream/New_Amsterdam-1.html,s2e5 - New Amsterdam
 1571823760 - Wed Oct 23 11:42:40 CEST 2019 - /Stream/The_Purge-1.html,s2e2 - The Purge
 1571823765 - Wed Oct 23 11:42:45 CEST 2019 - /Stream/The_Flash-2.html,s6e3 - The Flash
+1571823770 - Wed Oct 23 11:42:50 CEST 2019 - /Stream/Arrow.html,s8e2 - Arrow
