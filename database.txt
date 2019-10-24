@@ -28066,3 +28066,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571936304 - Thu Oct 24 18:58:24 CEST 2019 - /Stream/Riverdale.html,s4e3 - Riverdale
 1571936306 - Thu Oct 24 18:58:26 CEST 2019 - /Stream/Chicago_Med.html,s5e5 - Chicago Med
 1571936314 - Thu Oct 24 18:58:34 CEST 2019 - /Stream/Chicago_PD.html,s7e5 - Chicago PD
+1571936326 - Thu Oct 24 18:58:46 CEST 2019 - /Stream/Chicago_Fire.html,s8e5 - Chicago Fire
