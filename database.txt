@@ -28055,3 +28055,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571936240 - Thu Oct 24 18:57:20 CEST 2019 - /Stream/Yu-Gi-Oh_Arc-V.html,s3e14 - Yu-Gi-Oh! Arc-V
 1571936246 - Thu Oct 24 18:57:26 CEST 2019 - /Stream/GameFace.html,s1 - GameFace
 1571936252 - Thu Oct 24 18:57:32 CEST 2019 - /Stream/L-A-s_Finest.html,s1 - L.A.'s Finest
+1571936257 - Thu Oct 24 18:57:37 CEST 2019 - /Stream/Loewenzahn.html,s36 - Löwenzahn
