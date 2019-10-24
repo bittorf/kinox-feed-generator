@@ -28059,3 +28059,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571936265 - Thu Oct 24 18:57:45 CEST 2019 - /Stream/Last_Outpost.html,s1e6 - Last Outpost
 1571936270 - Thu Oct 24 18:57:50 CEST 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s11e17 - Heartland - Paradies für Pferde
 1571936277 - Thu Oct 24 18:57:57 CEST 2019 - /Stream/God_Friended_Me.html,s2e4 - God Friended Me
+1571936282 - Thu Oct 24 18:58:02 CEST 2019 - /Stream/The_Goldbergs.html,s7 - The Goldbergs
