@@ -28063,3 +28063,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571936287 - Thu Oct 24 18:58:07 CEST 2019 - /Stream/The_War_of_the_Worlds-1.html,s1e1 - The War of the Worlds
 1571936291 - Thu Oct 24 18:58:11 CEST 2019 - /Stream/S-W-A-T-2.html,s3e4 - S.W.A.T.
 1571936298 - Thu Oct 24 18:58:18 CEST 2019 - /Stream/SEAL_Team.html,s3e4 - SEAL Team
+1571936304 - Thu Oct 24 18:58:24 CEST 2019 - /Stream/Riverdale.html,s4e3 - Riverdale
