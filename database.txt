@@ -28080,3 +28080,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572030125 - Fri Oct 25 21:02:05 CEST 2019 - /Stream/Young_Sheldon.html,s3e5 - Young Sheldon
 1572030136 - Fri Oct 25 21:02:16 CEST 2019 - /Stream/Supernatural-1.html,s15e3 - Supernatural
 1572030150 - Fri Oct 25 21:02:30 CEST 2019 - /Stream/Greys_Anatomy.html,s16e5 - Grey's Anatomy
+1572037377 - Fri Oct 25 23:02:57 CEST 2019 - /Stream/Pat_Garrett_jagt_Billy_the_Kid.html - Pat Garrett jagt Billy the Kid
