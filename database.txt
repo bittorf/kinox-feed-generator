@@ -28071,3 +28071,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1571936345 - Thu Oct 24 18:59:05 CEST 2019 - /Stream/Its_Always_Sunny_in_Philadelphia.html,s14e5 - It's Always Sunny in Philadelphia
 1571950769 - Thu Oct 24 22:59:29 CEST 2019 - /Stream/The_Goldbergs.html,s7e5 - The Goldbergs
 1572022838 - Fri Oct 25 19:00:38 CEST 2019 - /Stream/Terminator_6_Dark_Fate.html - Terminator 6: Dark Fate
+1572030058 - Fri Oct 25 21:00:58 CEST 2019 - /Stream/Atlanta_Medical.html,s2 - Atlanta Medical
