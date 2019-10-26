@@ -28091,3 +28091,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572097704 - Sat Oct 26 15:48:24 CEST 2019 - /Stream/The_Blacklist.html,s7e4 - The Blacklist
 1572097710 - Sat Oct 26 15:48:30 CEST 2019 - /Stream/Hawaii_Five-0-1.html,s10e5 - Hawaii Five-0
 1572097720 - Sat Oct 26 15:48:40 CEST 2019 - /Stream/Blue_Bloods.html,s10e5 - Blue Bloods
+1572104938 - Sat Oct 26 17:48:58 CEST 2019 - /Stream/Solo-The_Rhythm_of_Love.html - Solo! - The Rhythm of Love
