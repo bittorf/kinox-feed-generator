@@ -28104,3 +28104,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572249103 - Mon Oct 28 08:51:43 CET 2019 - /Stream/NCIS_Los_Angeles.html,s11e5 - NCIS: Los Angeles
 1572277937 - Mon Oct 28 16:52:17 CET 2019 - /Stream/Krypton-1.html,s2e4 - Krypton
 1572277944 - Mon Oct 28 16:52:24 CET 2019 - /Stream/The_Purge-2.html,s2e2 - The Purge
+1572277949 - Mon Oct 28 16:52:29 CET 2019 - /Stream/Killjoys-1.html,s5e6 - Killjoys
