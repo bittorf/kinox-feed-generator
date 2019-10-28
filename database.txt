@@ -28096,3 +28096,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572104946 - Sat Oct 26 17:49:06 CEST 2019 - /Stream/The_Walking_Dead.html,s10e4 - The Walking Dead
 1572217635 - Mon Oct 28 00:07:15 CET 2019 - /Stream/Vorstadtweiber.html,s1 - Vorstadtweiber
 1572217641 - Mon Oct 28 00:07:21 CET 2019 - /Stream/Rosario-Vampire-1.html,s1e1 - Rosario + Vampire
+1572249070 - Mon Oct 28 08:51:10 CET 2019 - /Stream/Allegiance-1.html,s1e13 - Allegiance
