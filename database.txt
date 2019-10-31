@@ -28147,3 +28147,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572477310 - Thu Oct 31 00:15:10 CET 2019 - /Stream/Younger-1.html,s6e2 - Younger
 1572477318 - Thu Oct 31 00:15:18 CET 2019 - /Stream/Dublin_Murders.html,s1e6 - Dublin Murders
 1572477324 - Thu Oct 31 00:15:24 CET 2019 - /Stream/The_Conners.html,s2e4 - The Conners
+1572520567 - Thu Oct 31 12:16:07 CET 2019 - /Stream/Strike_Back-2.html,s7e4 - Strike Back
