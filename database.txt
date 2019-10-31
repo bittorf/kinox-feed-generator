@@ -28161,3 +28161,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572537459 - Thu Oct 31 16:57:39 CET 2019 - /Stream/Poldark-1.html,s5e4 - Poldark
 1572537466 - Thu Oct 31 16:57:46 CET 2019 - /Stream/Krypton-1.html,s2 - Krypton
 1572537474 - Thu Oct 31 16:57:54 CET 2019 - /Stream/Into_the_Dark-2.html,s1e9 - Into the Dark
+1572537480 - Thu Oct 31 16:58:00 CET 2019 - /Stream/L-A-s_Finest.html,s1e5 - L.A.'s Finest
