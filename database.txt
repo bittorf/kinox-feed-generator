@@ -28213,3 +28213,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572784017 - Sun Nov  3 13:26:57 CET 2019 - /Stream/Batwoman_german_subbed.html,s1e3 - Batwoman *german subbed*
 1572813535 - Sun Nov  3 21:38:55 CET 2019 - /Stream/Doctor_Sleep-1.html - Doctor Sleep
 1572813541 - Sun Nov  3 21:39:01 CET 2019 - /Stream/Scary_Stories_To_Tell_In_The_Dark.html - Scary Stories To Tell In The Dark
+1572813545 - Sun Nov  3 21:39:05 CET 2019 - /Stream/King_Kong_gegen_Godzilla.html - King Kong gegen Godzilla
