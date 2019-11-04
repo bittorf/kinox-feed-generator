@@ -28223,3 +28223,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572856834 - Mon Nov  4 09:40:34 CET 2019 - /Stream/The_Purge-2.html,s2e3 - The Purge
 1572856838 - Mon Nov  4 09:40:38 CET 2019 - /Stream/The_Good_Place_german_subbed.html,s4 - The Good Place *german subbed*
 1572856842 - Mon Nov  4 09:40:42 CET 2019 - /Stream/Mayans_M-C-german_subbed.html,s2 - Mayans M.C. *german subbed*
+1572856848 - Mon Nov  4 09:40:48 CET 2019 - /Stream/Navy_CIS_L-A.html,s10e17 - Navy CIS: L.A.
