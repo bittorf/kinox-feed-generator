@@ -28259,3 +28259,7 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572972348 - Tue Nov  5 17:45:48 CET 2019 - /Stream/Suits-1.html,s8 - Suits
 1572979562 - Tue Nov  5 19:46:02 CET 2019 - /Stream/Trapped-Gefangen_in_Island.html,s2 - Trapped - Gefangen in Island
 1572979576 - Tue Nov  5 19:46:16 CET 2019 - /Stream/Castle_Rock-1.html,s1 - Castle Rock
+1572979586 - Tue Nov  5 19:46:26 CET 2019 - /Stream/Bull.html,s4e7 - Bull
+1572979597 - Tue Nov  5 19:46:37 CET 2019 - /Stream/The_Good_Doctor-1.html,s3e6 - The Good Doctor
+1572979603 - Tue Nov  5 19:46:43 CET 2019 - /Stream/The_Neighborhood.html,s2e7 - The Neighborhood
+1572991994 - Tue Nov  5 23:13:14 CET 2019 - /Stream/Charlie_Says.html - Charlie Says
