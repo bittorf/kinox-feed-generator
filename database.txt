@@ -28267,3 +28267,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1572992006 - Tue Nov  5 23:13:26 CET 2019 - /Stream/God_of_War.html - God of War
 1572992013 - Tue Nov  5 23:13:33 CET 2019 - /Stream/The_End_of_the_Fing_World-1.html,s2e2 - The End of the F***ing World
 1573028050 - Wed Nov  6 09:14:10 CET 2019 - /Stream/The_End_of_the_Fing_World.html,s2 - The End of the F***ing World
+1573028057 - Wed Nov  6 09:14:17 CET 2019 - /Stream/The_Big_Bang_Theory.html,s12e23 - The Big Bang Theory
