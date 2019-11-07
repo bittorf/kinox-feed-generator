@@ -28289,3 +28289,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573121889 - Thu Nov  7 11:18:09 CET 2019 - /Stream/American_Dad.html,s16e10 - American Dad
 1573121898 - Thu Nov  7 11:18:18 CET 2019 - /Stream/Succession-1.html,s2e8 - Succession
 1573121904 - Thu Nov  7 11:18:24 CET 2019 - /Stream/Mr-Mercedes.html,s3e8 - Mr. Mercedes
+1573121910 - Thu Nov  7 11:18:30 CET 2019 - /Stream/Heartland-Paradies_fuer_Pferde.html,s12e10 - Heartland - Paradies für Pferde
