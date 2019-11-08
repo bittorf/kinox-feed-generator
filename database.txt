@@ -28316,3 +28316,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573208562 - Fri Nov  8 11:22:42 CET 2019 - /Stream/The_Good_Place.html,s4e7 - The Good Place
 1573208567 - Fri Nov  8 11:22:47 CET 2019 - /Stream/How_to_Get_Away_with_Murder.html,s6e7 - How to Get Away with Murder
 1573208574 - Fri Nov  8 11:22:54 CET 2019 - /Stream/Mom.html,s7e6 - Mom
+1573208581 - Fri Nov  8 11:23:01 CET 2019 - /Stream/The_Goldbergs.html,s7e7 - The Goldbergs
