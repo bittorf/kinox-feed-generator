@@ -28337,3 +28337,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573288001 - Sat Nov  9 09:26:41 CET 2019 - /Stream/Killjoys-1.html,s5e9 - Killjoys
 1573288008 - Sat Nov  9 09:26:48 CET 2019 - /Stream/Magnum_P-I.html,s2e7 - Magnum P.I.
 1573288014 - Sat Nov  9 09:26:54 CET 2019 - /Stream/Charmed.html,s2e5 - Charmed
+1573288021 - Sat Nov  9 09:27:01 CET 2019 - /Stream/Titans.html,s2e10 - Titans
