@@ -28335,3 +28335,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573287987 - Sat Nov  9 09:26:27 CET 2019 - /Stream/Instinct-2.html,s2e5 - Instinct
 1573287993 - Sat Nov  9 09:26:33 CET 2019 - /Stream/Krypton-1.html,s2e6 - Krypton
 1573288001 - Sat Nov  9 09:26:41 CET 2019 - /Stream/Killjoys-1.html,s5e9 - Killjoys
+1573288008 - Sat Nov  9 09:26:48 CET 2019 - /Stream/Magnum_P-I.html,s2e7 - Magnum P.I.
