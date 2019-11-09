@@ -28343,3 +28343,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573288041 - Sat Nov  9 09:27:21 CET 2019 - /Stream/The_Walking_Dead.html,s10e6 - The Walking Dead
 1573288048 - Sat Nov  9 09:27:28 CET 2019 - /Stream/Hawaii_Five-0-1.html,s10e7 - Hawaii Five-0
 1573288056 - Sat Nov  9 09:27:36 CET 2019 - /Stream/Carols_Second_Act.html,s1e6 - Carol's Second Act
+1573288063 - Sat Nov  9 09:27:43 CET 2019 - /Stream/Superstore.html,s5e7 - Superstore
