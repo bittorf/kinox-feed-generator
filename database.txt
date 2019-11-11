@@ -28363,3 +28363,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573475563 - Mon Nov 11 13:32:43 CET 2019 - /Stream/Batwoman.html,s1e6 - Batwoman
 1573475569 - Mon Nov 11 13:32:49 CET 2019 - /Stream/Supernatural_german_subbed.html,s15e4 - Supernatural *german subbed*
 1573475579 - Mon Nov 11 13:32:59 CET 2019 - /Stream/Watchmen_german_subbed.html,s1e1 - Watchmen *german subbed*
+1573475585 - Mon Nov 11 13:33:05 CET 2019 - /Stream/Super_Girl.html,s5e6 - Super Girl
