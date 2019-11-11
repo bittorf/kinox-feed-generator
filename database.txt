@@ -28380,3 +28380,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573482878 - Mon Nov 11 15:34:38 CET 2019 - /Stream/Der_unglaubliche_Hulk.html,s5e5 - Der unglaubliche Hulk
 1573490095 - Mon Nov 11 17:34:55 CET 2019 - /Stream/Dungeons-Dragons-Die_Serie.html,s2 - Dungeons & Dragons - Die Serie
 1573490100 - Mon Nov 11 17:35:00 CET 2019 - /Stream/Detektiv_Conan-1.html,s27e1 - Detektiv Conan
+1573490112 - Mon Nov 11 17:35:12 CET 2019 - /Stream/Dungeons-Dragons-Die_Serie.html,s1e10 - Dungeons & Dragons - Die Serie
