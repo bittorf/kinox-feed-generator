@@ -28370,3 +28370,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573482819 - Mon Nov 11 15:33:39 CET 2019 - /Stream/Lucia_und_der_Weihnachtsmann.html - Lucia und der Weihnachtsmann
 1573482825 - Mon Nov 11 15:33:45 CET 2019 - /Stream/One_Piece_german_subbed-3.html,s17e1 - One Piece *german subbed*
 1573482832 - Mon Nov 11 15:33:52 CET 2019 - /Stream/One_Piece_german_subbed-3.html,s19e1 - One Piece *german subbed*
+1573482840 - Mon Nov 11 15:34:00 CET 2019 - /Stream/God_Friended_Me.html,s2e7 - God Friended Me
