@@ -28398,3 +28398,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573591104 - Tue Nov 12 21:38:24 CET 2019 - /Stream/Madam_Secretary.html,s6e6 - Madam Secretary
 1573591113 - Tue Nov 12 21:38:33 CET 2019 - /Stream/Silicon_Valley.html,s6e3 - Silicon Valley
 1573591121 - Tue Nov 12 21:38:41 CET 2019 - /Stream/The_Conners.html,s2e6 - The Conners
+1573591125 - Tue Nov 12 21:38:45 CET 2019 - /Stream/The_Good_Doctor-1.html,s3e7 - The Good Doctor
