@@ -28394,3 +28394,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573591079 - Tue Nov 12 21:37:59 CET 2019 - /Stream/Britannia.html,s2 - Britannia
 1573591085 - Tue Nov 12 21:38:05 CET 2019 - /Stream/Watchmen-2.html,s1e2 - Watchmen
 1573591091 - Tue Nov 12 21:38:11 CET 2019 - /Stream/All_American.html,s2e5 - All American
+1573591097 - Tue Nov 12 21:38:17 CET 2019 - /Stream/Black_Lightning-1.html,s3e5 - Black Lightning
