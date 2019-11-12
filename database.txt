@@ -28390,3 +28390,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573511778 - Mon Nov 11 23:36:18 CET 2019 - /Stream/Mayans_M-C-german_subbed.html,s2e10 - Mayans M.C. *german subbed*
 1573555029 - Tue Nov 12 11:37:09 CET 2019 - /Stream/The_Walking_Dead-1.html,s10e6 - The Walking Dead
 1573555035 - Tue Nov 12 11:37:15 CET 2019 - /Stream/The_Good_Doctor-2.html,s3e1 - The Good Doctor
+1573591073 - Tue Nov 12 21:37:53 CET 2019 - /Stream/Training_Day-3.html,s1 - Training Day
