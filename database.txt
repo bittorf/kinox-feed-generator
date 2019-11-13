@@ -28401,3 +28401,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573591125 - Tue Nov 12 21:38:45 CET 2019 - /Stream/The_Good_Doctor-1.html,s3e7 - The Good Doctor
 1573598340 - Tue Nov 12 23:39:00 CET 2019 - /Stream/Die_Simpsons.html,s30e3 - Die Simpsons
 1573663206 - Wed Nov 13 17:40:06 CET 2019 - /Stream/Van_Gogh-An_der_Schwelle_zur_Ewigkeit.html - Van Gogh - An der Schwelle zur Ewigkeit
+1573663212 - Wed Nov 13 17:40:12 CET 2019 - /Stream/The_Death_and_Return_of_Superman-1.html - The Death and Return of Superman
