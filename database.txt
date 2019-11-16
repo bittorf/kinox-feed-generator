@@ -28492,3 +28492,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573894492 - Sat Nov 16 09:54:52 CET 2019 - /Stream/Blue_Bloods.html,s10e8 - Blue Bloods
 1573923330 - Sat Nov 16 17:55:30 CET 2019 - /Stream/Boku_no_Hero_Academia.html,s1 - Boku no Hero Academia
 1573923336 - Sat Nov 16 17:55:36 CET 2019 - /Stream/The_Man_in_the_High_Castle-1.html,s4 - The Man in the High Castle
+1573923342 - Sat Nov 16 17:55:42 CET 2019 - /Stream/Boku_no_Hero_Academia.html,s2 - Boku no Hero Academia
