@@ -28495,3 +28495,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573923342 - Sat Nov 16 17:55:42 CET 2019 - /Stream/Boku_no_Hero_Academia.html,s2 - Boku no Hero Academia
 1573923348 - Sat Nov 16 17:55:48 CET 2019 - /Stream/One-Punch_Man-1.html,s1 - One-Punch Man
 1573923353 - Sat Nov 16 17:55:53 CET 2019 - /Stream/S3-Stark_schnell_schlau.html,s3 - S3 - Stark, schnell, schlau
+1573923358 - Sat Nov 16 17:55:58 CET 2019 - /Stream/Urban_Myths.html,s3 - Urban Myths
