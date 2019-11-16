@@ -28484,3 +28484,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573894438 - Sat Nov 16 09:53:58 CET 2019 - /Stream/Persona_5_The_Animation.html,s1 - Persona 5: The Animation
 1573894444 - Sat Nov 16 09:54:04 CET 2019 - /Stream/The_Outpost-2.html,s2e12 - The Outpost
 1573894448 - Sat Nov 16 09:54:08 CET 2019 - /Stream/Charmed.html,s2e6 - Charmed
+1573894455 - Sat Nov 16 09:54:15 CET 2019 - /Stream/Dynasty-1.html,s3e6 - Dynasty
