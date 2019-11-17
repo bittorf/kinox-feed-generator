@@ -28517,3 +28517,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573981136 - Sun Nov 17 09:58:56 CET 2019 - /Stream/Kanokon.html,s1 - Kanokon
 1573981142 - Sun Nov 17 09:59:02 CET 2019 - /Stream/Supernatural_german_subbed.html,s15e5 - Supernatural *german subbed*
 1573981151 - Sun Nov 17 09:59:11 CET 2019 - /Stream/Ray_Donovan.html,s7e1 - Ray Donovan
+1573981158 - Sun Nov 17 09:59:18 CET 2019 - /Stream/Hawaii_Five-0_german_subbed.html,s10e5 - Hawaii Five-0 *german subbed*
