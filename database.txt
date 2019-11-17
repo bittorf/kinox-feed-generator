@@ -28519,3 +28519,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573981151 - Sun Nov 17 09:59:11 CET 2019 - /Stream/Ray_Donovan.html,s7e1 - Ray Donovan
 1573981158 - Sun Nov 17 09:59:18 CET 2019 - /Stream/Hawaii_Five-0_german_subbed.html,s10e5 - Hawaii Five-0 *german subbed*
 1573981168 - Sun Nov 17 09:59:28 CET 2019 - /Stream/Shameless-1.html,s10e2 - Shameless
+1573988388 - Sun Nov 17 11:59:48 CET 2019 - /Stream/The_Sun_is_also_a_Star_Ein_einziger_Tag_fuer_die_Liebe.html - The Sun is also a Star: Ein einziger Tag für die Liebe
