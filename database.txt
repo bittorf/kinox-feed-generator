@@ -28522,3 +28522,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1573988388 - Sun Nov 17 11:59:48 CET 2019 - /Stream/The_Sun_is_also_a_Star_Ein_einziger_Tag_fuer_die_Liebe.html - The Sun is also a Star: Ein einziger Tag für die Liebe
 1574082084 - Mon Nov 18 14:01:24 CET 2019 - /Stream/A_Kind_of_Magic-1.html,s1 - A Kind of Magic
 1574082088 - Mon Nov 18 14:01:28 CET 2019 - /Stream/NCIS_New_Orleans-1.html,s5e10 - NCIS: New Orleans
+1574082095 - Mon Nov 18 14:01:35 CET 2019 - /Stream/Super_Girl.html,s5e7 - Super Girl
