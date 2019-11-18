@@ -28539,3 +28539,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574082182 - Mon Nov 18 14:03:02 CET 2019 - /Stream/God_Friended_Me.html,s2e8 - God Friended Me
 1574082188 - Mon Nov 18 14:03:08 CET 2019 - /Stream/Mr_Inbetween_german_subbed-1.html,s2e10 - Mr Inbetween *german subbed*
 1574082194 - Mon Nov 18 14:03:14 CET 2019 - /Stream/Watchmen-3.html,s1e5 - Watchmen
+1574082200 - Mon Nov 18 14:03:20 CET 2019 - /Stream/Batwoman.html,s1e7 - Batwoman
