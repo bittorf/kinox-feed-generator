@@ -28570,3 +28570,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574183231 - Tue Nov 19 18:07:11 CET 2019 - /Stream/Van_Helsing-2.html,s4e8 - Van Helsing
 1574204861 - Wed Nov 20 00:07:41 CET 2019 - /Stream/Die_Jungfrau_und_das_Ungeheuer.html - Die Jungfrau und das Ungeheuer
 1574204867 - Wed Nov 20 00:07:47 CET 2019 - /Stream/FateStay_Night_Unlimited_Blade_Works-2.html,s2 - Fate/Stay Night: Unlimited Blade Works
+1574204887 - Wed Nov 20 00:08:07 CET 2019 - /Stream/The_Mandalorian-1.html,s1e2 - The Mandalorian
