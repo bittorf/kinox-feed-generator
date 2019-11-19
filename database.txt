@@ -28568,3 +28568,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574183221 - Tue Nov 19 18:07:01 CET 2019 - /Stream/The_Neighborhood.html,s2e8 - The Neighborhood
 1574183225 - Tue Nov 19 18:07:05 CET 2019 - /Stream/Bull.html,s4e8 - Bull
 1574183231 - Tue Nov 19 18:07:11 CET 2019 - /Stream/Van_Helsing-2.html,s4e8 - Van Helsing
+1574204861 - Wed Nov 20 00:07:41 CET 2019 - /Stream/Die_Jungfrau_und_das_Ungeheuer.html - Die Jungfrau und das Ungeheuer
