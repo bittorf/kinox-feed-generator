@@ -28595,3 +28595,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574277096 - Wed Nov 20 20:11:36 CET 2019 - /Stream/Magnum_P-I.html,s2e8 - Magnum P.I.
 1574277102 - Wed Nov 20 20:11:42 CET 2019 - /Stream/The_Purge-1.html,s2e6 - The Purge
 1574277107 - Wed Nov 20 20:11:47 CET 2019 - /Stream/Black_Lightning-1.html,s3e6 - Black Lightning
+1574277114 - Wed Nov 20 20:11:54 CET 2019 - /Stream/Supergirl_german_subbed.html,s5e3 - Supergirl *german subbed*
