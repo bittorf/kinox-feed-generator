@@ -28598,3 +28598,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574277114 - Wed Nov 20 20:11:54 CET 2019 - /Stream/Supergirl_german_subbed.html,s5e3 - Supergirl *german subbed*
 1574277121 - Wed Nov 20 20:12:01 CET 2019 - /Stream/Empire-3.html,s6e7 - Empire
 1574277129 - Wed Nov 20 20:12:09 CET 2019 - /Stream/Hawaii_Five-0_german_subbed.html,s10e6 - Hawaii Five-0 *german subbed*
+1574277139 - Wed Nov 20 20:12:19 CET 2019 - /Stream/Gold_Digger.html,s1e2 - Gold Digger
