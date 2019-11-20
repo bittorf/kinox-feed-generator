@@ -28585,3 +28585,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574277031 - Wed Nov 20 20:10:31 CET 2019 - /Stream/Succession-1.html,s2e10 - Succession
 1574277036 - Wed Nov 20 20:10:36 CET 2019 - /Stream/The_Ancient_Magus_Bride.html,s1 - The Ancient Magus' Bride
 1574277040 - Wed Nov 20 20:10:40 CET 2019 - /Stream/BORUTO_NARUTO_NEXT_GENERATIONS.html,s1 - BORUTO: NARUTO NEXT GENERATIONS
+1574277047 - Wed Nov 20 20:10:47 CET 2019 - /Stream/The_Good_Doctor-2.html,s3e3 - The Good Doctor
