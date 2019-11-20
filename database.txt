@@ -28575,3 +28575,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574276979 - Wed Nov 20 20:09:39 CET 2019 - /Stream/TKKG.html - TKKG
 1574276984 - Wed Nov 20 20:09:44 CET 2019 - /Stream/91_Days-2.html,s1 - 91 Days
 1574276989 - Wed Nov 20 20:09:49 CET 2019 - /Stream/Guilty_Crown-1.html,s1 - Guilty Crown
+1574276994 - Wed Nov 20 20:09:54 CET 2019 - /Stream/Noragami.html,s2 - Noragami
