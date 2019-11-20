@@ -28583,3 +28583,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574277019 - Wed Nov 20 20:10:19 CET 2019 - /Stream/Darker_than_black_Kuro_no_keiyakusha.html,s1e3 - Darker than black: Kuro no keiyakusha
 1574277026 - Wed Nov 20 20:10:26 CET 2019 - /Stream/Noragami.html,s1 - Noragami
 1574277031 - Wed Nov 20 20:10:31 CET 2019 - /Stream/Succession-1.html,s2e10 - Succession
+1574277036 - Wed Nov 20 20:10:36 CET 2019 - /Stream/The_Ancient_Magus_Bride.html,s1 - The Ancient Magus' Bride
