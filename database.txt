@@ -28605,3 +28605,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574277166 - Wed Nov 20 20:12:46 CET 2019 - /Stream/Heiter_bis_toedlich-Morden_im_Norden.html,s6e9 - Heiter bis tödlich - Morden im Norden
 1574277172 - Wed Nov 20 20:12:52 CET 2019 - /Stream/Arrow.html,s8e5 - Arrow
 1574277180 - Wed Nov 20 20:13:00 CET 2019 - /Stream/NCIS_Naval_Criminal_Investigative_Service.html,s17e8 - NCIS: Naval Criminal Investigative Service
+1574277190 - Wed Nov 20 20:13:10 CET 2019 - /Stream/Ray_Donovan_german_subbed.html,s7e1 - Ray Donovan *german subbed*
