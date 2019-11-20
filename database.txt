@@ -28579,3 +28579,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574276999 - Wed Nov 20 20:09:59 CET 2019 - /Stream/Devil_Survivor_2_The_Animation.html,s1 - Devil Survivor 2: The Animation
 1574277004 - Wed Nov 20 20:10:04 CET 2019 - /Stream/The_Testament_of_Sister_New_Devil.html,s1 - The Testament of Sister New Devil
 1574277009 - Wed Nov 20 20:10:09 CET 2019 - /Stream/The_Testament_of_Sister_New_Devil.html,s2 - The Testament of Sister New Devil
+1574277014 - Wed Nov 20 20:10:14 CET 2019 - /Stream/Blood_Lad-1.html,s1 - Blood Lad
