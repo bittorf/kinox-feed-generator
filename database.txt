@@ -28624,3 +28624,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574334953 - Thu Nov 21 12:15:53 CET 2019 - /Stream/Chicago_Fire.html,s8e9 - Chicago Fire
 1574334966 - Thu Nov 21 12:16:06 CET 2019 - /Stream/Modern_Family.html,s11e7 - Modern Family
 1574378217 - Fri Nov 22 00:16:57 CET 2019 - /Stream/Extremely_Wicked_Shockingly_Evil_and_Vile.html - Extremely Wicked, Shockingly Evil and Vile
+1574378224 - Fri Nov 22 00:17:04 CET 2019 - /Stream/Quax_der_Bruchpilot.html - Quax, der Bruchpilot
