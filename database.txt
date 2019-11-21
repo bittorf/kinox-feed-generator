@@ -28626,3 +28626,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574378217 - Fri Nov 22 00:16:57 CET 2019 - /Stream/Extremely_Wicked_Shockingly_Evil_and_Vile.html - Extremely Wicked, Shockingly Evil and Vile
 1574378224 - Fri Nov 22 00:17:04 CET 2019 - /Stream/Quax_der_Bruchpilot.html - Quax, der Bruchpilot
 1574378231 - Fri Nov 22 00:17:11 CET 2019 - /Stream/Tokyo_Ghoul_re.html,s1 - Tokyo Ghoul: re
+1574378238 - Fri Nov 22 00:17:18 CET 2019 - /Stream/Is_It_Wrong_to_Try_to_Pick_Up_Girls_in_a_Dungeon.html,s1 - Is It Wrong to Try to Pick Up Girls in a Dungeon?
