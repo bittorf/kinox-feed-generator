@@ -28614,3 +28614,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574334891 - Thu Nov 21 12:14:51 CET 2019 - /Stream/Watchmen-2.html,s1e3 - Watchmen
 1574334897 - Thu Nov 21 12:14:57 CET 2019 - /Stream/FBI-2.html,s1e20 - FBI
 1574334902 - Thu Nov 21 12:15:02 CET 2019 - /Stream/Poldark-1.html,s5e6 - Poldark
+1574334908 - Thu Nov 21 12:15:08 CET 2019 - /Stream/Strike_Back-2.html,s7e7 - Strike Back
