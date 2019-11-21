@@ -28618,3 +28618,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574334915 - Thu Nov 21 12:15:15 CET 2019 - /Stream/The_Purge-2.html,s2e6 - The Purge
 1574334920 - Thu Nov 21 12:15:20 CET 2019 - /Stream/S-W-A-T-2.html,s3e8 - S.W.A.T.
 1574334926 - Thu Nov 21 12:15:26 CET 2019 - /Stream/SEAL_Team.html,s3e7 - SEAL Team
+1574334932 - Thu Nov 21 12:15:32 CET 2019 - /Stream/Chicago_Med.html,s5e9 - Chicago Med
