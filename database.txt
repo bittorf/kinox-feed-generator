@@ -28644,3 +28644,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574421583 - Fri Nov 22 12:19:43 CET 2019 - /Stream/The_Outpost-2.html,s2e13 - The Outpost
 1574421587 - Fri Nov 22 12:19:47 CET 2019 - /Stream/The_Affair-1.html,s5e10 - The Affair
 1574421593 - Fri Nov 22 12:19:53 CET 2019 - /Stream/4_Blocks.html,s3e3 - 4 Blocks
+1574421599 - Fri Nov 22 12:19:59 CET 2019 - /Stream/Legacies.html,s2e6 - Legacies
