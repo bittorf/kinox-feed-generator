@@ -28638,3 +28638,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1574421541 - Fri Nov 22 12:19:01 CET 2019 - /Stream/Frozen_2.html - Frozen 2
 1574421548 - Fri Nov 22 12:19:08 CET 2019 - /Stream/Midway-Fuer_die_Freiheit.html - Midway - Für die Freiheit
 1574421556 - Fri Nov 22 12:19:16 CET 2019 - /Stream/The_War_of_the_Worlds-2.html,s1 - The War of the Worlds
+1574421559 - Fri Nov 22 12:19:19 CET 2019 - /Stream/Krypton-1.html,s2e8 - Krypton
