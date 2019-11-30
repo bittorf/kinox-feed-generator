@@ -28682,3 +28682,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575084749 - Sat Nov 30 04:32:29 CET 2019 - /Stream/Ein_ganz_gewoehnlicher_Held.html - Ein ganz gewöhnlicher Held
 1575084753 - Sat Nov 30 04:32:33 CET 2019 - /Stream/Greenhorn.html - Greenhorn
 1575084757 - Sat Nov 30 04:32:37 CET 2019 - /Stream/Das_Quiller_Memorandum.html - Das Quiller Memorandum
+1575084761 - Sat Nov 30 04:32:41 CET 2019 - /Stream/Shirobako.html,s1 - Shirobako
