@@ -28689,3 +28689,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575084789 - Sat Nov 30 04:33:09 CET 2019 - /Stream/For_All_Mankind-2.html,s1e7 - For All Mankind
 1575084796 - Sat Nov 30 04:33:16 CET 2019 - /Stream/Castle_Rock_german_subbed.html,s2e8 - Castle Rock *german subbed*
 1575084804 - Sat Nov 30 04:33:24 CET 2019 - /Stream/See-Reich_der_Blinden.html,s1e7 - See - Reich der Blinden
+1575084810 - Sat Nov 30 04:33:30 CET 2019 - /Stream/Die_Simpsons.html,s30e6 - Die Simpsons
