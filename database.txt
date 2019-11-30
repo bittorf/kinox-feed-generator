@@ -28709,3 +28709,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575113741 - Sat Nov 30 12:35:41 CET 2019 - /Stream/Watchmen_german_subbed.html,s1e6 - Watchmen *german subbed*
 1575113748 - Sat Nov 30 12:35:48 CET 2019 - /Stream/Supergirl_german_subbed.html,s5e5 - Supergirl *german subbed*
 1575113755 - Sat Nov 30 12:35:55 CET 2019 - /Stream/Harley_Quinn.html,s1e1 - Harley Quinn
+1575113762 - Sat Nov 30 12:36:02 CET 2019 - /Stream/Titans.html,s2e13 - Titans
