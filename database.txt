@@ -28687,3 +28687,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575084774 - Sat Nov 30 04:32:54 CET 2019 - /Stream/4_Blocks.html,s3e4 - 4 Blocks
 1575084781 - Sat Nov 30 04:33:01 CET 2019 - /Stream/Krypton-1.html,s1e9 - Krypton
 1575084789 - Sat Nov 30 04:33:09 CET 2019 - /Stream/For_All_Mankind-2.html,s1e7 - For All Mankind
+1575084796 - Sat Nov 30 04:33:16 CET 2019 - /Stream/Castle_Rock_german_subbed.html,s2e8 - Castle Rock *german subbed*
