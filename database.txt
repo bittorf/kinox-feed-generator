@@ -28754,3 +28754,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575279839 - Mon Dec  2 10:43:59 CET 2019 - /Stream/.html,s1e20 - Vinland Saga *german subbed*
 1575301465 - Mon Dec  2 16:44:25 CET 2019 - /Stream/Baby_Blood-1.html - Baby Blood
 1575301471 - Mon Dec  2 16:44:31 CET 2019 - /Stream/Burn-Hell_of_a_Night.html - Burn - Hell of a Night
+1575301477 - Mon Dec  2 16:44:37 CET 2019 - /Stream/Amundsen.html - Amundsen
