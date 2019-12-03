@@ -28788,3 +28788,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575417010 - Wed Dec  4 00:50:10 CET 2019 - /Stream/Donnybrook-Below_the_Belt.html - Donnybrook - Below the Belt
 1575417018 - Wed Dec  4 00:50:18 CET 2019 - /Stream/Warcraft_The_Beginning.html - Warcraft: The Beginning
 1575417027 - Wed Dec  4 00:50:27 CET 2019 - /Stream/68_Kill.html - 68 Kill
+1575417033 - Wed Dec  4 00:50:33 CET 2019 - /Stream/Die_Simpsons.html,s30e7 - Die Simpsons
