@@ -28781,3 +28781,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575402541 - Tue Dec  3 20:49:01 CET 2019 - /Stream/Jay_and_Silent_Bob_Reboot.html - Jay and Silent Bob Reboot
 1575402549 - Tue Dec  3 20:49:09 CET 2019 - /Stream/Odd_Thomas-1.html - Odd Thomas
 1575402556 - Tue Dec  3 20:49:16 CET 2019 - /Stream/Die_Eiskoenigin-Voellig_unverfroren.html - Die Eiskönigin - Völlig unverfroren
+1575402563 - Tue Dec  3 20:49:23 CET 2019 - /Stream/Supergirl_german_subbed.html,s5 - Supergirl *german subbed*
