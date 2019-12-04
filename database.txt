@@ -28798,3 +28798,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575417078 - Wed Dec  4 00:51:18 CET 2019 - /Stream/The_Good_Doctor-2.html,s3e5 - The Good Doctor
 1575417083 - Wed Dec  4 00:51:23 CET 2019 - /Stream/Zomboat-1.html,s1e6 - Zomboat! *german subbed*
 1575417086 - Wed Dec  4 00:51:26 CET 2019 - /Stream/9-1-1.html,s3e10 - 9-1-1
+1575453134 - Wed Dec  4 10:52:14 CET 2019 - /Stream/Arrow.html,s8e7 - Arrow
