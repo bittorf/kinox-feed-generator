@@ -28813,3 +28813,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575467629 - Wed Dec  4 14:53:49 CET 2019 - /Stream/The_Resident-3.html,s3e9 - The Resident
 1575467640 - Wed Dec  4 14:54:00 CET 2019 - /Stream/Treadstone-1.html,s1e8 - Treadstone
 1575467647 - Wed Dec  4 14:54:07 CET 2019 - /Stream/Empire-3.html,s6e9 - Empire
+1575467657 - Wed Dec  4 14:54:17 CET 2019 - /Stream/Ambitions.html,s1e15 - Ambitions
