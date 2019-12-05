@@ -26,13 +26,13 @@ check_deps()
 		echo "sudo apt-get install python-pip"
 		echo "sudo pip install IMDbPY"
 
-		exit 1
+		return 1
 	}
 
-	command -v 'fold' >/dev/null || { echo "please install 'fold'"; exit 1; }
-	command -v 'wget' >/dev/null || { echo "please install 'wget v1.15+'"; exit 1; }
-	command -v 'git'  >/dev/null || { echo "please install 'git'"; exit 1; }
-	command -v 'recode' >/dev/null || { echo "please install 'recode'"; exit 1; }
+	command -v 'fold' >/dev/null || { echo "please install 'fold'"; return 1; }
+	command -v 'wget' >/dev/null || { echo "please install 'wget v1.15+'"; return 1; }
+	command -v 'git'  >/dev/null || { echo "please install 'git'"; return 1; }
+	command -v 'recode' >/dev/null || { echo "please install 'recode'"; return 1; }
 }
 
 case "$ARG1" in
