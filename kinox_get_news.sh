@@ -16,6 +16,18 @@ DB='database.txt'
 I=0
 NEW=0
 
+# works best with v1.15+ (needed when http is redirected to https
+WGET='wget --user-agent=AmigaVoyager --content-on-error --no-check-certificate'
+
+case "$ARG1" in
+	'--cron')
+		while :; do git pull; ./"$0" ; git push; git gc; date; sleep 7200; done
+	;;
+	'--news')
+		for HASH in $( git log --oneline | grep 'Rating: [8-9]' | grep -v 'html,s' | cut -d' ' -f1 ); do git show --name-only "$HASH"; done | less
+	;;
+esac
+
 check_deps()
 {
 	IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
@@ -34,20 +46,6 @@ check_deps()
 	command -v 'git'  >/dev/null || { echo "please install 'git'"; return 1; }
 	command -v 'recode' >/dev/null || { echo "please install 'recode'"; return 1; }
 }
-
-case "$ARG1" in
-	'--cron')
-		while :; do git pull; ./"$0" ; git push; git gc; date; sleep 7200; done
-	;;
-	'--news')
-		for HASH in $( git log --oneline | grep 'Rating: [8-9]' | grep -v 'html,s' | cut -d' ' -f1 ); do git show --name-only "$HASH"; done | less
-	;;
-esac
-
-check_deps || exit 1
-
-# works best with v1.15+ (needed when http is redirected to https
-WGET='wget --user-agent=AmigaVoyager --content-on-error --no-check-certificate'
 
 kinox_description_get()
 {
@@ -102,6 +100,8 @@ underliner()
 	while [ $i -lt ${#string} ]; do out="$out="; i=$(( i + 1 )); done
 	printf '%s\n' "$out"
 }
+
+check_deps || exit 1
 
 # TODO: search
 # http://kinox.to/Search.html?q=Spiderwick
