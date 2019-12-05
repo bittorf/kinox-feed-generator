@@ -28820,3 +28820,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575496521 - Wed Dec  4 22:55:21 CET 2019 - /Stream/Der_unverhoffte_Charme_des_Geldes.html - Der unverhoffte Charme des Geldes
 1575532564 - Thu Dec  5 08:56:04 CET 2019 - /Stream/Strike_Back-2.html,s7 - Strike Back
 1575532571 - Thu Dec  5 08:56:11 CET 2019 - /Stream/Emergence-1.html,s1e1 - Emergence
+1575532594 - Thu Dec  5 08:56:34 CET 2019 - /Stream/Stumptown.html,s1 - Stumptown
