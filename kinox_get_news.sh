@@ -24,7 +24,16 @@ case "$ARG1" in
 		while :; do git pull; ./"$0" ; git push; git gc; date; sleep 7200; done
 	;;
 	'--news')
-		for HASH in $( git log --oneline | grep 'Rating: [8-9]' | grep -v 'html,s' | cut -d' ' -f1 ); do git show --name-only "$HASH"; done | less
+		hashlist()
+		{
+			git log --oneline | grep 'Rating: [8-9]' | grep -v 'html,s' | cut -d' ' -f1
+		}
+
+		for HASH in $( hashlist ); do {
+			git show --name-only "$HASH"
+		} done | less
+
+		exit
 	;;
 esac
 
