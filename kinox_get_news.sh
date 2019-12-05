@@ -8,13 +8,16 @@
 # TODO: change imdb-language? (for plot)
 # http://webapps.stackexchange.com/questions/11003/how-can-i-disable-reconfigure-imdbs-automatic-geo-location-so-it-does-not-defau
 
-ARG1="$1"		# e.g. '--cron' or 'Alien' -> search specific entry
+ARG1="$1"		# e.g. '--cron' or '--news' or 'Alien' -> search specific entry
 
 URL='http://kinox.to'
+URL='https://kinoz.to'
 DB='database.txt'
 I=0
 NEW=0
 
+check_deps()
+{
 IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
 	echo "please install 'http://imdbpy.sourceforge.net/' and set maybe:"
 	echo "e.g. export PATH=\"\$PATH:/home/bastian/software/imdbpy/bin"
@@ -30,6 +33,7 @@ command -v 'fold' >/dev/null || { echo "please install 'fold'"; exit 1; }
 command -v 'wget' >/dev/null || { echo "please install 'wget v1.15+'"; exit 1; }
 command -v 'git'  >/dev/null || { echo "please install 'git'"; exit 1; }
 command -v 'recode' >/dev/null || { echo "please install 'recode'"; exit 1; }
+}
 
 case "$ARG1" in
 	'--cron')
@@ -39,6 +43,8 @@ case "$ARG1" in
 		for HASH in $( git log --oneline | grep 'Rating: [8-9]' | grep -v 'html,s' | cut -d' ' -f1 ); do git show --name-only "$HASH"; done | less
 	;;
 esac
+
+check_deps || exit 1
 
 # works best with v1.15+ (needed when http is redirected to https
 WGET='wget --user-agent=AmigaVoyager --content-on-error --no-check-certificate'
@@ -103,7 +109,7 @@ underliner()
 
 PATTERN='<td class="Title img_preview" rel='
 { $WGET -O - "$URL" || logger -s "[ERROR:$?] $WGET -O - '$URL'"; printf '\n%s' "$PATTERN - EOF"; } |
- grep ^"$PATTERN" | recode 'UTF8..ISO-8859-15' | while read -r LINE; do {
+ grep "$PATTERN" | recode 'UTF8..ISO-8859-15' | while read -r LINE; do {
 	LINK=
 	TITLE=
 	PARSE_TITLE=
