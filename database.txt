@@ -28818,3 +28818,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575489298 - Wed Dec  4 20:54:58 CET 2019 - /Stream/Farina-Cocaine_Coast.html,s1e1 - Fariña - Cocaine Coast
 1575489305 - Wed Dec  4 20:55:05 CET 2019 - /Stream/FBI-2.html,s1e22 - FBI
 1575496521 - Wed Dec  4 22:55:21 CET 2019 - /Stream/Der_unverhoffte_Charme_des_Geldes.html - Der unverhoffte Charme des Geldes
+1575532564 - Thu Dec  5 08:56:04 CET 2019 - /Stream/Strike_Back-2.html,s7 - Strike Back
