@@ -18,21 +18,21 @@ NEW=0
 
 check_deps()
 {
-IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
-	echo "please install 'http://imdbpy.sourceforge.net/' and set maybe:"
-	echo "e.g. export PATH=\"\$PATH:/home/bastian/software/imdbpy/bin"
-	echo
-	echo "hints:"
-	echo "sudo apt-get install python-pip"
-	echo "sudo pip install IMDbPY"
+	IMDBPY_GETMOVIE="$( command -v 'get_movie.py' )" || {
+		echo "please install 'http://imdbpy.sourceforge.net/' and set maybe:"
+		echo "e.g. export PATH=\"\$PATH:/home/bastian/software/imdbpy/bin"
+		echo
+		echo "hints:"
+		echo "sudo apt-get install python-pip"
+		echo "sudo pip install IMDbPY"
 
-	exit 1
-}
+		exit 1
+	}
 
-command -v 'fold' >/dev/null || { echo "please install 'fold'"; exit 1; }
-command -v 'wget' >/dev/null || { echo "please install 'wget v1.15+'"; exit 1; }
-command -v 'git'  >/dev/null || { echo "please install 'git'"; exit 1; }
-command -v 'recode' >/dev/null || { echo "please install 'recode'"; exit 1; }
+	command -v 'fold' >/dev/null || { echo "please install 'fold'"; exit 1; }
+	command -v 'wget' >/dev/null || { echo "please install 'wget v1.15+'"; exit 1; }
+	command -v 'git'  >/dev/null || { echo "please install 'git'"; exit 1; }
+	command -v 'recode' >/dev/null || { echo "please install 'recode'"; exit 1; }
 }
 
 case "$ARG1" in
