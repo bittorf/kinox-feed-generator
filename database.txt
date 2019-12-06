@@ -28857,3 +28857,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575627345 - Fri Dec  6 11:15:45 CET 2019 - /Stream/Young_Sheldon.html,s3e9 - Young Sheldon
 1575627352 - Fri Dec  6 11:15:52 CET 2019 - /Stream/Evil-2.html,s1e9 - Evil
 1575627360 - Fri Dec  6 11:16:00 CET 2019 - /Stream/For_All_Mankind-1.html,s1e8 - For All Mankind
+1575627367 - Fri Dec  6 11:16:07 CET 2019 - /Stream/Legacies.html,s2e7 - Legacies
