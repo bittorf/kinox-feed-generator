@@ -28876,3 +28876,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575706766 - Sat Dec  7 09:19:26 CET 2019 - /Stream/Poldark-1.html,s5 - Poldark
 1575706774 - Sat Dec  7 09:19:34 CET 2019 - /Stream/His_Dark_Materials-1.html,s1e5 - His Dark Materials *german subbed*
 1575706782 - Sat Dec  7 09:19:42 CET 2019 - /Stream/Der_Pass.html,s1 - Der Pass
+1575706785 - Sat Dec  7 09:19:45 CET 2019 - /Stream/SOKO_Leipzig.html,s19e7 - SOKO Leipzig
