@@ -28922,3 +28922,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575901722 - Mon Dec  9 15:28:42 CET 2019 - /Stream/Secret_Santa-1.html - Secret Santa
 1575901727 - Mon Dec  9 15:28:47 CET 2019 - /Stream/House_of_Manson-Once_Upon_A_Time_in_L-A.html - House of Manson - Once Upon A Time in L.A.
 1575901733 - Mon Dec  9 15:28:53 CET 2019 - /Stream/Castle_Rock_german_subbed.html,s2e9 - Castle Rock *german subbed*
+1575901740 - Mon Dec  9 15:29:00 CET 2019 - /Stream/Hawaii_Five-0_german_subbed.html,s10e9 - Hawaii Five-0 *german subbed*
