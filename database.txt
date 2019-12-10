@@ -28944,3 +28944,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575988372 - Tue Dec 10 15:32:52 CET 2019 - /Stream/Jagt_den_Fuchs.html - Jagt den Fuchs
 1575988379 - Tue Dec 10 15:32:59 CET 2019 - /Stream/Die_Todesstrahlen_des_Dr-Mabuse.html - Die Todesstrahlen des Dr. Mabuse
 1575988382 - Tue Dec 10 15:33:02 CET 2019 - /Stream/Das_Testament_des_Dr-Mabuse-1.html - Das Testament des Dr. Mabuse
+1575988389 - Tue Dec 10 15:33:09 CET 2019 - /Stream/Der_Herrscher_von_Cornwall.html - Der Herrscher von Cornwall
