@@ -28949,3 +28949,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1575988400 - Tue Dec 10 15:33:20 CET 2019 - /Stream/Herz_in_Flammen.html - Herz in Flammen
 1575988406 - Tue Dec 10 15:33:26 CET 2019 - /Stream/Kein_Pardon.html - Kein Pardon
 1575988412 - Tue Dec 10 15:33:32 CET 2019 - /Stream/The_Moodys-1.html,s1 - The Moodys
+1575988417 - Tue Dec 10 15:33:37 CET 2019 - /Stream/Batwoman.html,s1e9 - Batwoman
