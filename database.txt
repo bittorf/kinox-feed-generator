@@ -29043,3 +29043,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1576262916 - Fri Dec 13 19:48:36 CET 2019 - /Stream/The_Expanse.html,s4 - The Expanse
 1576262920 - Fri Dec 13 19:48:40 CET 2019 - /Stream/Re_Zero-Starting_Life_in_Another_World.html,s1 - Re: Zero - Starting Life in Another World
 1576262926 - Fri Dec 13 19:48:46 CET 2019 - /Stream/The_Expanse-1.html,s4 - The Expanse
+1576262930 - Fri Dec 13 19:48:50 CET 2019 - /Stream/The_Mandalorian-1.html,s1e6 - The Mandalorian
