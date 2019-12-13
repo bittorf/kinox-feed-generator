@@ -29046,3 +29046,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1576262930 - Fri Dec 13 19:48:50 CET 2019 - /Stream/The_Mandalorian-1.html,s1e6 - The Mandalorian
 1576262936 - Fri Dec 13 19:48:56 CET 2019 - /Stream/The_Grand_Tour.html,s4e1 - The Grand Tour
 1576262941 - Fri Dec 13 19:49:01 CET 2019 - /Stream/Carols_Second_Act.html,s1e10 - Carol's Second Act
+1576270158 - Fri Dec 13 21:49:18 CET 2019 - /Stream/Gold_aus_Nevada.html - Gold aus Nevada
