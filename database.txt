@@ -29080,3 +29080,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1576356886 - Sat Dec 14 21:54:46 CET 2019 - /Stream/The_Morning_Show.html,s1e9 - The Morning Show
 1576356890 - Sat Dec 14 21:54:50 CET 2019 - /Stream/For_All_Mankind-1.html,s1e9 - For All Mankind
 1576356897 - Sat Dec 14 21:54:57 CET 2019 - /Stream/Magnum_P-I.html,s2e11 - Magnum P.I.
+1576364115 - Sat Dec 14 23:55:15 CET 2019 - /Stream/Harley_Quinn.html,s1e3 - Harley Quinn
