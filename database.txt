@@ -29087,3 +29087,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1576436223 - Sun Dec 15 19:57:03 CET 2019 - /Stream/SOKO_Leipzig.html,s19e8 - SOKO Leipzig
 1576436233 - Sun Dec 15 19:57:13 CET 2019 - /Stream/Ray_Donovan.html,s7e5 - Ray Donovan
 1576436242 - Sun Dec 15 19:57:22 CET 2019 - /Stream/Shameless-1.html,s10e6 - Shameless
+1576443462 - Sun Dec 15 21:57:42 CET 2019 - /Stream/Treadstone.html,s1e6 - Treadstone *german subbed*
