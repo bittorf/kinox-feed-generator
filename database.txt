@@ -29083,3 +29083,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1576364115 - Sat Dec 14 23:55:15 CET 2019 - /Stream/Harley_Quinn.html,s1e3 - Harley Quinn
 1576436195 - Sun Dec 15 19:56:35 CET 2019 - /Stream/Supergirl_german_subbed.html,s5e9 - Supergirl *german subbed*
 1576436204 - Sun Dec 15 19:56:44 CET 2019 - /Stream/SOKO_Wien.html,s15e2 - SOKO Wien
+1576436215 - Sun Dec 15 19:56:55 CET 2019 - /Stream/Dublin_Murders-1.html,s1e6 - Dublin Murders
