@@ -29163,3 +29163,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1576768326 - Thu Dec 19 16:12:06 CET 2019 - /Stream/Scarface-Toni_das_Narbengesicht.html - Scarface - Toni, das Narbengesicht
 1576775542 - Thu Dec 19 18:12:22 CET 2019 - /Stream/Star_Wars_Episode_IX-The_Rise_of_Skywalker.html - Star Wars: Episode IX - The Rise of Skywalker
 1576797175 - Fri Dec 20 00:12:55 CET 2019 - /Stream/Hudson-Rex.html,s1e8 - Hudson & Rex
+1576833219 - Fri Dec 20 10:13:39 CET 2019 - /Stream/Batwoman-1.html,s1 - Batwoman
