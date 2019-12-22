@@ -29211,3 +29211,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1577037137 - Sun Dec 22 18:52:17 CET 2019 - /Stream/Weihnachten_auf_Umwegen.html - Weihnachten auf Umwegen
 1577037907 - Sun Dec 22 19:05:07 CET 2019 - /Stream/Weihnachten_allein_zu_Haus.html - Weihnachten allein zu Haus
 1577038678 - Sun Dec 22 19:17:58 CET 2019 - /Stream/Weihnachten_des_Herzens.html - Weihnachten des Herzens
+1577039385 - Sun Dec 22 19:29:45 CET 2019 - /Stream/Star_Wars_Resistance.html,s2e12 - Star Wars Resistance
