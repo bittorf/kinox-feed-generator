@@ -29227,3 +29227,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1577184659 - Tue Dec 24 11:50:59 CET 2019 - /Stream/NCIS_New_Orleans-1.html,s5e15 - NCIS: New Orleans
 1577288423 - Wed Dec 25 16:40:23 CET 2019 - /Stream/Die_Eiskoenigin_2.html - Die Eiskönigin 2
 1577288843 - Wed Dec 25 16:47:23 CET 2019 - /Stream/Chain_of_Death.html - Chain of Death
+1577451294 - Fri Dec 27 13:54:54 CET 2019 - /Stream/L-A-s_Finest.html,s1e13 - L.A.'s Finest
