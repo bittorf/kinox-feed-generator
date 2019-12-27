@@ -29254,3 +29254,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1577467025 - Fri Dec 27 18:17:05 CET 2019 - /Stream/Cleanskin-Bis_zum_Anschlag.html - Cleanskin - Bis zum Anschlag
 1577467033 - Fri Dec 27 18:17:13 CET 2019 - /Stream/Silicon_Valley-1.html,s6e6 - Silicon Valley
 1577467042 - Fri Dec 27 18:17:22 CET 2019 - /Stream/Ray_Donovan_german_subbed.html,s7e6 - Ray Donovan *german subbed*
+1577467050 - Fri Dec 27 18:17:30 CET 2019 - /Stream/Kobra_uebernehmen_Sie.html,s1 - Kobra, übernehmen Sie
