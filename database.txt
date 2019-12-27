@@ -29261,3 +29261,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1577467085 - Fri Dec 27 18:18:05 CET 2019 - /Stream/Hawaii_Five-0_german_subbed.html,s10e10 - Hawaii Five-0 *german subbed*
 1577467095 - Fri Dec 27 18:18:15 CET 2019 - /Stream/S-W-A-T-1.html,s3e8 - S.W.A.T.
 1577467102 - Fri Dec 27 18:18:22 CET 2019 - /Stream/Pure-2.html,s1e3 - Pure
+1577467110 - Fri Dec 27 18:18:30 CET 2019 - /Stream/Power-2.html,s6e6 - Power
