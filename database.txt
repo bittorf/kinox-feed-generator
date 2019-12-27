@@ -29256,3 +29256,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1577467042 - Fri Dec 27 18:17:22 CET 2019 - /Stream/Ray_Donovan_german_subbed.html,s7e6 - Ray Donovan *german subbed*
 1577467050 - Fri Dec 27 18:17:30 CET 2019 - /Stream/Kobra_uebernehmen_Sie.html,s1 - Kobra, übernehmen Sie
 1577467059 - Fri Dec 27 18:17:39 CET 2019 - /Stream/Dublin_Murders-1.html,s1e7 - Dublin Murders
+1577467066 - Fri Dec 27 18:17:46 CET 2019 - /Stream/Arrow_german_subbed.html,s8e6 - Arrow *german subbed*
