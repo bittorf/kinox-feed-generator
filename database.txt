@@ -29315,3 +29315,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1577786292 - Tue Dec 31 10:58:12 CET 2019 - /Stream/Satsuriku_no_Tenshi.html,s1e1 - Satsuriku no Tenshi
 1577786967 - Tue Dec 31 11:09:27 CET 2019 - /Stream/Watchmen-2.html,s1e9 - Watchmen
 1577787737 - Tue Dec 31 11:22:17 CET 2019 - /Stream/Die_Pfefferkoerner.html,s16 - Die Pfefferkörner
+1577788510 - Tue Dec 31 11:35:10 CET 2019 - /Stream/Die_Simpsons.html,s30e9 - Die Simpsons
