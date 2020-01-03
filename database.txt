@@ -29323,3 +29323,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1577829546 - Tue Dec 31 22:59:06 CET 2019 - /Stream/Wentworth-1.html,s7e3 - Wentworth
 1578075330 - Fri Jan  3 19:15:30 CET 2020 - /Stream/The_Good_Doctor-2.html,s3e7 - The Good Doctor
 1578075589 - Fri Jan  3 19:19:49 CET 2020 - /Stream/Vikings-1.html,s6e5 - Vikings
+1578075597 - Fri Jan  3 19:19:57 CET 2020 - /Stream/S-W-A-T-1.html,s3e10 - S.W.A.T.
