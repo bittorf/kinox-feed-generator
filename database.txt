@@ -29328,3 +29328,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1578105206 - Sat Jan  4 03:33:26 CET 2020 - /Stream/Emergence-1.html,s1e4 - Emergence
 1578113440 - Sat Jan  4 05:50:40 CET 2020 - /Stream/Prey-Beutejagd.html - Prey - Beutejagd
 1578113449 - Sat Jan  4 05:50:49 CET 2020 - /Stream/Die_Schneekoenigin_4_Im_Spiegelland.html - Die Schneekönigin 4: Im Spiegelland
+1578113452 - Sat Jan  4 05:50:52 CET 2020 - /Stream/Hotel_Transsilvanien.html - Hotel Transsilvanien
