@@ -29362,3 +29362,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1578400821 - Tue Jan  7 13:40:21 CET 2020 - /Stream/The_Neighborhood.html,s2 - The Neighborhood
 1578401206 - Tue Jan  7 13:46:46 CET 2020 - /Stream/His_Dark_Materials-2.html,s1e7 - His Dark Materials
 1578401213 - Tue Jan  7 13:46:53 CET 2020 - /Stream/The_Good_Doctor-2.html,s3e8 - The Good Doctor
+1578401218 - Tue Jan  7 13:46:58 CET 2020 - /Stream/All_Rise.html,s1e12 - All Rise
