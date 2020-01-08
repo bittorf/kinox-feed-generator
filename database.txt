@@ -29364,3 +29364,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1578401213 - Tue Jan  7 13:46:53 CET 2020 - /Stream/The_Good_Doctor-2.html,s3e8 - The Good Doctor
 1578401218 - Tue Jan  7 13:46:58 CET 2020 - /Stream/All_Rise.html,s1e12 - All Rise
 1578408684 - Tue Jan  7 15:51:24 CET 2020 - /Stream/1917.html - 1917
+1578482746 - Wed Jan  8 12:25:46 CET 2020 - /Stream/Bobs_Burgers-2.html,s9e11 - Bob's Burgers
