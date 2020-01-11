@@ -29418,3 +29418,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1578754341 - Sat Jan 11 15:52:21 CET 2020 - /Stream/Inspector_Barnaby.html,s20e1 - Inspector Barnaby
 1578754349 - Sat Jan 11 15:52:29 CET 2020 - /Stream/Das_Traumschiff.html,s1 - Das Traumschiff
 1578754355 - Sat Jan 11 15:52:35 CET 2020 - /Stream/Agatha_Raisin.html,s2e1 - Agatha Raisin
+1578754616 - Sat Jan 11 15:56:56 CET 2020 - /Stream/Inga_Lindstroem.html,s1e84 - Inga Lindström
