@@ -29428,3 +29428,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1578763344 - Sat Jan 11 18:22:24 CET 2020 - /Stream/Blood-Treasure-1.html,s1e4 - Blood & Treasure
 1578830503 - Sun Jan 12 13:01:43 CET 2020 - /Stream/Taken_Die_Zeit_ist_dein_Feind.html,s2 - Taken: Die Zeit ist dein Feind
 1578831274 - Sun Jan 12 13:14:34 CET 2020 - /Stream/Der_Staatsanwalt.html,s15e1 - Der Staatsanwalt
+1578832051 - Sun Jan 12 13:27:31 CET 2020 - /Stream/SOKO_Leipzig.html,s19e10 - SOKO Leipzig
