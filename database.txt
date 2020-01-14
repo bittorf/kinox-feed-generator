@@ -29444,3 +29444,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1578987433 - Tue Jan 14 08:37:13 CET 2020 - /Stream/His_Dark_Materials-2.html,s1e8 - His Dark Materials
 1578987440 - Tue Jan 14 08:37:20 CET 2020 - /Stream/Young_Sheldon-1.html,s3 - Young Sheldon
 1578987447 - Tue Jan 14 08:37:27 CET 2020 - /Stream/Arrow_german_subbed.html,s8e7 - Arrow *german subbed*
+1578987456 - Tue Jan 14 08:37:36 CET 2020 - /Stream/Power-2.html,s6e9 - Power
