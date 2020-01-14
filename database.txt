@@ -29447,3 +29447,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1578987456 - Tue Jan 14 08:37:36 CET 2020 - /Stream/Power-2.html,s6e9 - Power
 1578987464 - Tue Jan 14 08:37:44 CET 2020 - /Stream/God_Friended_Me.html,s2e12 - God Friended Me
 1578987471 - Tue Jan 14 08:37:51 CET 2020 - /Stream/The_Good_Doctor-1.html,s3e11 - The Good Doctor
+1578987475 - Tue Jan 14 08:37:55 CET 2020 - /Stream/Manifest-1.html,s2e2 - Manifest
