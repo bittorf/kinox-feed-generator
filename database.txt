@@ -29465,3 +29465,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579193964 - Thu Jan 16 17:59:24 CET 2020 - /Stream/Schooled.html,s2e11 - Schooled
 1579194732 - Thu Jan 16 18:12:12 CET 2020 - /Stream/Chicago_Med.html,s5e11 - Chicago Med
 1579195059 - Thu Jan 16 18:17:39 CET 2020 - /Stream/Chicago_PD.html,s7e11 - Chicago PD
+1579195832 - Thu Jan 16 18:30:32 CET 2020 - /Stream/The_Goldbergs.html,s7e11 - The Goldbergs
