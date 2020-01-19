@@ -29494,3 +29494,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579375420 - Sat Jan 18 20:23:40 CET 2020 - /Stream/American_Horror_Story-Die_dunkle_Seite_in_dir-1.html,s9e8 - American Horror Story - Die dunkle Seite in dir
 1579375429 - Sat Jan 18 20:23:49 CET 2020 - /Stream/The_100-1.html,s6e2 - The 100
 1579391121 - Sun Jan 19 00:45:21 CET 2020 - /Stream/Bad_Boys_for_Life-1.html - Bad Boys for Life
+1579420734 - Sun Jan 19 08:58:54 CET 2020 - /Stream/Harley_Quinn.html,s1e8 - Harley Quinn
