@@ -29529,3 +29529,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579551240 - Mon Jan 20 21:14:00 CET 2020 - /Stream/Get_Shorty-2.html,s3 - Get Shorty
 1579551245 - Mon Jan 20 21:14:05 CET 2020 - /Stream/Power-2.html,s6e10 - Power
 1579551253 - Mon Jan 20 21:14:13 CET 2020 - /Stream/Batwoman.html,s1e10 - Batwoman
+1579551259 - Mon Jan 20 21:14:19 CET 2020 - /Stream/Super_Girl.html,s5e10 - Super Girl
