@@ -29558,3 +29558,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579700092 - Wed Jan 22 14:34:52 CET 2020 - /Stream/Arrow.html,s8e9 - Arrow
 1579700100 - Wed Jan 22 14:35:00 CET 2020 - /Stream/Mixed-ish.html,s1e13 - Mixed-ish
 1579700103 - Wed Jan 22 14:35:03 CET 2020 - /Stream/NCIS_Naval_Criminal_Investigative_Service.html,s17e13 - NCIS: Naval Criminal Investigative Service
+1579707582 - Wed Jan 22 16:39:42 CET 2020 - /Stream/Piratensender_Power_Play.html - Piratensender Power Play
