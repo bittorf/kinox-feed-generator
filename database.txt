@@ -29560,3 +29560,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579700103 - Wed Jan 22 14:35:03 CET 2020 - /Stream/NCIS_Naval_Criminal_Investigative_Service.html,s17e13 - NCIS: Naval Criminal Investigative Service
 1579707582 - Wed Jan 22 16:39:42 CET 2020 - /Stream/Piratensender_Power_Play.html - Piratensender Power Play
 1579707965 - Wed Jan 22 16:46:05 CET 2020 - /Stream/Burden_of_Truth_german_subbed.html,s3 - Burden of Truth *german subbed*
+1579707967 - Wed Jan 22 16:46:07 CET 2020 - /Stream/The_Good_Doctor-2.html,s3e10 - The Good Doctor
