@@ -29541,3 +29541,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579599544 - Tue Jan 21 10:39:04 CET 2020 - /Stream/The_Good_Doctor-1.html,s3e12 - The Good Doctor
 1579600311 - Tue Jan 21 10:51:51 CET 2020 - /Stream/Manifest-1.html,s2e3 - Manifest
 1579690048 - Wed Jan 22 11:47:28 CET 2020 - /Stream/Brainslasher.html - Brainslasher
+1579691090 - Wed Jan 22 12:04:50 CET 2020 - /Stream/Hudson-Rex.html,s2e1 - Hudson & Rex
