@@ -29567,3 +29567,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579730510 - Wed Jan 22 23:01:50 CET 2020 - /Stream/Burden_of_Truth_german_subbed.html,s3e2 - Burden of Truth *german subbed*
 1579760039 - Thu Jan 23 07:13:59 CET 2020 - /Stream/Stumptown.html,s1e12 - Stumptown
 1579760453 - Thu Jan 23 07:20:53 CET 2020 - /Stream/S-W-A-T-2.html,s3e12 - S.W.A.T.
+1579760454 - Thu Jan 23 07:20:54 CET 2020 - /Stream/Chicago_PD.html,s7e12 - Chicago PD
