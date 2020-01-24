@@ -29576,3 +29576,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579886981 - Fri Jan 24 18:29:41 CET 2020 - /Stream/Lonesome_Dove_Church-1.html - Lonesome Dove Church
 1579886983 - Fri Jan 24 18:29:43 CET 2020 - /Stream/Zaertliche_Chaoten.html - Zärtliche Chaoten
 1579886985 - Fri Jan 24 18:29:45 CET 2020 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s17e6 - DsdS - Deutschland sucht den Superstar
+1579886986 - Fri Jan 24 18:29:46 CET 2020 - /Stream/Star_Trek_Picard-1.html,s1e1 - Star Trek: Picard
