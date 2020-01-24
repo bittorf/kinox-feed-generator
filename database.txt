@@ -29578,3 +29578,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579886985 - Fri Jan 24 18:29:45 CET 2020 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s17e6 - DsdS - Deutschland sucht den Superstar
 1579886986 - Fri Jan 24 18:29:46 CET 2020 - /Stream/Star_Trek_Picard-1.html,s1e1 - Star Trek: Picard
 1579886988 - Fri Jan 24 18:29:48 CET 2020 - /Stream/Die_Rosenheim-Cops.html,s19e16 - Die Rosenheim-Cops
+1579886989 - Fri Jan 24 18:29:49 CET 2020 - /Stream/Evil_german_subbed.html,s1e12 - Evil *german subbed*
