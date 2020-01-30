@@ -29595,3 +29595,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580384003 - Thu Jan 30 12:33:23 CET 2020 - /Stream/Riverdale.html,s4e11 - Riverdale
 1580384011 - Thu Jan 30 12:33:31 CET 2020 - /Stream/Schooled.html,s2e13 - Schooled
 1580384018 - Thu Jan 30 12:33:38 CET 2020 - /Stream/The_Goldbergs.html,s7e13 - The Goldbergs
+1580384023 - Thu Jan 30 12:33:43 CET 2020 - /Stream/Vikings.html,s6e9 - Vikings
