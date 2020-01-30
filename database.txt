@@ -29592,3 +29592,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1579887004 - Fri Jan 24 18:30:04 CET 2020 - /Stream/Greys_Anatomy.html,s16e10 - Grey's Anatomy
 1580339020 - Thu Jan 30 00:03:40 CET 2020 - /Stream/Bombshell.html - Bombshell
 1580339551 - Thu Jan 30 00:12:31 CET 2020 - /Stream/Motherless_Brooklyn.html - Motherless Brooklyn
+1580384003 - Thu Jan 30 12:33:23 CET 2020 - /Stream/Riverdale.html,s4e11 - Riverdale
