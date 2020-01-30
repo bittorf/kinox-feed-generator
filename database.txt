@@ -29606,3 +29606,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580392982 - Thu Jan 30 15:03:02 CET 2020 - /Stream/Criminal_Minds.html,s15e5 - Criminal Minds
 1580407916 - Thu Jan 30 19:11:56 CET 2020 - /Stream/Bobs_Burgers-2.html,s9e14 - Bob's Burgers
 1580408688 - Thu Jan 30 19:24:48 CET 2020 - /Stream/Rick_and_Morty-1.html,s4e3 - Rick and Morty
+1580408725 - Thu Jan 30 19:25:25 CET 2020 - /Stream/Riverdale-1.html,s4e11 - Riverdale
