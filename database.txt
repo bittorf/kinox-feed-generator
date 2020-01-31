@@ -29614,3 +29614,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580483753 - Fri Jan 31 16:15:53 CET 2020 - /Stream/All_Hallows_Eve_2-1.html - All Hallows' Eve 2
 1580483758 - Fri Jan 31 16:15:58 CET 2020 - /Stream/Diablo-The_Ultimate_Race.html - Diablo - The Ultimate Race
 1580483764 - Fri Jan 31 16:16:04 CET 2020 - /Stream/Sons_of_Denmark-Bruderschaft_des_Terrors.html - Sons of Denmark - Bruderschaft des Terrors
+1580483770 - Fri Jan 31 16:16:10 CET 2020 - /Stream/Legacies.html,s2e11 - Legacies
