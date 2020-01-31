@@ -29616,3 +29616,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580483764 - Fri Jan 31 16:16:04 CET 2020 - /Stream/Sons_of_Denmark-Bruderschaft_des_Terrors.html - Sons of Denmark - Bruderschaft des Terrors
 1580483770 - Fri Jan 31 16:16:10 CET 2020 - /Stream/Legacies.html,s2e11 - Legacies
 1580483776 - Fri Jan 31 16:16:16 CET 2020 - /Stream/Vikings-1.html,s1e9 - Vikings
+1580483784 - Fri Jan 31 16:16:24 CET 2020 - /Stream/Star_Trek_Picard-1.html,s1 - Star Trek: Picard
