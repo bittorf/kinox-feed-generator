@@ -29611,3 +29611,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580408741 - Thu Jan 30 19:25:41 CET 2020 - /Stream/S-W-A-T-2.html,s3e13 - S.W.A.T.
 1580423672 - Thu Jan 30 23:34:32 CET 2020 - /Stream/Blood-Treasure-1.html,s1e9 - Blood & Treasure
 1580483365 - Fri Jan 31 16:09:25 CET 2020 - /Stream/Nevrland.html - Nevrland
+1580483753 - Fri Jan 31 16:15:53 CET 2020 - /Stream/All_Hallows_Eve_2-1.html - All Hallows' Eve 2
