@@ -29648,3 +29648,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580567734 - Sat Feb  1 15:35:34 CET 2020 - /Stream/All_American-1.html,s1e1 - All American
 1580567741 - Sat Feb  1 15:35:41 CET 2020 - /Stream/Charmed.html,s2 - Charmed
 1580568002 - Sat Feb  1 15:40:02 CET 2020 - /Stream/Magnum_P-I.html,s2e14 - Magnum P.I.
+1580568772 - Sat Feb  1 15:52:52 CET 2020 - /Stream/Hawaii_Five-0-1.html,s10e14 - Hawaii Five-0
