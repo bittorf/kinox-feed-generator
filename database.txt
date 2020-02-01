@@ -29634,3 +29634,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580558717 - Sat Feb  1 13:05:17 CET 2020 - /Stream/Der_Staatsanwalt.html,s15e2 - Der Staatsanwalt
 1580558723 - Sat Feb  1 13:05:23 CET 2020 - /Stream/Bad_Banks.html,s2 - Bad Banks
 1580558730 - Sat Feb  1 13:05:30 CET 2020 - /Stream/Diablero.html,s2 - Diablero
+1580558735 - Sat Feb  1 13:05:35 CET 2020 - /Stream/Der_Bergdoktor-1.html,s13 - Der Bergdoktor
