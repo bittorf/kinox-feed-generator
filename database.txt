@@ -29670,3 +29670,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580817650 - Tue Feb  4 13:00:50 CET 2020 - /Stream/Light_Of_My_Life.html - Light Of My Life
 1580817655 - Tue Feb  4 13:00:55 CET 2020 - /Stream/Die_Simpsons.html,s30e13 - Die Simpsons
 1580817661 - Tue Feb  4 13:01:01 CET 2020 - /Stream/Bull.html,s4e13 - Bull
+1580817668 - Tue Feb  4 13:01:08 CET 2020 - /Stream/Black_Lightning-1.html,s3e12 - Black Lightning
