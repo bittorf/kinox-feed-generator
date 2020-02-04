@@ -29672,3 +29672,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580817661 - Tue Feb  4 13:01:01 CET 2020 - /Stream/Bull.html,s4e13 - Bull
 1580817668 - Tue Feb  4 13:01:08 CET 2020 - /Stream/Black_Lightning-1.html,s3e12 - Black Lightning
 1580817676 - Tue Feb  4 13:01:16 CET 2020 - /Stream/The_Neighborhood.html,s2e14 - The Neighborhood
+1580817680 - Tue Feb  4 13:01:20 CET 2020 - /Stream/All_American.html,s2e11 - All American
