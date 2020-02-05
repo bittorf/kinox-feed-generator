@@ -29677,3 +29677,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580818713 - Tue Feb  4 13:18:33 CET 2020 - /Stream/Supernatural_german_subbed.html,s15e11 - Supernatural *german subbed*
 1580907112 - Wed Feb  5 13:51:52 CET 2020 - /Stream/Noddy_Toyland_Detective.html,s10e1 - Noddy, Toyland Detective
 1580907119 - Wed Feb  5 13:51:59 CET 2020 - /Stream/The_Righteous_Gemstones-1.html,s1 - The Righteous Gemstones
+1580907123 - Wed Feb  5 13:52:03 CET 2020 - /Stream/Gentleman_Jack-1.html,s1 - Gentleman Jack
