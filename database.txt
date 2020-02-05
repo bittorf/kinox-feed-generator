@@ -29679,3 +29679,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1580907119 - Wed Feb  5 13:51:59 CET 2020 - /Stream/The_Righteous_Gemstones-1.html,s1 - The Righteous Gemstones
 1580907123 - Wed Feb  5 13:52:03 CET 2020 - /Stream/Gentleman_Jack-1.html,s1 - Gentleman Jack
 1580907129 - Wed Feb  5 13:52:09 CET 2020 - /Stream/The_Deuce.html,s3 - The Deuce
+1580907133 - Wed Feb  5 13:52:13 CET 2020 - /Stream/Legends_of_Tomorrow.html,s5e3 - Legends of Tomorrow
