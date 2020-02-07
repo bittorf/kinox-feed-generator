@@ -29704,3 +29704,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1581094671 - Fri Feb  7 17:57:51 CET 2020 - /Stream/Hip_Whip_Girl_Keijo.html,s1e7 - Hip Whip Girl: Keijo!!!!!!
 1581094679 - Fri Feb  7 17:57:59 CET 2020 - /Stream/Star_Trek_Picard-1.html,s1e3 - Star Trek: Picard
 1581094685 - Fri Feb  7 17:58:05 CET 2020 - /Stream/Carols_Second_Act.html,s1e14 - Carol's Second Act
+1581094692 - Fri Feb  7 17:58:12 CET 2020 - /Stream/Legacies.html,s2e12 - Legacies
