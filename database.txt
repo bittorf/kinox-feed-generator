@@ -29762,3 +29762,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1581613947 - Thu Feb 13 18:12:27 CET 2020 - /Stream/The_Conners.html,s2e12 - The Conners
 1581613952 - Thu Feb 13 18:12:32 CET 2020 - /Stream/FBI-1.html,s2e15 - FBI
 1581613959 - Thu Feb 13 18:12:39 CET 2020 - /Stream/Riverdale.html,s4e13 - Riverdale
+1581613966 - Thu Feb 13 18:12:46 CET 2020 - /Stream/Schooled.html,s2e14 - Schooled
