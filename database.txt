@@ -29780,3 +29780,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1581678952 - Fri Feb 14 12:15:52 CET 2020 - /Stream/Castle_Rock-1.html,s2 - Castle Rock
 1581678959 - Fri Feb 14 12:15:59 CET 2020 - /Stream/Rick_and_Morty-1.html,s4e5 - Rick and Morty
 1581678965 - Fri Feb 14 12:16:05 CET 2020 - /Stream/Young_Sheldon-1.html,s3e7 - Young Sheldon
+1581678973 - Fri Feb 14 12:16:13 CET 2020 - /Stream/Legacies.html,s2e13 - Legacies
