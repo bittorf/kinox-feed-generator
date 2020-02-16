@@ -29799,3 +29799,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1581787187 - Sat Feb 15 18:19:47 CET 2020 - /Stream/Eine_ganz_heisse_Nummer_2-0-1.html - Eine ganz heiﬂe Nummer 2.0
 1581808810 - Sun Feb 16 00:20:10 CET 2020 - /Stream/Isi-Ossi.html - Isi & Ossi
 1581844875 - Sun Feb 16 10:21:15 CET 2020 - /Stream/Germanys_Next_Topmodel.html,s15e3 - Germany's Next Topmodel
+1581844883 - Sun Feb 16 10:21:23 CET 2020 - /Stream/MacGyver-2.html,s4e2 - MacGyver
