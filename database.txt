@@ -29818,3 +29818,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1581938686 - Mon Feb 17 12:24:46 CET 2020 - /Stream/Um_Himmels_Willen.html,s19e5 - Um Himmels Willen
 1581938694 - Mon Feb 17 12:24:54 CET 2020 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s17e13 - DsdS - Deutschland sucht den Superstar
 1581938701 - Mon Feb 17 12:25:01 CET 2020 - /Stream/The_Outsider-2.html,s1e7 - The Outsider
+1581938705 - Mon Feb 17 12:25:05 CET 2020 - /Stream/Batwoman.html,s1e12 - Batwoman
