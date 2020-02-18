@@ -29835,3 +29835,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582046908 - Tue Feb 18 18:28:28 CET 2020 - /Stream/The_Magicians.html,s5 - The Magicians
 1582046912 - Tue Feb 18 18:28:32 CET 2020 - /Stream/Will-Grace.html,s11e10 - Will & Grace
 1582046921 - Tue Feb 18 18:28:41 CET 2020 - /Stream/The_Good_Doctor-1.html,s3e15 - The Good Doctor
+1582046926 - Tue Feb 18 18:28:46 CET 2020 - /Stream/Record_of_Grancrest_War.html,s1 - Record of Grancrest War
