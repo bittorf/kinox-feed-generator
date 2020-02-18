@@ -29841,3 +29841,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582046945 - Tue Feb 18 18:29:05 CET 2020 - /Stream/Madam_Secretary-1.html,s5e1 - Madam Secretary
 1582046953 - Tue Feb 18 18:29:13 CET 2020 - /Stream/Endeavour-1.html,s7e2 - Endeavour
 1582046960 - Tue Feb 18 18:29:20 CET 2020 - /Stream/South_Park.html,s23e3 - South Park
+1582061386 - Tue Feb 18 22:29:46 CET 2020 - /Stream/Parasite-1.html - Parasite
