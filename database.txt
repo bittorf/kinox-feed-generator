@@ -29832,3 +29832,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582046886 - Tue Feb 18 18:28:06 CET 2020 - /Stream/Die_Simpsons.html,s30e14 - Die Simpsons
 1582046892 - Tue Feb 18 18:28:12 CET 2020 - /Stream/Legends_of_Tomorrow.html,s5e4 - Legends of Tomorrow
 1582046899 - Tue Feb 18 18:28:19 CET 2020 - /Stream/Doctor_Who-1.html,s12e8 - Doctor Who
+1582046908 - Tue Feb 18 18:28:28 CET 2020 - /Stream/The_Magicians.html,s5 - The Magicians
