@@ -29847,3 +29847,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582140669 - Wed Feb 19 20:31:09 CET 2020 - /Stream/Lieber_Antoine_als_gar_keinen_Aerger.html - Lieber Antoine als gar keinen Ärger
 1582140671 - Wed Feb 19 20:31:11 CET 2020 - /Stream/Dem_Horizont_so_nah.html - Dem Horizont so nah
 1582147882 - Wed Feb 19 22:31:22 CET 2020 - /Stream/Legends_of_Tomorrow.html,s5 - Legends of Tomorrow
+1582147889 - Wed Feb 19 22:31:29 CET 2020 - /Stream/Satsuriku_no_Tenshi.html,s1 - Satsuriku no Tenshi
