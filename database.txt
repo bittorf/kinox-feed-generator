@@ -29862,3 +29862,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582155195 - Thu Feb 20 00:33:15 CET 2020 - /Stream/Legends_of_Tomorrow.html,s5e5 - Legends of Tomorrow
 1582227264 - Thu Feb 20 20:34:24 CET 2020 - /Stream/Eine_Affaere-Verbotene_Liebe.html - Eine Affäre - Verbotene Liebe
 1582227265 - Thu Feb 20 20:34:25 CET 2020 - /Stream/Journeys_End-Tage_bis_zur_Ewigkeit.html - Journey's End - Tage bis zur Ewigkeit
+1582227267 - Thu Feb 20 20:34:27 CET 2020 - /Stream/Bull-1.html,s4e3 - Bull
