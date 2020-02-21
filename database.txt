@@ -29876,3 +29876,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582263360 - Fri Feb 21 06:36:00 CET 2020 - /Stream/Hawaii_Five-0.html,s10e6 - Hawaii Five-0
 1582263370 - Fri Feb 21 06:36:10 CET 2020 - /Stream/Star_Trek_Picard-1.html,s1e5 - Star Trek: Picard
 1582263377 - Fri Feb 21 06:36:17 CET 2020 - /Stream/Emergence-1.html,s1e11 - Emergence
+1582263384 - Fri Feb 21 06:36:24 CET 2020 - /Stream/The_Magicians_german_subbed.html,s5e5 - The Magicians *german subbed*
