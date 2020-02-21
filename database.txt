@@ -29894,3 +29894,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582285125 - Fri Feb 21 12:38:45 CET 2020 - /Stream/Will-Grace.html,s11e11 - Will & Grace
 1582285133 - Fri Feb 21 12:38:53 CET 2020 - /Stream/Greys_Anatomy.html,s16e14 - Grey's Anatomy
 1582328386 - Sat Feb 22 00:39:46 CET 2020 - /Stream/Dolls-Schau_hin_oder_stirb.html - Dolls - Schau hin oder stirb
+1582328391 - Sat Feb 22 00:39:51 CET 2020 - /Stream/Bull-1.html,s4e4 - Bull
