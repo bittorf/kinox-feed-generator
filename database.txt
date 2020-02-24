@@ -29938,3 +29938,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582573701 - Mon Feb 24 20:48:21 CET 2020 - /Stream/Homeland_german_subbed.html,s8e2 - Homeland *german subbed*
 1582573710 - Mon Feb 24 20:48:30 CET 2020 - /Stream/Family_Guy-1.html,s18e12 - Family Guy
 1582573724 - Mon Feb 24 20:48:44 CET 2020 - /Stream/The_Simpsons.html,s31e13 - The Simpsons
+1582573731 - Mon Feb 24 20:48:51 CET 2020 - /Stream/Batwoman.html,s1e13 - Batwoman
