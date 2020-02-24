@@ -29935,3 +29935,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582573683 - Mon Feb 24 20:48:03 CET 2020 - /Stream/Better_Call_Saul-1.html,s5e1 - Better Call Saul
 1582573690 - Mon Feb 24 20:48:10 CET 2020 - /Stream/NCIS_New_Orleans.html,s6e12 - NCIS: New Orleans
 1582573698 - Mon Feb 24 20:48:18 CET 2020 - /Stream/Avenue_5.html,s1e6 - Avenue 5
+1582573701 - Mon Feb 24 20:48:21 CET 2020 - /Stream/Homeland_german_subbed.html,s8e2 - Homeland *german subbed*
