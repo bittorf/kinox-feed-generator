@@ -29951,3 +29951,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582660292 - Tue Feb 25 20:51:32 CET 2020 - /Stream/Navy_CIS_L-A.html,s11e9 - Navy CIS: L.A.
 1582660299 - Tue Feb 25 20:51:39 CET 2020 - /Stream/Chicago_Med-1.html,s5e1 - Chicago Med
 1582660308 - Tue Feb 25 20:51:48 CET 2020 - /Stream/Navy_CIS.html,s17e9 - Navy CIS
+1582660320 - Tue Feb 25 20:52:00 CET 2020 - /Stream/Supergirl_german_subbed.html,s5e10 - Supergirl *german subbed*
