@@ -29954,3 +29954,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582660320 - Tue Feb 25 20:52:00 CET 2020 - /Stream/Supergirl_german_subbed.html,s5e10 - Supergirl *german subbed*
 1582660327 - Tue Feb 25 20:52:07 CET 2020 - /Stream/Keeping_Faith-1.html,s2e6 - Keeping Faith
 1582660333 - Tue Feb 25 20:52:13 CET 2020 - /Stream/Better_Call_Saul-1.html,s5 - Better Call Saul
+1582660340 - Tue Feb 25 20:52:20 CET 2020 - /Stream/Black_Lightning-1.html,s3e14 - Black Lightning
