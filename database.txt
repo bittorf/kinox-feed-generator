@@ -29956,3 +29956,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582660333 - Tue Feb 25 20:52:13 CET 2020 - /Stream/Better_Call_Saul-1.html,s5 - Better Call Saul
 1582660340 - Tue Feb 25 20:52:20 CET 2020 - /Stream/Black_Lightning-1.html,s3e14 - Black Lightning
 1582660347 - Tue Feb 25 20:52:27 CET 2020 - /Stream/All_American.html,s2e14 - All American
+1582660354 - Tue Feb 25 20:52:34 CET 2020 - /Stream/The_Good_Doctor-1.html,s3e16 - The Good Doctor
