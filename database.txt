@@ -29965,3 +29965,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582739667 - Wed Feb 26 18:54:27 CET 2020 - /Stream/Riverdale-1.html,s4 - Riverdale
 1582739675 - Wed Feb 26 18:54:35 CET 2020 - /Stream/Room_104.html,s3 - Room 104
 1582739680 - Wed Feb 26 18:54:40 CET 2020 - /Stream/The_Walking_Dead-1.html,s10e9 - The Walking Dead
+1582739685 - Wed Feb 26 18:54:45 CET 2020 - /Stream/Chicago_Fire-1.html,s8e1 - Chicago Fire
