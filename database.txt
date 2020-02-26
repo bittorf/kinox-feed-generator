@@ -29970,3 +29970,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582739707 - Wed Feb 26 18:55:07 CET 2020 - /Stream/The_Goldbergs.html,s7e16 - The Goldbergs
 1582739711 - Wed Feb 26 18:55:11 CET 2020 - /Stream/Bless_This_Mess.html,s2e14 - Bless This Mess
 1582739717 - Wed Feb 26 18:55:17 CET 2020 - /Stream/This_Is_Us.html,s4e15 - This Is Us
+1582739729 - Wed Feb 26 18:55:29 CET 2020 - /Stream/New_Amsterdam-1.html,s2e15 - New Amsterdam
