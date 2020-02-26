@@ -29962,3 +29962,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582739642 - Wed Feb 26 18:54:02 CET 2020 - /Stream/Better_Call_Saul.html,s5 - Better Call Saul
 1582739649 - Wed Feb 26 18:54:09 CET 2020 - /Stream/Greys_Anatomy-Die_jungen_Aerzte.html,s16e2 - Grey's Anatomy - Die jungen Ärzte
 1582739659 - Wed Feb 26 18:54:19 CET 2020 - /Stream/Wo_steckt_Carmen_Sandiego.html,s3e4 - Wo steckt Carmen Sandiego?
+1582739667 - Wed Feb 26 18:54:27 CET 2020 - /Stream/Riverdale-1.html,s4 - Riverdale
