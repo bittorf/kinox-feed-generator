@@ -29959,3 +29959,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582660354 - Tue Feb 25 20:52:34 CET 2020 - /Stream/The_Good_Doctor-1.html,s3e16 - The Good Doctor
 1582674774 - Wed Feb 26 00:52:54 CET 2020 - /Stream/Better_Call_Saul-1.html,s5e2 - Better Call Saul
 1582739635 - Wed Feb 26 18:53:55 CET 2020 - /Stream/Legacies-1.html,s1e14 - Legacies
+1582739642 - Wed Feb 26 18:54:02 CET 2020 - /Stream/Better_Call_Saul.html,s5 - Better Call Saul
