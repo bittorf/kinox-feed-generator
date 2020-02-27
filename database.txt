@@ -29988,3 +29988,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582811885 - Thu Feb 27 14:58:05 CET 2020 - /Stream/The_Magicians.html,s5e8 - The Magicians
 1582811886 - Thu Feb 27 14:58:06 CET 2020 - /Stream/Chicago_Med.html,s5e15 - Chicago Med
 1582811887 - Thu Feb 27 14:58:07 CET 2020 - /Stream/Chicago_Fire.html,s8e15 - Chicago Fire
+1582811902 - Thu Feb 27 14:58:22 CET 2020 - /Stream/Star_Trek_Picard.html,s1e6 - Star Trek: Picard
