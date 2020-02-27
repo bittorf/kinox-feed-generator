@@ -29983,3 +29983,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582811852 - Thu Feb 27 14:57:32 CET 2020 - /Stream/Fresh_Off_the_Boat-1.html,s6e1 - Fresh Off the Boat
 1582811860 - Thu Feb 27 14:57:40 CET 2020 - /Stream/9-1-1-1.html,s3e8 - 9-1-1
 1582811869 - Thu Feb 27 14:57:49 CET 2020 - /Stream/Young_Sheldon-1.html,s3e9 - Young Sheldon
+1582811876 - Thu Feb 27 14:57:56 CET 2020 - /Stream/Riverdale.html,s4e14 - Riverdale
