@@ -30002,3 +30002,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582833572 - Thu Feb 27 20:59:32 CET 2020 - /Stream/Good_Trouble.html,s2e17 - Good Trouble
 1582833579 - Thu Feb 27 20:59:39 CET 2020 - /Stream/Chicago_PD.html,s7e15 - Chicago PD
 1582876832 - Fri Feb 28 09:00:32 CET 2020 - /Stream/Jojo_Rabbit.html - Jojo Rabbit
+1582891248 - Fri Feb 28 13:00:48 CET 2020 - /Stream/Jojo_Rabbit-1.html - Jojo Rabbit
