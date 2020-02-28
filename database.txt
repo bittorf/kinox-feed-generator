@@ -30018,3 +30018,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1582898560 - Fri Feb 28 15:02:40 CET 2020 - /Stream/Reef_Break-1.html,s1e3 - Reef Break
 1582898567 - Fri Feb 28 15:02:47 CET 2020 - /Stream/Station_19.html,s3e6 - Station 19
 1582927402 - Fri Feb 28 23:03:22 CET 2020 - /Stream/The_Magicians_german_subbed.html,s5e7 - The Magicians *german subbed*
+1582927407 - Fri Feb 28 23:03:27 CET 2020 - /Stream/Arrow_german_subbed.html,s8e9 - Arrow *german subbed*
