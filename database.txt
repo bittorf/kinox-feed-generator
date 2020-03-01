@@ -30028,3 +30028,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583071582 - Sun Mar  1 15:06:22 CET 2020 - /Stream/Invisible_Sue-Ploetzlich_unsichtbar.html - Invisible Sue - Plötzlich unsichtbar
 1583071588 - Sun Mar  1 15:06:28 CET 2020 - /Stream/Die_Bachelorette.html,s10e8 - Die Bachelorette
 1583071595 - Sun Mar  1 15:06:35 CET 2020 - /Stream/Hawaii_Five-0.html,s10e7 - Hawaii Five-0
+1583071605 - Sun Mar  1 15:06:45 CET 2020 - /Stream/Dynasty-1.html,s3e14 - Dynasty
