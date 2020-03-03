@@ -30063,3 +30063,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583244788 - Tue Mar  3 15:13:08 CET 2020 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s17e17 - DsdS - Deutschland sucht den Superstar
 1583244796 - Tue Mar  3 15:13:16 CET 2020 - /Stream/Pure-3.html,s2e6 - Pure
 1583244803 - Tue Mar  3 15:13:23 CET 2020 - /Stream/Manifest-1.html,s2e8 - Manifest
+1583244811 - Tue Mar  3 15:13:31 CET 2020 - /Stream/The_Good_Doctor-1.html,s3e17 - The Good Doctor
