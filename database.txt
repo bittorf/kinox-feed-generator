@@ -30079,3 +30079,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583324165 - Wed Mar  4 13:16:05 CET 2020 - /Stream/Bobs_Burgers-2.html,s9e19 - Bob's Burgers
 1583324174 - Wed Mar  4 13:16:14 CET 2020 - /Stream/Ray_Donovan-1.html,s7e5 - Ray Donovan
 1583324183 - Wed Mar  4 13:16:23 CET 2020 - /Stream/Legacies-1.html,s1e15 - Legacies
+1583324190 - Wed Mar  4 13:16:30 CET 2020 - /Stream/Better_Call_Saul.html,s5e3 - Better Call Saul
