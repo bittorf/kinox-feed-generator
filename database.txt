@@ -30080,3 +30080,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583324174 - Wed Mar  4 13:16:14 CET 2020 - /Stream/Ray_Donovan-1.html,s7e5 - Ray Donovan
 1583324183 - Wed Mar  4 13:16:23 CET 2020 - /Stream/Legacies-1.html,s1e15 - Legacies
 1583324190 - Wed Mar  4 13:16:30 CET 2020 - /Stream/Better_Call_Saul.html,s5e3 - Better Call Saul
+1583324197 - Wed Mar  4 13:16:37 CET 2020 - /Stream/Chicago_Fire-1.html,s8e2 - Chicago Fire
