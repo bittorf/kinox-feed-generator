@@ -30100,3 +30100,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583432475 - Thu Mar  5 19:21:15 CET 2020 - /Stream/SEAL_Team.html,s3e13 - SEAL Team
 1583432483 - Thu Mar  5 19:21:23 CET 2020 - /Stream/Riverdale.html,s4e15 - Riverdale
 1583432490 - Thu Mar  5 19:21:30 CET 2020 - /Stream/Chicago_Med.html,s5e16 - Chicago Med
+1583432499 - Thu Mar  5 19:21:39 CET 2020 - /Stream/Chicago_PD.html,s7e16 - Chicago PD
