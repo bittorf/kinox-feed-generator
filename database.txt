@@ -30088,3 +30088,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583331450 - Wed Mar  4 15:17:30 CET 2020 - /Stream/Project_Blue_Book-1.html,s2e7 - Project Blue Book
 1583338674 - Wed Mar  4 17:17:54 CET 2020 - /Stream/Black_Lightning-1.html,s3e15 - Black Lightning
 1583345889 - Wed Mar  4 19:18:09 CET 2020 - /Stream/Crashing-3.html,s3 - Crashing
+1583410783 - Thu Mar  5 13:19:43 CET 2020 - /Stream/The_Good_Doctor-2.html,s3e11 - The Good Doctor
