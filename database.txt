@@ -30112,3 +30112,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583519058 - Fri Mar  6 19:24:18 CET 2020 - /Stream/Tenjho_tenge.html,s1 - Tenjho tenge
 1583519065 - Fri Mar  6 19:24:25 CET 2020 - /Stream/Hawaii_Five-0.html,s10e8 - Hawaii Five-0
 1583519074 - Fri Mar  6 19:24:34 CET 2020 - /Stream/Die_Bachelorette.html,s10e9 - Die Bachelorette
+1583519079 - Fri Mar  6 19:24:39 CET 2020 - /Stream/Castlevania.html,s3 - Castlevania
