@@ -30108,3 +30108,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583497411 - Fri Mar  6 13:23:31 CET 2020 - /Stream/9-1-1_Lone_Star.html,s1e8 - 9-1-1: Lone Star
 1583497414 - Fri Mar  6 13:23:34 CET 2020 - /Stream/Good_Trouble.html,s2e18 - Good Trouble
 1583519042 - Fri Mar  6 19:24:02 CET 2020 - /Stream/MotherFatherSon-1.html,s1 - MotherFatherSon
+1583519049 - Fri Mar  6 19:24:09 CET 2020 - /Stream/Die_Rosenheim-Cops.html,s19e22 - Die Rosenheim-Cops
