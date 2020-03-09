@@ -30144,3 +30144,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583620176 - Sat Mar  7 23:29:36 CET 2020 - /Stream/Riverdale-1.html,s4e15 - Riverdale
 1583764315 - Mon Mar  9 15:31:55 CET 2020 - /Stream/Neues_aus_Buettenwarder.html,s1e7 - Neues aus Büttenwarder
 1583764323 - Mon Mar  9 15:32:03 CET 2020 - /Stream/Germanys_Next_Topmodel.html,s15e4 - Germany's Next Topmodel
+1583764332 - Mon Mar  9 15:32:12 CET 2020 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s17e18 - DsdS - Deutschland sucht den Superstar
