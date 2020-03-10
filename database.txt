@@ -30166,3 +30166,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583850970 - Tue Mar 10 15:36:10 CET 2020 - /Stream/All_American.html,s2e16 - All American
 1583850978 - Tue Mar 10 15:36:18 CET 2020 - /Stream/The_Neighborhood.html,s2e17 - The Neighborhood
 1583850983 - Tue Mar 10 15:36:23 CET 2020 - /Stream/Black_Lightning-1.html,s3e16 - Black Lightning
+1583850990 - Tue Mar 10 15:36:30 CET 2020 - /Stream/The_Good_Doctor-1.html,s3e18 - The Good Doctor
