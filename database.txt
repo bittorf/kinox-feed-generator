@@ -30171,3 +30171,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583858213 - Tue Mar 10 17:36:53 CET 2020 - /Stream/All_Rise.html,s1e17 - All Rise
 1583858216 - Tue Mar 10 17:36:56 CET 2020 - /Stream/Bull.html,s4e16 - Bull
 1583858224 - Tue Mar 10 17:37:04 CET 2020 - /Stream/Shameless-Nicht_ganz_nuechtern.html,s10e3 - Shameless - Nicht ganz nüchtern
+1583858232 - Tue Mar 10 17:37:12 CET 2020 - /Stream/Legends_of_Tomorrow-1.html,s4e1 - Legends of Tomorrow
