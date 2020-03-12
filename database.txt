@@ -30198,3 +30198,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584024171 - Thu Mar 12 15:42:51 CET 2020 - /Stream/9-1-1_Lone_Star.html,s1e10 - 9-1-1: Lone Star
 1584024175 - Thu Mar 12 15:42:55 CET 2020 - /Stream/Empire-3.html,s6e12 - Empire
 1584024185 - Thu Mar 12 15:43:05 CET 2020 - /Stream/SEAL_Team.html,s3e14 - SEAL Team
+1584024192 - Thu Mar 12 15:43:12 CET 2020 - /Stream/Riverdale.html,s4e16 - Riverdale
