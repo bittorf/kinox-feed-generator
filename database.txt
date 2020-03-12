@@ -30192,3 +30192,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1583944851 - Wed Mar 11 17:40:51 CET 2020 - /Stream/Holby_City.html,s22e10 - Holby City
 1584024134 - Thu Mar 12 15:42:14 CET 2020 - /Stream/Fresh_Off_the_Boat-1.html,s6e3 - Fresh Off the Boat
 1584024142 - Thu Mar 12 15:42:22 CET 2020 - /Stream/Room_104.html,s3e6 - Room 104
+1584024150 - Thu Mar 12 15:42:30 CET 2020 - /Stream/Star_Trek_Picard-1.html,s1e8 - Star Trek: Picard
