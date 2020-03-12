@@ -30194,3 +30194,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584024142 - Thu Mar 12 15:42:22 CET 2020 - /Stream/Room_104.html,s3e6 - Room 104
 1584024150 - Thu Mar 12 15:42:30 CET 2020 - /Stream/Star_Trek_Picard-1.html,s1e8 - Star Trek: Picard
 1584024157 - Thu Mar 12 15:42:37 CET 2020 - /Stream/Legends_of_Tomorrow-1.html,s4e2 - Legends of Tomorrow
+1584024166 - Thu Mar 12 15:42:46 CET 2020 - /Stream/The_Good_Doctor-2.html,s3e12 - The Good Doctor
