@@ -30206,3 +30206,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584117917 - Fri Mar 13 17:45:17 CET 2020 - /Stream/Last_Man_Standing-6.html,s5 - Last Man Standing
 1584117924 - Fri Mar 13 17:45:24 CET 2020 - /Stream/Batwoman_german_subbed.html,s1e10 - Batwoman *german subbed*
 1584117931 - Fri Mar 13 17:45:31 CET 2020 - /Stream/Layton_Mystery_Tanteisha_Katori_no_Nazotoki_File.html,s1 - Layton Mystery Tanteisha: Katori no Nazotoki File
+1584117938 - Fri Mar 13 17:45:38 CET 2020 - /Stream/The_Magicians_german_subbed.html,s5e9 - The Magicians *german subbed*
