@@ -30228,3 +30228,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584204578 - Sat Mar 14 17:49:38 CET 2020 - /Stream/Reef_Break-1.html,s1 - Reef Break
 1584204586 - Sat Mar 14 17:49:46 CET 2020 - /Stream/MacGyver-1.html,s4e6 - MacGyver
 1584204596 - Sat Mar 14 17:49:56 CET 2020 - /Stream/S-W-A-T-2.html,s3e15 - S.W.A.T.
+1584283876 - Sun Mar 15 15:51:16 CET 2020 - /Stream/Die_Suche_nach_dem_Licht_in_der_Finsternis.html - Die Suche nach dem Licht in der Finsternis
