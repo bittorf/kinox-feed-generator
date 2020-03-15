@@ -30237,3 +30237,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584283914 - Sun Mar 15 15:51:54 CET 2020 - /Stream/Robot_Chicken-2.html,s10e5 - Robot Chicken
 1584283922 - Sun Mar 15 15:52:02 CET 2020 - /Stream/Room_104.html,s3e5 - Room 104
 1584283930 - Sun Mar 15 15:52:10 CET 2020 - /Stream/iZombie-1.html,s5e6 - iZombie
+1584283938 - Sun Mar 15 15:52:18 CET 2020 - /Stream/All_American-1.html,s1e7 - All American
