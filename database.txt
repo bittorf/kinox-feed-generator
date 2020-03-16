@@ -30243,3 +30243,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584283965 - Sun Mar 15 15:52:45 CET 2020 - /Stream/Homeland.html,s8e6 - Homeland
 1584283973 - Sun Mar 15 15:52:53 CET 2020 - /Stream/Der_Staatsanwalt.html,s15 - Der Staatsanwalt
 1584363254 - Mon Mar 16 13:54:14 CET 2020 - /Stream/Casualty.html,s34e28 - Casualty
+1584363265 - Mon Mar 16 13:54:25 CET 2020 - /Stream/Batwoman.html,s1e15 - Batwoman
