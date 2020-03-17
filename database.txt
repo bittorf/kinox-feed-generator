@@ -30257,3 +30257,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584457038 - Tue Mar 17 15:57:18 CET 2020 - /Stream/The_Conners.html,s2e15 - The Conners
 1584457042 - Tue Mar 17 15:57:22 CET 2020 - /Stream/The_Neighborhood.html,s2e18 - The Neighborhood
 1584457046 - Tue Mar 17 15:57:26 CET 2020 - /Stream/Westworld-2.html,s3e1 - Westworld
+1584457054 - Tue Mar 17 15:57:34 CET 2020 - /Stream/Bull.html,s4e17 - Bull
