@@ -30274,3 +30274,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584529204 - Wed Mar 18 12:00:04 CET 2020 - /Stream/Timmy_Flop_Versagen_auf_ganzer_Linie.html - Timmy Flop: Versagen auf ganzer Linie
 1584529210 - Wed Mar 18 12:00:10 CET 2020 - /Stream/Tremors-Im_Land_der_Raketenwuermer.html - Tremors - Im Land der Raketenwürmer
 1584529212 - Wed Mar 18 12:00:12 CET 2020 - /Stream/On_My_Block.html,s3e1 - On My Block
+1584529218 - Wed Mar 18 12:00:18 CET 2020 - /Stream/Better_Call_Saul.html,s5e5 - Better Call Saul
