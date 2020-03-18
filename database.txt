@@ -30284,3 +30284,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584529270 - Wed Mar 18 12:01:10 CET 2020 - /Stream/The_Flash-2.html,s6e15 - The Flash
 1584529275 - Wed Mar 18 12:01:15 CET 2020 - /Stream/Black-ish-1.html,s6e18 - Black-ish
 1584529282 - Wed Mar 18 12:01:22 CET 2020 - /Stream/Legends_of_Tomorrow.html,s5e8 - Legends of Tomorrow
+1584529290 - Wed Mar 18 12:01:30 CET 2020 - /Stream/New_Amsterdam-1.html,s2e17 - New Amsterdam
