@@ -30268,3 +30268,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584529184 - Wed Mar 18 11:59:44 CET 2020 - /Stream/Secret_Weapon-Die_Geheimwaffe.html - Secret Weapon - Die Geheimwaffe
 1584529186 - Wed Mar 18 11:59:46 CET 2020 - /Stream/Meine_vergessene_Tochter.html - Meine vergessene Tochter
 1584529192 - Wed Mar 18 11:59:52 CET 2020 - /Stream/9_Tage_wach.html - 9 Tage wach
+1584529194 - Wed Mar 18 11:59:54 CET 2020 - /Stream/Superman_Red_Son.html - Superman: Red Son
