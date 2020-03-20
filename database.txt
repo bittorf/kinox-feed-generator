@@ -30306,3 +30306,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584702387 - Fri Mar 20 12:06:27 CET 2020 - /Stream/Follow_the_Money.html,s3e1 - Follow the Money
 1584702395 - Fri Mar 20 12:06:35 CET 2020 - /Stream/Fresh_Off_the_Boat-1.html,s6e4 - Fresh Off the Boat
 1584702402 - Fri Mar 20 12:06:42 CET 2020 - /Stream/Greys_Anatomy.html,s16e18 - Grey's Anatomy
+1584702414 - Fri Mar 20 12:06:54 CET 2020 - /Stream/Legacies.html,s2e15 - Legacies
