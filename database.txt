@@ -30301,3 +30301,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1584630279 - Thu Mar 19 16:04:39 CET 2020 - /Stream/The_Resident-3.html,s3e18 - The Resident
 1584644705 - Thu Mar 19 20:05:05 CET 2020 - /Stream/Star_Trek_Picard.html,s1e9 - Star Trek: Picard
 1584702368 - Fri Mar 20 12:06:08 CET 2020 - /Stream/Manhunt_Unabomber.html,s2e1 - Manhunt: Unabomber
+1584702375 - Fri Mar 20 12:06:15 CET 2020 - /Stream/Gakko-gurashi.html,s1 - Gakkô-gurashi!
