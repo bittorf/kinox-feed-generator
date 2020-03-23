@@ -30358,3 +30358,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585005413 - Tue Mar 24 00:16:53 CET 2020 - /Stream/Good_Girls.html,s3e6 - Good Girls
 1585005421 - Tue Mar 24 00:17:01 CET 2020 - /Stream/Super_Girl.html,s5e16 - Super Girl
 1585005430 - Tue Mar 24 00:17:10 CET 2020 - /Stream/NCIS_New_Orleans.html,s6e17 - NCIS: New Orleans
+1585005438 - Tue Mar 24 00:17:18 CET 2020 - /Stream/DsdS-Deutschland_sucht_den_Superstar.html,s17e20 - DsdS - Deutschland sucht den Superstar
