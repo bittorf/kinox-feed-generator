@@ -30399,3 +30399,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585236343 - Thu Mar 26 16:25:43 CET 2020 - /Stream/SEAL_Team.html,s3e16 - SEAL Team
 1585236351 - Thu Mar 26 16:25:51 CET 2020 - /Stream/American_Housewife.html,s4e15 - American Housewife
 1585236360 - Thu Mar 26 16:26:00 CET 2020 - /Stream/Schooled.html,s2e17 - Schooled
+1585236368 - Thu Mar 26 16:26:08 CET 2020 - /Stream/Chicago_PD.html,s7e18 - Chicago PD
