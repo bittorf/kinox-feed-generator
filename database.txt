@@ -30392,3 +30392,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585236278 - Thu Mar 26 16:24:38 CET 2020 - /Stream/FBI-1.html,s2e18 - FBI
 1585236286 - Thu Mar 26 16:24:46 CET 2020 - /Stream/The_Resident-3.html,s3e19 - The Resident
 1585236298 - Thu Mar 26 16:24:58 CET 2020 - /Stream/NCIS_Naval_Criminal_Investigative_Service.html,s17e18 - NCIS: Naval Criminal Investigative Service
+1585236311 - Thu Mar 26 16:25:11 CET 2020 - /Stream/The_Magicians.html,s5e12 - The Magicians
