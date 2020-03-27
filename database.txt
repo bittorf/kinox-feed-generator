@@ -30406,3 +30406,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585322893 - Fri Mar 27 16:28:13 CET 2020 - /Stream/Transformers_Getarnte_Roboter.html,s2 - Transformers: Getarnte Roboter
 1585322903 - Fri Mar 27 16:28:23 CET 2020 - /Stream/Ozark.html,s3e1 - Ozark
 1585322913 - Fri Mar 27 16:28:33 CET 2020 - /Stream/Star_Trek_Picard-1.html,s1e10 - Star Trek: Picard
+1585322921 - Fri Mar 27 16:28:41 CET 2020 - /Stream/Germanys_Next_Topmodel.html,s15e7 - Germany's Next Topmodel
