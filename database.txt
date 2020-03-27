@@ -30401,3 +30401,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585236360 - Thu Mar 26 16:26:00 CET 2020 - /Stream/Schooled.html,s2e17 - Schooled
 1585236368 - Thu Mar 26 16:26:08 CET 2020 - /Stream/Chicago_PD.html,s7e18 - Chicago PD
 1585236379 - Thu Mar 26 16:26:19 CET 2020 - /Stream/Chicago_Fire.html,s8e18 - Chicago Fire
+1585322874 - Fri Mar 27 16:27:54 CET 2020 - /Stream/Black_Lightning-2.html,s3 - Black Lightning
