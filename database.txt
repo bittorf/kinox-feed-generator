@@ -30426,3 +30426,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585387942 - Sat Mar 28 10:32:22 CET 2020 - /Stream/The_Walking_Dead.html,s10e14 - The Walking Dead
 1585387947 - Sat Mar 28 10:32:27 CET 2020 - /Stream/Charmed.html,s2e15 - Charmed
 1585387955 - Sat Mar 28 10:32:35 CET 2020 - /Stream/Dynasty-1.html,s3e15 - Dynasty
+1585387964 - Sat Mar 28 10:32:44 CET 2020 - /Stream/MacGyver-2.html,s4e7 - MacGyver
