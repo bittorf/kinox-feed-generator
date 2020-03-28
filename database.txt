@@ -30430,3 +30430,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585387973 - Sat Mar 28 10:32:53 CET 2020 - /Stream/The_Magicians_german_subbed.html,s5e11 - The Magicians *german subbed*
 1585387978 - Sat Mar 28 10:32:58 CET 2020 - /Stream/Friday_Night_Dinner.html,s6e1 - Friday Night Dinner
 1585387986 - Sat Mar 28 10:33:06 CET 2020 - /Stream/Supernatural_german_subbed.html,s5e13 - Supernatural *german subbed*
+1585387998 - Sat Mar 28 10:33:18 CET 2020 - /Stream/Hawaii_Five-0-1.html,s10e21 - Hawaii Five-0
