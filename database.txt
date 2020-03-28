@@ -30428,3 +30428,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585387955 - Sat Mar 28 10:32:35 CET 2020 - /Stream/Dynasty-1.html,s3e15 - Dynasty
 1585387964 - Sat Mar 28 10:32:44 CET 2020 - /Stream/MacGyver-2.html,s4e7 - MacGyver
 1585387973 - Sat Mar 28 10:32:53 CET 2020 - /Stream/The_Magicians_german_subbed.html,s5e11 - The Magicians *german subbed*
+1585387978 - Sat Mar 28 10:32:58 CET 2020 - /Stream/Friday_Night_Dinner.html,s6e1 - Friday Night Dinner
