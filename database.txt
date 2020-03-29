@@ -30444,3 +30444,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585481780 - Sun Mar 29 13:36:20 CEST 2020 - /Stream/Cats-Ein_schnurriges_Abenteuer.html - Cats - Ein schnurriges Abenteuer
 1585481787 - Sun Mar 29 13:36:27 CEST 2020 - /Stream/The_Banker-2.html - The Banker
 1585481794 - Sun Mar 29 13:36:34 CEST 2020 - /Stream/Marfa_Girl_2-Fucking_Texas_Again.html - Marfa Girl 2 - Fucking Texas Again
+1585481800 - Sun Mar 29 13:36:40 CEST 2020 - /Stream/Supergirl-2.html,s5e4 - Supergirl
