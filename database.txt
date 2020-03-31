@@ -30473,3 +30473,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585647936 - Tue Mar 31 11:45:36 CEST 2020 - /Stream/Roswell_New_Mexico.html,s2e3 - Roswell, New Mexico
 1585647943 - Tue Mar 31 11:45:43 CEST 2020 - /Stream/Manifest-1.html,s2e12 - Manifest
 1585647975 - Tue Mar 31 11:46:15 CEST 2020 - /Stream/The_Good_Doctor-1.html,s3e20 - The Good Doctor
+1585662395 - Tue Mar 31 15:46:35 CEST 2020 - /Stream/Die_Kaenguru-Chroniken.html - Die Känguru-Chroniken
