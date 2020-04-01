@@ -30481,3 +30481,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585748914 - Wed Apr  1 15:48:34 CEST 2020 - /Stream/Apparition-Dunkle_Erscheinung.html - Apparition - Dunkle Erscheinung
 1585748926 - Wed Apr  1 15:48:46 CEST 2020 - /Stream/Daemonen.html - Dämonen
 1585748931 - Wed Apr  1 15:48:51 CEST 2020 - /Stream/Moulin_Rouge-1.html - Moulin Rouge!
+1585748939 - Wed Apr  1 15:48:59 CEST 2020 - /Stream/Cyborg.html - Cyborg
