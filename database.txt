@@ -30489,3 +30489,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585749009 - Wed Apr  1 15:50:09 CEST 2020 - /Stream/NCIS_Naval_Criminal_Investigative_Service.html,s17e19 - NCIS: Naval Criminal Investigative Service
 1585763438 - Wed Apr  1 19:50:38 CEST 2020 - /Stream/Candyman_3-Der_Tag_der_Toten.html - Candyman 3 - Der Tag der Toten
 1585763449 - Wed Apr  1 19:50:49 CEST 2020 - /Stream/Better_Call_Saul.html,s5e7 - Better Call Saul
+1585763458 - Wed Apr  1 19:50:58 CEST 2020 - /Stream/Shots_Fired.html,s1e6 - Shots Fired
