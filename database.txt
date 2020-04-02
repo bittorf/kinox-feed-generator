@@ -30491,3 +30491,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1585763449 - Wed Apr  1 19:50:49 CEST 2020 - /Stream/Better_Call_Saul.html,s5e7 - Better Call Saul
 1585763458 - Wed Apr  1 19:50:58 CEST 2020 - /Stream/Shots_Fired.html,s1e6 - Shots Fired
 1585835534 - Thu Apr  2 15:52:14 CEST 2020 - /Stream/Bobs_Burgers-2.html,s9e22 - Bob's Burgers
+1585835542 - Thu Apr  2 15:52:22 CEST 2020 - /Stream/Schooled.html,s2e18 - Schooled
