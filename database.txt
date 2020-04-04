@@ -30505,3 +30505,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1586037407 - Sat Apr  4 23:56:47 CEST 2020 - /Stream/The_Good_Doctor-2.html,s3e15 - The Good Doctor
 1586037412 - Sat Apr  4 23:56:52 CEST 2020 - /Stream/Dynasty-1.html,s3e16 - Dynasty
 1586037419 - Sat Apr  4 23:56:59 CEST 2020 - /Stream/MacGyver-2.html,s4e8 - MacGyver
+1586037427 - Sat Apr  4 23:57:07 CEST 2020 - /Stream/Supergirl-2.html,s5e5 - Supergirl
