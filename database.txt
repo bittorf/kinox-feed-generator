@@ -30502,3 +30502,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1586037386 - Sat Apr  4 23:56:26 CEST 2020 - /Stream/The_Blacklist.html,s7e13 - The Blacklist
 1586037393 - Sat Apr  4 23:56:33 CEST 2020 - /Stream/Charmed.html,s2e16 - Charmed
 1586037400 - Sat Apr  4 23:56:40 CEST 2020 - /Stream/Siren-3.html,s2e5 - Siren
+1586037407 - Sat Apr  4 23:56:47 CEST 2020 - /Stream/The_Good_Doctor-2.html,s3e15 - The Good Doctor
