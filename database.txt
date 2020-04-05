@@ -30525,3 +30525,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1586102396 - Sun Apr  5 17:59:56 CEST 2020 - /Stream/Hawaii_Five-0-1.html,s10 - Hawaii Five-0
 1586102404 - Sun Apr  5 18:00:04 CEST 2020 - /Stream/Mom.html,s7e19 - Mom
 1586102411 - Sun Apr  5 18:00:11 CEST 2020 - /Stream/Casualty.html,s34e30 - Casualty
+1586109635 - Sun Apr  5 20:00:35 CEST 2020 - /Stream/Legends_of_Tomorrow-1.html,s4e3 - Legends of Tomorrow
