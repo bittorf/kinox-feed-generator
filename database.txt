@@ -30509,3 +30509,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1586037435 - Sat Apr  4 23:57:15 CEST 2020 - /Stream/Bibi_und_Tina.html,s1 - Bibi und Tina
 1586037441 - Sat Apr  4 23:57:21 CEST 2020 - /Stream/Ray_Donovan-1.html,s7e8 - Ray Donovan
 1586037450 - Sat Apr  4 23:57:30 CEST 2020 - /Stream/Hawaii_Five-0-1.html,s10e22 - Hawaii Five-0
+1586102326 - Sun Apr  5 17:58:46 CEST 2020 - /Stream/Koenig_der_Krieger.html - König der Krieger
