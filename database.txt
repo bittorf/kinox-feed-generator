@@ -30511,3 +30511,4 @@ Mon Apr  3 09:40:41 CEST 2017 - /Stream/The_Simpsons.html,s28e19 - The Simpsons
 1586037450 - Sat Apr  4 23:57:30 CEST 2020 - /Stream/Hawaii_Five-0-1.html,s10e22 - Hawaii Five-0
 1586102326 - Sun Apr  5 17:58:46 CEST 2020 - /Stream/Koenig_der_Krieger.html - König der Krieger
 1586102332 - Sun Apr  5 17:58:52 CEST 2020 - /Stream/The_Battle_Roar_to_Victory.html - The Battle: Roar to Victory
+1586102334 - Sun Apr  5 17:58:54 CEST 2020 - /Stream/The_Witch_Files-Der_Hexenzirkel.html - The Witch Files - Der Hexenzirkel
